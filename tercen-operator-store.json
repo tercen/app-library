@@ -1,0 +1,23 @@
+{
+  "kind": "TercenOperatorStore",
+  "operators": [
+    {
+      "kind": "ROperator",
+      "name": "Mean",
+      "url": {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/mean-operator.git"
+      },
+      "version": "0.0.6"
+    },
+    {
+      "kind": "ShinyOperator",
+      "name": "Shiny Mean",
+      "url": {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/shiny_operator2.git"
+      },
+      "version": "0.0.6"
+    }
+  ]
+}
