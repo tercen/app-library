@@ -4,6 +4,10 @@
     {
       "kind": "ROperator",
       "name": "Mean",
+      "description": "Compute the mean per cell",
+      "tags": ["basic statistics"],
+      "authors": ["tercen"],
+      "urls": ["https://github.com/tercen/mean-operator"],
       "url": {
         "kind": "Url",
         "uri": "https://github.com/tercen/mean-operator.git"
@@ -13,6 +17,10 @@
     {
       "kind": "ShinyOperator",
       "name": "Shiny Mean",
+      "description": "Compute the mean per cell",
+      "tags": ["basic statistics"],
+      "authors": ["tercen"],
+      "urls": ["https://github.com/tercen/shiny_operator2"],
       "url": {
         "kind": "Url",
         "uri": "https://github.com/tercen/shiny_operator2.git"
