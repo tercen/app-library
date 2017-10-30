@@ -25,11 +25,11 @@
       "authors": ["tercen"],
       "urls": [{
         "kind": "Url",
-        "uri": "https://github.com/tercen/pca-operator"
+        "uri": "https://github.com/tercen/pca_operator"
       }],
       "url": {
         "kind": "Url",
-        "uri": "https://github.com/tercen/pca-operator.git"
+        "uri": "https://github.com/tercen/pca_operator.git"
       },
       "version": "0.0.1"
     },
