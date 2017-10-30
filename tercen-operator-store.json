@@ -31,7 +31,7 @@
         "kind": "Url",
         "uri": "https://github.com/tercen/pca_operator.git"
       },
-      "version": "0.0.1"
+      "version": "0.0.3"
     },
     {
       "kind": "ShinyOperator",
