@@ -18,6 +18,22 @@
       "version": "0.0.6"
     },
     {
+      "kind": "ROperator",
+      "name": "PCA",
+      "description": "Performs a principal components analysis on the given data",
+      "tags": ["multivariate statistics"],
+      "authors": ["tercen"],
+      "urls": [{
+        "kind": "Url",
+        "uri": "https://github.com/tercen/pca-operator"
+      }],
+      "url": {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/pca-operator.git"
+      },
+      "version": "0.0.1"
+    },
+    {
       "kind": "ShinyOperator",
       "name": "Shiny Mean",
       "description": "Compute the mean per cell",
