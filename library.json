@@ -6,7 +6,7 @@
       "key": "workflow.app",
       "value": ""
     }],
-    "name": "Mean",
+    "name": "PCA",
     "description": "Performs a principal components analysis on the given data",
     "tags": ["multivariate statistics"],
     "authors": ["tercen"],
