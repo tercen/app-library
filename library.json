@@ -3,7 +3,7 @@
     "kind": "Workflow",
     "meta": [{
       "kind": "Pair",
-      "name": "workflow.app",
+      "key": "workflow.app",
       "value": ""
     }],
     "name": "Mean",
