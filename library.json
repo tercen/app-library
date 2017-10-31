@@ -1,0 +1,50 @@
+[
+  {
+    "kind": "ROperator",
+    "name": "Mean",
+    "description": "Compute the mean per cell",
+    "tags": ["basic statistics"],
+    "authors": ["tercen"],
+    "urls": [{
+      "kind": "Url",
+      "uri": "https://github.com/tercen/mean-operator"
+    }],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/mean-operator.git"
+    },
+    "version": "0.0.6"
+  },
+  {
+    "kind": "ROperator",
+    "name": "PCA",
+    "description": "Performs a principal components analysis on the given data",
+    "tags": ["multivariate statistics"],
+    "authors": ["tercen"],
+    "urls": [{
+      "kind": "Url",
+      "uri": "https://github.com/tercen/pca_operator"
+    }],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/pca_operator.git"
+    },
+    "version": "0.0.3"
+  },
+  {
+    "kind": "ShinyOperator",
+    "name": "Shiny Mean",
+    "description": "Compute the mean per cell",
+    "tags": ["basic statistics"],
+    "authors": ["tercen"],
+    "urls": [{
+      "kind": "Url",
+      "uri": "https://github.com/tercen/shiny_operator2"
+    }],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/shiny_operator2.git"
+    },
+    "version": "0.0.7"
+  }
+]
