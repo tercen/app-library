@@ -28,13 +28,13 @@
     "authors": ["tercen"],
     "urls": [{
       "kind": "Url",
-      "uri": "https://github.com/tercen/mean-operator"
+      "uri": "https://github.com/tercen/mean_operator"
     }],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/mean-operator.git"
+      "uri": "https://github.com/tercen/mean_operator.git"
     },
-    "version": "0.0.6"
+    "version": "0.0.7"
   },
   {
     "kind": "ROperator",
@@ -50,7 +50,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/pca_operator.git"
     },
-    "version": "0.0.3"
+    "version": "0.0.4"
   },
   {
     "kind": "ShinyOperator",
