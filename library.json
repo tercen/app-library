@@ -34,7 +34,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/mean_operator.git"
     },
-    "version": "0.0.7"
+    "version": "0.0.8"
   },
   {
     "kind": "ROperator",
