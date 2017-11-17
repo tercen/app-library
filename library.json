@@ -53,6 +53,22 @@
     "version": "0.0.6"
   },
   {
+    "kind": "ROperator",
+    "name": "TSNE",
+    "description": "TSNE is a method for constructing a low dimensional embedding of high-dimensional data",
+    "tags": ["multivariate statistics"],
+    "authors": ["tercen"],
+    "urls": [{
+      "kind": "Url",
+      "uri": "https://github.com/tercen/tsne_operator"
+    }],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/tsne_operator.git"
+    },
+    "version": "0.0.1"
+  },
+  {
     "kind": "ShinyOperator",
     "name": "Shiny Mean",
     "description": "Compute the mean per cell",
