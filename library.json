@@ -69,6 +69,38 @@
     "version": "0.0.1"
   },
   {
+    "kind": "ROperator",
+    "name": "Scale",
+    "description": "Scale and center the given data",
+    "tags": ["simple statistics"],
+    "authors": ["tercen"],
+    "urls": [{
+      "kind": "Url",
+      "uri": "https://github.com/tercen/scale_operator"
+    }],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/scale_operator.git"
+    },
+    "version": "0.0.1"
+  },
+  {
+    "kind": "ROperator",
+    "name": "Count",
+    "description": "Count the number of data point per cell",
+    "tags": ["simple statistics"],
+    "authors": ["tercen"],
+    "urls": [{
+      "kind": "Url",
+      "uri": "https://github.com/tercen/count_operator"
+    }],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/count_operator.git"
+    },
+    "version": "0.0.1"
+  },
+  {
     "kind": "ShinyOperator",
     "name": "Shiny Mean",
     "description": "Compute the mean per cell",
