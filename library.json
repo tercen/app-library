@@ -18,7 +18,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/pca-app.git"
     },
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   {
     "kind": "ROperator",
