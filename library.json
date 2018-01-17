@@ -163,7 +163,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/hclust_operator.git"
     },
-    "version": "0.0.3"
+    "version": "0.0.4"
   },
   {
     "kind": "ShinyOperator",
