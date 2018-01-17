@@ -166,6 +166,22 @@
     "version": "0.0.5"
   },
   {
+    "kind": "ROperator",
+    "name": "ClusterX",
+    "description": "Fast clustering by automatic search and find of density peaks",
+    "tags": ["multivariate analysis"],
+    "authors": ["tercen"],
+    "urls": [{
+      "kind": "Url",
+      "uri": "https://github.com/tercen/clusterx_operator"
+    }],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/clusterx_operator.git"
+    },
+    "version": "0.0.1"
+  },
+  {
     "kind": "ShinyOperator",
     "name": "Shiny Mean",
     "description": "Compute the mean per cell",
