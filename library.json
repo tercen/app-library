@@ -182,6 +182,22 @@
     "version": "0.0.3"
   },
   {
+    "kind": "ROperator",
+    "name": "scale",
+    "description": "Scaling and Centering",
+    "tags": ["simple analysis"],
+    "authors": ["tercen"],
+    "urls": [{
+      "kind": "Url",
+      "uri": "https://github.com/tercen/scale_operator"
+    }],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/scale_operator.git"
+    },
+    "version": "0.0.2"
+  },
+  {
     "kind": "ShinyOperator",
     "name": "Shiny Mean",
     "description": "Compute the mean per cell",
