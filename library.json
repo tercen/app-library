@@ -214,6 +214,22 @@
     "version": "0.0.2"
   },
   {
+    "kind": "ROperator",
+    "name": "Linear mixed model",
+    "description": "Perform linear mixed effects analyses",
+    "tags": [],
+    "authors": ["tercen"],
+    "urls": [{
+      "kind": "Url",
+      "uri": "https://github.com/tercen/mixed_model_operator"
+    }],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/mixed_model_operator.git"
+    },
+    "version": "0.0.1"
+  },
+  {
     "kind": "ShinyOperator",
     "name": "Shiny Mean",
     "description": "Compute the mean per cell",
