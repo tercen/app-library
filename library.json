@@ -230,6 +230,22 @@
     "version": "0.0.1"
   },
   {
+    "kind": "ROperator",
+    "name": "Optics11",
+    "description": "Optics11 data analysis",
+    "tags": [],
+    "authors": ["tercen"],
+    "urls": [{
+      "kind": "Url",
+      "uri": "https://github.com/tercen/optics11_operator"
+    }],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/optics11_operator.git"
+    },
+    "version": "0.0.1"
+  },
+  {
     "kind": "ShinyOperator",
     "name": "Shiny Mean",
     "description": "Compute the mean per cell",
