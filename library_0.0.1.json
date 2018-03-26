@@ -109,7 +109,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/ttest_operator.git"
     },
-    "version": "0.2.1"
+    "version": "0.2.2"
   },
   {
     "kind": "ROperator",
