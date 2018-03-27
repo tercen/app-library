@@ -113,6 +113,22 @@
   },
   {
     "kind": "ROperator",
+    "name": "Density",
+    "description": "2D density plot",
+    "tags": ["simple statistics"],
+    "authors": ["tercen"],
+    "urls": [{
+      "kind": "Url",
+      "uri": "https://github.com/tercen/density_operator"
+    }],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/density_operator.git"
+    },
+    "version": "0.2.0"
+  },
+  {
+    "kind": "ROperator",
     "name": "Random forest Imp",
     "description": "Compute Random forest importance values",
     "tags": ["multivariate analysis"],
