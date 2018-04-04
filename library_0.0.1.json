@@ -77,7 +77,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/log_operator.git"
     },
-    "version": "0.2.0"
+    "version": "0.2.1"
   },
   {
     "kind": "ROperator",
