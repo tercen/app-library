@@ -125,7 +125,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/density_operator.git"
     },
-    "version": "0.2.2"
+    "version": "0.2.3"
   },
   {
     "kind": "ROperator",
