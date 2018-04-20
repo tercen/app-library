@@ -13,7 +13,7 @@ main() async {
   });
 
   new File('library_0.0.1.json')
-      .copySync('${new DateTime.now().toIso8601String()}_library_0.0.1.json');
+      .copySync('${new DateTime.now().toIso8601String()}_library_0.0.1.json.old');
 
   var json = new JsonEncoder.withIndent(' ');
   new File('library_0.0.1.json').writeAsStringSync(json.convert(lib));
