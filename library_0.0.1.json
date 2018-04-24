@@ -303,7 +303,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/mixed_model_operator.git"
   },
-  "version": "0.0.4"
+  "version": "0.1.2"
  },
  {
   "kind": "ROperator",
