@@ -325,7 +325,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/foldchange_operator.git"
   },
-  "version": "0.1.5"
+  "version": "0.1.6"
  },
  {
   "kind": "ROperator",
