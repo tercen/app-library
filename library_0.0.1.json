@@ -153,28 +153,7 @@
   },
   "version": "0.2.8"
  },
- {
-  "kind": "ROperator",
-  "name": "FoldChange",
-  "description": "Compute the fold change",
-  "tags": [
-   "basic statistics"
-  ],
-  "authors": [
-   "tercen"
-  ],
-  "urls": [
-   {
-    "kind": "Url",
-    "uri": "https://github.com/tercen/foldchange_operator"
-   }
-  ],
-  "url": {
-   "kind": "Url",
-   "uri": "https://github.com/tercen/foldchange_operator.git"
-  },
-  "version": "0.1.4"
- },
+
  {
   "kind": "ROperator",
   "name": "Density",
