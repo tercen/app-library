@@ -308,6 +308,26 @@
  },
  {
   "kind": "ROperator",
+  "name": "LogFoldChange",
+  "description": "Compute log fold change",
+  "tags": ["simple statistics"],
+  "authors": [
+   "tercen"
+  ],
+  "urls": [
+   {
+    "kind": "Url",
+    "uri": "https://github.com/tercen/logfoldchange_operator"
+   }
+  ],
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/logfoldchange_operator.git"
+  },
+  "version": "0.0.1"
+ },
+ {
+  "kind": "ROperator",
   "name": "Linear mixed model",
   "description": "Perform linear mixed effects analyses",
   "tags": [],
