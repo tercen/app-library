@@ -81,7 +81,13 @@
     "uri": "https://github.com/tercen/count_operator"
    }
   ],
-  {
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/count_operator.git"
+  },
+  "version": "0.0.2"
+ },
+ {
   "kind": "ROperator",
   "name": "Standard dev",
   "description": "Caculates standard deviation",
@@ -123,7 +129,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/log_operator.git"
   },
-  "version": "0.2.7"
+  "version": "0.1.6"
  },
  {
   "kind": "ROperator",
