@@ -111,6 +111,28 @@
  },
  {
   "kind": "ROperator",
+  "name": "Coefficient of variation",
+  "description": "Coefficient of variation",
+  "tags": [
+   "simple statistics"
+  ],
+  "authors": [
+   "tercen"
+  ],
+  "urls": [
+   {
+    "kind": "Url",
+    "uri": "https://github.com/tercen/cv_operator"
+   }
+  ],
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/cv_operator.git"
+  },
+  "version": "0.0.1"
+ },
+ {
+  "kind": "ROperator",
   "name": "Log",
   "description": "Log transform the given data",
   "tags": [
