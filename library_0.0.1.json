@@ -197,7 +197,6 @@
   },
   "version": "0.2.8"
  },
-
  {
   "kind": "ROperator",
   "name": "Density",
@@ -367,6 +366,28 @@
   "url": {
    "kind": "Url",
    "uri": "https://github.com/tercen/logfoldchange_operator.git"
+  },
+  "version": "0.0.1"
+ },
+ {
+  "kind": "ROperator",
+  "name": "substract",
+  "description": "substract",
+  "tags": [
+   "simple statistics"
+  ],
+  "authors": [
+   "tercen"
+  ],
+  "urls": [
+   {
+    "kind": "Url",
+    "uri": "https://github.com/tercen/substract_operator"
+   }
+  ],
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/substract_operator.git"
   },
   "version": "0.0.1"
  },
