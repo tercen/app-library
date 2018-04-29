@@ -413,6 +413,28 @@
  },
  {
   "kind": "ROperator",
+  "name": "Sign change",
+  "description": "Sign change the given data",
+  "tags": [
+   "simple statistics"
+  ],
+  "authors": [
+   "tercen"
+  ],
+  "urls": [
+   {
+    "kind": "Url",
+    "uri": "https://github.com/tercen/signchange_operator"
+   }
+  ],
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/log_operator.git"
+  },
+  "version": "0.1.6"
+ },
+ {
+  "kind": "ROperator",
   "name": "Optics11",
   "description": "Optics11 data analysis",
   "tags": [],
