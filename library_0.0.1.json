@@ -111,6 +111,50 @@
  },
  {
   "kind": "ROperator",
+  "name": "Standard dev",
+  "description": "Caculates standard deviation",
+  "tags": [
+   "simple statistics"
+  ],
+  "authors": [
+   "tercen"
+  ],
+  "urls": [
+   {
+    "kind": "Url",
+    "uri": "https://github.com/tercen/sd_operator"
+   }
+  ],
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/sd_operator.git"
+  },
+  "version": "0.0.2"
+ },
+ {
+  "kind": "ROperator",
+  "name": "Coefficient of variation",
+  "description": "Coefficient of variation",
+  "tags": [
+   "simple statistics"
+  ],
+  "authors": [
+   "tercen"
+  ],
+  "urls": [
+   {
+    "kind": "Url",
+    "uri": "https://github.com/tercen/cv_operator"
+   }
+  ],
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/cv_operator.git"
+  },
+  "version": "0.0.2"
+ },
+ {
+  "kind": "ROperator",
   "name": "Log",
   "description": "Log transform the given data",
   "tags": [
@@ -175,7 +219,6 @@
   },
   "version": "0.2.8"
  },
-
  {
   "kind": "ROperator",
   "name": "Density",
@@ -330,6 +373,48 @@
  },
  {
   "kind": "ROperator",
+  "name": "LogFoldChange",
+  "description": "Compute log fold change",
+  "tags": ["simple statistics"],
+  "authors": [
+   "tercen"
+  ],
+  "urls": [
+   {
+    "kind": "Url",
+    "uri": "https://github.com/tercen/logfoldchange_operator"
+   }
+  ],
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/logfoldchange_operator.git"
+  },
+  "version": "0.0.1"
+ },
+ {
+  "kind": "ROperator",
+  "name": "substract",
+  "description": "substract",
+  "tags": [
+   "simple statistics"
+  ],
+  "authors": [
+   "tercen"
+  ],
+  "urls": [
+   {
+    "kind": "Url",
+    "uri": "https://github.com/tercen/substract_operator"
+   }
+  ],
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/substract_operator.git"
+  },
+  "version": "0.0.1"
+ },
+ {
+  "kind": "ROperator",
   "name": "Linear mixed model",
   "description": "Perform linear mixed effects analyses",
   "tags": [],
@@ -347,6 +432,28 @@
    "uri": "https://github.com/tercen/mixed_model_operator.git"
   },
   "version": "0.1.8"
+ },
+ {
+  "kind": "ROperator",
+  "name": "Sign change",
+  "description": "Sign change the given data",
+  "tags": [
+   "simple statistics"
+  ],
+  "authors": [
+   "tercen"
+  ],
+  "urls": [
+   {
+    "kind": "Url",
+    "uri": "https://github.com/tercen/signchange_operator"
+   }
+  ],
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/signchange_operator.git"
+  },
+  "version": "0.0.2"
  },
  {
   "kind": "ROperator",
