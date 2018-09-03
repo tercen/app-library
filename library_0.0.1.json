@@ -23,6 +23,28 @@
  },
  {
   "kind": "ROperator",
+  "name": "Constant",
+  "description": "Define a constant value per cell",
+  "tags": [
+   "basic statistics"
+  ],
+  "authors": [
+   "tercen"
+  ],
+  "urls": [
+   {
+    "kind": "Url",
+    "uri": "https://github.com/tercen/constant_operator"
+   }
+  ],
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/constant_operator.git"
+  },
+  "version": "0.1.0"
+ },
+ {
+  "kind": "ROperator",
   "name": "PCA",
   "description": "Performs a principal components analysis on the given data",
   "tags": [
