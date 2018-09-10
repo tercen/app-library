@@ -4,10 +4,10 @@ import 'dart:async';
 import 'package:path/path.dart' as libpath;
 
 main() async {
-  List<Map> lib =
-      JSON.decode(new File('library_0.0.1.json').readAsStringSync());
+  var libFile = 'library_0.0.2.json';
+  List<Map> lib = JSON.decode(new File(libFile).readAsStringSync());
 
-  for (var m in lib){
+  for (var m in lib) {
     await upgrade(m);
   }
 }
@@ -34,18 +34,37 @@ Future upgrade(Map lib) async {
 
   print('op_folder = ' + op_folder);
 
-  await run('rm', ['-rf', 'packrat'], workingDirectory: op_folder);
-  await run('rm', ['-f', '.Rprofile'], workingDirectory: op_folder);
-  await run('R',
-      ['--vanilla', '-e', 'packrat::init(options=list(use.cache=TRUE))'],
+  if (!new Directory(op_folder).existsSync()) {
+    print('clone operator ${operator_name}');
+    await start('git', ['clone', 'git@github.com:tercen/${operator_name}.git'],
+        workingDirectory: baseFolder);
+  }
+
+  if (!new Directory(op_folder).existsSync()) {
+    throw 'failed to clone ${lib['url']['uri']}';
+  }
+
+  var tags = await gitTags(op_folder);
+
+  if (tags.contains(version)) {
+    print('version ${version} already exists for operator $operator_name ');
+    return;
+  }
+
+  await start('rm', ['-rf', 'packrat'], workingDirectory: op_folder);
+
+  await start('rm', ['-f', '.Rprofile'], workingDirectory: op_folder);
+
+  await start(
+      'R', ['--vanilla', '-e', 'packrat::init(options=list(use.cache=TRUE))'],
       workingDirectory: op_folder);
-  await run('git', ['add', '-A'], workingDirectory: op_folder);
-  await run('git', ['commit', '-m', '"tercen lib upgrade"'],
+  await start('git', ['add', '-A'], workingDirectory: op_folder);
+  await start('git', ['commit', '-m', '"tercen lib upgrade"'],
       workingDirectory: op_folder);
-  await run('git', ['tag', '-a', '${version}', '-m', '"++"'],
+  await start('git', ['tag', '-a', '${version}', '-m', '"++"'],
       workingDirectory: op_folder);
-  await run('git', ['push'], workingDirectory: op_folder);
-  await run('git', ['push', '--tags'], workingDirectory: op_folder);
+  await start('git', ['push'], workingDirectory: op_folder);
+  await start('git', ['push', '--tags'], workingDirectory: op_folder);
 
 //
 //
@@ -57,16 +76,33 @@ Future upgrade(Map lib) async {
 //  git add -A && git commit -m "tercen lib upgrade" && git tag -a 0.1.0 -m "++" && git push && git push --tags
 }
 
-Future run(String executable, List<String> arguments,
+Future start(String executable, List<String> arguments,
     {String workingDirectory}) async {
-  print('run --  in ${workingDirectory}');
+  print('start --  in ${workingDirectory}');
   print('${executable} ${arguments}');
-  var process = await Process
-      .start(executable, arguments, runInShell: true , workingDirectory: workingDirectory);
+  var process = await Process.start(executable, arguments,
+      runInShell: true, workingDirectory: workingDirectory);
   stdout.addStream(process.stdout);
   stderr.addStream(process.stderr);
 
   var exit = await process.exitCode;
 
 //  if (exit != 0) throw '$executable failed -- $exit';
+}
+
+Future<ProcessResult> run(String executable, List<String> arguments,
+    {String workingDirectory}) async {
+  print('run --  in ${workingDirectory}');
+  print('${executable} ${arguments}');
+  return Process.run(executable, arguments,
+      runInShell: true, workingDirectory: workingDirectory);
+}
+
+Future<String> gitTags(workingDirectory) async {
+  var processResult =
+      await run('git', ['tag'], workingDirectory: workingDirectory);
+
+  print(processResult.stdout);
+
+  return processResult.stdout;
 }

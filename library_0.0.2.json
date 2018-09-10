@@ -19,7 +19,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/mean_operator.git"
   },
-  "version": "0.3.0"
+  "version": "0.3.1"
  },
  {
   "kind": "ROperator",
@@ -41,7 +41,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/constant_operator.git"
   },
-  "version": "0.1.1"
+  "version": "0.1.2"
  },
  {
   "kind": "ROperator",
@@ -63,7 +63,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/pca_operator.git"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
  },
  {
   "kind": "ROperator",
@@ -85,7 +85,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/tsne_operator.git"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
  },
  {
   "kind": "ROperator",
@@ -107,7 +107,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/count_operator.git"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
  },
  {
   "kind": "ROperator",
@@ -129,7 +129,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/sd_operator.git"
   },
-  "version": "0.0.2"
+  "version": "0.0.3"
  },
  {
   "kind": "ROperator",
@@ -151,7 +151,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/cv_operator.git"
   },
-  "version": "0.0.2"
+  "version": "0.0.3"
  },
  {
   "kind": "ROperator",
@@ -173,7 +173,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/log_operator.git"
   },
-  "version": "0.2.7"
+  "version": "0.2.8"
  },
  {
   "kind": "ROperator",
@@ -195,7 +195,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/anova_operator.git"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
  },
  {
   "kind": "ROperator",
@@ -217,7 +217,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/ttest_operator.git"
   },
-  "version": "0.2.8"
+  "version": "0.2.9"
  },
  {
   "kind": "ROperator",
@@ -239,7 +239,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/density_operator.git"
   },
-  "version": "0.2.9"
+  "version": "0.2.10"
  },
  {
   "kind": "ROperator",
@@ -261,7 +261,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/rfImp_operator.git"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
  },
  {
   "kind": "ROperator",
@@ -283,7 +283,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/hclust_operator.git"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
  },
  {
   "kind": "ROperator",
@@ -305,7 +305,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/clusterx_operator.git"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
  },
  {
   "kind": "ROperator",
@@ -327,7 +327,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/scale_operator.git"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
  },
  {
   "kind": "ROperator",
@@ -349,13 +349,15 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/pearson_operator.git"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
  },
  {
   "kind": "ROperator",
   "name": "FoldChange",
   "description": "Compute fold change",
-  "tags": ["simple statistics"],
+  "tags": [
+   "simple statistics"
+  ],
   "authors": [
    "tercen"
   ],
@@ -369,13 +371,15 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/foldchange_operator.git"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
  },
  {
   "kind": "ROperator",
   "name": "LogFoldChange",
   "description": "Compute log fold change",
-  "tags": ["simple statistics"],
+  "tags": [
+   "simple statistics"
+  ],
   "authors": [
    "tercen"
   ],
@@ -389,7 +393,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/logfoldchange_operator.git"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
  },
  {
   "kind": "ROperator",
@@ -411,7 +415,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/substract_operator.git"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
  },
  {
   "kind": "ROperator",
@@ -431,7 +435,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/mixed_model_operator.git"
   },
-  "version": "0.1.8"
+  "version": "0.1.9"
  },
  {
   "kind": "ROperator",
@@ -453,7 +457,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/signchange_operator.git"
   },
-  "version": "0.0.2"
+  "version": "0.0.3"
  },
  {
   "kind": "ROperator",
@@ -473,7 +477,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/optics11_operator.git"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
  },
  {
   "kind": "ShinyOperator",
@@ -495,6 +499,6 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/shiny_operator2.git"
   },
-  "version": "0.1.7"
+  "version": "0.1.8"
  }
 ]
