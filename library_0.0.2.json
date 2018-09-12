@@ -45,6 +45,28 @@
  },
  {
   "kind": "ROperator",
+  "name": "Ratio",
+  "description": "Compute Y/X per data point",
+  "tags": [
+   "basic arithmetics"
+  ],
+  "authors": [
+   "tercen"
+  ],
+  "urls": [
+   {
+    "kind": "Url",
+    "uri": "https://github.com/tercen/ratio_operator"
+   }
+  ],
+  "url": {
+   "kind": "Url",
+   "uri": "https://github.com/tercen/ratio_operator.git"
+  },
+  "version": "1.0.0"
+ },
+ {
+  "kind": "ROperator",
   "name": "Constant",
   "description": "Define a constant value per cell",
   "tags": [
