@@ -327,7 +327,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/hclust_operator.git"
   },
-  "version": "0.1.7"
+  "version": "0.1.8"
  },
  {
   "kind": "ROperator",
