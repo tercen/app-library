@@ -305,7 +305,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/rfImp_operator.git"
   },
-  "version": "0.1.7"
+  "version": "0.1.10"
  },
  {
   "kind": "ROperator",
