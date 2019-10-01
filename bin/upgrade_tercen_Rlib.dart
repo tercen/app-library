@@ -4,11 +4,22 @@ import 'dart:async';
 import 'package:path/path.dart' as libpath;
 
 main() async {
-  var libFile = 'library_0.0.2.json';
-  List<Map> lib = JSON.decode(new File(libFile).readAsStringSync());
+  var libFile = 'library_0.0.3.json';
+  var baseFolder = '/home/alex/dev/bitbucket/tercen/apps/operator/R';
+  var packratCacheDir =
+      '/home/alex/dev/bitbucket/tercen/apps/operator/R/R_PACKRAT_CACHE_DIR/v2';
+
+  if (!new Directory(packratCacheDir).existsSync()) {
+    new Directory(packratCacheDir).createSync(recursive: true);
+  }
+
+  packratCacheDir =
+  '/home/alex/dev/bitbucket/tercen/apps/operator/R/R_PACKRAT_CACHE_DIR';
+
+  var lib = json.decode(new File(libFile).readAsStringSync());
 
   for (var m in lib) {
-    await upgrade(m);
+    await upgrade(m, baseFolder, packratCacheDir);
   }
 }
 
@@ -18,11 +29,21 @@ String incrementVersion(String version) {
   return list.join('.');
 }
 
-Future upgrade(Map lib) async {
-  var baseFolder = '/home/alex/dev/bitbucket/tercen/apps/operator/R';
+var afterOp = false;
 
+Future upgrade(Map lib, String baseFolder, packratCacheDir) async {
   var operator_name = libpath
       .basenameWithoutExtension(Uri.parse(lib['url']['uri']).pathSegments.last);
+
+
+
+//  if (operator_name != 'rfImp_operator') return;
+
+//  if (operator_name == 'shiny_operator2') {
+//    afterOp = true;
+//  }
+//
+//  if (!afterOp) return;
 
   var version = lib['version'];
 
@@ -55,9 +76,10 @@ Future upgrade(Map lib) async {
 
   await start('rm', ['-f', '.Rprofile'], workingDirectory: op_folder);
 
-  await start(
-      'R', ['--vanilla', '-e', 'packrat::init(options=list(use.cache=TRUE))'],
-      workingDirectory: op_folder);
+  await startR(
+      ['--vanilla', '-e', 'packrat::init(options=list(use.cache=TRUE))'],
+      workingDirectory: op_folder, packratCacheDir: packratCacheDir);
+
   await start('git', ['add', '-A'], workingDirectory: op_folder);
   await start('git', ['commit', '-m', '"tercen lib upgrade"'],
       workingDirectory: op_folder);
@@ -88,6 +110,48 @@ Future start(String executable, List<String> arguments,
   var exit = await process.exitCode;
 
 //  if (exit != 0) throw '$executable failed -- $exit';
+}
+
+Future startR(List<String> arguments,
+    {String workingDirectory, String packratCacheDir}) async {
+  print('startR --  in ${workingDirectory}');
+  var args = [
+    'run',
+    '--rm',
+    '-v',
+    '/home/alex/dev/bitbucket/tercen/app-library/bin/Makevars:/home/rstudio/.R/Makevars',
+    '-v',
+    '${packratCacheDir}:${packratCacheDir}',
+    '-v',
+    '${workingDirectory}:${workingDirectory}',
+    '-w',
+    workingDirectory,
+    '-u',
+    'rstudio',
+  ];
+
+  if (packratCacheDir != null) {
+    args
+      ..addAll([
+        '-e',
+        'R_PACKRAT_CACHE_DIR=${packratCacheDir}',
+      ]);
+  }
+
+  args..addAll(['tercen/tercen_studio:0.8.16.6', 'R'])..addAll(arguments);
+
+  print('docker ${args.join(' ')}');
+
+  var process = await Process.start('docker', args,
+      runInShell: true, workingDirectory: workingDirectory);
+//  var process = await Process.start('R', arguments,
+//      runInShell: true, workingDirectory: workingDirectory);
+  stdout.addStream(process.stdout);
+  stderr.addStream(process.stderr);
+
+  var exit = await process.exitCode;
+
+  if (exit != 0) throw 'R failed -- $exit';
 }
 
 Future<ProcessResult> run(String executable, List<String> arguments,
