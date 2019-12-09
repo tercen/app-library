@@ -6,20 +6,20 @@ import 'package:path/path.dart' as libpath;
 main() async {
   var libFile = 'library_0.0.3.json';
   var baseFolder = '/home/alex/dev/bitbucket/tercen/apps/operator/R';
-  var packratCacheDir =
-      '/home/alex/dev/bitbucket/tercen/apps/operator/R/R_PACKRAT_CACHE_DIR/v2';
+  var renvCacheDir =
+      '/home/alex/dev/bitbucket/tercen/apps/operator/R/RENV_PATHS_CACHE/v4';
 
-  if (!new Directory(packratCacheDir).existsSync()) {
-    new Directory(packratCacheDir).createSync(recursive: true);
+  if (!new Directory(renvCacheDir).existsSync()) {
+    new Directory(renvCacheDir).createSync(recursive: true);
   }
 
-  packratCacheDir =
-  '/home/alex/dev/bitbucket/tercen/apps/operator/R/R_PACKRAT_CACHE_DIR';
+  renvCacheDir =
+      '/home/alex/dev/bitbucket/tercen/apps/operator/R/RENV_PATHS_CACHE';
 
   var lib = json.decode(new File(libFile).readAsStringSync());
 
   for (var m in lib) {
-    await upgrade(m, baseFolder, packratCacheDir);
+    await upgrade(m, baseFolder, renvCacheDir);
   }
 }
 
@@ -34,8 +34,6 @@ var afterOp = false;
 Future upgrade(Map lib, String baseFolder, packratCacheDir) async {
   var operator_name = libpath
       .basenameWithoutExtension(Uri.parse(lib['url']['uri']).pathSegments.last);
-
-
 
 //  if (operator_name != 'rfImp_operator') return;
 
@@ -73,11 +71,12 @@ Future upgrade(Map lib, String baseFolder, packratCacheDir) async {
   }
 
   await start('rm', ['-rf', 'packrat'], workingDirectory: op_folder);
+  await start('rm', ['-rf', 'renv'], workingDirectory: op_folder);
 
   await start('rm', ['-f', '.Rprofile'], workingDirectory: op_folder);
+  await start('rm', ['-f', 'renv.lock'], workingDirectory: op_folder);
 
-  await startR(
-      ['--vanilla', '-e', 'packrat::init(options=list(use.cache=TRUE))'],
+  await startR(['--vanilla', '-e', 'renv::init()'],
       workingDirectory: op_folder, packratCacheDir: packratCacheDir);
 
   await start('git', ['add', '-A'], workingDirectory: op_folder);
@@ -119,8 +118,6 @@ Future startR(List<String> arguments,
     'run',
     '--rm',
     '-v',
-    '/home/alex/dev/bitbucket/tercen/app-library/bin/Makevars:/home/rstudio/.R/Makevars',
-    '-v',
     '${packratCacheDir}:${packratCacheDir}',
     '-v',
     '${workingDirectory}:${workingDirectory}',
@@ -134,11 +131,11 @@ Future startR(List<String> arguments,
     args
       ..addAll([
         '-e',
-        'R_PACKRAT_CACHE_DIR=${packratCacheDir}',
+        'RENV_PATHS_CACHE=${packratCacheDir}',
       ]);
   }
 
-  args..addAll(['tercen/tercen_studio:0.8.16.6', 'R'])..addAll(arguments);
+  args..addAll(['tercen/tercen_studio:0.9.2.6', 'R'])..addAll(arguments);
 
   print('docker ${args.join(' ')}');
 
