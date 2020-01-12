@@ -5,7 +5,7 @@ author: Alexandre Maurel <alexandre.maurel@gmail.com>
 homepage: https://www.tercen.com
 
 environment:
-  sdk: '>=1.0.0 <2.0.0'
+  sdk: '>=2.0.0 <3.0.0'
 
 dependencies:
   path:

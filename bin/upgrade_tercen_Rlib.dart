@@ -3,18 +3,20 @@ import 'dart:io';
 import 'dart:async';
 import 'package:path/path.dart' as libpath;
 
+String ContainerImage = "tercen/tercen_studio:0.9.2.9";
+
 main() async {
   var libFile = 'library_0.0.3.json';
-  var baseFolder = '/home/alex/dev/bitbucket/tercen/apps/operator/R';
+  var baseFolder = '/home/alex/dev/tercen/apps/operator/R';
   var renvCacheDir =
-      '/home/alex/dev/bitbucket/tercen/apps/operator/R/RENV_PATHS_CACHE/v4';
+      '/home/alex/dev/tercen/apps/operator/R/RENV_PATHS_CACHE/v5';
 
   if (!new Directory(renvCacheDir).existsSync()) {
     new Directory(renvCacheDir).createSync(recursive: true);
   }
 
   renvCacheDir =
-      '/home/alex/dev/bitbucket/tercen/apps/operator/R/RENV_PATHS_CACHE';
+      '/home/alex/dev/tercen/apps/operator/R/RENV_PATHS_CACHE';
 
   var lib = json.decode(new File(libFile).readAsStringSync());
 
@@ -76,8 +78,11 @@ Future upgrade(Map lib, String baseFolder, packratCacheDir) async {
   await start('rm', ['-f', '.Rprofile'], workingDirectory: op_folder);
   await start('rm', ['-f', 'renv.lock'], workingDirectory: op_folder);
 
-  await startR(['--vanilla', '-e', 'renv::init()'],
+  await startR(['-e', 'renv::init()'],
       workingDirectory: op_folder, packratCacheDir: packratCacheDir);
+
+//  await startR(['--vanilla', '-e', 'renv::init()'],
+//      workingDirectory: op_folder, packratCacheDir: packratCacheDir);
 
   await start('git', ['add', '-A'], workingDirectory: op_folder);
   await start('git', ['commit', '-m', '"tercen lib upgrade"'],
@@ -135,7 +140,7 @@ Future startR(List<String> arguments,
       ]);
   }
 
-  args..addAll(['tercen/tercen_studio:0.9.2.6', 'R'])..addAll(arguments);
+  args..addAll([ContainerImage, 'R'])..addAll(arguments);
 
   print('docker ${args.join(' ')}');
 

@@ -19,7 +19,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/mean_operator.git"
   },
-  "version": "0.6.1"
+  "version": "0.12.0"
  },
  {
   "kind": "ROperator",
@@ -41,7 +41,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/sum_operator.git"
   },
-  "version": "1.3.0"
+  "version": "1.9.0"
  },
  {
   "kind": "ROperator",
@@ -63,7 +63,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/ratio_operator.git"
   },
-  "version": "1.3.0"
+  "version": "1.9.0"
  },
  {
   "kind": "ROperator",
@@ -85,7 +85,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/constant_operator.git"
   },
-  "version": "0.4.0"
+  "version": "0.10.0"
  },
  {
   "kind": "ROperator",
@@ -107,7 +107,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/pca_operator.git"
   },
-  "version": "0.4.0"
+  "version": "0.10.0"
  },
  {
   "kind": "ROperator",
@@ -129,7 +129,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/tsne_operator.git"
   },
-  "version": "0.4.0"
+  "version": "0.10.0"
  },
  {
   "kind": "ROperator",
@@ -151,7 +151,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/count_operator.git"
   },
-  "version": "0.4.0"
+  "version": "0.10.0"
  },
  {
   "kind": "ROperator",
@@ -173,7 +173,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/sd_operator.git"
   },
-  "version": "0.3.0"
+  "version": "0.9.0"
  },
  {
   "kind": "ROperator",
@@ -195,7 +195,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/cv_operator.git"
   },
-  "version": "0.3.0"
+  "version": "0.9.0"
  },
  {
   "kind": "ROperator",
@@ -217,7 +217,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/log_operator.git"
   },
-  "version": "0.5.0"
+  "version": "0.11.0"
  },
  {
   "kind": "ROperator",
@@ -239,7 +239,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/anova_operator.git"
   },
-  "version": "0.4.0"
+  "version": "0.10.0"
  },
  {
   "kind": "ROperator",
@@ -261,7 +261,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/ttest_operator.git"
   },
-  "version": "0.5.0"
+  "version": "0.11.0"
  },
  {
   "kind": "ROperator",
@@ -283,7 +283,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/density_operator.git"
   },
-  "version": "0.5.0"
+  "version": "0.11.0"
  },
  {
   "kind": "ROperator",
@@ -305,7 +305,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/rfImp_operator.git"
   },
-  "version": "1.3.0"
+  "version": "1.9.0"
  },
  {
   "kind": "ROperator",
@@ -327,7 +327,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/hclust_operator.git"
   },
-  "version": "0.4.0"
+  "version": "0.10.0"
  },
  {
   "kind": "ROperator",
@@ -349,7 +349,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/clusterx_operator.git"
   },
-  "version": "0.4.0"
+  "version": "0.10.0"
  },
  {
   "kind": "ROperator",
@@ -371,7 +371,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/scale_operator.git"
   },
-  "version": "0.4.0"
+  "version": "0.10.0"
  },
  {
   "kind": "ROperator",
@@ -393,7 +393,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/pearson_operator.git"
   },
-  "version": "0.4.0"
+  "version": "0.10.0"
  },
  {
   "kind": "ROperator",
@@ -415,7 +415,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/foldchange_operator.git"
   },
-  "version": "0.4.0"
+  "version": "0.10.0"
  },
  {
   "kind": "ROperator",
@@ -437,7 +437,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/logfoldchange_operator.git"
   },
-  "version": "0.3.0"
+  "version": "0.9.0"
  },
  {
   "kind": "ROperator",
@@ -459,7 +459,7 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/signchange_operator.git"
   },
-  "version": "0.3.0"
+  "version": "0.9.0"
  },
  {
   "kind": "ShinyOperator",
@@ -481,6 +481,6 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/shiny_operator2.git"
   },
-  "version": "0.4.0"
+  "version": "0.10.0"
  }
 ]
