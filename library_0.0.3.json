@@ -198,10 +198,8 @@
   "version": "0.9.0"
  },
  {
-  "kind": "",
-  "name"
-
-  : "Log",
+  "kind": "ROperator",
+  "name": "Log",
   "description": "Log transform the given data",
   "tags": [
    "simple statistics"
