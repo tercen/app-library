@@ -2,10 +2,82 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "charcode",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "github",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/github-7.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/http-0.12.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/json_annotation-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/path-1.6.4",
       "packageUri": "lib/",
       "languageVersion": "2.0"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/source_span-1.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///home/alex/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "app_library",
@@ -14,7 +86,7 @@
       "languageVersion": "2.0"
     }
   ],
-  "generated": "2019-12-16T08:05:29.300170Z",
+  "generated": "2021-09-29T09:46:16.960892Z",
   "generator": "pub",
-  "generatorVersion": "2.7.0"
+  "generatorVersion": "2.12.4"
 }

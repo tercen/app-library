@@ -198,8 +198,10 @@
   "version": "0.9.0"
  },
  {
-  "kind": "ROperator",
-  "name": "Log",
+  "kind": "",
+  "name"
+
+  : "Log",
   "description": "Log transform the given data",
   "tags": [
    "simple statistics"
@@ -481,6 +483,6 @@
    "kind": "Url",
    "uri": "https://github.com/tercen/shiny_operator2.git"
   },
-  "version": "0.10.0"
+  "version": "0.12.0"
  }
 ]
