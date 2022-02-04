@@ -15,11 +15,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:35.232137Z"
+      "value": "2022-02-04T13:55:35.651488Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:35.232161Z"
+      "value": "2022-02-04T13:55:35.651506Z"
     },
     "urls": [
       {
@@ -60,11 +60,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:38.023586Z"
+      "value": "2022-02-04T13:55:38.000957Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:38.023660Z"
+      "value": "2022-02-04T13:55:38.001012Z"
     },
     "urls": [
       {
@@ -104,11 +104,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:39.690438Z"
+      "value": "2022-02-04T13:55:39.111706Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:39.690591Z"
+      "value": "2022-02-04T13:55:39.111779Z"
     },
     "urls": [
       {
@@ -149,11 +149,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:40.825602Z"
+      "value": "2022-02-04T13:55:39.900693Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:40.825656Z"
+      "value": "2022-02-04T13:55:39.900733Z"
     },
     "urls": [
       {
@@ -194,11 +194,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:42.233998Z"
+      "value": "2022-02-04T13:55:41.319919Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:42.234049Z"
+      "value": "2022-02-04T13:55:41.319939Z"
     },
     "urls": [
       {
@@ -228,6 +228,52 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "2 way Analysis of variance",
+    "name": "ANOVA2",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-02-04T13:55:48.114945Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-02-04T13:55:48.114994Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/anova2_operator"
+      }
+    ],
+    "tags": [
+      "statistical testing",
+      "test",
+      "linear model"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/anova2_operator.git"
+    },
+    "version": "0.0.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": ""
+  },
+  {
+    "kind": "Operator",
+    "subKind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Performs a statistical comparison of one control vs muliptle treatment conditions.",
     "name": "ANOVA and Dunnett",
     "createdBy": "",
@@ -238,11 +284,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:50.313880Z"
+      "value": "2022-02-04T13:55:48.832155Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:50.313905Z"
+      "value": "2022-02-04T13:55:48.832169Z"
     },
     "urls": [
       {
@@ -285,11 +331,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:51.054224Z"
+      "value": "2022-02-04T13:55:49.581379Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:51.054278Z"
+      "value": "2022-02-04T13:55:49.581423Z"
     },
     "urls": [
       {
@@ -331,11 +377,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:51.800250Z"
+      "value": "2022-02-04T13:55:50.273752Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:51.800296Z"
+      "value": "2022-02-04T13:55:50.273766Z"
     },
     "urls": [
       {
@@ -378,11 +424,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:55.281723Z"
+      "value": "2022-02-04T13:55:53.378254Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:55.281763Z"
+      "value": "2022-02-04T13:55:53.378271Z"
     },
     "urls": [
       {
@@ -422,11 +468,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:57.512295Z"
+      "value": "2022-02-04T13:55:56.230529Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:35:57.512339Z"
+      "value": "2022-02-04T13:55:56.230546Z"
     },
     "urls": [
       {
@@ -457,6 +503,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Performs fast clustering of data by using automatic search and find of density peaks. Works best with low dimentional data (Less than 5 dimentions).",
+    "name": "ClusterX",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-02-04T13:56:00.577333Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-02-04T13:56:00.577374Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/clusterx_operator"
+      }
+    ],
+    "tags": [
+      "multivariate statistics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/clusterx_operator.git"
+    },
+    "version": "0.12.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": ""
+  },
+  {
+    "kind": "Operator",
+    "subKind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Flags selected columns in the view.",
     "name": "Col-flag",
     "createdBy": "",
@@ -467,11 +557,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:03.711180Z"
+      "value": "2022-02-04T13:56:01.398928Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:03.711222Z"
+      "value": "2022-02-04T13:56:01.398969Z"
     },
     "urls": [
       {
@@ -497,51 +587,6 @@
   },
   {
     "kind": "Operator",
-    "subKind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "This operator represents the conditional density of a binary outcome as a function of a continuous variable.",
-    "name": "Conditional density",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:36:05.246159Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:36:05.246202Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/conditional_density_shiny_operator"
-      }
-    ],
-    "tags": [
-      "data visualisation",
-      "data visualization"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/conditional_density_shiny_operator.git"
-    },
-    "version": "0.0.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": ""
-  },
-  {
-    "kind": "Operator",
     "subKind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -556,11 +601,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:05.886464Z"
+      "value": "2022-02-04T13:56:03.236811Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:05.886507Z"
+      "value": "2022-02-04T13:56:03.236827Z"
     },
     "urls": [
       {
@@ -600,11 +645,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:08.353553Z"
+      "value": "2022-02-04T13:56:05.056535Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:08.353598Z"
+      "value": "2022-02-04T13:56:05.056550Z"
     },
     "urls": [
       {
@@ -644,11 +689,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:09.962620Z"
+      "value": "2022-02-04T13:56:06.663430Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:09.962679Z"
+      "value": "2022-02-04T13:56:06.663449Z"
     },
     "urls": [
       {
@@ -674,96 +719,6 @@
   },
   {
     "kind": "Operator",
-    "subKind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "DASCombat shiny operator.",
-    "name": "DASCombat Shiny operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:36:14.356237Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:36:14.356279Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/dascombat_shiny_fit_operator"
-      }
-    ],
-    "tags": [
-      "dascombat"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/dascombat_shiny_fit_operator.git"
-    },
-    "version": "0.2.3",
-    "authors": [
-      "William van Doorn"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": ""
-  },
-  {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Diagnostic of data quality and data transformation.",
-    "name": "Data quality operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:36:15.990188Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:36:15.990244Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/data_quality_shiny_operator"
-      }
-    ],
-    "tags": [
-      "data import",
-      "data wrangling",
-      "quality control"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/data_quality_shiny_operator.git"
-    },
-    "version": "0.0.7",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": ""
-  },
-  {
-    "kind": "Operator",
     "subKind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -778,11 +733,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:16.692949Z"
+      "value": "2022-02-04T13:56:10.287795Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:16.692990Z"
+      "value": "2022-02-04T13:56:10.287812Z"
     },
     "urls": [
       {
@@ -822,11 +777,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:17.599299Z"
+      "value": "2022-02-04T13:56:11.209066Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:17.599354Z"
+      "value": "2022-02-04T13:56:11.209083Z"
     },
     "urls": [
       {
@@ -867,11 +822,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:21.433357Z"
+      "value": "2022-02-04T13:56:14.498127Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:21.433400Z"
+      "value": "2022-02-04T13:56:14.498141Z"
     },
     "urls": [
       {
@@ -887,7 +842,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/export_crosstab_shiny_operator.git"
     },
-    "version": "0.0.4",
+    "version": "0.0.3",
     "authors": [
       "tercen"
     ],
@@ -911,11 +866,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:22.074054Z"
+      "value": "2022-02-04T13:56:15.178887Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:22.074095Z"
+      "value": "2022-02-04T13:56:15.178927Z"
     },
     "urls": [
       {
@@ -943,50 +898,6 @@
   },
   {
     "kind": "Operator",
-    "subKind": "DockerWebAppOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "FlowSOM Minimum Spanning Tree: Displays cluster populations identified by the FlowSOM algorithm into a graph which plots their relationships to each other.",
-    "name": "FlowSOM MST",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:36:27.517089Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:36:27.517161Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/flowsom_mst_shiny_operator"
-      }
-    ],
-    "tags": [
-      "flowsom"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/flowsom_mst_shiny_operator.git"
-    },
-    "version": "0.1.6",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": ""
-  },
-  {
-    "kind": "Operator",
     "subKind": "DockerOperator",
     "id": "",
     "isDeleted": false,
@@ -1001,11 +912,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:28.029141Z"
+      "value": "2022-02-04T13:56:20.868311Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:28.029183Z"
+      "value": "2022-02-04T13:56:20.868325Z"
     },
     "urls": [
       {
@@ -1046,11 +957,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:29.377821Z"
+      "value": "2022-02-04T13:56:22.323140Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:29.377864Z"
+      "value": "2022-02-04T13:56:22.323189Z"
     },
     "urls": [
       {
@@ -1090,11 +1001,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:33.214299Z"
+      "value": "2022-02-04T13:56:26.357766Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:33.214318Z"
+      "value": "2022-02-04T13:56:26.357785Z"
     },
     "urls": [
       {
@@ -1134,11 +1045,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:34.091667Z"
+      "value": "2022-02-04T13:56:27.378402Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:34.091697Z"
+      "value": "2022-02-04T13:56:27.378419Z"
     },
     "urls": [
       {
@@ -1178,11 +1089,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:36.038861Z"
+      "value": "2022-02-04T13:56:29.778198Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:36.038904Z"
+      "value": "2022-02-04T13:56:29.778218Z"
     },
     "urls": [
       {
@@ -1223,11 +1134,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:37.755050Z"
+      "value": "2022-02-04T13:56:31.468554Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:37.755094Z"
+      "value": "2022-02-04T13:56:31.468594Z"
     },
     "urls": [
       {
@@ -1267,11 +1178,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:43.331976Z"
+      "value": "2022-02-04T13:56:36.670288Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:43.332008Z"
+      "value": "2022-02-04T13:56:36.670304Z"
     },
     "urls": [
       {
@@ -1287,7 +1198,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/lm_operator.git"
     },
-    "version": "1.0.8",
+    "version": "1.0.2",
     "authors": [
       "tercen"
     ],
@@ -1311,11 +1222,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:44.712297Z"
+      "value": "2022-02-04T13:56:38.049545Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:44.712338Z"
+      "value": "2022-02-04T13:56:38.049563Z"
     },
     "urls": [
       {
@@ -1356,11 +1267,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:45.409808Z"
+      "value": "2022-02-04T13:56:38.736406Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:45.409851Z"
+      "value": "2022-02-04T13:56:38.736420Z"
     },
     "urls": [
       {
@@ -1402,11 +1313,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:46.070523Z"
+      "value": "2022-02-04T13:56:39.497709Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:46.070564Z"
+      "value": "2022-02-04T13:56:39.497745Z"
     },
     "urls": [
       {
@@ -1446,11 +1357,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:49.640284Z"
+      "value": "2022-02-04T13:56:43.543672Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:49.640326Z"
+      "value": "2022-02-04T13:56:43.543689Z"
     },
     "urls": [
       {
@@ -1490,11 +1401,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:51.334312Z"
+      "value": "2022-02-04T13:56:45.063939Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:51.334358Z"
+      "value": "2022-02-04T13:56:45.063973Z"
     },
     "urls": [
       {
@@ -1534,11 +1445,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:53.151370Z"
+      "value": "2022-02-04T13:56:46.577410Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:53.151412Z"
+      "value": "2022-02-04T13:56:46.577450Z"
     },
     "urls": [
       {
@@ -1578,11 +1489,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:56.168196Z"
+      "value": "2022-02-04T13:56:49.578033Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:56.168237Z"
+      "value": "2022-02-04T13:56:49.578074Z"
     },
     "urls": [
       {
@@ -1623,11 +1534,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:57.833123Z"
+      "value": "2022-02-04T13:56:51.184491Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:36:57.833180Z"
+      "value": "2022-02-04T13:56:51.184509Z"
     },
     "urls": [
       {
@@ -1667,11 +1578,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:03.881512Z"
+      "value": "2022-02-04T13:56:58.064819Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:03.881559Z"
+      "value": "2022-02-04T13:56:58.064846Z"
     },
     "urls": [
       {
@@ -1712,11 +1623,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:04.601982Z"
+      "value": "2022-02-04T13:56:58.817007Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:04.602030Z"
+      "value": "2022-02-04T13:56:58.817025Z"
     },
     "urls": [
       {
@@ -1758,11 +1669,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:08.332776Z"
+      "value": "2022-02-04T13:57:01.815825Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:08.332824Z"
+      "value": "2022-02-04T13:57:01.815840Z"
     },
     "urls": [
       {
@@ -1802,11 +1713,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:09.833421Z"
+      "value": "2022-02-04T13:57:03.151153Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:09.833468Z"
+      "value": "2022-02-04T13:57:03.151199Z"
     },
     "urls": [
       {
@@ -1847,11 +1758,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:10.712389Z"
+      "value": "2022-02-04T13:57:03.647267Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:10.712436Z"
+      "value": "2022-02-04T13:57:03.647300Z"
     },
     "urls": [
       {
@@ -1891,11 +1802,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:12.403296Z"
+      "value": "2022-02-04T13:57:04.725991Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:12.403343Z"
+      "value": "2022-02-04T13:57:04.726011Z"
     },
     "urls": [
       {
@@ -1912,7 +1823,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/pamsoft_grid_shiny_operator.git"
     },
-    "version": "1.0.22",
+    "version": "1.0.24",
     "authors": [
       "tercen"
     ],
@@ -1936,11 +1847,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:15.360400Z"
+      "value": "2022-02-04T13:57:06.663351Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:15.360453Z"
+      "value": "2022-02-04T13:57:06.663367Z"
     },
     "urls": [
       {
@@ -1968,146 +1879,6 @@
   },
   {
     "kind": "Operator",
-    "subKind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Pie chart shiny operator.",
-    "name": "Pie chart Shiny Operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:37:18.073311Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:37:18.073359Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/count_operator"
-      }
-    ],
-    "tags": [
-      "pie-chart",
-      "pie",
-      "shiny"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/pie_chart_shiny_operator.git"
-    },
-    "version": "0.0.7",
-    "authors": [
-      "tercen",
-      "wptmdoorn"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": ""
-  },
-  {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Flow Cytometry Plot",
-    "name": "Flow Cytometry Plot (Shiny)",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:37:19.051571Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:37:19.051621Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/plot_fcs_shiny_operator"
-      }
-    ],
-    "tags": [
-      "flow cytometry",
-      "plot"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/plot_fcs_shiny_operator.git"
-    },
-    "version": "0.1.7",
-    "authors": [
-      "tercen",
-      "wptmdoorn"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": ""
-  },
-  {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Create a Protein-Protein interaction network using the StringDB.",
-    "name": "Protein-Protein Network Visualization",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:37:20.017179Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:37:20.017262Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/ppi_string_shiny_operator"
-      }
-    ],
-    "tags": [
-      "ppi",
-      "network",
-      "stringdb"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/ppi_string_shiny_operator.git"
-    },
-    "version": "0.0.5",
-    "authors": [
-      "tercen",
-      "wptmdoorn"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": ""
-  },
-  {
-    "kind": "Operator",
     "subKind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -2122,11 +1893,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:22.031981Z"
+      "value": "2022-02-04T13:57:10.919628Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:22.032036Z"
+      "value": "2022-02-04T13:57:10.919673Z"
     },
     "urls": [
       {
@@ -2158,7 +1929,7 @@
     "isDeleted": false,
     "rev": "",
     "description": "Filtering and viewing ps12 images in a shiny app.",
-    "name": "PS12 Image Overview Shiny Operator",
+    "name": "PS12 Image Overview Operator",
     "createdBy": "",
     "acl": {
       "kind": "Acl",
@@ -2167,11 +1938,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:22.913265Z"
+      "value": "2022-02-04T13:57:11.893343Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:22.913312Z"
+      "value": "2022-02-04T13:57:11.893360Z"
     },
     "urls": [
       {
@@ -2188,7 +1959,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/ps12image_overview_shiny_operator.git"
     },
-    "version": "0.0.3",
+    "version": "0.0.2",
     "authors": [
       "tercen"
     ],
@@ -2212,11 +1983,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:24.912658Z"
+      "value": "2022-02-04T13:57:14.135181Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:24.912722Z"
+      "value": "2022-02-04T13:57:14.135199Z"
     },
     "urls": [
       {
@@ -2257,11 +2028,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:25.572156Z"
+      "value": "2022-02-04T13:57:14.811014Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:25.572202Z"
+      "value": "2022-02-04T13:57:14.811031Z"
     },
     "urls": [
       {
@@ -2301,11 +2072,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:32.873045Z"
+      "value": "2022-02-04T13:57:19.336179Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:32.873079Z"
+      "value": "2022-02-04T13:57:19.336194Z"
     },
     "urls": [
       {
@@ -2346,11 +2117,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:34.232272Z"
+      "value": "2022-02-04T13:57:21.005465Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:34.232306Z"
+      "value": "2022-02-04T13:57:21.005583Z"
     },
     "urls": [
       {
@@ -2392,11 +2163,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:37.712081Z"
+      "value": "2022-02-04T13:57:24.156394Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:37.712115Z"
+      "value": "2022-02-04T13:57:24.156413Z"
     },
     "urls": [
       {
@@ -2436,11 +2207,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:40.031907Z"
+      "value": "2022-02-04T13:57:26.396091Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:40.031939Z"
+      "value": "2022-02-04T13:57:26.396108Z"
     },
     "urls": [
       {
@@ -2482,11 +2253,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:42.318528Z"
+      "value": "2022-02-04T13:57:28.319117Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:42.318560Z"
+      "value": "2022-02-04T13:57:28.319132Z"
     },
     "urls": [
       {
@@ -2526,11 +2297,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:43.320369Z"
+      "value": "2022-02-04T13:57:29.193410Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:43.320402Z"
+      "value": "2022-02-04T13:57:29.193426Z"
     },
     "urls": [
       {
@@ -2570,11 +2341,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:43.992800Z"
+      "value": "2022-02-04T13:57:29.896205Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:43.992833Z"
+      "value": "2022-02-04T13:57:29.896223Z"
     },
     "urls": [
       {
@@ -2600,51 +2371,6 @@
   },
   {
     "kind": "Operator",
-    "subKind": "DockerWebAppOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Compute the mean per cell",
-    "name": "Docker Shiny Mean",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:37:48.347276Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:37:48.347307Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/shiny_docker_operator"
-      }
-    ],
-    "tags": [
-      "template",
-      "example"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/shiny_docker_operator.git"
-    },
-    "version": "0.11.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": ""
-  },
-  {
-    "kind": "Operator",
     "subKind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -2659,11 +2385,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:49.260565Z"
+      "value": "2022-02-04T13:57:34.054596Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:49.260597Z"
+      "value": "2022-02-04T13:57:34.054624Z"
     },
     "urls": [
       {
@@ -2703,11 +2429,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:49.734266Z"
+      "value": "2022-02-04T13:57:34.549698Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:49.734296Z"
+      "value": "2022-02-04T13:57:34.549713Z"
     },
     "urls": [
       {
@@ -2747,11 +2473,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:54.227960Z"
+      "value": "2022-02-04T13:57:37.934885Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:54.227992Z"
+      "value": "2022-02-04T13:57:37.934908Z"
     },
     "urls": [
       {
@@ -2791,11 +2517,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:55.450760Z"
+      "value": "2022-02-04T13:57:38.655816Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:37:55.450790Z"
+      "value": "2022-02-04T13:57:38.655834Z"
     },
     "urls": [
       {
@@ -2821,50 +2547,6 @@
   },
   {
     "kind": "Operator",
-    "subKind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Heatmap",
-    "name": "Shiny Heatmap",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:37:57.266438Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-03T10:37:57.266473Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/shiny_heatmap_operator"
-      }
-    ],
-    "tags": [
-      "heatmap"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/template_shiny_operator.git"
-    },
-    "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": ""
-  },
-  {
-    "kind": "Operator",
     "subKind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -2879,11 +2561,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:01.592862Z"
+      "value": "2022-02-04T13:57:43.328545Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:01.592894Z"
+      "value": "2022-02-04T13:57:43.328562Z"
     },
     "urls": [
       {
@@ -2925,11 +2607,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:02.276588Z"
+      "value": "2022-02-04T13:57:44.139447Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:02.276620Z"
+      "value": "2022-02-04T13:57:44.139494Z"
     },
     "urls": [
       {
@@ -2970,11 +2652,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:02.999945Z"
+      "value": "2022-02-04T13:57:44.966175Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:02.999964Z"
+      "value": "2022-02-04T13:57:44.966188Z"
     },
     "urls": [
       {
@@ -3014,11 +2696,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:04.942111Z"
+      "value": "2022-02-04T13:57:46.586416Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:04.942135Z"
+      "value": "2022-02-04T13:57:46.586433Z"
     },
     "urls": [
       {
@@ -3035,7 +2717,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/uka_shiny_operator.git"
     },
-    "version": "0.0.4",
+    "version": "0.0.2",
     "authors": [
       "tercen"
     ],
@@ -3059,11 +2741,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:05.672275Z"
+      "value": "2022-02-04T13:57:47.334499Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:05.672306Z"
+      "value": "2022-02-04T13:57:47.334518Z"
     },
     "urls": [
       {
@@ -3105,11 +2787,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:08.002435Z"
+      "value": "2022-02-04T13:57:49.247167Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:08.002468Z"
+      "value": "2022-02-04T13:57:49.247178Z"
     },
     "urls": [
       {
@@ -3150,11 +2832,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:08.949566Z"
+      "value": "2022-02-04T13:57:50.148155Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:08.949599Z"
+      "value": "2022-02-04T13:57:50.148166Z"
     },
     "urls": [
       {
@@ -3194,11 +2876,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:10.878148Z"
+      "value": "2022-02-04T13:57:51.952685Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:10.878180Z"
+      "value": "2022-02-04T13:57:51.952696Z"
     },
     "urls": [
       {
@@ -3239,11 +2921,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:13.799854Z"
+      "value": "2022-02-04T13:57:54.096078Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:13.799885Z"
+      "value": "2022-02-04T13:57:54.096110Z"
     },
     "urls": [
       {
@@ -3284,11 +2966,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:15.939658Z"
+      "value": "2022-02-04T13:57:55.854035Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:15.939718Z"
+      "value": "2022-02-04T13:57:55.854048Z"
     },
     "urls": [
       {
@@ -3328,11 +3010,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:17.136225Z"
+      "value": "2022-02-04T13:57:57.113475Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-03T10:38:17.136256Z"
+      "value": "2022-02-04T13:57:57.113493Z"
     },
     "urls": [
       {
