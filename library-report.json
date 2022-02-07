@@ -741,7 +741,7 @@
     },
     {
       "name": "Model Based Clustering",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "url": "https://github.com/tercen/model_based_clustering_operator.git"
     },
     {
@@ -783,6 +783,11 @@
       "name": "Pearson",
       "version": "0.10.1",
       "url": "https://github.com/tercen/pearson_operator.git"
+    },
+    {
+      "name": "Flow Cytometry Plot (Shiny)",
+      "version": "0.1.8",
+      "url": "https://github.com/tercen/plot_fcs_shiny_operator.git"
     },
     {
       "name": "PS12 images",
