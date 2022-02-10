@@ -8,9 +8,9 @@
     },
     {
       "name": "IQR",
-      "version": "0.0.2",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/IQR_operator.git",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
+      "error": "ServiceError({statusCode: 400, error: unknown, reason: FileSystemException: Cannot open file, path = '/var/lib/tercen/data/operator/70/c8/bd/bdc87042-67fe-4434-a8a8-dde0eb6ee4f5/tercen-IQR_operator-43fb014/tests/table1.csv' (OS Error: No such file or directory, errno = 2)})"
     },
     {
       "name": "TCRMatch_operator",
