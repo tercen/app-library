@@ -1,12 +1,6 @@
 {
   "failed_operators": [
     {
-      "name": "ETS",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/ETS_operator.git",
-      "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.column.type, reason: ds0.nPoints -- bad type expected double found int32})"
-    },
-    {
       "name": "IQR",
       "version": "0.1.0",
       "url": "https://github.com/tercen/IQR_operator.git",
@@ -119,12 +113,6 @@
       "version": "0.0.2",
       "url": "https://github.com/tercen/straf_forensicparameters_operator.git",
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.failed, reason: Failed to create operator})"
-    },
-    {
-      "name": "Subtract",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/subtract_operator.git",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
       "name": "t-Test (Two Group)",
@@ -537,6 +525,12 @@
       "error": "notest"
     },
     {
+      "name": "Subtract",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/subtract_operator.git",
+      "error": "notest"
+    },
+    {
       "name": "Top (N)",
       "version": "0.0.4",
       "url": "https://github.com/tercen/topn_operator.git",
@@ -572,6 +566,11 @@
       "name": "DRC Fit",
       "version": "0.0.2",
       "url": "https://github.com/tercen/DRC_fit_operator.git"
+    },
+    {
+      "name": "ETS",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/ETS_operator.git"
     },
     {
       "name": "MEM Score",
