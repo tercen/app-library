@@ -91,12 +91,6 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
-      "name": "Optics11",
-      "version": "0.1.8",
-      "url": "https://github.com/tercen/optics11_operator.git",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
       "name": "Sample",
       "version": "0.1.1",
       "url": "https://github.com/tercen/sample_operator.git",
