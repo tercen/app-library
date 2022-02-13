@@ -73,12 +73,6 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
-      "name": "NCA",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/nca_operator.git",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
       "name": "Negative",
       "version": "0.0.3",
       "url": "https://github.com/tercen/negative_operator.git",
@@ -94,18 +88,6 @@
       "name": "Optics11",
       "version": "0.1.8",
       "url": "https://github.com/tercen/optics11_operator.git",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
-      "name": "Sample",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/sample_operator.git",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
-      "name": "Shift",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/shift_operator.git",
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
@@ -402,6 +384,12 @@
       "name": "Multiply",
       "version": "0.0.1",
       "url": "https://github.com/tercen/multiply_operator.git",
+      "error": "notest"
+    },
+    {
+      "name": "NCA",
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/nca_operator.git",
       "error": "notest"
     },
     {
@@ -823,6 +811,11 @@
       "url": "https://github.com/tercen/rphenograph_operator.git"
     },
     {
+      "name": "Sample",
+      "version": "0.2.0",
+      "url": "https://github.com/tercen/sample_operator.git"
+    },
+    {
       "name": "Scale",
       "version": "0.10.1",
       "url": "https://github.com/tercen/scale_operator.git"
@@ -836,6 +829,11 @@
       "name": "Standard Deviation",
       "version": "0.9.1",
       "url": "https://github.com/tercen/sd_operator.git"
+    },
+    {
+      "name": "Shift",
+      "version": "0.2.0",
+      "url": "https://github.com/tercen/shift_operator.git"
     },
     {
       "name": "Sign Change",
