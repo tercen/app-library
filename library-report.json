@@ -7,12 +7,6 @@
       "error": "ServiceError({statusCode: 400, error: unknown, reason: --ERR--\nsh: 1: tcrmatch: not found\nError: argument of length 0\nBacktrace:\n     █\n  1. ├─`%>%`(...)\n  2. ├─ctx$save(.)\n  3. │ └─base::inherits(computed.df, \"OperatorResult\")\n  4. ├─ctx$addNamespace(.)\n  5. │ └─base::sapply(...)\n  6. │   └─base::lapply(X = X, FUN = FUN, ...)\n  7. ├─dplyr::mutate(., .ri = 0)\n  8. ├─global::run.tcrmatch(.)\n  9. │ └─readr::read_delim(...)\n 10. │   └─vroom::vroom(...)\n 11. │     └─vroom:::vroom_(...)\n 12. ├─(function (spec, num_cols, col_names, col_select, name_repair) ...\n 13. │ ├─`%in%`(...)\n 14. │ └─tidyselect::vars_select(names(spec$cols), !!col_select, .strict = FALSE)\n 15. │   └─tidyselect:::eval_select_impl(...)\n 16. │     ├─tidyselect:::with_subscript_errors(...)\n 17. │     │ ├─base::tryCatch(...)\n 18. │     │ │ └─base:::tryCatchList(expr, classes, parentenv, handlers)\n 19. │     │ │   └─base:::tryCatchOne(expr, names, parentenv, handlers[[1L]])\n 20. │     │ │     └─base:::doTryCatch(return(expr), name, parentenv, handler)\n 21. │     │ └─tidyselect:::instrument_base_errors(expr)\n 22. │     │   └─base::withCallingHandlers(...)\n 23. │     └─tidyselect:::vars_select_eval(...)\n 24. │       └─tidyselect:::walk_data_tree(expr, data_mask, context_mask)\n 25. │         └─tidyselect:::eval_c(expr, data_mask, context_mask)\n 26. │           └─tidyselect:::reduce_sels(node, data_mask, context_mask, init = init)\n 27. │             └─tidyselect:::walk_data_tree(new, data_mask, context_mask)\n 28. │               └─tidyselect:::eval_colon(expr, data_mask, context_mask)\n 29. └─base::.handleSimpleError(...)\n 30.   └─tidyselect:::h(simpleError(msg, call))\nWarning message:\nIn system2(cmd, args) : error in running command\nExecution halted\n})"
     },
     {
-      "name": "Base Change",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/basechange_operator.git",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
       "name": "calcNormFactors",
       "version": "0.0.5",
       "url": "https://github.com/tercen/calcnormfactors_operator.git",
