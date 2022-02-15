@@ -13,12 +13,6 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
-      "name": "calcNormFactors",
-      "version": "0.0.5",
-      "url": "https://github.com/tercen/calcnormfactors_operator.git",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
       "name": "Cell Plot",
       "version": "1.0.3",
       "url": "https://github.com/tercen/cellplot_shiny_operator.git",
@@ -83,12 +77,6 @@
       "version": "0.0.2",
       "url": "https://github.com/tercen/straf_forensicparameters_operator.git",
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.failed, reason: Failed to create operator})"
-    },
-    {
-      "name": "t-Test (Two Group)",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/twogroupttest_operator.git",
-      "error": "ServiceError({statusCode: 400, error: unknown, reason: --ERR--\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nError: An x-axis is required.\nExecution halted\n})"
     },
     {
       "name": "Wilcoxon Test",
@@ -593,6 +581,11 @@
       "url": "https://github.com/tercen/boxplot_shiny_operator.git"
     },
     {
+      "name": "calcNormFactors",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/calcnormfactors_operator.git"
+    },
+    {
       "name": "Check input 1 operator",
       "version": "0.0.3",
       "url": "https://github.com/tercen/check_input1_operator.git"
@@ -749,7 +742,7 @@
     },
     {
       "name": "Pamsoft Grid Shiny Operator",
-      "version": "1.0.24",
+      "version": "1.0.25",
       "url": "https://github.com/tercen/pamsoft_grid_shiny_operator.git"
     },
     {
@@ -861,6 +854,11 @@
       "name": "t-Test - Two Group",
       "version": "0.0.2",
       "url": "https://github.com/tercen/two_sample_ttest_operator.git"
+    },
+    {
+      "name": "t-Test (Two Group)",
+      "version": "0.1.3",
+      "url": "https://github.com/tercen/twogroupttest_operator.git"
     },
     {
       "name": "Upstream Kinase Analysis",
