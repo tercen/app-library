@@ -1,7 +1,6 @@
 [
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -15,11 +14,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:00:59.332571Z"
+      "value": "2022-02-15T15:09:42.997893Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:00:59.332576Z"
+      "value": "2022-02-15T15:09:42.997898Z"
     },
     "urls": [
       {
@@ -42,11 +41,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -60,11 +59,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:00:59.670427Z"
+      "value": "2022-02-15T15:09:43.267770Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:00:59.670432Z"
+      "value": "2022-02-15T15:09:43.267773Z"
     },
     "urls": [
       {
@@ -86,11 +85,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -104,11 +103,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:00.062589Z"
+      "value": "2022-02-15T15:09:43.648612Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:00.062593Z"
+      "value": "2022-02-15T15:09:43.648615Z"
     },
     "urls": [
       {
@@ -130,11 +129,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -148,11 +147,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:00.395616Z"
+      "value": "2022-02-15T15:09:43.957007Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:00.395619Z"
+      "value": "2022-02-15T15:09:43.957011Z"
     },
     "urls": [
       {
@@ -174,11 +173,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -192,11 +191,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:00.987011Z"
+      "value": "2022-02-15T15:09:44.396256Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:00.987015Z"
+      "value": "2022-02-15T15:09:44.396260Z"
     },
     "urls": [
       {
@@ -219,11 +218,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": false
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -237,11 +237,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:01.378084Z"
+      "value": "2022-02-15T15:09:44.652939Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:01.378090Z"
+      "value": "2022-02-15T15:09:44.652953Z"
     },
     "urls": [
       {
@@ -264,11 +264,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -282,11 +282,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:02.217468Z"
+      "value": "2022-02-15T15:09:45.174653Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:02.217474Z"
+      "value": "2022-02-15T15:09:45.174659Z"
     },
     "urls": [
       {
@@ -308,11 +308,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -326,11 +326,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:05.864504Z"
+      "value": "2022-02-15T15:09:47.776238Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:05.864508Z"
+      "value": "2022-02-15T15:09:47.776242Z"
     },
     "urls": [
       {
@@ -354,11 +354,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -372,11 +372,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:06.180313Z"
+      "value": "2022-02-15T15:09:48.018011Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:06.180318Z"
+      "value": "2022-02-15T15:09:48.018015Z"
     },
     "urls": [
       {
@@ -401,11 +401,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -419,11 +419,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:06.493619Z"
+      "value": "2022-02-15T15:09:48.297858Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:06.493622Z"
+      "value": "2022-02-15T15:09:48.297864Z"
     },
     "urls": [
       {
@@ -447,11 +447,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -465,11 +465,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:06.937821Z"
+      "value": "2022-02-15T15:09:48.547107Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:06.937827Z"
+      "value": "2022-02-15T15:09:48.547114Z"
     },
     "urls": [
       {
@@ -494,11 +494,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -512,11 +512,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:08.484010Z"
+      "value": "2022-02-15T15:09:49.642571Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:08.484019Z"
+      "value": "2022-02-15T15:09:49.642576Z"
     },
     "urls": [
       {
@@ -538,11 +538,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -556,11 +557,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:09.514412Z"
+      "value": "2022-02-15T15:09:50.521635Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:09.514417Z"
+      "value": "2022-02-15T15:09:50.521639Z"
     },
     "urls": [
       {
@@ -583,11 +584,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -601,11 +602,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:11.650196Z"
+      "value": "2022-02-15T15:09:52.018498Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:11.650206Z"
+      "value": "2022-02-15T15:09:52.018503Z"
     },
     "urls": [
       {
@@ -627,11 +628,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -645,11 +646,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:11.955533Z"
+      "value": "2022-02-15T15:09:52.291637Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:11.955538Z"
+      "value": "2022-02-15T15:09:52.291640Z"
     },
     "urls": [
       {
@@ -671,11 +672,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -689,11 +690,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:12.626535Z"
+      "value": "2022-02-15T15:09:52.861364Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:12.626540Z"
+      "value": "2022-02-15T15:09:52.861368Z"
     },
     "urls": [
       {
@@ -715,11 +716,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -733,11 +734,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:13.259678Z"
+      "value": "2022-02-15T15:09:53.490050Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:13.259686Z"
+      "value": "2022-02-15T15:09:53.490053Z"
     },
     "urls": [
       {
@@ -759,11 +760,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -777,11 +778,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:13.848002Z"
+      "value": "2022-02-15T15:09:53.902158Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:13.848008Z"
+      "value": "2022-02-15T15:09:53.902165Z"
     },
     "urls": [
       {
@@ -803,11 +804,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -821,11 +822,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:15.358414Z"
+      "value": "2022-02-15T15:09:54.944966Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:15.358418Z"
+      "value": "2022-02-15T15:09:54.944973Z"
     },
     "urls": [
       {
@@ -847,11 +848,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -865,11 +866,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:15.731208Z"
+      "value": "2022-02-15T15:09:55.240765Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:15.731214Z"
+      "value": "2022-02-15T15:09:55.240770Z"
     },
     "urls": [
       {
@@ -892,11 +893,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -910,11 +912,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:17.156820Z"
+      "value": "2022-02-15T15:09:56.395261Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:17.156823Z"
+      "value": "2022-02-15T15:09:56.395264Z"
     },
     "urls": [
       {
@@ -936,11 +938,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -954,11 +957,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:17.423036Z"
+      "value": "2022-02-15T15:09:56.647366Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:17.423042Z"
+      "value": "2022-02-15T15:09:56.647369Z"
     },
     "urls": [
       {
@@ -982,11 +985,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "DockerOperator",
+    "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1000,11 +1003,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:19.857678Z"
+      "value": "2022-02-15T15:09:59.019413Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:19.857684Z"
+      "value": "2022-02-15T15:09:59.019418Z"
     },
     "urls": [
       {
@@ -1027,11 +1030,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "container": "lucas501/flowsom:1.1.1"
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1045,11 +1049,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:20.491658Z"
+      "value": "2022-02-15T15:09:59.513108Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:20.491663Z"
+      "value": "2022-02-15T15:09:59.513112Z"
     },
     "urls": [
       {
@@ -1071,11 +1075,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1089,11 +1093,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:22.240566Z"
+      "value": "2022-02-15T15:10:01.055206Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:22.240571Z"
+      "value": "2022-02-15T15:10:01.055213Z"
     },
     "urls": [
       {
@@ -1115,11 +1119,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1133,11 +1137,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:22.623956Z"
+      "value": "2022-02-15T15:10:01.567613Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:22.623962Z"
+      "value": "2022-02-15T15:10:01.567617Z"
     },
     "urls": [
       {
@@ -1159,11 +1163,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1177,11 +1182,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:23.565249Z"
+      "value": "2022-02-15T15:10:02.789128Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:23.565255Z"
+      "value": "2022-02-15T15:10:02.789132Z"
     },
     "urls": [
       {
@@ -1204,11 +1209,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1222,11 +1227,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:24.809400Z"
+      "value": "2022-02-15T15:10:03.636505Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:24.809405Z"
+      "value": "2022-02-15T15:10:03.636509Z"
     },
     "urls": [
       {
@@ -1248,11 +1253,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1266,11 +1272,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:26.931504Z"
+      "value": "2022-02-15T15:10:05.882586Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:26.931509Z"
+      "value": "2022-02-15T15:10:05.882591Z"
     },
     "urls": [
       {
@@ -1292,11 +1298,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1310,11 +1316,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:27.496939Z"
+      "value": "2022-02-15T15:10:06.451945Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:27.496944Z"
+      "value": "2022-02-15T15:10:06.451949Z"
     },
     "urls": [
       {
@@ -1337,11 +1343,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1355,11 +1361,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:27.772599Z"
+      "value": "2022-02-15T15:10:06.718610Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:27.772603Z"
+      "value": "2022-02-15T15:10:06.718613Z"
     },
     "urls": [
       {
@@ -1383,11 +1389,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1401,11 +1407,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:28.071982Z"
+      "value": "2022-02-15T15:10:06.978162Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:28.071986Z"
+      "value": "2022-02-15T15:10:06.978165Z"
     },
     "urls": [
       {
@@ -1427,11 +1433,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1445,11 +1451,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:29.743833Z"
+      "value": "2022-02-15T15:10:08.364804Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:29.743837Z"
+      "value": "2022-02-15T15:10:08.364807Z"
     },
     "urls": [
       {
@@ -1471,11 +1477,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1489,11 +1496,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:30.394208Z"
+      "value": "2022-02-15T15:10:08.902587Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:30.394214Z"
+      "value": "2022-02-15T15:10:08.902591Z"
     },
     "urls": [
       {
@@ -1515,11 +1522,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1533,11 +1540,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:31.007707Z"
+      "value": "2022-02-15T15:10:09.420285Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:31.007713Z"
+      "value": "2022-02-15T15:10:09.420288Z"
     },
     "urls": [
       {
@@ -1559,11 +1566,56 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Returns the difference of two values",
+    "name": "Minus",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-02-15T15:10:09.934494Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-02-15T15:10:09.934499Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/minus_operator"
+      }
+    ],
+    "tags": [
+      "basic operations",
+      "pamgene"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/minus_operator.git"
+    },
+    "version": "0.1.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1577,11 +1629,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:32.513050Z"
+      "value": "2022-02-15T15:10:10.467843Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:32.513057Z"
+      "value": "2022-02-15T15:10:10.467847Z"
     },
     "urls": [
       {
@@ -1604,11 +1656,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1622,11 +1674,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:33.175368Z"
+      "value": "2022-02-15T15:10:11.192543Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:33.175372Z"
+      "value": "2022-02-15T15:10:11.192546Z"
     },
     "urls": [
       {
@@ -1648,11 +1700,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1666,11 +1719,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:35.467872Z"
+      "value": "2022-02-15T15:10:13.179664Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:35.467878Z"
+      "value": "2022-02-15T15:10:13.179668Z"
     },
     "urls": [
       {
@@ -1693,11 +1746,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1711,11 +1764,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:35.791372Z"
+      "value": "2022-02-15T15:10:13.488356Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:35.791378Z"
+      "value": "2022-02-15T15:10:13.488360Z"
     },
     "urls": [
       {
@@ -1739,11 +1792,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1757,11 +1810,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:36.936826Z"
+      "value": "2022-02-15T15:10:14.703196Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:36.936830Z"
+      "value": "2022-02-15T15:10:14.703201Z"
     },
     "urls": [
       {
@@ -1783,11 +1836,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "DockerOperator",
+    "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1801,11 +1854,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:37.516364Z"
+      "value": "2022-02-15T15:10:15.250170Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:37.516370Z"
+      "value": "2022-02-15T15:10:15.250173Z"
     },
     "urls": [
       {
@@ -1828,11 +1881,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/pamsoft_grid_operator:1.0.48"
   },
   {
-    "kind": "Operator",
-    "subKind": "DockerOperator",
+    "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1846,11 +1900,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:37.774789Z"
+      "value": "2022-02-15T15:10:15.423220Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:37.774795Z"
+      "value": "2022-02-15T15:10:15.423223Z"
     },
     "urls": [
       {
@@ -1872,11 +1926,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/pamsoft_grid_qt_operator:1.0.48"
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1890,11 +1945,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:38.288893Z"
+      "value": "2022-02-15T15:10:15.762568Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:38.288898Z"
+      "value": "2022-02-15T15:10:15.762573Z"
     },
     "urls": [
       {
@@ -1917,11 +1972,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": false
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1935,11 +1991,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:39.049378Z"
+      "value": "2022-02-15T15:10:16.622773Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:39.049385Z"
+      "value": "2022-02-15T15:10:16.622777Z"
     },
     "urls": [
       {
@@ -1963,11 +2019,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -1981,11 +2037,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:39.960609Z"
+      "value": "2022-02-15T15:10:17.431872Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:39.960613Z"
+      "value": "2022-02-15T15:10:17.431875Z"
     },
     "urls": [
       {
@@ -2009,11 +2065,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2027,11 +2084,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:40.929947Z"
+      "value": "2022-02-15T15:10:18.342215Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:40.929951Z"
+      "value": "2022-02-15T15:10:18.342220Z"
     },
     "urls": [
       {
@@ -2054,11 +2111,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2072,11 +2129,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:41.370043Z"
+      "value": "2022-02-15T15:10:18.661747Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:41.370047Z"
+      "value": "2022-02-15T15:10:18.661750Z"
     },
     "urls": [
       {
@@ -2099,11 +2156,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2117,11 +2175,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:42.351195Z"
+      "value": "2022-02-15T15:10:19.428953Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:42.351200Z"
+      "value": "2022-02-15T15:10:19.428957Z"
     },
     "urls": [
       {
@@ -2144,11 +2202,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2162,11 +2220,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:42.663025Z"
+      "value": "2022-02-15T15:10:19.680454Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:42.663031Z"
+      "value": "2022-02-15T15:10:19.680458Z"
     },
     "urls": [
       {
@@ -2188,11 +2246,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2206,11 +2264,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:44.479863Z"
+      "value": "2022-02-15T15:10:21.845062Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:44.479866Z"
+      "value": "2022-02-15T15:10:21.845067Z"
     },
     "urls": [
       {
@@ -2233,11 +2291,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2251,11 +2309,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:45.054015Z"
+      "value": "2022-02-15T15:10:22.380664Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:45.054019Z"
+      "value": "2022-02-15T15:10:22.380667Z"
     },
     "urls": [
       {
@@ -2279,11 +2337,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2297,11 +2355,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:46.408322Z"
+      "value": "2022-02-15T15:10:23.530627Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:46.408326Z"
+      "value": "2022-02-15T15:10:23.530631Z"
     },
     "urls": [
       {
@@ -2323,11 +2381,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2341,11 +2399,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:47.224636Z"
+      "value": "2022-02-15T15:10:24.182550Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:47.224639Z"
+      "value": "2022-02-15T15:10:24.182555Z"
     },
     "urls": [
       {
@@ -2369,11 +2427,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2387,11 +2445,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:47.879785Z"
+      "value": "2022-02-15T15:10:24.476042Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:47.879791Z"
+      "value": "2022-02-15T15:10:24.476045Z"
     },
     "urls": [
       {
@@ -2413,11 +2471,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2431,11 +2489,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:48.320384Z"
+      "value": "2022-02-15T15:10:24.939195Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:48.320388Z"
+      "value": "2022-02-15T15:10:24.939199Z"
     },
     "urls": [
       {
@@ -2457,11 +2515,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2475,11 +2533,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:48.668174Z"
+      "value": "2022-02-15T15:10:25.287240Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:48.668178Z"
+      "value": "2022-02-15T15:10:25.287243Z"
     },
     "urls": [
       {
@@ -2501,11 +2559,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2519,11 +2578,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:48.990888Z"
+      "value": "2022-02-15T15:10:25.531055Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:48.990894Z"
+      "value": "2022-02-15T15:10:25.531059Z"
     },
     "urls": [
       {
@@ -2545,11 +2604,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2563,11 +2622,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:50.280464Z"
+      "value": "2022-02-15T15:10:26.739758Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:50.280470Z"
+      "value": "2022-02-15T15:10:26.739761Z"
     },
     "urls": [
       {
@@ -2589,11 +2648,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2607,11 +2666,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:50.734112Z"
+      "value": "2022-02-15T15:10:27.233498Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:50.734117Z"
+      "value": "2022-02-15T15:10:27.233501Z"
     },
     "urls": [
       {
@@ -2633,11 +2692,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "DockerOperator",
+    "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2651,11 +2710,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:50.957488Z"
+      "value": "2022-02-15T15:10:27.424165Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:50.957494Z"
+      "value": "2022-02-15T15:10:27.424168Z"
     },
     "urls": [
       {
@@ -2677,11 +2736,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/simple_docker_operator:0.14.0"
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2695,11 +2755,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:52.527611Z"
+      "value": "2022-02-15T15:10:28.783236Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:52.527616Z"
+      "value": "2022-02-15T15:10:28.783240Z"
     },
     "urls": [
       {
@@ -2721,11 +2781,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2739,11 +2799,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:52.821759Z"
+      "value": "2022-02-15T15:10:29.081672Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:52.821763Z"
+      "value": "2022-02-15T15:10:29.081676Z"
     },
     "urls": [
       {
@@ -2765,11 +2825,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2783,11 +2843,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:54.258231Z"
+      "value": "2022-02-15T15:10:30.304649Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:54.258235Z"
+      "value": "2022-02-15T15:10:30.304652Z"
     },
     "urls": [
       {
@@ -2811,11 +2871,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2829,11 +2889,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:54.599503Z"
+      "value": "2022-02-15T15:10:30.620798Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:54.599508Z"
+      "value": "2022-02-15T15:10:30.620802Z"
     },
     "urls": [
       {
@@ -2856,11 +2916,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2874,11 +2934,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:54.882384Z"
+      "value": "2022-02-15T15:10:30.894243Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:54.882389Z"
+      "value": "2022-02-15T15:10:30.894246Z"
     },
     "urls": [
       {
@@ -2900,11 +2960,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2918,11 +2978,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:55.567168Z"
+      "value": "2022-02-15T15:10:31.464374Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:55.567172Z"
+      "value": "2022-02-15T15:10:31.464377Z"
     },
     "urls": [
       {
@@ -2945,11 +3005,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": false
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2963,11 +3024,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:55.889679Z"
+      "value": "2022-02-15T15:10:31.810257Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:55.889685Z"
+      "value": "2022-02-15T15:10:31.810260Z"
     },
     "urls": [
       {
@@ -2991,11 +3052,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -3009,11 +3070,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:56.309606Z"
+      "value": "2022-02-15T15:10:32.214735Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:56.309612Z"
+      "value": "2022-02-15T15:10:32.214738Z"
     },
     "urls": [
       {
@@ -3036,11 +3097,11 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -3054,11 +3115,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:56.670432Z"
+      "value": "2022-02-15T15:10:32.513267Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:56.670438Z"
+      "value": "2022-02-15T15:10:32.513271Z"
     },
     "urls": [
       {
@@ -3081,11 +3142,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -3099,11 +3161,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:57.075333Z"
+      "value": "2022-02-15T15:10:32.875785Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:57.075339Z"
+      "value": "2022-02-15T15:10:32.875788Z"
     },
     "urls": [
       {
@@ -3125,11 +3187,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -3143,11 +3206,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:57.765915Z"
+      "value": "2022-02-15T15:10:33.522189Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:57.765921Z"
+      "value": "2022-02-15T15:10:33.522192Z"
     },
     "urls": [
       {
@@ -3170,11 +3233,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": false
   },
   {
-    "kind": "Operator",
-    "subKind": "DockerWebAppOperator",
+    "kind": "DockerWebAppOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -3188,11 +3252,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:58.643727Z"
+      "value": "2022-02-15T15:10:34.279992Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:58.643733Z"
+      "value": "2022-02-15T15:10:34.279997Z"
     },
     "urls": [
       {
@@ -3215,11 +3279,13 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true,
+    "container": "agouy/worldmap:0.1.0"
   },
   {
-    "kind": "Operator",
-    "subKind": "ShinyOperator",
+    "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -3233,11 +3299,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:59.410535Z"
+      "value": "2022-02-15T15:10:34.914981Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:59.410539Z"
+      "value": "2022-02-15T15:10:34.914985Z"
     },
     "urls": [
       {
@@ -3259,11 +3325,12 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
-    "kind": "Operator",
-    "subKind": "ROperator",
+    "kind": "ROperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -3277,11 +3344,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:59.925758Z"
+      "value": "2022-02-15T15:10:35.382262Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T15:01:59.925761Z"
+      "value": "2022-02-15T15:10:35.382265Z"
     },
     "urls": [
       {
@@ -3303,6 +3370,7 @@
     ],
     "isPublic": true,
     "properties": [],
-    "longDescription": ""
+    "longDescription": "",
+    "path": ""
   }
 ]
