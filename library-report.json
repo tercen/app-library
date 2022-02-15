@@ -142,7 +142,7 @@
     },
     {
       "name": "SAUCIE",
-      "version": "0.0.5",
+      "version": "0.0.3",
       "url": "https://github.com/tercen/SAUCIE_docker_operator.git",
       "error": "notest"
     },
