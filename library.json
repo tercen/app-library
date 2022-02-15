@@ -15,11 +15,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:10.698276Z"
+      "value": "2022-02-15T15:00:59.332571Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:10.698280Z"
+      "value": "2022-02-15T15:00:59.332576Z"
     },
     "urls": [
       {
@@ -60,11 +60,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:11.125666Z"
+      "value": "2022-02-15T15:00:59.670427Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:11.125669Z"
+      "value": "2022-02-15T15:00:59.670432Z"
     },
     "urls": [
       {
@@ -94,6 +94,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Interquartile Range: Calculates whether the value of a cell falls within the middle 50% of the distriubution range.",
+    "name": "IQR",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-02-15T15:01:00.062589Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-02-15T15:01:00.062593Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/IQR_operator"
+      }
+    ],
+    "tags": [
+      "basic statistics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/IQR_operator.git"
+    },
+    "version": "0.1.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": ""
+  },
+  {
+    "kind": "Operator",
+    "subKind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Marker Enrichment Modeling Score: Calculates a score which quantifys contextual feature enrichment of immune and cancer cell subsets from fluorescence and mass cytometry.",
     "name": "MEM Score",
     "createdBy": "",
@@ -104,11 +148,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:12.050025Z"
+      "value": "2022-02-15T15:01:00.395616Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:12.050031Z"
+      "value": "2022-02-15T15:01:00.395619Z"
     },
     "urls": [
       {
@@ -148,11 +192,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:12.672423Z"
+      "value": "2022-02-15T15:01:00.987011Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:12.672427Z"
+      "value": "2022-02-15T15:01:00.987015Z"
     },
     "urls": [
       {
@@ -193,11 +237,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:13.062484Z"
+      "value": "2022-02-15T15:01:01.378084Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:13.062488Z"
+      "value": "2022-02-15T15:01:01.378090Z"
     },
     "urls": [
       {
@@ -238,11 +282,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:13.904583Z"
+      "value": "2022-02-15T15:01:02.217468Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:13.904587Z"
+      "value": "2022-02-15T15:01:02.217474Z"
     },
     "urls": [
       {
@@ -282,11 +326,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:17.799983Z"
+      "value": "2022-02-15T15:01:05.864504Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:17.799986Z"
+      "value": "2022-02-15T15:01:05.864508Z"
     },
     "urls": [
       {
@@ -328,11 +372,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:18.199828Z"
+      "value": "2022-02-15T15:01:06.180313Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:18.199832Z"
+      "value": "2022-02-15T15:01:06.180318Z"
     },
     "urls": [
       {
@@ -375,11 +419,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:18.587770Z"
+      "value": "2022-02-15T15:01:06.493619Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:18.587774Z"
+      "value": "2022-02-15T15:01:06.493622Z"
     },
     "urls": [
       {
@@ -421,11 +465,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:19.035777Z"
+      "value": "2022-02-15T15:01:06.937821Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:19.035780Z"
+      "value": "2022-02-15T15:01:06.937827Z"
     },
     "urls": [
       {
@@ -468,11 +512,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:20.778863Z"
+      "value": "2022-02-15T15:01:08.484010Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:20.778866Z"
+      "value": "2022-02-15T15:01:08.484019Z"
     },
     "urls": [
       {
@@ -512,11 +556,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:22.069440Z"
+      "value": "2022-02-15T15:01:09.514412Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:22.069443Z"
+      "value": "2022-02-15T15:01:09.514417Z"
     },
     "urls": [
       {
@@ -557,11 +601,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:24.438357Z"
+      "value": "2022-02-15T15:01:11.650196Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:24.438361Z"
+      "value": "2022-02-15T15:01:11.650206Z"
     },
     "urls": [
       {
@@ -601,11 +645,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:24.815982Z"
+      "value": "2022-02-15T15:01:11.955533Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:24.815988Z"
+      "value": "2022-02-15T15:01:11.955538Z"
     },
     "urls": [
       {
@@ -645,11 +689,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:25.816263Z"
+      "value": "2022-02-15T15:01:12.626535Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:25.816266Z"
+      "value": "2022-02-15T15:01:12.626540Z"
     },
     "urls": [
       {
@@ -689,11 +733,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:26.700425Z"
+      "value": "2022-02-15T15:01:13.259678Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:26.700428Z"
+      "value": "2022-02-15T15:01:13.259686Z"
     },
     "urls": [
       {
@@ -733,11 +777,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:27.990298Z"
+      "value": "2022-02-15T15:01:13.848002Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:27.990302Z"
+      "value": "2022-02-15T15:01:13.848008Z"
     },
     "urls": [
       {
@@ -777,11 +821,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:29.657206Z"
+      "value": "2022-02-15T15:01:15.358414Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:29.657209Z"
+      "value": "2022-02-15T15:01:15.358418Z"
     },
     "urls": [
       {
@@ -821,11 +865,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:30.228257Z"
+      "value": "2022-02-15T15:01:15.731208Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:30.228262Z"
+      "value": "2022-02-15T15:01:15.731214Z"
     },
     "urls": [
       {
@@ -866,11 +910,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:32.135746Z"
+      "value": "2022-02-15T15:01:17.156820Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:32.135749Z"
+      "value": "2022-02-15T15:01:17.156823Z"
     },
     "urls": [
       {
@@ -910,11 +954,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:32.552531Z"
+      "value": "2022-02-15T15:01:17.423036Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:32.552534Z"
+      "value": "2022-02-15T15:01:17.423042Z"
     },
     "urls": [
       {
@@ -956,11 +1000,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:35.937986Z"
+      "value": "2022-02-15T15:01:19.857678Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:35.937990Z"
+      "value": "2022-02-15T15:01:19.857684Z"
     },
     "urls": [
       {
@@ -1001,11 +1045,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:37.049168Z"
+      "value": "2022-02-15T15:01:20.491658Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:37.049171Z"
+      "value": "2022-02-15T15:01:20.491663Z"
     },
     "urls": [
       {
@@ -1045,11 +1089,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:39.408473Z"
+      "value": "2022-02-15T15:01:22.240566Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:39.408476Z"
+      "value": "2022-02-15T15:01:22.240571Z"
     },
     "urls": [
       {
@@ -1089,11 +1133,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:39.906808Z"
+      "value": "2022-02-15T15:01:22.623956Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:39.906812Z"
+      "value": "2022-02-15T15:01:22.623962Z"
     },
     "urls": [
       {
@@ -1133,11 +1177,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:41.084642Z"
+      "value": "2022-02-15T15:01:23.565249Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:41.084646Z"
+      "value": "2022-02-15T15:01:23.565255Z"
     },
     "urls": [
       {
@@ -1178,11 +1222,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:42.012025Z"
+      "value": "2022-02-15T15:01:24.809400Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:42.012029Z"
+      "value": "2022-02-15T15:01:24.809405Z"
     },
     "urls": [
       {
@@ -1222,11 +1266,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:45.072895Z"
+      "value": "2022-02-15T15:01:26.931504Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:45.072898Z"
+      "value": "2022-02-15T15:01:26.931509Z"
     },
     "urls": [
       {
@@ -1266,11 +1310,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:45.987798Z"
+      "value": "2022-02-15T15:01:27.496939Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:45.987801Z"
+      "value": "2022-02-15T15:01:27.496944Z"
     },
     "urls": [
       {
@@ -1311,11 +1355,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:46.367616Z"
+      "value": "2022-02-15T15:01:27.772599Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:46.367619Z"
+      "value": "2022-02-15T15:01:27.772603Z"
     },
     "urls": [
       {
@@ -1357,11 +1401,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:46.767800Z"
+      "value": "2022-02-15T15:01:28.071982Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:46.767804Z"
+      "value": "2022-02-15T15:01:28.071986Z"
     },
     "urls": [
       {
@@ -1401,11 +1445,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:48.930355Z"
+      "value": "2022-02-15T15:01:29.743833Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:48.930359Z"
+      "value": "2022-02-15T15:01:29.743837Z"
     },
     "urls": [
       {
@@ -1445,11 +1489,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:49.694819Z"
+      "value": "2022-02-15T15:01:30.394208Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:49.694823Z"
+      "value": "2022-02-15T15:01:30.394214Z"
     },
     "urls": [
       {
@@ -1489,11 +1533,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:50.481478Z"
+      "value": "2022-02-15T15:01:31.007707Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:50.481482Z"
+      "value": "2022-02-15T15:01:31.007713Z"
     },
     "urls": [
       {
@@ -1533,11 +1577,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:52.181683Z"
+      "value": "2022-02-15T15:01:32.513050Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:52.181687Z"
+      "value": "2022-02-15T15:01:32.513057Z"
     },
     "urls": [
       {
@@ -1578,11 +1622,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:53.171039Z"
+      "value": "2022-02-15T15:01:33.175368Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:53.171043Z"
+      "value": "2022-02-15T15:01:33.175372Z"
     },
     "urls": [
       {
@@ -1622,11 +1666,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:56.596172Z"
+      "value": "2022-02-15T15:01:35.467872Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:56.596175Z"
+      "value": "2022-02-15T15:01:35.467878Z"
     },
     "urls": [
       {
@@ -1667,11 +1711,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:56.983135Z"
+      "value": "2022-02-15T15:01:35.791372Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:56.983138Z"
+      "value": "2022-02-15T15:01:35.791378Z"
     },
     "urls": [
       {
@@ -1713,11 +1757,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:58.512027Z"
+      "value": "2022-02-15T15:01:36.936826Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:58.512031Z"
+      "value": "2022-02-15T15:01:36.936830Z"
     },
     "urls": [
       {
@@ -1757,11 +1801,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:59.268317Z"
+      "value": "2022-02-15T15:01:37.516364Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:59.268321Z"
+      "value": "2022-02-15T15:01:37.516370Z"
     },
     "urls": [
       {
@@ -1802,11 +1846,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:59.558816Z"
+      "value": "2022-02-15T15:01:37.774789Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:55:59.558820Z"
+      "value": "2022-02-15T15:01:37.774795Z"
     },
     "urls": [
       {
@@ -1846,11 +1890,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:00.123446Z"
+      "value": "2022-02-15T15:01:38.288893Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:00.123450Z"
+      "value": "2022-02-15T15:01:38.288898Z"
     },
     "urls": [
       {
@@ -1891,11 +1935,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:01.218886Z"
+      "value": "2022-02-15T15:01:39.049378Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:01.218890Z"
+      "value": "2022-02-15T15:01:39.049385Z"
     },
     "urls": [
       {
@@ -1937,11 +1981,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:02.672065Z"
+      "value": "2022-02-15T15:01:39.960609Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:02.672068Z"
+      "value": "2022-02-15T15:01:39.960613Z"
     },
     "urls": [
       {
@@ -1983,11 +2027,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:04.177973Z"
+      "value": "2022-02-15T15:01:40.929947Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:04.177976Z"
+      "value": "2022-02-15T15:01:40.929951Z"
     },
     "urls": [
       {
@@ -2028,11 +2072,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:04.691761Z"
+      "value": "2022-02-15T15:01:41.370043Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:04.691765Z"
+      "value": "2022-02-15T15:01:41.370047Z"
     },
     "urls": [
       {
@@ -2073,11 +2117,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:05.973708Z"
+      "value": "2022-02-15T15:01:42.351195Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:05.973711Z"
+      "value": "2022-02-15T15:01:42.351200Z"
     },
     "urls": [
       {
@@ -2118,11 +2162,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:06.429006Z"
+      "value": "2022-02-15T15:01:42.663025Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:06.429010Z"
+      "value": "2022-02-15T15:01:42.663031Z"
     },
     "urls": [
       {
@@ -2162,11 +2206,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:09.003820Z"
+      "value": "2022-02-15T15:01:44.479863Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:09.003824Z"
+      "value": "2022-02-15T15:01:44.479866Z"
     },
     "urls": [
       {
@@ -2207,11 +2251,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:09.898590Z"
+      "value": "2022-02-15T15:01:45.054015Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:09.898594Z"
+      "value": "2022-02-15T15:01:45.054019Z"
     },
     "urls": [
       {
@@ -2253,11 +2297,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:11.744915Z"
+      "value": "2022-02-15T15:01:46.408322Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:11.744918Z"
+      "value": "2022-02-15T15:01:46.408326Z"
     },
     "urls": [
       {
@@ -2297,11 +2341,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:12.760308Z"
+      "value": "2022-02-15T15:01:47.224636Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:12.760312Z"
+      "value": "2022-02-15T15:01:47.224639Z"
     },
     "urls": [
       {
@@ -2343,11 +2387,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:13.167526Z"
+      "value": "2022-02-15T15:01:47.879785Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:13.167529Z"
+      "value": "2022-02-15T15:01:47.879791Z"
     },
     "urls": [
       {
@@ -2387,11 +2431,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:13.807436Z"
+      "value": "2022-02-15T15:01:48.320384Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:13.807439Z"
+      "value": "2022-02-15T15:01:48.320388Z"
     },
     "urls": [
       {
@@ -2431,11 +2475,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:14.314880Z"
+      "value": "2022-02-15T15:01:48.668174Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:14.314883Z"
+      "value": "2022-02-15T15:01:48.668178Z"
     },
     "urls": [
       {
@@ -2475,11 +2519,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:14.709968Z"
+      "value": "2022-02-15T15:01:48.990888Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:14.709972Z"
+      "value": "2022-02-15T15:01:48.990894Z"
     },
     "urls": [
       {
@@ -2519,11 +2563,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:16.556497Z"
+      "value": "2022-02-15T15:01:50.280464Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:16.556501Z"
+      "value": "2022-02-15T15:01:50.280470Z"
     },
     "urls": [
       {
@@ -2563,11 +2607,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:17.410504Z"
+      "value": "2022-02-15T15:01:50.734112Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:17.410507Z"
+      "value": "2022-02-15T15:01:50.734117Z"
     },
     "urls": [
       {
@@ -2607,11 +2651,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:17.724958Z"
+      "value": "2022-02-15T15:01:50.957488Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:17.724962Z"
+      "value": "2022-02-15T15:01:50.957494Z"
     },
     "urls": [
       {
@@ -2651,11 +2695,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:20.472004Z"
+      "value": "2022-02-15T15:01:52.527611Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:20.472007Z"
+      "value": "2022-02-15T15:01:52.527616Z"
     },
     "urls": [
       {
@@ -2695,11 +2739,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:20.903532Z"
+      "value": "2022-02-15T15:01:52.821759Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:20.903536Z"
+      "value": "2022-02-15T15:01:52.821763Z"
     },
     "urls": [
       {
@@ -2739,11 +2783,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:23.061493Z"
+      "value": "2022-02-15T15:01:54.258231Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:23.061496Z"
+      "value": "2022-02-15T15:01:54.258235Z"
     },
     "urls": [
       {
@@ -2785,11 +2829,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:23.471687Z"
+      "value": "2022-02-15T15:01:54.599503Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:23.471690Z"
+      "value": "2022-02-15T15:01:54.599508Z"
     },
     "urls": [
       {
@@ -2830,11 +2874,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:24.008480Z"
+      "value": "2022-02-15T15:01:54.882384Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:24.008484Z"
+      "value": "2022-02-15T15:01:54.882389Z"
     },
     "urls": [
       {
@@ -2874,11 +2918,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:26.638632Z"
+      "value": "2022-02-15T15:01:55.567168Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:26.638635Z"
+      "value": "2022-02-15T15:01:55.567172Z"
     },
     "urls": [
       {
@@ -2919,11 +2963,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:27.184316Z"
+      "value": "2022-02-15T15:01:55.889679Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:27.184319Z"
+      "value": "2022-02-15T15:01:55.889685Z"
     },
     "urls": [
       {
@@ -2951,6 +2995,51 @@
   },
   {
     "kind": "Operator",
+    "subKind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Calculates an upper and lower bound value as a fraction of a given data point.",
+    "name": "Upper and Lower Bounds",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-02-15T15:01:56.309606Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-02-15T15:01:56.309612Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/upperandlowerbounds_operator"
+      }
+    ],
+    "tags": [
+      "simple statistics",
+      "Pharma"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/upperandlowerbounds_operator.git"
+    },
+    "version": "0.1.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": ""
+  },
+  {
+    "kind": "Operator",
     "subKind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
@@ -2965,11 +3054,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:29.360297Z"
+      "value": "2022-02-15T15:01:56.670432Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:29.360301Z"
+      "value": "2022-02-15T15:01:56.670438Z"
     },
     "urls": [
       {
@@ -3010,11 +3099,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:29.918724Z"
+      "value": "2022-02-15T15:01:57.075333Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:29.918727Z"
+      "value": "2022-02-15T15:01:57.075339Z"
     },
     "urls": [
       {
@@ -3054,11 +3143,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:30.963222Z"
+      "value": "2022-02-15T15:01:57.765915Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:30.963226Z"
+      "value": "2022-02-15T15:01:57.765921Z"
     },
     "urls": [
       {
@@ -3099,11 +3188,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:32.236274Z"
+      "value": "2022-02-15T15:01:58.643727Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:32.236277Z"
+      "value": "2022-02-15T15:01:58.643733Z"
     },
     "urls": [
       {
@@ -3144,11 +3233,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:33.195735Z"
+      "value": "2022-02-15T15:01:59.410535Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:33.195739Z"
+      "value": "2022-02-15T15:01:59.410539Z"
     },
     "urls": [
       {
@@ -3188,11 +3277,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:33.853198Z"
+      "value": "2022-02-15T15:01:59.925758Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T12:56:33.853201Z"
+      "value": "2022-02-15T15:01:59.925761Z"
     },
     "urls": [
       {
