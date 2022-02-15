@@ -1,12 +1,6 @@
 {
   "failed_operators": [
     {
-      "name": "IQR",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/IQR_operator.git",
-      "error": "ServiceError({statusCode: 400, error: unknown, reason: FileSystemException: Cannot open file, path = '/var/lib/tercen/data/operator/70/c8/bd/bdc87042-67fe-4434-a8a8-dde0eb6ee4f5/tercen-IQR_operator-43fb014/tests/table1.csv' (OS Error: No such file or directory, errno = 2)})"
-    },
-    {
       "name": "TCRMatch_operator",
       "version": "0.0.3",
       "url": "https://github.com/tercen/TCRMatch_operator.git",
@@ -103,12 +97,6 @@
       "error": "ServiceError({statusCode: 400, error: unknown, reason: --ERR--\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nError: An x-axis is required.\nExecution halted\n})"
     },
     {
-      "name": "Upper and Lower Bounds",
-      "version": "0.0.6",
-      "url": "https://github.com/tercen/upperandlowerbounds_operator.git",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
       "name": "Wilcoxon Test",
       "version": "0.1.1",
       "url": "https://github.com/tercen/wilcoxtest_operator.git",
@@ -142,7 +130,7 @@
     },
     {
       "name": "SAUCIE",
-      "version": "0.0.3",
+      "version": "0.0.5",
       "url": "https://github.com/tercen/SAUCIE_docker_operator.git",
       "error": "notest"
     },
@@ -561,6 +549,11 @@
       "url": "https://github.com/tercen/ETS_operator.git"
     },
     {
+      "name": "IQR",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/IQR_operator.git"
+    },
+    {
       "name": "MEM Score",
       "version": "1.2.1",
       "url": "https://github.com/tercen/MEM_operator.git"
@@ -879,6 +872,11 @@
       "name": "umap",
       "version": "1.1.0",
       "url": "https://github.com/tercen/umap_operator.git"
+    },
+    {
+      "name": "Upper and Lower Bounds",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/upperandlowerbounds_operator.git"
     },
     {
       "name": "Venn Diagram",
