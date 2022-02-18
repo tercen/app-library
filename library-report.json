@@ -55,12 +55,6 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
-      "name": "Negative",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/negative_operator.git",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
       "name": "NormalyzerDE",
       "version": "0.0.1",
       "url": "https://github.com/tercen/normalyzer_operator.git",
@@ -483,12 +477,6 @@
       "error": "notest"
     },
     {
-      "name": "Subtract",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/subtract_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "Top (N)",
       "version": "0.0.4",
       "url": "https://github.com/tercen/topn_operator.git",
@@ -716,6 +704,11 @@
       "url": "https://github.com/tercen/msa_shiny_operator.git"
     },
     {
+      "name": "Negative",
+      "version": "0.1.3",
+      "url": "https://github.com/tercen/negative_operator.git"
+    },
+    {
       "name": "Nominal CV Estimate",
       "version": "0.0.1",
       "url": "https://github.com/tercen/nominal_cv_estimate_operator.git"
@@ -829,6 +822,11 @@
       "name": "simple docker operator",
       "version": "0.14.2",
       "url": "https://github.com/tercen/simple_docker_operator.git"
+    },
+    {
+      "name": "Subtract",
+      "version": "0.1.3",
+      "url": "https://github.com/tercen/subtract_operator.git"
     },
     {
       "name": "Sum",
