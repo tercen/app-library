@@ -165,8 +165,8 @@
       "error": "notest"
     },
     {
-      "name": "Clustering metrics",
-      "version": "0.0.2",
+      "name": "Clustering Metrics",
+      "version": "0.0.3",
       "url": "https://github.com/tercen/clustering_metrics_operator.git",
       "error": "notest"
     },
