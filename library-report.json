@@ -267,12 +267,6 @@
       "error": "notest"
     },
     {
-      "name": "Mean R operator",
-      "version": "0.1.2",
-      "url": "https://github.com/tercen/keidenn_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "Kinetic QC",
       "version": "0.0.1",
       "url": "https://github.com/tercen/kineticQC_operator.git",
