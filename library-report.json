@@ -129,12 +129,6 @@
       "error": "notest"
     },
     {
-      "name": "Add",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/add_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "MSA Metrics",
       "version": "0.0.3",
       "url": "https://github.com/tercen/alignment_metrics_operator.git",
@@ -168,12 +162,6 @@
       "name": "Hclust Tree",
       "version": "0.1.1",
       "url": "https://github.com/tercen/clustering_tree_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Concatenate",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/concatenate_operator.git",
       "error": "notest"
     },
     {
@@ -294,12 +282,6 @@
       "name": "Logit",
       "version": "0.1.3",
       "url": "https://github.com/tercen/logit_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Max",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/max_operator.git",
       "error": "notest"
     },
     {
@@ -538,6 +520,11 @@
       "url": "https://github.com/tercen/S100_operator.git"
     },
     {
+      "name": "Add",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/add_operator.git"
+    },
+    {
       "name": "ANOVA2",
       "version": "0.0.1",
       "url": "https://github.com/tercen/anova2_operator.git"
@@ -581,6 +568,11 @@
       "name": "Col-flag",
       "version": "0.0.1",
       "url": "https://github.com/tercen/col_flag_operator.git"
+    },
+    {
+      "name": "Concatenate",
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/concatenate_operator.git"
     },
     {
       "name": "Constant",
@@ -666,6 +658,11 @@
       "name": "Log 2-Fold Change",
       "version": "0.9.1",
       "url": "https://github.com/tercen/logfoldchange_operator.git"
+    },
+    {
+      "name": "Max",
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/max_operator.git"
     },
     {
       "name": "Mean and CV",
