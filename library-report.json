@@ -255,12 +255,6 @@
       "error": "notest"
     },
     {
-      "name": "Kinetic QC",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/kineticQC_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "Lagpad",
       "version": "0.0.2",
       "url": "https://github.com/tercen/lagpad_operator.git",
