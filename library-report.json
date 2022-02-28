@@ -195,18 +195,6 @@
       "error": "notest"
     },
     {
-      "name": "FlowAI",
-      "version": "0.1.3",
-      "url": "https://github.com/tercen/flowai_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "FlowClean",
-      "version": "0.1.4",
-      "url": "https://github.com/tercen/flowclean_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "FlowSOM Tuning",
       "version": "0.0.4",
       "url": "https://github.com/tercen/flowsomtuning_operator.git",
@@ -535,6 +523,16 @@
       "name": "Fast_Rphenograph",
       "version": "1.1.1",
       "url": "https://github.com/tercen/fast_rphenograph_operator.git"
+    },
+    {
+      "name": "FlowAI",
+      "version": "0.1.5",
+      "url": "https://github.com/tercen/flowai_operator.git"
+    },
+    {
+      "name": "FlowClean",
+      "version": "0.1.12",
+      "url": "https://github.com/tercen/flowclean_operator.git"
     },
     {
       "name": "FlowSOM",
