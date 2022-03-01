@@ -207,12 +207,6 @@
       "error": "notest"
     },
     {
-      "name": "Hclust - Groups",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/hierarchical_clustering_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "Histogram Plot",
       "version": "0.0.2",
       "url": "https://github.com/tercen/histogram_operator.git",
@@ -276,18 +270,6 @@
       "name": "Pairwise Distance",
       "version": "0.1.1",
       "url": "https://github.com/tercen/pairwise_distance_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Percentile",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/percentile_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Proportion Analysis",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/proportion_operator.git",
       "error": "notest"
     },
     {
@@ -519,6 +501,11 @@
       "url": "https://github.com/tercen/heatmap_shiny_operator.git"
     },
     {
+      "name": "Hclust - Groups",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/hierarchical_clustering_operator.git"
+    },
+    {
       "name": "Identity",
       "version": "0.0.1",
       "url": "https://github.com/tercen/identity_operator.git"
@@ -595,7 +582,7 @@
     },
     {
       "name": "Scale Min/Max",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "url": "https://github.com/tercen/minmax_scale_operator.git"
     },
     {
@@ -664,6 +651,11 @@
       "url": "https://github.com/tercen/pearson_operator.git"
     },
     {
+      "name": "Percentile",
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/percentile_operator.git"
+    },
+    {
       "name": "Flow Cytometry Plot (Shiny)",
       "version": "0.1.8",
       "url": "https://github.com/tercen/plot_fcs_shiny_operator.git"
@@ -672,6 +664,11 @@
       "name": "Product",
       "version": "0.1.0",
       "url": "https://github.com/tercen/product_operator.git"
+    },
+    {
+      "name": "Proportion Analysis",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/proportion_operator.git"
     },
     {
       "name": "PS12 images",
