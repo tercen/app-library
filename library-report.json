@@ -183,12 +183,6 @@
       "error": "notest"
     },
     {
-      "name": "Flag Condition",
-      "version": "0.1.3",
-      "url": "https://github.com/tercen/flag_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "FlowSOM Tuning",
       "version": "0.0.4",
       "url": "https://github.com/tercen/flowsomtuning_operator.git",
@@ -225,18 +219,6 @@
       "error": "notest"
     },
     {
-      "name": "LOESS",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/loess_smoothing_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Logistic Regression",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/logistic_regression_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "MDS",
       "version": "0.1.1",
       "url": "https://github.com/tercen/mds_operator.git",
@@ -270,12 +252,6 @@
       "name": "Pairwise Distance",
       "version": "0.1.1",
       "url": "https://github.com/tercen/pairwise_distance_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Q-Q Plot",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/qqplot_operator.git",
       "error": "notest"
     },
     {
@@ -441,6 +417,11 @@
       "url": "https://github.com/tercen/count_operator.git"
     },
     {
+      "name": "Curve Fitter Shiny Operator",
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/curvefitter_shiny_operator.git"
+    },
+    {
       "name": "CV",
       "version": "1.0.0",
       "url": "https://github.com/tercen/cv_operator.git"
@@ -469,6 +450,11 @@
       "name": "Fast_Rphenograph",
       "version": "1.1.1",
       "url": "https://github.com/tercen/fast_rphenograph_operator.git"
+    },
+    {
+      "name": "Flag Condition",
+      "version": "0.1.4",
+      "url": "https://github.com/tercen/flag_operator.git"
     },
     {
       "name": "FlowAI",
@@ -531,6 +517,11 @@
       "url": "https://github.com/tercen/lm_operator.git"
     },
     {
+      "name": "LOESS",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/loess_smoothing_operator.git"
+    },
+    {
       "name": "Log Cutoff",
       "version": "0.0.2",
       "url": "https://github.com/tercen/log_cutoff_operator.git"
@@ -544,6 +535,11 @@
       "name": "Log 2-Fold Change",
       "version": "0.9.1",
       "url": "https://github.com/tercen/logfoldchange_operator.git"
+    },
+    {
+      "name": "Logistic Regression",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/logistic_regression_operator.git"
     },
     {
       "name": "Logit",
@@ -679,6 +675,11 @@
       "name": "PS12 Image Overview Operator",
       "version": "0.0.2",
       "url": "https://github.com/tercen/ps12image_overview_shiny_operator.git"
+    },
+    {
+      "name": "Q-Q Plot",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/qqplot_operator.git"
     },
     {
       "name": "Random Label",
