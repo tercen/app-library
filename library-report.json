@@ -153,12 +153,6 @@
       "error": "notest"
     },
     {
-      "name": "Hclust Tree",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/clustering_tree_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "cytonorm",
       "version": "1.0.3",
       "url": "https://github.com/tercen/cytonorm_operator.git",
@@ -392,6 +386,11 @@
       "url": "https://github.com/tercen/check_input1_operator.git"
     },
     {
+      "name": "Hclust Tree",
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/clustering_tree_operator.git"
+    },
+    {
       "name": "ClusterX",
       "version": "0.12.0",
       "url": "https://github.com/tercen/clusterx_operator.git"
@@ -418,7 +417,7 @@
     },
     {
       "name": "Curve Fitter Shiny Operator",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "url": "https://github.com/tercen/curvefitter_shiny_operator.git"
     },
     {
@@ -497,8 +496,8 @@
       "url": "https://github.com/tercen/identity_operator.git"
     },
     {
-      "name": "Impute - Zero",
-      "version": "0.1.4",
+      "name": "Impute",
+      "version": "0.2.0",
       "url": "https://github.com/tercen/impute_operator.git"
     },
     {
