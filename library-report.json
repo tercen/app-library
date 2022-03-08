@@ -556,11 +556,6 @@
       "url": "https://github.com/tercen/mean_and_cv_shiny_operator.git"
     },
     {
-      "name": "Impute - Mean",
-      "version": "0.1.6",
-      "url": "https://github.com/tercen/mean_imputation_operator.git"
-    },
-    {
       "name": "Mean",
       "version": "1.0.0",
       "url": "https://github.com/tercen/mean_operator.git"
@@ -782,7 +777,7 @@
     },
     {
       "name": "Sum",
-      "version": "1.9.1",
+      "version": "1.9.2",
       "url": "https://github.com/tercen/sum_operator.git"
     },
     {
