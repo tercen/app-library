@@ -273,18 +273,6 @@
       "error": "notest"
     },
     {
-      "name": "RDS",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/readrds_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Excel",
-      "version": "1.1.2",
-      "url": "https://github.com/tercen/readxl_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "Sequence to Table",
       "version": "0.0.3",
       "url": "https://github.com/tercen/seq2table_operator.git",
@@ -294,12 +282,6 @@
       "name": "TrimGalore",
       "version": "0.0.1.9",
       "url": "https://github.com/tercen/trimgalore_docker_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Word Count",
-      "version": "1.0.2",
-      "url": "https://github.com/tercen/wordcount_operator.git",
       "error": "notest"
     },
     {
@@ -701,6 +683,16 @@
       "url": "https://github.com/tercen/read_pgcube_operator.git"
     },
     {
+      "name": "RDS",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/readrds_operator.git"
+    },
+    {
+      "name": "Excel",
+      "version": "1.2.0",
+      "url": "https://github.com/tercen/readxl_operator.git"
+    },
+    {
       "name": "Replace",
       "version": "0.1.1",
       "url": "https://github.com/tercen/replace_operator.git"
@@ -844,6 +836,11 @@
       "name": "VSN",
       "version": "0.0.5",
       "url": "https://github.com/tercen/vsn_shiny_operator.git"
+    },
+    {
+      "name": "Word Count",
+      "version": "1.1.0",
+      "url": "https://github.com/tercen/wordcount_operator.git"
     },
     {
       "name": "Worldmap",
