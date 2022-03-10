@@ -243,21 +243,9 @@
       "error": "notest"
     },
     {
-      "name": "Pairwise Distance",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/pairwise_distance_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "AnnotatedDataFrame",
       "version": "0.1.1",
       "url": "https://github.com/tercen/readAnnotatedDataFrame_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "STRAF",
-      "version": "0.1.2",
-      "url": "https://github.com/tercen/read_STRAF_operator.git",
       "error": "notest"
     },
     {
@@ -598,6 +586,11 @@
       "url": "https://github.com/tercen/orderBy_operator.git"
     },
     {
+      "name": "Pairwise Distance",
+      "version": "0.1.5",
+      "url": "https://github.com/tercen/pairwise_distance_operator.git"
+    },
+    {
       "name": "pamsoft_grid_operator",
       "version": "1.0.48",
       "url": "https://github.com/tercen/pamsoft_grid_operator.git"
@@ -671,6 +664,11 @@
       "name": "Ratio",
       "version": "1.9.1",
       "url": "https://github.com/tercen/ratio_operator.git"
+    },
+    {
+      "name": "STRAF",
+      "version": "0.1.3",
+      "url": "https://github.com/tercen/read_STRAF_operator.git"
     },
     {
       "name": "FCS",
