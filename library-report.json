@@ -135,18 +135,6 @@
       "error": "notest"
     },
     {
-      "name": "Chi-squared test",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/chisquare_test_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Clustering Metrics",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/clustering_metrics_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "cytonorm",
       "version": "1.0.3",
       "url": "https://github.com/tercen/cytonorm_operator.git",
@@ -189,21 +177,9 @@
       "error": "notest"
     },
     {
-      "name": "Histogram Plot",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/histogram_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "Join GFF",
       "version": "0.0.5",
       "url": "https://github.com/tercen/join_GFF_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Lagpad",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/lagpad_operator.git",
       "error": "notest"
     },
     {
@@ -216,12 +192,6 @@
       "name": "MSA",
       "version": "0.2.3",
       "url": "https://github.com/tercen/msa_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Multiple Testing",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/multiple_testing_operator.git",
       "error": "notest"
     },
     {
@@ -350,6 +320,16 @@
       "url": "https://github.com/tercen/check_input1_operator.git"
     },
     {
+      "name": "Chi-squared test",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/chisquare_test_operator.git"
+    },
+    {
+      "name": "Clustering Metrics",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/clustering_metrics_operator.git"
+    },
+    {
       "name": "Hclust Tree",
       "version": "0.1.2",
       "url": "https://github.com/tercen/clustering_tree_operator.git"
@@ -460,6 +440,11 @@
       "url": "https://github.com/tercen/hierarchical_clustering_operator.git"
     },
     {
+      "name": "Histogram Plot",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/histogram_operator.git"
+    },
+    {
       "name": "Identity",
       "version": "0.0.1",
       "url": "https://github.com/tercen/identity_operator.git"
@@ -478,6 +463,11 @@
       "name": "Kruskal-Wallis Test",
       "version": "0.1.1",
       "url": "https://github.com/tercen/kruskaltest_operator.git"
+    },
+    {
+      "name": "Lagpad",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/lagpad_operator.git"
     },
     {
       "name": "Linear Regression",
@@ -558,6 +548,11 @@
       "name": "MSA Plot",
       "version": "0.0.4",
       "url": "https://github.com/tercen/msa_shiny_operator.git"
+    },
+    {
+      "name": "Multiple Testing",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/multiple_testing_operator.git"
     },
     {
       "name": "Multiply",
