@@ -37,12 +37,6 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
-      "name": "globaltest_operator",
-      "version": "0.1",
-      "url": "https://github.com/tercen/globaltest_operator.git",
-      "error": "ServiceError({statusCode: 400, error: unknown, reason: --ERR--\nLoading required package: survival\nError in getDataFrame(.) : Define variables using an x-axis in Tercen\nCalls: %>% ... mutate -> ungroup -> do -> group_by -> getDataFrame\nExecution halted\n})"
-    },
-    {
       "name": "Linear Mixed Model",
       "version": "0.2.1",
       "url": "https://github.com/tercen/mixed_model_operator.git",
@@ -444,6 +438,11 @@
       "name": "Fold Change",
       "version": "0.10.1",
       "url": "https://github.com/tercen/foldchange_operator.git"
+    },
+    {
+      "name": "globaltest_operator",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/globaltest_operator.git"
     },
     {
       "name": "Hclust - Order",
