@@ -135,12 +135,6 @@
       "error": "notest"
     },
     {
-      "name": "Clustering Metrics",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/clustering_metrics_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "cytonorm",
       "version": "1.0.3",
       "url": "https://github.com/tercen/cytonorm_operator.git",
@@ -329,6 +323,11 @@
       "name": "Chi-squared test",
       "version": "0.1.0",
       "url": "https://github.com/tercen/chisquare_test_operator.git"
+    },
+    {
+      "name": "Clustering Metrics",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/clustering_metrics_operator.git"
     },
     {
       "name": "Hclust Tree",
