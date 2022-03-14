@@ -213,18 +213,6 @@
       "error": "notest"
     },
     {
-      "name": "FASTA",
-      "version": "0.1.4",
-      "url": "https://github.com/tercen/read_fasta_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "GMT",
-      "version": "0.0.4",
-      "url": "https://github.com/tercen/read_gmt_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "Sequence to Table",
       "version": "0.0.3",
       "url": "https://github.com/tercen/seq2table_operator.git",
@@ -670,9 +658,19 @@
       "url": "https://github.com/tercen/read_STRAF_operator.git"
     },
     {
+      "name": "FASTA",
+      "version": "0.1.7",
+      "url": "https://github.com/tercen/read_fasta_operator.git"
+    },
+    {
       "name": "FCS",
       "version": "1.2.9",
       "url": "https://github.com/tercen/read_fcs_operator.git"
+    },
+    {
+      "name": "GMT",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/read_gmt_operator.git"
     },
     {
       "name": "Cube",
