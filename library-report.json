@@ -111,12 +111,6 @@
       "error": "notest"
     },
     {
-      "name": "tracer",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/TraCeR_docker_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "MSA Metrics",
       "version": "0.0.3",
       "url": "https://github.com/tercen/alignment_metrics_operator.git",
@@ -210,6 +204,12 @@
       "name": "Sequence to Table",
       "version": "0.0.3",
       "url": "https://github.com/tercen/seq2table_operator.git",
+      "error": "notest"
+    },
+    {
+      "name": "tracer",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/tracer_docker_operator.git",
       "error": "notest"
     },
     {
@@ -365,6 +365,11 @@
       "name": "Density Plot",
       "version": "0.0.4",
       "url": "https://github.com/tercen/densityplot_shiny_operator.git"
+    },
+    {
+      "name": "DR Curve Fitting Operator",
+      "version": "1.0.31",
+      "url": "https://github.com/tercen/dose_response_fit_operator.git"
     },
     {
       "name": "Downsample",
