@@ -748,7 +748,7 @@
     },
     {
       "name": "simple docker operator",
-      "version": "0.14.2",
+      "version": "0.14.4",
       "url": "https://github.com/tercen/simple_docker_operator.git"
     },
     {
