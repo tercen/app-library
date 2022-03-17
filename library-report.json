@@ -171,6 +171,12 @@
       "error": "notest"
     },
     {
+      "name": "Karolinska demultiplex docker operator",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/karolinska_demultiplex_docker_operator.git",
+      "error": "notest"
+    },
+    {
       "name": "MDS",
       "version": "0.1.1",
       "url": "https://github.com/tercen/mds_operator.git",
@@ -207,14 +213,20 @@
       "error": "notest"
     },
     {
-      "name": "tracer",
-      "version": "0.0.1",
+      "name": "Tracer",
+      "version": "0.1.1",
       "url": "https://github.com/tercen/tracer_docker_operator.git",
       "error": "notest"
     },
     {
+      "name": "TraCeR summarise",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/tracer_summarize_docker_operator.git",
+      "error": "notest"
+    },
+    {
       "name": "TrimGalore",
-      "version": "0.0.1.9",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/trimgalore_docker_operator.git",
       "error": "notest"
     },
