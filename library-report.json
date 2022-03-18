@@ -439,6 +439,11 @@
       "url": "https://github.com/tercen/hclust_operator.git"
     },
     {
+      "name": "Heatmap Dashboard",
+      "version": "0.3.0",
+      "url": "https://github.com/tercen/heatmap_dashboard_operator.git"
+    },
+    {
       "name": "Heatmap Plot",
       "version": "0.1.8",
       "url": "https://github.com/tercen/heatmap_shiny_operator.git"
@@ -702,6 +707,11 @@
       "name": "Excel",
       "version": "1.2.0",
       "url": "https://github.com/tercen/readxl_operator.git"
+    },
+    {
+      "name": "Regression Coefficients",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/regression_coefficients_operator.git"
     },
     {
       "name": "Replace",
