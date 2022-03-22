@@ -135,12 +135,6 @@
       "error": "notest"
     },
     {
-      "name": "cytonorm",
-      "version": "1.0.3",
-      "url": "https://github.com/tercen/cytonorm_operator.git",
-      "error": "notest"
-    },
-    {
       "name": "Diffcyt",
       "version": "0.0.4",
       "url": "https://github.com/tercen/diffcyt_operator.git",
@@ -198,12 +192,6 @@
       "name": "NCA",
       "version": "0.1.2",
       "url": "https://github.com/tercen/nca_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "Neighbourhood Analysis",
-      "version": "0.0.4",
-      "url": "https://github.com/tercen/neighbourhood_operator.git",
       "error": "notest"
     },
     {
@@ -373,6 +361,11 @@
       "name": "CV",
       "version": "1.0.0",
       "url": "https://github.com/tercen/cv_operator.git"
+    },
+    {
+      "name": "cytonorm",
+      "version": "1.2.0",
+      "url": "https://github.com/tercen/cytonorm_operator.git"
     },
     {
       "name": "Density",
@@ -580,6 +573,11 @@
       "url": "https://github.com/tercen/negative_operator.git"
     },
     {
+      "name": "Neighbourhood Analysis",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/neighbourhood_operator.git"
+    },
+    {
       "name": "Nominal CV Estimate",
       "version": "0.0.1",
       "url": "https://github.com/tercen/nominal_cv_estimate_operator.git"
@@ -711,7 +709,7 @@
     },
     {
       "name": "Regression Coefficients",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "url": "https://github.com/tercen/regression_coefficients_operator.git"
     },
     {
