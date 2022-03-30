@@ -26,9 +26,9 @@
     },
     {
       "name": "DR Curve Fitting Operator",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "url": "https://github.com/tercen/dose_response_fit_operator.git",
-      "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.column.type, reason: ds17.diff -- bad type expected string found double})"
+      "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
     },
     {
       "name": "FlowSOM MST",
