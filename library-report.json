@@ -68,7 +68,7 @@
     },
     {
       "name": "TrackSOM operator",
-      "version": "0.0.1",
+      "version": "0.0.5",
       "url": "https://github.com/tercen/tracksom_operator.git",
       "error": "ServiceError({statusCode: 400, error: unknown, reason: --ERR--\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nWarning message:\npackage ‘dplyr’ was built under R version 4.0.5 \nWarning messages:\n1: replacing previous import ‘gtools::permute’ by ‘igraph::permute’ when loading ‘TrackSOM’ \n2: replacing previous import ‘flowCore::normalize’ by ‘igraph::normalize’ when loading ‘TrackSOM’ \n3: replacing previous import ‘flowCore::filter’ by ‘tidygraph::filter’ when loading ‘TrackSOM’ \n4: replacing previous import ‘igraph::groups’ by ‘tidygraph::groups’ when loading ‘TrackSOM’ \n\nAttaching package: ‘data.table’\n\nThe following objects are masked from ‘package:dplyr’:\n\n    between, first, last\n\nWarning message:\npackage ‘data.table’ was built under R version 4.0.5 \nError: Two factors need to be projected onto columns.\nExecution halted\n})"
     },
