@@ -61,6 +61,12 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
+      "name": "Regression Coefficients",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/regression_coefficients_operator.git",
+      "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
+    },
+    {
       "name": "STRAF Parameters",
       "version": "0.0.2",
       "url": "https://github.com/tercen/straf_forensicparameters_operator.git",
@@ -722,11 +728,6 @@
       "name": "Excel",
       "version": "1.2.0",
       "url": "https://github.com/tercen/readxl_operator.git"
-    },
-    {
-      "name": "Regression Coefficients",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/regression_coefficients_operator.git"
     },
     {
       "name": "Replace",
