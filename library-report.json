@@ -426,7 +426,7 @@
     },
     {
       "name": "FlowSOM Export Operator",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "url": "https://github.com/tercen/flowsom_export_operator.git"
     },
     {
