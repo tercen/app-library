@@ -207,6 +207,12 @@
       "error": "notest"
     },
     {
+      "name": "OpenCyto one-step",
+      "version": "0.0.4",
+      "url": "https://github.com/tercen/opencyto_onestep_operator.git",
+      "error": "notest"
+    },
+    {
       "name": "AnnotatedDataFrame",
       "version": "0.1.1",
       "url": "https://github.com/tercen/readAnnotatedDataFrame_operator.git",
@@ -425,9 +431,9 @@
       "url": "https://github.com/tercen/flowclean_operator.git"
     },
     {
-      "name": "FlowSOM Export Operator",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/flowsom_export_operator.git"
+      "name": "FlowJo Export Operator",
+      "version": "0.0.4",
+      "url": "https://github.com/tercen/flowjo_export_operator.git"
     },
     {
       "name": "FlowSOM",
