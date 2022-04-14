@@ -159,6 +159,12 @@
       "error": "notest"
     },
     {
+      "name": "flowCut",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/flowCut2_operator.git",
+      "error": "notest"
+    },
+    {
       "name": "FlowSOM Tuning",
       "version": "0.0.4",
       "url": "https://github.com/tercen/flowsomtuning_operator.git",
@@ -432,7 +438,7 @@
     },
     {
       "name": "FlowJo Export Operator",
-      "version": "0.0.4",
+      "version": "0.0.5",
       "url": "https://github.com/tercen/flowjo_export_operator.git"
     },
     {
