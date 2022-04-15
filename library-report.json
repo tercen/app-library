@@ -31,6 +31,18 @@
       "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
     },
     {
+      "name": "FlowClean",
+      "version": "0.2.0",
+      "url": "https://github.com/tercen/flowclean_operator.git",
+      "error": "ServiceError({statusCode: 400, error: unknown, reason: Exception: result file data uri is empty})"
+    },
+    {
+      "name": "flowCut",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/flowcut_operator.git",
+      "error": "ServiceError({statusCode: 400, error: unknown, reason: Exception: result file data uri is empty})"
+    },
+    {
       "name": "FlowSOM MST",
       "version": "0.1.3",
       "url": "https://github.com/tercen/flowsom_mst_shiny_operator.git",
@@ -59,6 +71,12 @@
       "version": "0.1.8",
       "url": "https://github.com/tercen/optics11_operator.git",
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
+    },
+    {
+      "name": "peacoQc_operator",
+      "version": "0.2.1",
+      "url": "https://github.com/tercen/peacoqc_operator.git",
+      "error": "ServiceError({statusCode: 400, error: unknown, reason: FileSystemException: Cannot open file, path = '/var/lib/tercen/data/operator/c6/b4/c9/c9b4c679-b0b5-4a80-ad51-590f7c129176/tercen-peacoqc_operator-ee4cd69/tests/table2.csv' (OS Error: No such file or directory, errno = 2)})"
     },
     {
       "name": "Regression Coefficients",
@@ -430,11 +448,6 @@
       "name": "FlowAI",
       "version": "0.1.5",
       "url": "https://github.com/tercen/flowai_operator.git"
-    },
-    {
-      "name": "FlowClean",
-      "version": "0.1.12",
-      "url": "https://github.com/tercen/flowclean_operator.git"
     },
     {
       "name": "FlowJo Export Operator",
