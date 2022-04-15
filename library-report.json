@@ -31,6 +31,12 @@
       "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
     },
     {
+      "name": "FlowAI",
+      "version": "0.2.0",
+      "url": "https://github.com/tercen/flowai_operator.git",
+      "error": "ServiceError({statusCode: 400, error: unknown, reason: Exception: result file data uri is empty})"
+    },
+    {
       "name": "FlowClean",
       "version": "0.2.0",
       "url": "https://github.com/tercen/flowclean_operator.git",
@@ -443,11 +449,6 @@
       "name": "Flag Condition",
       "version": "0.1.4",
       "url": "https://github.com/tercen/flag_operator.git"
-    },
-    {
-      "name": "FlowAI",
-      "version": "0.1.5",
-      "url": "https://github.com/tercen/flowai_operator.git"
     },
     {
       "name": "FlowJo Export Operator",
