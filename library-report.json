@@ -85,12 +85,6 @@
       "error": "ServiceError({statusCode: 400, error: unknown, reason: FileSystemException: Cannot open file, path = '/var/lib/tercen/data/operator/c6/b4/c9/c9b4c679-b0b5-4a80-ad51-590f7c129176/tercen-peacoqc_operator-ee4cd69/tests/table2.csv' (OS Error: No such file or directory, errno = 2)})"
     },
     {
-      "name": "CSV (multiple files)",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/read_csv_operator.git",
-      "error": "ServiceError({statusCode: 400, error: operator.result.bad.column.type, reason: Bad column type -- .ci -- expected type int32 found double})"
-    },
-    {
       "name": "Regression Coefficients",
       "version": "0.1.0",
       "url": "https://github.com/tercen/regression_coefficients_operator.git",
@@ -730,6 +724,11 @@
       "name": "STRAF",
       "version": "0.1.3",
       "url": "https://github.com/tercen/read_STRAF_operator.git"
+    },
+    {
+      "name": "CSV (multiple files)",
+      "version": "0.1.3",
+      "url": "https://github.com/tercen/read_csv_operator.git"
     },
     {
       "name": "FASTA",
