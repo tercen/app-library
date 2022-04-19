@@ -38,7 +38,7 @@
     },
     {
       "name": "FlowClean",
-      "version": "0.2.0",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/flowclean_operator.git",
       "error": "ServiceError({statusCode: 400, error: unknown, reason: Exception: result file data uri is empty})"
     },
@@ -180,12 +180,6 @@
       "name": "Alignment Distance",
       "version": "0.1.1",
       "url": "https://github.com/tercen/dist_alignment_operator.git",
-      "error": "notest"
-    },
-    {
-      "name": "flowCut",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/flowCut2_operator.git",
       "error": "notest"
     },
     {
