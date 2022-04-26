@@ -79,6 +79,12 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
+      "name": "Cell Ranger",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/read_cellranger_operator.git",
+      "error": "ServiceError({statusCode: 400, error: unknown, reason: type 'int' is not a subtype of type 'String' in type cast})"
+    },
+    {
       "name": "Regression Coefficients",
       "version": "0.1.0",
       "url": "https://github.com/tercen/regression_coefficients_operator.git",
@@ -234,6 +240,12 @@
       "name": "Sequence to Table",
       "version": "0.0.3",
       "url": "https://github.com/tercen/seq2table_operator.git",
+      "error": "notest"
+    },
+    {
+      "name": "scRNA-seq feature selection",
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/testVar_operator.git",
       "error": "notest"
     },
     {
