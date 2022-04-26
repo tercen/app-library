@@ -14,11 +14,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:32.399491Z"
+      "value": "2021-06-22T12:25:34.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:32.399495Z"
+      "value": "2021-10-07T14:33:45.000Z"
     },
     "urls": [
       {
@@ -33,7 +33,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/DRC_fit_operator.git"
+      "uri": "https://github.com/tercen/DRC_fit_operator"
     },
     "version": "0.0.2",
     "authors": [
@@ -59,11 +59,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:33.198363Z"
+      "value": "2021-05-05T08:22:34.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:33.198367Z"
+      "value": "2022-02-10T15:38:04.000Z"
     },
     "urls": [
       {
@@ -77,7 +77,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/ETS_operator.git"
+      "uri": "https://github.com/tercen/ETS_operator"
     },
     "version": "0.1.1",
     "authors": [
@@ -103,11 +103,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:33.998128Z"
+      "value": "2020-07-10T17:41:43.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:33.998132Z"
+      "value": "2022-02-15T14:06:18.000Z"
     },
     "urls": [
       {
@@ -121,7 +121,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/IQR_operator.git"
+      "uri": "https://github.com/tercen/IQR_operator"
     },
     "version": "0.1.1",
     "authors": [
@@ -147,11 +147,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:34.534489Z"
+      "value": "2020-06-15T21:53:22.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:34.534493Z"
+      "value": "2021-12-02T17:48:01.000Z"
     },
     "urls": [
       {
@@ -165,7 +165,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/MEM_operator.git"
+      "uri": "https://github.com/tercen/MEM_operator"
     },
     "version": "1.2.1",
     "authors": [
@@ -191,11 +191,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:35.494417Z"
+      "value": "2021-06-11T11:41:20.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:35.494421Z"
+      "value": "2021-08-09T19:14:30.000Z"
     },
     "urls": [
       {
@@ -210,7 +210,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/PCA_shiny_operator.git"
+      "uri": "https://github.com/tercen/PCA_shiny_operator"
     },
     "version": "0.0.2",
     "authors": [
@@ -237,11 +237,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:36.019233Z"
+      "value": "2021-06-10T06:56:18.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:36.019237Z"
+      "value": "2021-10-07T18:22:30.000Z"
     },
     "urls": [
       {
@@ -256,7 +256,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/PTK_QC_presence_operator.git"
+      "uri": "https://github.com/tercen/PTK_QC_presence_operator"
     },
     "version": "0.0.1",
     "authors": [
@@ -282,11 +282,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:37.195918Z"
+      "value": "2021-05-07T09:19:57.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:37.195923Z"
+      "value": "2021-10-07T13:10:09.000Z"
     },
     "urls": [
       {
@@ -300,7 +300,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/S100_operator.git"
+      "uri": "https://github.com/tercen/S100_operator"
     },
     "version": "0.0.2",
     "authors": [
@@ -326,11 +326,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:40.628526Z"
+      "value": "2021-06-11T11:38:44.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:40.628529Z"
+      "value": "2022-03-14T12:07:55.000Z"
     },
     "urls": [
       {
@@ -345,7 +345,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/Venn_diag_shiny_operator.git"
+      "uri": "https://github.com/tercen/Venn_diag_shiny_operator"
     },
     "version": "0.0.1",
     "authors": [
@@ -372,11 +372,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:41.280357Z"
+      "value": "2020-10-06T17:57:48.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:41.280362Z"
+      "value": "2022-02-22T14:56:05.000Z"
     },
     "urls": [
       {
@@ -390,7 +390,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/add_operator.git"
+      "uri": "https://github.com/tercen/add_operator"
     },
     "version": "0.1.1",
     "authors": [
@@ -416,11 +416,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:42.722545Z"
+      "value": "2021-05-10T13:48:07.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:42.722548Z"
+      "value": "2021-10-07T14:01:13.000Z"
     },
     "urls": [
       {
@@ -436,7 +436,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/anova2_operator.git"
+      "uri": "https://github.com/tercen/anova2_operator"
     },
     "version": "0.0.1",
     "authors": [
@@ -462,11 +462,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:43.291349Z"
+      "value": "2021-06-25T09:42:49.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:43.291354Z"
+      "value": "2022-03-29T08:14:51.000Z"
     },
     "urls": [
       {
@@ -483,7 +483,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/anova_dunnett_operator.git"
+      "uri": "https://github.com/tercen/anova_dunnett_operator"
     },
     "version": "0.0.2",
     "authors": [
@@ -509,11 +509,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:43.881107Z"
+      "value": "2018-01-15T12:02:18.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:43.881111Z"
+      "value": "2021-10-07T13:43:42.000Z"
     },
     "urls": [
       {
@@ -529,7 +529,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/anova_operator.git"
+      "uri": "https://github.com/tercen/anova_operator"
     },
     "version": "0.11.5",
     "authors": [
@@ -555,11 +555,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:44.446052Z"
+      "value": "2018-10-12T05:27:56.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:44.446056Z"
+      "value": "2021-10-11T14:33:23.000Z"
     },
     "urls": [
       {
@@ -576,7 +576,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/asinh_operator.git"
+      "uri": "https://github.com/tercen/asinh_operator"
     },
     "version": "1.0.5",
     "authors": [
@@ -602,11 +602,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:47.115852Z"
+      "value": "2020-07-13T08:46:19.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:47.115857Z"
+      "value": "2021-06-18T10:53:18.000Z"
     },
     "urls": [
       {
@@ -620,7 +620,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/boxplot_shiny_operator.git"
+      "uri": "https://github.com/tercen/boxplot_shiny_operator"
     },
     "version": "0.0.3",
     "authors": [
@@ -647,11 +647,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:47.689258Z"
+      "value": "2018-09-25T07:14:07.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:47.689262Z"
+      "value": "2022-02-15T15:49:42.000Z"
     },
     "urls": [
       {
@@ -666,7 +666,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/calcnormfactors_operator.git"
+      "uri": "https://github.com/tercen/calcnormfactors_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -692,11 +692,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:48.978107Z"
+      "value": "2021-06-21T08:05:01.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:48.978111Z"
+      "value": "2021-10-15T13:29:08.000Z"
     },
     "urls": [
       {
@@ -711,7 +711,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/check_input1_operator.git"
+      "uri": "https://github.com/tercen/check_input1_operator"
     },
     "version": "0.0.3",
     "authors": [
@@ -737,11 +737,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:49.587308Z"
+      "value": "2020-10-21T17:43:32.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:49.587313Z"
+      "value": "2022-03-11T14:54:26.000Z"
     },
     "urls": [
       {
@@ -756,7 +756,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/chisquare_test_operator.git"
+      "uri": "https://github.com/tercen/chisquare_test_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -782,11 +782,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:51.008986Z"
+      "value": "2020-08-25T19:00:18.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:51.008993Z"
+      "value": "2022-03-11T15:07:50.000Z"
     },
     "urls": [
       {
@@ -800,7 +800,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/clustering_metrics_operator.git"
+      "uri": "https://github.com/tercen/clustering_metrics_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -826,11 +826,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:51.559734Z"
+      "value": "2020-10-07T21:18:50.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:51.559739Z"
+      "value": "2022-03-04T13:55:58.000Z"
     },
     "urls": [
       {
@@ -845,7 +845,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/clustering_tree_operator.git"
+      "uri": "https://github.com/tercen/clustering_tree_operator"
     },
     "version": "0.1.2",
     "authors": [
@@ -871,11 +871,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:52.265004Z"
+      "value": "2018-01-17T15:26:00.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:52.265008Z"
+      "value": "2021-10-21T15:25:13.000Z"
     },
     "urls": [
       {
@@ -889,7 +889,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/clusterx_operator.git"
+      "uri": "https://github.com/tercen/clusterx_operator"
     },
     "version": "0.12.0",
     "authors": [
@@ -915,11 +915,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:52.884833Z"
+      "value": "2021-10-08T07:33:29.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:52.884837Z"
+      "value": "2021-10-18T09:30:03.000Z"
     },
     "urls": [
       {
@@ -933,7 +933,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/col_flag_operator.git"
+      "uri": "https://github.com/tercen/col_flag_operator"
     },
     "version": "0.0.1",
     "authors": [
@@ -959,11 +959,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:53.492917Z"
+      "value": "2020-10-26T20:51:07.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:53.492920Z"
+      "value": "2022-02-22T15:12:14.000Z"
     },
     "urls": [
       {
@@ -979,7 +979,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/concatenate_operator.git"
+      "uri": "https://github.com/tercen/concatenate_operator"
     },
     "version": "0.1.2",
     "authors": [
@@ -1005,11 +1005,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:54.206919Z"
+      "value": "2018-09-03T09:30:21.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:54.206923Z"
+      "value": "2021-06-18T11:05:49.000Z"
     },
     "urls": [
       {
@@ -1023,7 +1023,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/constant_operator.git"
+      "uri": "https://github.com/tercen/constant_operator"
     },
     "version": "1.0.1",
     "authors": [
@@ -1049,11 +1049,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:55.557874Z"
+      "value": "2017-11-17T12:03:27.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:55.557879Z"
+      "value": "2021-06-18T11:08:00.000Z"
     },
     "urls": [
       {
@@ -1067,7 +1067,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/count_operator.git"
+      "uri": "https://github.com/tercen/count_operator"
     },
     "version": "0.10.1",
     "authors": [
@@ -1093,11 +1093,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:56.465575Z"
+      "value": "2016-02-10T09:34:07.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:56.465580Z"
+      "value": "2022-03-08T13:55:04.000Z"
     },
     "urls": [
       {
@@ -1111,7 +1111,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/curvefitter_shiny_operator.git"
+      "uri": "https://github.com/tercen/curvefitter_shiny_operator"
     },
     "version": "0.0.6",
     "authors": [
@@ -1138,11 +1138,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:57.205693Z"
+      "value": "2018-04-29T11:53:32.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:57.205698Z"
+      "value": "2022-01-21T18:16:18.000Z"
     },
     "urls": [
       {
@@ -1156,7 +1156,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/cv_operator.git"
+      "uri": "https://github.com/tercen/cv_operator"
     },
     "version": "1.0.0",
     "authors": [
@@ -1182,11 +1182,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:57.824350Z"
+      "value": "2021-08-08T19:21:22.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:57.824353Z"
+      "value": "2022-03-22T14:19:21.000Z"
     },
     "urls": [
       {
@@ -1201,7 +1201,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/cytonorm_operator.git"
+      "uri": "https://github.com/tercen/cytonorm_operator"
     },
     "version": "1.2.0",
     "authors": [
@@ -1228,11 +1228,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:59.509535Z"
+      "value": "2018-03-27T10:44:45.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:15:59.509539Z"
+      "value": "2021-07-26T15:35:32.000Z"
     },
     "urls": [
       {
@@ -1246,7 +1246,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/density_operator.git"
+      "uri": "https://github.com/tercen/density_operator"
     },
     "version": "0.11.1",
     "authors": [
@@ -1272,11 +1272,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:00.279442Z"
+      "value": "2021-01-08T13:58:57.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:00.279446Z"
+      "value": "2021-06-18T11:14:34.000Z"
     },
     "urls": [
       {
@@ -1291,7 +1291,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/densityplot_shiny_operator.git"
+      "uri": "https://github.com/tercen/densityplot_shiny_operator"
     },
     "version": "0.0.4",
     "authors": [
@@ -1318,11 +1318,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:03.332904Z"
+      "value": "2020-08-21T16:51:09.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:03.332908Z"
+      "value": "2022-02-24T13:18:45.000Z"
     },
     "urls": [
       {
@@ -1337,7 +1337,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/downsample_operator.git"
+      "uri": "https://github.com/tercen/downsample_operator"
     },
     "version": "0.1.3",
     "authors": [
@@ -1363,11 +1363,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:04.111583Z"
+      "value": "2021-05-10T13:59:24.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:04.111587Z"
+      "value": "2021-08-12T09:30:41.000Z"
     },
     "urls": [
       {
@@ -1381,7 +1381,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/export_crosstab_shiny_operator.git"
+      "uri": "https://github.com/tercen/export_crosstab_shiny_operator"
     },
     "version": "0.0.3",
     "authors": [
@@ -1408,11 +1408,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:04.755280Z"
+      "value": "2021-12-06T13:29:10.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:04.755284Z"
+      "value": "2021-12-07T13:33:07.000Z"
     },
     "urls": [
       {
@@ -1428,7 +1428,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/fast_rphenograph_operator.git"
+      "uri": "https://github.com/tercen/fast_rphenograph_operator"
     },
     "version": "1.1.1",
     "authors": [
@@ -1454,11 +1454,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:06.200928Z"
+      "value": "2020-10-26T22:03:54.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:06.200932Z"
+      "value": "2022-03-03T16:20:22.000Z"
     },
     "urls": [
       {
@@ -1473,7 +1473,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/flag_operator.git"
+      "uri": "https://github.com/tercen/flag_operator"
     },
     "version": "0.1.4",
     "authors": [
@@ -1499,11 +1499,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:06.765032Z"
+      "value": "2019-10-20T08:28:00.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:06.765038Z"
+      "value": "2022-04-22T12:16:36.000Z"
     },
     "urls": [
       {
@@ -1517,9 +1517,53 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/flowai_operator.git"
+      "uri": "https://github.com/tercen/flowai_operator"
     },
     "version": "0.2.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Flow Cytometry Cleaning: A quality control tool for fluorescence anomalies in flow cytometry data. Based on compositional data analysis.",
+    "name": "FlowClean",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-04-19T07:00:43.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-04-26T13:55:00.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/flowclean_operator"
+      }
+    ],
+    "tags": [
+      "flowcytometry"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/flowclean_operator"
+    },
+    "version": "0.2.2",
     "authors": [
       "tercen"
     ],
@@ -1543,11 +1587,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:08.717480Z"
+      "value": "2022-04-05T15:01:04.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:08.717484Z"
+      "value": "2022-04-14T13:53:07.000Z"
     },
     "urls": [
       {
@@ -1561,7 +1605,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/flowjo_export_operator.git"
+      "uri": "https://github.com/tercen/flowjo_export_operator"
     },
     "version": "0.0.5",
     "authors": [
@@ -1587,11 +1631,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:09.725774Z"
+      "value": "2020-06-18T08:48:11.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:09.725779Z"
+      "value": "2022-03-31T08:53:58.000Z"
     },
     "urls": [
       {
@@ -1606,7 +1650,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/flowsom_operator.git"
+      "uri": "https://github.com/tercen/flowsom_operator"
     },
     "version": "1.3.1",
     "authors": [
@@ -1633,11 +1677,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:11.075525Z"
+      "value": "2018-04-27T19:01:00.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:11.075529Z"
+      "value": "2021-06-18T15:20:37.000Z"
     },
     "urls": [
       {
@@ -1651,7 +1695,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/foldchange_operator.git"
+      "uri": "https://github.com/tercen/foldchange_operator"
     },
     "version": "0.10.1",
     "authors": [
@@ -1677,11 +1721,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:12.907711Z"
+      "value": "2021-12-27T15:00:56.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:12.907715Z"
+      "value": "2022-03-11T11:31:29.000Z"
     },
     "urls": [
       {
@@ -1695,7 +1739,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/globaltest_operator.git"
+      "uri": "https://github.com/tercen/globaltest_operator"
     },
     "version": "0.1.1",
     "authors": [
@@ -1721,11 +1765,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:14.642224Z"
+      "value": "2018-01-17T11:31:26.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:14.642227Z"
+      "value": "2021-10-18T14:04:59.000Z"
     },
     "urls": [
       {
@@ -1739,7 +1783,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/hclust_operator.git"
+      "uri": "https://github.com/tercen/hclust_operator"
     },
     "version": "1.0.0",
     "authors": [
@@ -1765,11 +1809,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:15.099319Z"
+      "value": "2021-04-26T18:22:59.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:15.099323Z"
+      "value": "2022-03-18T11:27:36.000Z"
     },
     "urls": [
       {
@@ -1784,7 +1828,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/heatmap_dashboard_operator.git"
+      "uri": "https://github.com/tercen/heatmap_dashboard_operator"
     },
     "version": "0.3.0",
     "authors": [
@@ -1812,11 +1856,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:15.851627Z"
+      "value": "2020-05-19T14:19:37.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:15.851630Z"
+      "value": "2021-07-22T08:33:39.000Z"
     },
     "urls": [
       {
@@ -1830,7 +1874,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/heatmap_shiny_operator.git"
+      "uri": "https://github.com/tercen/heatmap_shiny_operator"
     },
     "version": "0.1.8",
     "authors": [
@@ -1857,11 +1901,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:16.386323Z"
+      "value": "2020-10-18T16:45:44.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:16.386327Z"
+      "value": "2022-03-01T18:18:53.000Z"
     },
     "urls": [
       {
@@ -1875,7 +1919,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/hierarchical_clustering_operator.git"
+      "uri": "https://github.com/tercen/hierarchical_clustering_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -1901,11 +1945,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:17.050820Z"
+      "value": "2020-10-30T19:57:49.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:17.050823Z"
+      "value": "2022-03-11T14:45:19.000Z"
     },
     "urls": [
       {
@@ -1921,7 +1965,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/histogram_operator.git"
+      "uri": "https://github.com/tercen/histogram_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -1947,11 +1991,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:17.606956Z"
+      "value": "2021-06-07T06:51:26.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:17.606959Z"
+      "value": "2021-10-11T09:37:08.000Z"
     },
     "urls": [
       {
@@ -1966,7 +2010,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/identity_operator.git"
+      "uri": "https://github.com/tercen/identity_operator"
     },
     "version": "0.0.1",
     "authors": [
@@ -1992,11 +2036,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:18.180068Z"
+      "value": "2019-04-04T20:44:38.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:18.180072Z"
+      "value": "2022-03-04T13:39:50.000Z"
     },
     "urls": [
       {
@@ -2010,7 +2054,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/impute_operator.git"
+      "uri": "https://github.com/tercen/impute_operator"
     },
     "version": "0.2.0",
     "authors": [
@@ -2036,11 +2080,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:19.006283Z"
+      "value": "2020-10-22T16:19:07.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:19.006287Z"
+      "value": "2021-02-23T06:31:30.000Z"
     },
     "urls": [
       {
@@ -2054,7 +2098,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/iopener_dashboard_operator.git"
+      "uri": "https://github.com/tercen/iopener_dashboard_operator"
     },
     "version": "0.0.11",
     "authors": [
@@ -2081,11 +2125,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:20.836540Z"
+      "value": "2020-12-11T16:52:40.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:20.836543Z"
+      "value": "2022-02-28T21:19:26.000Z"
     },
     "urls": [
       {
@@ -2100,7 +2144,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/kruskaltest_operator.git"
+      "uri": "https://github.com/tercen/kruskaltest_operator"
     },
     "version": "0.1.1",
     "authors": [
@@ -2126,11 +2170,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:21.472095Z"
+      "value": "2020-11-07T19:12:06.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:21.472099Z"
+      "value": "2022-03-11T15:35:14.000Z"
     },
     "urls": [
       {
@@ -2144,7 +2188,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/lagpad_operator.git"
+      "uri": "https://github.com/tercen/lagpad_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -2170,11 +2214,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:22.227493Z"
+      "value": "2020-05-14T17:42:39.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:22.227497Z"
+      "value": "2021-07-22T08:52:43.000Z"
     },
     "urls": [
       {
@@ -2188,7 +2232,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/lm_operator.git"
+      "uri": "https://github.com/tercen/lm_operator"
     },
     "version": "1.0.2",
     "authors": [
@@ -2214,11 +2258,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:22.788166Z"
+      "value": "2020-10-23T21:45:42.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:22.788170Z"
+      "value": "2022-03-03T16:07:17.000Z"
     },
     "urls": [
       {
@@ -2234,7 +2278,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/loess_smoothing_operator.git"
+      "uri": "https://github.com/tercen/loess_smoothing_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -2260,11 +2304,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:23.405767Z"
+      "value": "2021-05-10T13:44:20.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:23.405771Z"
+      "value": "2021-10-07T13:23:16.000Z"
     },
     "urls": [
       {
@@ -2279,7 +2323,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/log_cutoff_operator.git"
+      "uri": "https://github.com/tercen/log_cutoff_operator"
     },
     "version": "0.0.2",
     "authors": [
@@ -2305,11 +2349,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:23.994104Z"
+      "value": "2017-11-17T12:14:06.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:23.994108Z"
+      "value": "2021-07-22T08:56:45.000Z"
     },
     "urls": [
       {
@@ -2325,7 +2369,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/log_operator.git"
+      "uri": "https://github.com/tercen/log_operator"
     },
     "version": "1.0.2",
     "authors": [
@@ -2351,11 +2395,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:24.543919Z"
+      "value": "2018-04-29T10:13:32.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:24.543922Z"
+      "value": "2021-07-26T15:44:02.000Z"
     },
     "urls": [
       {
@@ -2369,7 +2413,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/logfoldchange_operator.git"
+      "uri": "https://github.com/tercen/logfoldchange_operator"
     },
     "version": "0.9.1",
     "authors": [
@@ -2395,11 +2439,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:25.113825Z"
+      "value": "2020-10-20T19:17:31.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:25.113829Z"
+      "value": "2022-03-03T15:41:30.000Z"
     },
     "urls": [
       {
@@ -2415,7 +2459,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/logistic_regression_operator.git"
+      "uri": "https://github.com/tercen/logistic_regression_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -2441,11 +2485,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:25.739594Z"
+      "value": "2020-12-28T13:22:46.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:25.739597Z"
+      "value": "2022-03-01T11:12:29.000Z"
     },
     "urls": [
       {
@@ -2461,7 +2505,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/logit_operator.git"
+      "uri": "https://github.com/tercen/logit_operator"
     },
     "version": "0.1.4",
     "authors": [
@@ -2487,11 +2531,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:26.342457Z"
+      "value": "2019-02-05T16:34:10.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:26.342461Z"
+      "value": "2022-02-22T15:22:37.000Z"
     },
     "urls": [
       {
@@ -2505,7 +2549,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/max_operator.git"
+      "uri": "https://github.com/tercen/max_operator"
     },
     "version": "0.1.2",
     "authors": [
@@ -2531,11 +2575,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:27.611977Z"
+      "value": "2021-05-24T08:36:50.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:27.611981Z"
+      "value": "2021-07-20T09:12:53.000Z"
     },
     "urls": [
       {
@@ -2549,7 +2593,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/mean_and_cv_shiny_operator.git"
+      "uri": "https://github.com/tercen/mean_and_cv_shiny_operator"
     },
     "version": "0.0.1",
     "authors": [
@@ -2576,11 +2620,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:28.182217Z"
+      "value": "2017-10-21T13:22:50.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:28.182222Z"
+      "value": "2022-04-21T10:13:58.000Z"
     },
     "urls": [
       {
@@ -2594,7 +2638,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/mean_operator.git"
+      "uri": "https://github.com/tercen/mean_operator"
     },
     "version": "1.1.0",
     "authors": [
@@ -2620,11 +2664,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:28.727224Z"
+      "value": "2018-11-03T13:57:53.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:28.727228Z"
+      "value": "2022-02-24T14:00:29.000Z"
     },
     "urls": [
       {
@@ -2638,7 +2682,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/mean_sd_operator.git"
+      "uri": "https://github.com/tercen/mean_sd_operator"
     },
     "version": "0.1.2",
     "authors": [
@@ -2664,11 +2708,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:29.243610Z"
+      "value": "2019-02-05T16:29:01.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:29.243620Z"
+      "value": "2021-10-11T14:00:31.000Z"
     },
     "urls": [
       {
@@ -2682,7 +2726,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/median_operator.git"
+      "uri": "https://github.com/tercen/median_operator"
     },
     "version": "1.0.18",
     "authors": [
@@ -2708,11 +2752,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:29.805460Z"
+      "value": "2021-01-08T14:05:43.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:29.805464Z"
+      "value": "2022-03-01T13:18:39.000Z"
     },
     "urls": [
       {
@@ -2726,7 +2770,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/minmax_scale_operator.git"
+      "uri": "https://github.com/tercen/minmax_scale_operator"
     },
     "version": "0.1.2",
     "authors": [
@@ -2752,11 +2796,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:30.393009Z"
+      "value": "2021-06-07T12:48:12.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:30.393013Z"
+      "value": "2022-02-15T15:07:26.000Z"
     },
     "urls": [
       {
@@ -2771,7 +2815,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/minus_operator.git"
+      "uri": "https://github.com/tercen/minus_operator"
     },
     "version": "0.1.2",
     "authors": [
@@ -2797,11 +2841,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:31.597799Z"
+      "value": "2021-06-25T09:41:43.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:31.597803Z"
+      "value": "2022-02-07T15:37:31.000Z"
     },
     "urls": [
       {
@@ -2816,7 +2860,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/model_based_clustering_operator.git"
+      "uri": "https://github.com/tercen/model_based_clustering_operator"
     },
     "version": "0.0.2",
     "authors": [
@@ -2842,11 +2886,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:32.921714Z"
+      "value": "2020-10-03T21:40:31.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:32.921718Z"
+      "value": "2021-07-26T15:46:33.000Z"
     },
     "urls": [
       {
@@ -2860,7 +2904,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/msa_shiny_operator.git"
+      "uri": "https://github.com/tercen/msa_shiny_operator"
     },
     "version": "0.0.4",
     "authors": [
@@ -2887,11 +2931,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:33.528810Z"
+      "value": "2020-10-30T21:05:53.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:33.528814Z"
+      "value": "2022-03-11T16:05:29.000Z"
     },
     "urls": [
       {
@@ -2906,7 +2950,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/multiple_testing_operator.git"
+      "uri": "https://github.com/tercen/multiple_testing_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -2932,11 +2976,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:34.085126Z"
+      "value": "2021-01-08T14:06:17.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:34.085129Z"
+      "value": "2022-02-24T14:14:49.000Z"
     },
     "urls": [
       {
@@ -2950,7 +2994,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/multiply_operator.git"
+      "uri": "https://github.com/tercen/multiply_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -2976,11 +3020,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:35.617485Z"
+      "value": "2019-04-23T07:05:30.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:35.617488Z"
+      "value": "2022-02-18T15:22:15.000Z"
     },
     "urls": [
       {
@@ -2994,7 +3038,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/negative_operator.git"
+      "uri": "https://github.com/tercen/negative_operator"
     },
     "version": "0.1.3",
     "authors": [
@@ -3020,11 +3064,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:36.194122Z"
+      "value": "2019-11-10T20:22:32.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:36.194126Z"
+      "value": "2022-03-22T14:15:49.000Z"
     },
     "urls": [
       {
@@ -3039,7 +3083,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/neighbourhood_operator.git"
+      "uri": "https://github.com/tercen/neighbourhood_operator"
     },
     "version": "0.1.1",
     "authors": [
@@ -3065,11 +3109,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:37.262167Z"
+      "value": "2021-06-21T08:09:27.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:37.262170Z"
+      "value": "2021-10-07T18:40:36.000Z"
     },
     "urls": [
       {
@@ -3084,7 +3128,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/nominal_cv_estimate_operator.git"
+      "uri": "https://github.com/tercen/nominal_cv_estimate_operator"
     },
     "version": "0.0.1",
     "authors": [
@@ -3110,11 +3154,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:37.865297Z"
+      "value": "2021-02-07T00:58:52.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:37.865300Z"
+      "value": "2021-10-18T16:31:22.000Z"
     },
     "urls": [
       {
@@ -3130,7 +3174,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/nonlinear_regression_operator.git"
+      "uri": "https://github.com/tercen/nonlinear_regression_operator"
     },
     "version": "1.0.5",
     "authors": [
@@ -3156,11 +3200,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:39.570486Z"
+      "value": "2022-03-31T13:08:24.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:39.570491Z"
+      "value": "2022-04-07T13:24:08.000Z"
     },
     "urls": [
       {
@@ -3175,7 +3219,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/opencyto_operator.git"
+      "uri": "https://github.com/tercen/opencyto_operator"
     },
     "version": "0.2.0",
     "authors": [
@@ -3202,11 +3246,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:40.670166Z"
+      "value": "2020-08-25T12:12:58.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:40.670170Z"
+      "value": "2021-10-07T13:41:37.000Z"
     },
     "urls": [
       {
@@ -3220,7 +3264,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/orderBy_operator.git"
+      "uri": "https://github.com/tercen/orderBy_operator"
     },
     "version": "0.1.3",
     "authors": [
@@ -3246,11 +3290,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:41.323091Z"
+      "value": "2020-06-20T18:03:14.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:41.323096Z"
+      "value": "2022-03-10T13:57:03.000Z"
     },
     "urls": [
       {
@@ -3264,7 +3308,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/pairwise_distance_operator.git"
+      "uri": "https://github.com/tercen/pairwise_distance_operator"
     },
     "version": "0.1.5",
     "authors": [
@@ -3290,11 +3334,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:41.698653Z"
+      "value": "2021-07-20T08:44:46.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:41.698657Z"
+      "value": "2022-01-26T15:31:50.000Z"
     },
     "urls": [
       {
@@ -3308,7 +3352,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/pamsoft_grid_operator.git"
+      "uri": "https://github.com/tercen/pamsoft_grid_operator"
     },
     "version": "1.0.48",
     "authors": [
@@ -3336,11 +3380,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:42.082935Z"
+      "value": "2021-08-23T11:06:25.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:42.082939Z"
+      "value": "2022-01-26T14:02:23.000Z"
     },
     "urls": [
       {
@@ -3354,7 +3398,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/pamsoft_grid_qt_operator.git"
+      "uri": "https://github.com/tercen/pamsoft_grid_qt_operator"
     },
     "version": "1.0.48",
     "authors": [
@@ -3381,11 +3425,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:42.866704Z"
+      "value": "2021-10-04T06:56:04.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:42.866708Z"
+      "value": "2022-02-15T18:37:27.000Z"
     },
     "urls": [
       {
@@ -3400,7 +3444,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/pamsoft_grid_shiny_operator.git"
+      "uri": "https://github.com/tercen/pamsoft_grid_shiny_operator"
     },
     "version": "1.0.25",
     "authors": [
@@ -3427,11 +3471,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:43.695100Z"
+      "value": "2017-08-15T15:56:37.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:43.695105Z"
+      "value": "2022-02-25T16:00:12.000Z"
     },
     "urls": [
       {
@@ -3445,7 +3489,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/pca_operator.git"
+      "uri": "https://github.com/tercen/pca_operator"
     },
     "version": "1.1.4",
     "authors": [
@@ -3471,11 +3515,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:44.265167Z"
+      "value": "2021-07-21T07:21:33.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:44.265171Z"
+      "value": "2022-04-22T12:03:22.000Z"
     },
     "urls": [
       {
@@ -3490,7 +3534,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/peacoqc_operator.git"
+      "uri": "https://github.com/tercen/peacoqc_operator"
     },
     "version": "0.2.2",
     "authors": [
@@ -3516,11 +3560,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:45.672012Z"
+      "value": "2018-01-18T10:02:05.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:45.672016Z"
+      "value": "2021-07-22T09:36:11.000Z"
     },
     "urls": [
       {
@@ -3536,7 +3580,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/pearson_operator.git"
+      "uri": "https://github.com/tercen/pearson_operator"
     },
     "version": "0.10.1",
     "authors": [
@@ -3562,11 +3606,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:46.263971Z"
+      "value": "2019-01-14T09:54:37.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:46.263976Z"
+      "value": "2022-03-01T14:23:47.000Z"
     },
     "urls": [
       {
@@ -3580,7 +3624,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/percentile_operator.git"
+      "uri": "https://github.com/tercen/percentile_operator"
     },
     "version": "0.1.2",
     "authors": [
@@ -3606,11 +3650,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:47.421118Z"
+      "value": "2021-06-04T13:25:24.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:47.421121Z"
+      "value": "2022-02-07T16:38:13.000Z"
     },
     "urls": [
       {
@@ -3625,7 +3669,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/plot_fcs_shiny_operator.git"
+      "uri": "https://github.com/tercen/plot_fcs_shiny_operator"
     },
     "version": "0.1.8",
     "authors": [
@@ -3653,11 +3697,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:48.248528Z"
+      "value": "2018-09-25T18:05:16.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:48.248566Z"
+      "value": "2022-02-24T14:52:12.000Z"
     },
     "urls": [
       {
@@ -3671,7 +3715,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/product_operator.git"
+      "uri": "https://github.com/tercen/product_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -3697,11 +3741,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:48.817920Z"
+      "value": "2021-01-08T22:04:26.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:48.817925Z"
+      "value": "2022-03-01T14:04:17.000Z"
     },
     "urls": [
       {
@@ -3716,7 +3760,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/proportion_operator.git"
+      "uri": "https://github.com/tercen/proportion_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -3742,11 +3786,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:49.346173Z"
+      "value": "2021-03-30T14:57:22.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:49.346178Z"
+      "value": "2021-10-19T16:02:02.000Z"
     },
     "urls": [
       {
@@ -3761,7 +3805,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/ps12image_operator.git"
+      "uri": "https://github.com/tercen/ps12image_operator"
     },
     "version": "1.0.0",
     "authors": [
@@ -3787,11 +3831,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:50.152240Z"
+      "value": "2021-04-27T12:55:21.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:50.152243Z"
+      "value": "2021-07-13T12:41:40.000Z"
     },
     "urls": [
       {
@@ -3806,7 +3850,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/ps12image_overview_shiny_operator.git"
+      "uri": "https://github.com/tercen/ps12image_overview_shiny_operator"
     },
     "version": "0.0.2",
     "authors": [
@@ -3833,11 +3877,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:50.685116Z"
+      "value": "2020-10-30T21:39:11.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:50.685120Z"
+      "value": "2022-03-03T15:29:57.000Z"
     },
     "urls": [
       {
@@ -3852,7 +3896,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/qqplot_operator.git"
+      "uri": "https://github.com/tercen/qqplot_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -3878,11 +3922,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:51.427977Z"
+      "value": "2020-06-19T21:10:08.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:51.427983Z"
+      "value": "2022-02-24T14:58:05.000Z"
     },
     "urls": [
       {
@@ -3897,7 +3941,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/randomlabel_operator.git"
+      "uri": "https://github.com/tercen/randomlabel_operator"
     },
     "version": "1.0.6",
     "authors": [
@@ -3923,11 +3967,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:52.042267Z"
+      "value": "2021-06-24T08:24:40.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:52.042273Z"
+      "value": "2021-10-14T11:53:23.000Z"
     },
     "urls": [
       {
@@ -3942,7 +3986,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/rank_by_row_mean_operator.git"
+      "uri": "https://github.com/tercen/rank_by_row_mean_operator"
     },
     "version": "0.0.1",
     "authors": [
@@ -3968,11 +4012,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:52.627358Z"
+      "value": "2018-09-12T09:54:01.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:52.627362Z"
+      "value": "2021-07-22T09:45:51.000Z"
     },
     "urls": [
       {
@@ -3986,7 +4030,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/ratio_operator.git"
+      "uri": "https://github.com/tercen/ratio_operator"
     },
     "version": "1.9.1",
     "authors": [
@@ -4012,11 +4056,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:53.809466Z"
+      "value": "2020-09-28T17:39:41.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:53.809470Z"
+      "value": "2022-03-10T14:53:06.000Z"
     },
     "urls": [
       {
@@ -4031,7 +4075,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/read_STRAF_operator.git"
+      "uri": "https://github.com/tercen/read_STRAF_operator"
     },
     "version": "0.1.3",
     "authors": [
@@ -4057,11 +4101,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:55.490563Z"
+      "value": "2021-08-17T15:55:35.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:55.490566Z"
+      "value": "2022-04-17T21:20:53.000Z"
     },
     "urls": [
       {
@@ -4076,7 +4120,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/read_csv_operator.git"
+      "uri": "https://github.com/tercen/read_csv_operator"
     },
     "version": "0.1.3",
     "authors": [
@@ -4102,11 +4146,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:56.045533Z"
+      "value": "2020-10-03T20:54:42.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:56.045537Z"
+      "value": "2022-03-14T17:10:06.000Z"
     },
     "urls": [
       {
@@ -4121,7 +4165,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/read_fasta_operator.git"
+      "uri": "https://github.com/tercen/read_fasta_operator"
     },
     "version": "0.1.7",
     "authors": [
@@ -4147,11 +4191,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:56.874545Z"
+      "value": "2020-07-08T10:16:06.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:56.874549Z"
+      "value": "2022-02-04T15:29:40.000Z"
     },
     "urls": [
       {
@@ -4166,7 +4210,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/read_fcs_operator.git"
+      "uri": "https://github.com/tercen/read_fcs_operator"
     },
     "version": "1.2.9",
     "authors": [
@@ -4192,11 +4236,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:57.442710Z"
+      "value": "2020-10-10T15:57:20.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:57.442715Z"
+      "value": "2022-03-14T17:29:45.000Z"
     },
     "urls": [
       {
@@ -4211,7 +4255,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/read_gmt_operator.git"
+      "uri": "https://github.com/tercen/read_gmt_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -4237,11 +4281,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:58.151011Z"
+      "value": "2021-08-10T16:53:52.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:58.151028Z"
+      "value": "2021-11-12T14:00:32.000Z"
     },
     "urls": [
       {
@@ -4257,7 +4301,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/read_pgcube_operator.git"
+      "uri": "https://github.com/tercen/read_pgcube_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -4283,11 +4327,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:58.880155Z"
+      "value": "2020-08-21T08:22:23.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:58.880159Z"
+      "value": "2022-03-10T11:31:11.000Z"
     },
     "urls": [
       {
@@ -4302,7 +4346,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/readrds_operator.git"
+      "uri": "https://github.com/tercen/readrds_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -4328,11 +4372,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:59.504344Z"
+      "value": "2020-07-18T08:03:39.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:16:59.504347Z"
+      "value": "2022-03-10T10:39:31.000Z"
     },
     "urls": [
       {
@@ -4347,7 +4391,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/readxl_operator.git"
+      "uri": "https://github.com/tercen/readxl_operator"
     },
     "version": "1.2.0",
     "authors": [
@@ -4373,11 +4417,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:00.700053Z"
+      "value": "2020-10-10T16:56:45.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:00.700057Z"
+      "value": "2022-02-24T15:51:39.000Z"
     },
     "urls": [
       {
@@ -4391,7 +4435,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/replace_operator.git"
+      "uri": "https://github.com/tercen/replace_operator"
     },
     "version": "0.1.1",
     "authors": [
@@ -4417,11 +4461,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:02.396003Z"
+      "value": "2018-01-16T13:42:36.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:02.396007Z"
+      "value": "2021-07-26T15:51:21.000Z"
     },
     "urls": [
       {
@@ -4435,7 +4479,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/rfImp_operator.git"
+      "uri": "https://github.com/tercen/rfImp_operator"
     },
     "version": "1.9.1",
     "authors": [
@@ -4461,11 +4505,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:03.187585Z"
+      "value": "2020-10-15T16:29:01.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:03.187589Z"
+      "value": "2022-02-24T16:22:14.000Z"
     },
     "urls": [
       {
@@ -4481,7 +4525,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/round_operator.git"
+      "uri": "https://github.com/tercen/round_operator"
     },
     "version": "0.1.2",
     "authors": [
@@ -4507,11 +4551,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:03.791211Z"
+      "value": "2018-10-11T21:36:17.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:03.791215Z"
+      "value": "2021-12-08T15:53:57.000Z"
     },
     "urls": [
       {
@@ -4527,7 +4571,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/rphenograph_operator.git"
+      "uri": "https://github.com/tercen/rphenograph_operator"
     },
     "version": "1.4.3",
     "authors": [
@@ -4553,11 +4597,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:04.422387Z"
+      "value": "2019-01-14T13:44:53.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:04.422391Z"
+      "value": "2022-02-13T16:35:11.000Z"
     },
     "urls": [
       {
@@ -4571,7 +4615,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/sample_operator.git"
+      "uri": "https://github.com/tercen/sample_operator"
     },
     "version": "0.2.0",
     "authors": [
@@ -4597,11 +4641,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:05.350519Z"
+      "value": "2017-11-17T11:57:56.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:05.350523Z"
+      "value": "2021-07-26T15:54:04.000Z"
     },
     "urls": [
       {
@@ -4615,7 +4659,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/scale_operator.git"
+      "uri": "https://github.com/tercen/scale_operator"
     },
     "version": "0.10.1",
     "authors": [
@@ -4641,11 +4685,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:06.100277Z"
+      "value": "2021-01-08T23:43:59.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:06.100282Z"
+      "value": "2021-07-26T15:55:55.000Z"
     },
     "urls": [
       {
@@ -4659,7 +4703,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/scatterplot_shiny_operator.git"
+      "uri": "https://github.com/tercen/scatterplot_shiny_operator"
     },
     "version": "0.0.2",
     "authors": [
@@ -4686,11 +4730,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:06.730811Z"
+      "value": "2018-04-29T11:02:11.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:06.730815Z"
+      "value": "2021-07-22T10:14:54.000Z"
     },
     "urls": [
       {
@@ -4704,7 +4748,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/sd_operator.git"
+      "uri": "https://github.com/tercen/sd_operator"
     },
     "version": "0.9.1",
     "authors": [
@@ -4730,11 +4774,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:07.338566Z"
+      "value": "2020-08-30T13:22:46.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:07.338569Z"
+      "value": "2022-02-25T14:13:53.000Z"
     },
     "urls": [
       {
@@ -4748,7 +4792,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/separate_operator.git"
+      "uri": "https://github.com/tercen/separate_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -4774,11 +4818,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:08.762976Z"
+      "value": "2020-07-27T19:52:07.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:08.762980Z"
+      "value": "2022-02-25T14:28:16.000Z"
     },
     "urls": [
       {
@@ -4792,7 +4836,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/seqlen_operator.git"
+      "uri": "https://github.com/tercen/seqlen_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -4818,11 +4862,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:09.350524Z"
+      "value": "2019-01-14T09:54:57.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:09.350528Z"
+      "value": "2022-02-13T17:05:08.000Z"
     },
     "urls": [
       {
@@ -4836,7 +4880,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/shift_operator.git"
+      "uri": "https://github.com/tercen/shift_operator"
     },
     "version": "0.2.0",
     "authors": [
@@ -4862,11 +4906,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:10.250590Z"
+      "value": "2018-04-29T16:13:07.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:10.250594Z"
+      "value": "2021-07-26T16:01:30.000Z"
     },
     "urls": [
       {
@@ -4880,7 +4924,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/signchange_operator.git"
+      "uri": "https://github.com/tercen/signchange_operator"
     },
     "version": "0.9.1",
     "authors": [
@@ -4906,11 +4950,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:10.686234Z"
+      "value": "2021-03-08T16:01:27.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:10.686237Z"
+      "value": "2022-03-16T10:25:55.000Z"
     },
     "urls": [
       {
@@ -4924,7 +4968,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/simple_docker_operator.git"
+      "uri": "https://github.com/tercen/simple_docker_operator"
     },
     "version": "0.14.4",
     "authors": [
@@ -4951,11 +4995,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:11.826302Z"
+      "value": "2020-12-28T13:22:34.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:11.826305Z"
+      "value": "2022-02-25T15:29:30.000Z"
     },
     "urls": [
       {
@@ -4971,7 +5015,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/sqrt_operator.git"
+      "uri": "https://github.com/tercen/sqrt_operator"
     },
     "version": "0.1.3",
     "authors": [
@@ -4997,11 +5041,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:13.023693Z"
+      "value": "2018-11-03T13:06:34.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:13.023697Z"
+      "value": "2022-02-18T14:35:20.000Z"
     },
     "urls": [
       {
@@ -5015,7 +5059,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/subtract_operator.git"
+      "uri": "https://github.com/tercen/subtract_operator"
     },
     "version": "0.1.3",
     "authors": [
@@ -5041,11 +5085,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:13.686476Z"
+      "value": "2018-09-12T09:18:04.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:13.686480Z"
+      "value": "2022-03-07T18:57:13.000Z"
     },
     "urls": [
       {
@@ -5059,7 +5103,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/sum_operator.git"
+      "uri": "https://github.com/tercen/sum_operator"
     },
     "version": "1.9.2",
     "authors": [
@@ -5085,11 +5129,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:14.220285Z"
+      "value": "2020-02-13T16:26:14.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:14.220289Z"
+      "value": "2021-10-01T14:31:03.000Z"
     },
     "urls": [
       {
@@ -5103,7 +5147,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/template_R_operator.git"
+      "uri": "https://github.com/tercen/template_R_operator"
     },
     "version": "1.0.11",
     "authors": [
@@ -5129,11 +5173,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:16.064558Z"
+      "value": "2020-07-27T10:19:27.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:16.064562Z"
+      "value": "2022-02-25T14:45:34.000Z"
     },
     "urls": [
       {
@@ -5147,7 +5191,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/topn_operator.git"
+      "uri": "https://github.com/tercen/topn_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -5173,11 +5217,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:18.622015Z"
+      "value": "2017-11-17T11:43:50.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:18.622019Z"
+      "value": "2021-11-08T21:42:26.000Z"
     },
     "urls": [
       {
@@ -5193,7 +5237,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/tsne_operator.git"
+      "uri": "https://github.com/tercen/tsne_operator"
     },
     "version": "1.1.0",
     "authors": [
@@ -5219,11 +5263,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:19.168766Z"
+      "value": "2018-01-16T09:19:07.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:19.168770Z"
+      "value": "2021-07-22T10:23:19.000Z"
     },
     "urls": [
       {
@@ -5238,7 +5282,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/ttest_operator.git"
+      "uri": "https://github.com/tercen/ttest_operator"
     },
     "version": "0.12.3",
     "authors": [
@@ -5264,11 +5308,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:19.777558Z"
+      "value": "2021-06-02T07:50:18.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:19.777564Z"
+      "value": "2021-10-07T15:04:53.000Z"
     },
     "urls": [
       {
@@ -5282,7 +5326,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/two_sample_ttest_operator.git"
+      "uri": "https://github.com/tercen/two_sample_ttest_operator"
     },
     "version": "0.0.2",
     "authors": [
@@ -5308,11 +5352,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:20.401384Z"
+      "value": "2020-01-21T19:01:29.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:20.401388Z"
+      "value": "2022-02-15T17:52:55.000Z"
     },
     "urls": [
       {
@@ -5327,7 +5371,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/twogroupttest_operator.git"
+      "uri": "https://github.com/tercen/twogroupttest_operator"
     },
     "version": "0.1.3",
     "authors": [
@@ -5353,11 +5397,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:21.124232Z"
+      "value": "2021-06-29T06:45:55.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:21.124236Z"
+      "value": "2021-09-10T11:30:35.000Z"
     },
     "urls": [
       {
@@ -5372,7 +5416,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/uka_shiny_operator.git"
+      "uri": "https://github.com/tercen/uka_shiny_operator"
     },
     "version": "0.0.2",
     "authors": [
@@ -5399,11 +5443,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:21.710202Z"
+      "value": "2019-10-12T11:03:33.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:21.710206Z"
+      "value": "2021-11-08T21:05:43.000Z"
     },
     "urls": [
       {
@@ -5419,7 +5463,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/umap_operator.git"
+      "uri": "https://github.com/tercen/umap_operator"
     },
     "version": "1.1.0",
     "authors": [
@@ -5445,11 +5489,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:22.951255Z"
+      "value": "2018-09-17T21:47:18.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:22.951259Z"
+      "value": "2022-02-15T13:42:53.000Z"
     },
     "urls": [
       {
@@ -5464,7 +5508,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/upperandlowerbounds_operator.git"
+      "uri": "https://github.com/tercen/upperandlowerbounds_operator"
     },
     "version": "0.1.1",
     "authors": [
@@ -5490,11 +5534,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:23.745937Z"
+      "value": "2018-12-05T09:57:50.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:23.745941Z"
+      "value": "2021-07-22T11:29:28.000Z"
     },
     "urls": [
       {
@@ -5508,7 +5552,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/venn_shiny_operator.git"
+      "uri": "https://github.com/tercen/venn_shiny_operator"
     },
     "version": "1.0.6",
     "authors": [
@@ -5536,11 +5580,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:24.503083Z"
+      "value": "2021-02-20T20:46:41.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:24.503087Z"
+      "value": "2021-03-08T16:41:30.000Z"
     },
     "urls": [
       {
@@ -5554,7 +5598,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/volcano_shiny_operator.git"
+      "uri": "https://github.com/tercen/volcano_shiny_operator"
     },
     "version": "0.0.1",
     "authors": [
@@ -5581,11 +5625,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:25.098265Z"
+      "value": "2019-07-03T19:41:28.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:25.098268Z"
+      "value": "2022-03-01T11:34:20.000Z"
     },
     "urls": [
       {
@@ -5600,7 +5644,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/vsn_operator.git"
+      "uri": "https://github.com/tercen/vsn_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -5626,11 +5670,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:25.854919Z"
+      "value": "2021-06-08T08:12:57.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:25.854922Z"
+      "value": "2021-11-11T17:39:50.000Z"
     },
     "urls": [
       {
@@ -5645,7 +5689,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/vsn_shiny_operator.git"
+      "uri": "https://github.com/tercen/vsn_shiny_operator"
     },
     "version": "0.0.5",
     "authors": [
@@ -5672,11 +5716,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:27.556611Z"
+      "value": "2020-07-06T11:49:08.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:27.556614Z"
+      "value": "2022-03-10T10:52:30.000Z"
     },
     "urls": [
       {
@@ -5690,7 +5734,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/wordcount_operator.git"
+      "uri": "https://github.com/tercen/wordcount_operator"
     },
     "version": "1.1.0",
     "authors": [
@@ -5716,11 +5760,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:27.928349Z"
+      "value": "2020-05-29T16:34:53.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:27.928353Z"
+      "value": "2021-07-26T16:05:40.000Z"
     },
     "urls": [
       {
@@ -5735,7 +5779,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/worldmap_shiny_docker_operator.git"
+      "uri": "https://github.com/tercen/worldmap_shiny_docker_operator"
     },
     "version": "0.1.1",
     "authors": [
@@ -5763,11 +5807,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:29.415609Z"
+      "value": "2021-04-23T09:30:08.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:29.415612Z"
+      "value": "2021-04-27T12:46:30.000Z"
     },
     "urls": [
       {
@@ -5781,7 +5825,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/write_fcs_shiny_operator.git"
+      "uri": "https://github.com/tercen/write_fcs_shiny_operator"
     },
     "version": "0.0.2",
     "authors": [
@@ -5808,11 +5852,11 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:30.643049Z"
+      "value": "2021-05-28T10:47:04.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-26T13:17:30.643053Z"
+      "value": "2021-10-07T13:06:14.000Z"
     },
     "urls": [
       {
@@ -5826,7 +5870,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/zscore_scaling_operator.git"
+      "uri": "https://github.com/tercen/zscore_scaling_operator"
     },
     "version": "0.0.2",
     "authors": [
