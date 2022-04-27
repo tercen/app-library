@@ -73,6 +73,18 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
+      "name": "pamsoft_grid_operator",
+      "version": "1.0.50",
+      "url": "https://github.com/tercen/pamsoft_grid_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: 'dplyr'\n\nThe following objects are masked from 'package:plyr':\n\n    arrange, count, desc, failwith, id, mutate, rename, summarise,\n    summarize\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nAttaching package: 'future'\n\nThe following object is masked from 'package:processx':\n\n    run\n\nError in prep_image_folder(docId) : object 'TaskProgressEvent' not found\nExecution halted\n})"
+    },
+    {
+      "name": "pamsoft_grid_qt_operator",
+      "version": "1.0.50",
+      "url": "https://github.com/tercen/pamsoft_grid_qt_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: 'dplyr'\n\nThe following objects are masked from 'package:plyr':\n\n    arrange, count, desc, failwith, id, mutate, rename, summarise,\n    summarize\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nAttaching package: 'future'\n\nThe following object is masked from 'package:processx':\n\n    run\n\nError: object 'TaskProgressEvent' not found\nExecution halted\n})"
+    },
+    {
       "name": "Cell Ranger",
       "version": "0.1.1",
       "url": "https://github.com/tercen/read_cellranger_operator",
@@ -637,16 +649,6 @@
       "name": "Pairwise Distance",
       "version": "0.1.5",
       "url": "https://github.com/tercen/pairwise_distance_operator"
-    },
-    {
-      "name": "pamsoft_grid_operator",
-      "version": "1.0.48",
-      "url": "https://github.com/tercen/pamsoft_grid_operator"
-    },
-    {
-      "name": "pamsoft_grid_qt_operator",
-      "version": "1.0.48",
-      "url": "https://github.com/tercen/pamsoft_grid_qt_operator"
     },
     {
       "name": "Pamsoft Grid Shiny Operator",
