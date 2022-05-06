@@ -3385,7 +3385,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-15T18:37:27.000Z"
+      "value": "2022-05-06T16:58:37.000Z"
     },
     "urls": [
       {
@@ -3402,7 +3402,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/pamsoft_grid_shiny_operator"
     },
-    "version": "1.0.25",
+    "version": "1.0.26",
     "authors": [
       "tercen"
     ],
