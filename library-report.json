@@ -957,6 +957,7 @@
     "https://github.com/tercen/depeche_operator",
     "https://github.com/tercen/fastq_to_counts_docker_operator",
     "https://github.com/tercen/fastq_to_counts_operator",
+    "https://github.com/tercen/faust_operator",
     "https://github.com/tercen/fgsea_operator",
     "https://github.com/tercen/findMarkers_operator",
     "https://github.com/tercen/fisher_test_operator",
