@@ -1667,6 +1667,52 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Calculates a probability of whether a data point will meet a binary criteria.",
+    "name": "Logistic Regression",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-10-20T19:17:31.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-03-03T15:41:30.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/logistic_regression_operator"
+      }
+    ],
+    "tags": [
+      "statistical testing",
+      "linear model",
+      "test"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/generalised_linear_model_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Perform a global multivariate hypothesis test",
     "name": "globaltest_operator",
     "createdBy": "",
@@ -2372,52 +2418,6 @@
       "uri": "https://github.com/tercen/logfoldchange_operator"
     },
     "version": "0.9.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Calculates a probability of whether a data point will meet a binary criteria.",
-    "name": "Logistic Regression",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-10-20T19:17:31.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-03T15:41:30.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/logistic_regression_operator"
-      }
-    ],
-    "tags": [
-      "statistical testing",
-      "linear model",
-      "test"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/logistic_regression_operator"
-    },
-    "version": "0.1.0",
     "authors": [
       "tercen"
     ],
