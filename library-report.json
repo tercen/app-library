@@ -460,6 +460,11 @@
       "url": "https://github.com/tercen/foldchange_operator"
     },
     {
+      "name": "Logistic Regression",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/generalised_linear_model_operator"
+    },
+    {
       "name": "globaltest_operator",
       "version": "0.1.1",
       "url": "https://github.com/tercen/globaltest_operator"
@@ -538,11 +543,6 @@
       "name": "Log 2-Fold Change",
       "version": "0.9.1",
       "url": "https://github.com/tercen/logfoldchange_operator"
-    },
-    {
-      "name": "Logistic Regression",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/logistic_regression_operator"
     },
     {
       "name": "Logit",
