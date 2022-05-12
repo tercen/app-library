@@ -1444,6 +1444,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "FFT accelerated Interpolation based t-SNE: An alternative method of t-SNE for constructing a low dimensional embedding of high-dimensional data.",
+    "name": "FIt-SNE",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-07-09T14:39:00.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-03-15T13:44:06.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/fast_tSNE_operator"
+      }
+    ],
+    "tags": [
+      "dimensionality reduction"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/fast_tSNE_operator"
+    },
+    "version": "0.1.3",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Highlight text or numerical values based on a setting.",
     "name": "Flag Condition",
     "createdBy": "",
