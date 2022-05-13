@@ -334,6 +334,11 @@
       "url": "https://github.com/tercen/asinh_operator"
     },
     {
+      "name": "biplot operator",
+      "version": "1.0.0",
+      "url": "https://github.com/tercen/biplot_shiny_operator"
+    },
+    {
       "name": "Box Plot",
       "version": "0.0.3",
       "url": "https://github.com/tercen/boxplot_shiny_operator"
@@ -450,7 +455,7 @@
     },
     {
       "name": "FlowJo Export Operator",
-      "version": "0.0.8",
+      "version": "0.0.9",
       "url": "https://github.com/tercen/flowjo_export_operator"
     },
     {
