@@ -592,6 +592,51 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Shiny operator to create a biplot",
+    "name": "biplot operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-05-13T12:30:44.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-05-13T12:32:46.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/biplot_shiny_operator.git"
+      }
+    ],
+    "tags": [
+      "multivariate visualization"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/biplot_shiny_operator"
+    },
+    "version": "1.0.0",
+    "authors": [
+      "Rik de Wijn"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
+  },
+  {
+    "kind": "ShinyOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Displays the distribution of data based on a five number summary. Also called a box-whisker plot.",
     "name": "Box Plot",
     "createdBy": "",
@@ -1635,7 +1680,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-05-12T15:18:42.000Z"
+      "value": "2022-05-13T08:38:44.000Z"
     },
     "urls": [
       {
@@ -1651,7 +1696,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/flowjo_export_operator"
     },
-    "version": "0.0.8",
+    "version": "0.0.9",
     "authors": [
       "tercen"
     ],
