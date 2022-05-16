@@ -73,6 +73,18 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
+      "name": "pamsoft_grid_operator",
+      "version": "1.1.2",
+      "url": "https://github.com/tercen/pamsoft_grid_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--OUT--\nNULL\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: 'dplyr'\n\nThe following objects are masked from 'package:plyr':\n\n    arrange, count, desc, failwith, id, mutate, rename, summarise,\n    summarize\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nThere were 11 warnings (use warnings() to see them)\nError in do.grid(., tmpDir) : ------------------------------------------\nSetting up environment variables\n---\nLD_LIBRARY_PATH is .:/opt/mcr/v99/runtime/glnxa64:/opt/mcr/v99/bin/glnxa64:/opt/mcr/v99/sys/os/glnxa64:/opt/mcr/v99/sys/opengl/lib/glnxa64\nRunning PG version: 1.0.24\nCalls: %>% ... ungroup -> do -> do.grouped_df -> eval_tidy -> do.grid\nExecution halted\n})"
+    },
+    {
+      "name": "pamsoft_grid_qt_operator",
+      "version": "1.1.1",
+      "url": "https://github.com/tercen/pamsoft_grid_qt_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--OUT--\nNULL\nNULL\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\nWarning messages:\n1: replacing previous import 'lifecycle::last_warnings' by 'rlang::last_warnings' when loading 'tibble' \n2: replacing previous import 'lifecycle::last_warnings' by 'rlang::last_warnings' when loading 'pillar' \n\nAttaching package: 'tercenApi'\n\nThe following objects are masked from 'package:tercen':\n\n    Ace, Acl, AclContext, Activity, ActivityCount, ActivityService,\n    Address, ApiCallProfile, Attribute, Axis, AxisSettings,\n    BillingInfo, BooleanProperty, CSVFileMetadata, CSVParserParam,\n    CSVTask, CanceledState, CategoryPalette, Chart, ChartBar,\n    ChartHeatmap, ChartLine, ChartPoint, ChartSize, ColorElement,\n    ColorList, Colors, Column, ColumnPair, ColumnSchema,\n    ColumnSchemaMetaData, CompositeRelation, ComputationTask,\n    ComputedTableSchema, CpuTimeProfile, CranLibraryService,\n    CreateGitOperatorTask, CrossTabStep, Crosstab, CrosstabTable,\n    CubeAxisQuery, CubeQuery, CubeQueryTableSchema, CubeQueryTask,\n    DataStep, Date, DistinctRelation, DockerOperator,\n    DockerWebAppOperator, Document, DocumentService, DoneState,\n    DoubleColorElement, DoubleProperty, EnumeratedProperty, Errors,\n    Event, EventService, ExportModel, ExportStep, ExportTableTask,\n    ExportWorkflowTask, Factor, FactorsProperty, FailedState,\n    FileDocument, FileMetadata, FileService, Filter, FilterExpr,\n    FilterTopExpr, Filters, FolderDocument, FolderService,\n    FormulaProperty, GarbageCollectorService, GarbageObject,\n    GarbageTasks, GatherRelation, GenericEvent, GitOperator, GlTask,\n    GraphicalFactor, GroupByRelation, GroupStep, IdObject,\n    ImportGitWorkflowTask, ImportWorkflowTask, InMemoryRelation,\n    InStep, InitState, InputPort, Issue, IssueMessage,\n    IssueMessageService, IssueService, JetPalette, JoinOperator,\n    JoinStep, JoinStepModel, Labels, Link, Lock, LockService,\n    MappingFactor, MappingFilter, MeltStep, MeltStepModel, ModelStep,\n    NamedFilter, NamespaceStep, Operator, OperatorRef, OperatorResult,\n    OperatorService, OperatorSettings, OperatorUnitTest, OutStep,\n    OutputPort, Pair, Palette, PendingState, PersistentObject,\n    PersistentService, Plan, Point, Port, Principal, Privilege,\n    Profile, Profiles, Project, ProjectDocument,\n    ProjectDocumentService, ProjectService, ProjectTask, Properties,\n    Property, PropertyValue, RDescription, RLibrary, ROperator, RProxy,\n    RSourceLibrary, RampPalette, Rectangle, ReferenceRelation,\n    Relation, RelationStep, RenameRelation, RenvInstalledLibrary,\n    ResourceSummary, RunComputationTask, RunProfile, RunWebAppTask,\n    RunningDependentState, RunningState, SaveComputationResultTask,\n    Schema, ShinyOperator, SimpleRelation, StartProcess, State, Step,\n    StepModel, StepState, StorageProfile, StringColorElement,\n    StringProperty, SubscriptionPlan, SubscriptionPlanService, Summary,\n    Table, TableProfile, TableProperties, TableSchema,\n    TableSchemaService, TableStep, TableStepModel, TableSummary, Task,\n    TaskDataEvent, TaskEvent, TaskLogEvent, TaskProgressEvent,\n    TaskService, TaskStateEvent, TaskSummary, TaxId, Team, TeamService,\n    TestOperatorTask, Token, Ulimits, UnionRelation, Url, User,\n    UserSecret, UserSecretService, UserService, UserSession, Version,\n    ViesInfo, ViewStep, WebAppOperator, WhereRelation, WizardStep,\n    WizardStepModel, Worker, WorkerEndpoint, WorkerEndpointService,\n    WorkerService, Workflow, WorkflowService, XYAxis, XYAxisList\n\n\nAttaching package: 'dplyr'\n\nThe following objects are masked from 'package:plyr':\n\n    arrange, count, desc, failwith, id, mutate, rename, summarise,\n    summarize\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nThere were 11 warnings (use warnings() to see them)\nError in do.quant(., tmpDir) : ------------------------------------------\nSetting up environment variables})"
+    },
+    {
       "name": "Cell Ranger",
       "version": "0.1.1",
       "url": "https://github.com/tercen/read_cellranger_operator",
@@ -649,18 +661,8 @@
       "url": "https://github.com/tercen/pairwise_distance_operator"
     },
     {
-      "name": "pamsoft_grid_operator",
-      "version": "1.0.52",
-      "url": "https://github.com/tercen/pamsoft_grid_operator"
-    },
-    {
-      "name": "pamsoft_grid_qt_operator",
-      "version": "1.0.52",
-      "url": "https://github.com/tercen/pamsoft_grid_qt_operator"
-    },
-    {
       "name": "Pamsoft Grid Shiny Operator",
-      "version": "1.0.26",
+      "version": "1.1.5",
       "url": "https://github.com/tercen/pamsoft_grid_shiny_operator"
     },
     {
