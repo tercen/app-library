@@ -171,6 +171,12 @@
       "error": "notest"
     },
     {
+      "name": "cscore_operator",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/cscore_operator",
+      "error": "notest"
+    },
+    {
       "name": "Diffcyt",
       "version": "0.0.4",
       "url": "https://github.com/tercen/diffcyt_operator",
@@ -437,7 +443,7 @@
     },
     {
       "name": "Export Crosstab Shiny Operator",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "url": "https://github.com/tercen/export_crosstab_shiny_operator"
     },
     {
@@ -957,7 +963,6 @@
     "https://github.com/tercen/coral_shiny_operator",
     "https://github.com/tercen/coral_shiny_v2_operator",
     "https://github.com/tercen/coralp_shiny_operator",
-    "https://github.com/tercen/cscore_operator",
     "https://github.com/tercen/custom_script_operator",
     "https://github.com/tercen/cyclone_operator",
     "https://github.com/tercen/damacy_operator",
