@@ -1412,7 +1412,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-08-12T09:30:41.000Z"
+      "value": "2021-08-12T06:30:00.000Z"
     },
     "urls": [
       {
@@ -1428,7 +1428,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/export_crosstab_shiny_operator"
     },
-    "version": "0.0.3",
+    "version": "0.0.2",
     "authors": [
       "tercen"
     ],
