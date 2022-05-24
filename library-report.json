@@ -523,7 +523,7 @@
     },
     {
       "name": "Identity",
-      "version": "0.0.1",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/identity_operator"
     },
     {
@@ -588,7 +588,7 @@
     },
     {
       "name": "Mean",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "url": "https://github.com/tercen/mean_operator"
     },
     {
@@ -1002,7 +1002,7 @@
     "https://github.com/tercen/rfsrc_operator",
     "https://github.com/tercen/sandbox_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
-    "https://github.com/tercen/scType_operator",
+    "https://github.com/tercen/sctype_operator",
     "https://github.com/tercen/separate_row_operator",
     "https://github.com/tercen/shiny_docker_operator",
     "https://github.com/tercen/shiny_operator",
