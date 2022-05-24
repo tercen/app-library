@@ -559,7 +559,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-10-11T14:33:23.000Z"
+      "value": "2022-05-24T13:55:55.000Z"
     },
     "urls": [
       {
@@ -578,7 +578,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/asinh_operator"
     },
-    "version": "1.0.5",
+    "version": "1.1.0",
     "authors": [
       "tercen"
     ],
