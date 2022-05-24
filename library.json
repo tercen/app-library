@@ -2130,7 +2130,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-10-11T09:37:08.000Z"
+      "value": "2022-05-24T12:45:39.000Z"
     },
     "urls": [
       {
@@ -2147,7 +2147,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/identity_operator"
     },
-    "version": "0.0.1",
+    "version": "0.1.0",
     "authors": [
       "tercen"
     ],
@@ -2713,7 +2713,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-21T10:13:58.000Z"
+      "value": "2022-05-24T11:26:59.000Z"
     },
     "urls": [
       {
@@ -2729,7 +2729,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/mean_operator"
     },
-    "version": "1.1.0",
+    "version": "1.2.0",
     "authors": [
       "tercen"
     ],
