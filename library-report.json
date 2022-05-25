@@ -318,7 +318,7 @@
     },
     {
       "name": "S100",
-      "version": "0.0.2",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/S100_operator"
     },
     {
@@ -728,7 +728,7 @@
     },
     {
       "name": "Rank by Row mean",
-      "version": "0.0.1",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/rank_by_row_mean_operator"
     },
     {
