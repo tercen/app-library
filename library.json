@@ -286,7 +286,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-10-07T13:10:09.000Z"
+      "value": "2022-05-25T09:02:32.000Z"
     },
     "urls": [
       {
@@ -302,7 +302,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/S100_operator"
     },
-    "version": "0.0.2",
+    "version": "0.1.0",
     "authors": [
       "tercen"
     ],
@@ -3969,7 +3969,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-10-14T11:53:23.000Z"
+      "value": "2022-05-25T08:24:59.000Z"
     },
     "urls": [
       {
@@ -3986,7 +3986,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/rank_by_row_mean_operator"
     },
-    "version": "0.0.1",
+    "version": "0.1.0",
     "authors": [
       "tercen"
     ],
