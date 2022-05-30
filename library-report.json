@@ -55,6 +55,12 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
+      "name": "Impute",
+      "version": "0.3.0",
+      "url": "https://github.com/tercen/impute_operator",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds40.imputed -- val != refVal -- at line 57 -- val = 1.3846153846153846 refVal = 1.38461538461538})"
+    },
+    {
       "name": "Linear Mixed Model",
       "version": "0.2.1",
       "url": "https://github.com/tercen/mixed_model_operator",
@@ -95,6 +101,12 @@
       "version": "0.1.0",
       "url": "https://github.com/tercen/regression_coefficients_operator",
       "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
+    },
+    {
+      "name": "sctype_operator",
+      "version": "0.0.4",
+      "url": "https://github.com/tercen/sctype_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘reshape’\n\nThe following objects are masked from ‘package:tidyr’:\n\n    expand, smiths\n\nThe following object is masked from ‘package:dplyr’:\n\n    rename\n\nAttaching SeuratObject\nAttaching sp\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nThere were 41 warnings (use warnings() to see them)\nError in Z[cell_markers_genes_score[jj, \"gene_\"], ] : \n  subscript out of bounds\nCalls: sctype_score\nExecution halted\n})"
     },
     {
       "name": "STRAF Parameters",
@@ -525,11 +537,6 @@
       "name": "Identity",
       "version": "0.1.0",
       "url": "https://github.com/tercen/identity_operator"
-    },
-    {
-      "name": "Impute",
-      "version": "0.2.0",
-      "url": "https://github.com/tercen/impute_operator"
     },
     {
       "name": "IOpener dashboard (rev2)",
@@ -999,7 +1006,6 @@
     "https://github.com/tercen/rfsrc_operator",
     "https://github.com/tercen/sandbox_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
-    "https://github.com/tercen/sctype_operator",
     "https://github.com/tercen/separate_row_operator",
     "https://github.com/tercen/shiny_docker_operator",
     "https://github.com/tercen/shiny_operator",
