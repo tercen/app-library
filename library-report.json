@@ -67,12 +67,6 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
-      "name": "NormalyzerDE",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/normalyzer_operator",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
       "name": "Optics11",
       "version": "0.1.8",
       "url": "https://github.com/tercen/optics11_operator",
@@ -104,15 +98,9 @@
     },
     {
       "name": "sctype_operator",
-      "version": "0.0.4",
+      "version": "0.0.5",
       "url": "https://github.com/tercen/sctype_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘reshape’\n\nThe following objects are masked from ‘package:tidyr’:\n\n    expand, smiths\n\nThe following object is masked from ‘package:dplyr’:\n\n    rename\n\nAttaching SeuratObject\nAttaching sp\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nThere were 41 warnings (use warnings() to see them)\nError in Z[cell_markers_genes_score[jj, \"gene_\"], ] : \n  subscript out of bounds\nCalls: sctype_score\nExecution halted\n})"
-    },
-    {
-      "name": "STRAF Parameters",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/straf_forensicparameters_operator",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.failed, reason: Failed to create operator})"
     },
     {
       "name": "TrackSOM operator",
@@ -246,6 +234,12 @@
       "name": "NCA",
       "version": "0.1.2",
       "url": "https://github.com/tercen/nca_operator",
+      "error": "notest"
+    },
+    {
+      "name": "Normalisation",
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/normalyzer_operator",
       "error": "notest"
     },
     {
@@ -953,7 +947,6 @@
     "https://github.com/tercen/ExposureTimeScaling_operator",
     "https://github.com/tercen/PARC_python_operator",
     "https://github.com/tercen/Seurat_QC_operator",
-    "https://github.com/tercen/SingleR_operator",
     "https://github.com/tercen/TraCeR_operator",
     "https://github.com/tercen/TraCeR_summarize_operator",
     "https://github.com/tercen/alice_operator",
@@ -981,7 +974,6 @@
     "https://github.com/tercen/fastq_to_counts_docker_operator",
     "https://github.com/tercen/fastq_to_counts_operator",
     "https://github.com/tercen/faust_operator",
-    "https://github.com/tercen/fgsea_operator",
     "https://github.com/tercen/findMarkers_operator",
     "https://github.com/tercen/fisher_test_operator",
     "https://github.com/tercen/flowmeans_operator",
@@ -1004,7 +996,6 @@
     "https://github.com/tercen/read_and_compensate_influx_fcs_operator",
     "https://github.com/tercen/read_png_operator",
     "https://github.com/tercen/rfsrc_operator",
-    "https://github.com/tercen/sandbox_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
     "https://github.com/tercen/separate_row_operator",
     "https://github.com/tercen/shiny_docker_operator",
@@ -1012,7 +1003,6 @@
     "https://github.com/tercen/sinh_operator",
     "https://github.com/tercen/snca_operator",
     "https://github.com/tercen/template_docker_operator",
-    "https://github.com/tercen/template_ggplot_operator",
     "https://github.com/tercen/template_python_operator",
     "https://github.com/tercen/template_shiny_operator",
     "https://github.com/tercen/test_builder_operator",
