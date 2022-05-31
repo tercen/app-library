@@ -61,6 +61,12 @@
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds40.imputed -- val != refVal -- at line 57 -- val = 1.3846153846153846 refVal = 1.38461538461538})"
     },
     {
+      "name": "Log",
+      "version": "1.1.1",
+      "url": "https://github.com/tercen/log_operator",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.correlation, reason: At column ds000.log -- bad correlation -- r2 < 0.99})"
+    },
+    {
       "name": "Linear Mixed Model",
       "version": "0.2.1",
       "url": "https://github.com/tercen/mixed_model_operator",
@@ -561,11 +567,6 @@
       "name": "Log Cutoff",
       "version": "0.0.2",
       "url": "https://github.com/tercen/log_cutoff_operator"
-    },
-    {
-      "name": "Log",
-      "version": "1.0.2",
-      "url": "https://github.com/tercen/log_operator"
     },
     {
       "name": "Log 2-Fold Change",
