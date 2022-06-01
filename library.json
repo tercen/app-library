@@ -3369,50 +3369,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Principal Components Analysis: Performs dimentionality reduction by calulating the most variables with the most variance, and expressing this a smaller set of new variables called components.",
-    "name": "PCA",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2017-08-15T15:56:37.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-25T16:00:12.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/pca_operator"
-      }
-    ],
-    "tags": [
-      "multivariate statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/pca_operator"
-    },
-    "version": "1.1.4",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Perform quality control of flowcytometry data using PeacoQC.",
     "name": "PeacoQC",
     "createdBy": "",
