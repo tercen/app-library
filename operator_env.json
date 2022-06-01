@@ -490,24 +490,54 @@
         "ratio": 5
     },
     {
-        "uri": "https://github.com/tercen/umap_operator",
-        "version": "0.0.3",
-        "base_memory": 1000000000,
-        "ratio_est": 3.8565,
-        "ratio_upper": 5.0732,
-        "r2": 0.4978,
-        "ratio_rounded": 5.2,
+        "uri": "https://github.com/tercen/vst_operator",
+        "version": "0.0.0",
+        "base_memory": 2000000000,
+        "ratio_est": 5,
+        "ratio_upper": 5,
+        "r2": 0.9,
+        "ratio_rounded": 5,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/DESeq2_two_conditions_operator",
+        "version": "0.0.0",
+        "base_memory": 2000000000,
+        "ratio_est": 5,
+        "ratio_upper": 5,
+        "r2": 0.9,
+        "ratio_rounded": 5,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/umap_operator",
+        "version": "0.0.3",
+        "base_memory": 2000000000,
+        "ratio_est": 3.8565,
+        "ratio_upper": 5.0732,
+        "r2": 0.4978,
+        "ratio_rounded": 5.2,
+        "ratio": 10
+    },
+    {
+        "uri": "https://github.com/tercen/umap_operator",
         "version": "1.1.0",
-        "base_memory": 1000000000,
+        "base_memory": 2000000000,
         "ratio_est": -8.5023,
         "ratio_upper": -8.1695,
         "r2": 0.9996,
         "ratio_rounded": -8.1,
-        "ratio": 5
+        "ratio": 10
+    },
+    {
+        "uri": "https://github.com/tercen/umap_operator",
+        "version": "1.2.0",
+        "base_memory": 2000000000,
+        "ratio_est": -8.5023,
+        "ratio_upper": -8.1695,
+        "r2": 0.9996,
+        "ratio_rounded": -8.1,
+        "ratio": 10
     },
     {
         "uri": "https://github.com/tercen/zscore_scaling_operator",
