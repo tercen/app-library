@@ -5297,52 +5297,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Uniform Manifold Approximation and Projection: Calculates nonlinear dimension reduction on a data set.",
-    "name": "umap",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2019-10-12T11:03:33.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-11-08T21:05:43.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/umap_operator"
-      }
-    ],
-    "tags": [
-      "flow cytometry",
-      "rnaseq",
-      "dimensionality reduction"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/umap_operator"
-    },
-    "version": "1.1.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Calculates an upper and lower bound value as a fraction of a given data point.",
     "name": "Upper and Lower Bounds",
     "createdBy": "",
