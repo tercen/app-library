@@ -7,7 +7,7 @@
         "ratio_upper": -3144.3145,
         "r2": 0.9327,
         "ratio_rounded": -3144.2,
-        "ratio": -3144.2
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/asinh_operator",
@@ -37,7 +37,7 @@
         "ratio_upper": -2246.7905,
         "r2": 0.9616,
         "ratio_rounded": -2246.7,
-        "ratio": -2246.7
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/check_input1_operator",
@@ -47,7 +47,7 @@
         "ratio_upper": -5238.0232,
         "r2": 0.9273,
         "ratio_rounded": -5237.9,
-        "ratio": -5237.9
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/cluster_annotation_operator",
@@ -57,7 +57,7 @@
         "ratio_upper": -2240.7347,
         "r2": 0.9998,
         "ratio_rounded": -2240.6,
-        "ratio": -2240.6
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/cluster_annotation_operator",
@@ -67,7 +67,7 @@
         "ratio_upper": -1137.3389,
         "r2": 0.7552,
         "ratio_rounded": -1137.2,
-        "ratio": -1137.2
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/col_flag_operator",
@@ -77,7 +77,7 @@
         "ratio_upper": -14458.5567,
         "r2": 0.7994,
         "ratio_rounded": -14458.5,
-        "ratio": -14458.5
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/fast_tSNE_operator",
@@ -137,7 +137,7 @@
         "ratio_upper": -23585.9903,
         "r2": 0.9562,
         "ratio_rounded": -23585.9,
-        "ratio": -23585.9
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/hclust_operator",
@@ -157,7 +157,7 @@
         "ratio_upper": -328.9423,
         "r2": 0.7844,
         "ratio_rounded": -328.8,
-        "ratio": -328.8
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/histogram_operator",
@@ -167,7 +167,7 @@
         "ratio_upper": -6.2351,
         "r2": 0.8779,
         "ratio_rounded": -6.1,
-        "ratio": -6.1
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/identity_operator",
@@ -187,7 +187,7 @@
         "ratio_upper": -2338.0149,
         "r2": 0.9654,
         "ratio_rounded": -2337.9,
-        "ratio": -2337.9
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/log_cutoff_operator",
@@ -197,7 +197,7 @@
         "ratio_upper": -3357.9615,
         "r2": 0.8644,
         "ratio_rounded": -3357.9,
-        "ratio": -3357.9
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/log_operator",
@@ -237,7 +237,7 @@
         "ratio_upper": -6552.4027,
         "r2": 0.9172,
         "ratio_rounded": -6552.3,
-        "ratio": -6552.3
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/mean_operator",
@@ -277,7 +277,7 @@
         "ratio_upper": -16682.8885,
         "r2": 0.9488,
         "ratio_rounded": -16682.8,
-        "ratio": -16682.8
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/nominal_cv_estimate_operator",
@@ -287,7 +287,7 @@
         "ratio_upper": -2284.674,
         "r2": 0.9655,
         "ratio_rounded": -2284.6,
-        "ratio": -2284.6
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/normalizeCounts_operator",
@@ -337,7 +337,7 @@
         "ratio_upper": -348.7112,
         "r2": 0.8208,
         "ratio_rounded": -348.6,
-        "ratio": -348.6
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/pca_operator",
@@ -357,7 +357,7 @@
         "ratio_upper": -1.9618,
         "r2": 0.7228,
         "ratio_rounded": -1.9,
-        "ratio": -1.9
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/proportion_operator",
@@ -487,7 +487,7 @@
         "ratio_upper": -2309.5246,
         "r2": 0.9939,
         "ratio_rounded": -2309.4,
-        "ratio": -2309.4
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/umap_operator",
@@ -507,7 +507,7 @@
         "ratio_upper": -8.1695,
         "r2": 0.9996,
         "ratio_rounded": -8.1,
-        "ratio": -8.1
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/zscore_scaling_operator",
