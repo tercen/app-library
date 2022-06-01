@@ -37,6 +37,12 @@
       "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
     },
     {
+      "name": "FAUST",
+      "version": "0.0.5",
+      "url": "https://github.com/tercen/faust_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nError in apply(quantileDataLow, 2, function(x) { : \n  object 'quantileDataLow' not found\nCalls: <Anonymous> ... generateAnnotationThresholds -> .processChannelBounds -> apply\nExecution halted\n})"
+    },
+    {
       "name": "flowCut",
       "version": "0.1.3",
       "url": "https://github.com/tercen/flowcut_operator",
@@ -89,6 +95,12 @@
       "version": "1.1.1",
       "url": "https://github.com/tercen/pamsoft_grid_qt_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--OUT--\nNULL\nNULL\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\nWarning messages:\n1: replacing previous import 'lifecycle::last_warnings' by 'rlang::last_warnings' when loading 'tibble' \n2: replacing previous import 'lifecycle::last_warnings' by 'rlang::last_warnings' when loading 'pillar' \n\nAttaching package: 'tercenApi'\n\nThe following objects are masked from 'package:tercen':\n\n    Ace, Acl, AclContext, Activity, ActivityCount, ActivityService,\n    Address, ApiCallProfile, Attribute, Axis, AxisSettings,\n    BillingInfo, BooleanProperty, CSVFileMetadata, CSVParserParam,\n    CSVTask, CanceledState, CategoryPalette, Chart, ChartBar,\n    ChartHeatmap, ChartLine, ChartPoint, ChartSize, ColorElement,\n    ColorList, Colors, Column, ColumnPair, ColumnSchema,\n    ColumnSchemaMetaData, CompositeRelation, ComputationTask,\n    ComputedTableSchema, CpuTimeProfile, CranLibraryService,\n    CreateGitOperatorTask, CrossTabStep, Crosstab, CrosstabTable,\n    CubeAxisQuery, CubeQuery, CubeQueryTableSchema, CubeQueryTask,\n    DataStep, Date, DistinctRelation, DockerOperator,\n    DockerWebAppOperator, Document, DocumentService, DoneState,\n    DoubleColorElement, DoubleProperty, EnumeratedProperty, Errors,\n    Event, EventService, ExportModel, ExportStep, ExportTableTask,\n    ExportWorkflowTask, Factor, FactorsProperty, FailedState,\n    FileDocument, FileMetadata, FileService, Filter, FilterExpr,\n    FilterTopExpr, Filters, FolderDocument, FolderService,\n    FormulaProperty, GarbageCollectorService, GarbageObject,\n    GarbageTasks, GatherRelation, GenericEvent, GitOperator, GlTask,\n    GraphicalFactor, GroupByRelation, GroupStep, IdObject,\n    ImportGitWorkflowTask, ImportWorkflowTask, InMemoryRelation,\n    InStep, InitState, InputPort, Issue, IssueMessage,\n    IssueMessageService, IssueService, JetPalette, JoinOperator,\n    JoinStep, JoinStepModel, Labels, Link, Lock, LockService,\n    MappingFactor, MappingFilter, MeltStep, MeltStepModel, ModelStep,\n    NamedFilter, NamespaceStep, Operator, OperatorRef, OperatorResult,\n    OperatorService, OperatorSettings, OperatorUnitTest, OutStep,\n    OutputPort, Pair, Palette, PendingState, PersistentObject,\n    PersistentService, Plan, Point, Port, Principal, Privilege,\n    Profile, Profiles, Project, ProjectDocument,\n    ProjectDocumentService, ProjectService, ProjectTask, Properties,\n    Property, PropertyValue, RDescription, RLibrary, ROperator, RProxy,\n    RSourceLibrary, RampPalette, Rectangle, ReferenceRelation,\n    Relation, RelationStep, RenameRelation, RenvInstalledLibrary,\n    ResourceSummary, RunComputationTask, RunProfile, RunWebAppTask,\n    RunningDependentState, RunningState, SaveComputationResultTask,\n    Schema, ShinyOperator, SimpleRelation, StartProcess, State, Step,\n    StepModel, StepState, StorageProfile, StringColorElement,\n    StringProperty, SubscriptionPlan, SubscriptionPlanService, Summary,\n    Table, TableProfile, TableProperties, TableSchema,\n    TableSchemaService, TableStep, TableStepModel, TableSummary, Task,\n    TaskDataEvent, TaskEvent, TaskLogEvent, TaskProgressEvent,\n    TaskService, TaskStateEvent, TaskSummary, TaxId, Team, TeamService,\n    TestOperatorTask, Token, Ulimits, UnionRelation, Url, User,\n    UserSecret, UserSecretService, UserService, UserSession, Version,\n    ViesInfo, ViewStep, WebAppOperator, WhereRelation, WizardStep,\n    WizardStepModel, Worker, WorkerEndpoint, WorkerEndpointService,\n    WorkerService, Workflow, WorkflowService, XYAxis, XYAxisList\n\n\nAttaching package: 'dplyr'\n\nThe following objects are masked from 'package:plyr':\n\n    arrange, count, desc, failwith, id, mutate, rename, summarise,\n    summarize\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nThere were 11 warnings (use warnings() to see them)\nError in do.quant(., tmpDir) : ------------------------------------------\nSetting up environment variables})"
+    },
+    {
+      "name": "PCA",
+      "version": "1.2.0",
+      "url": "https://github.com/tercen/pca_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nError in ctx$op.value(\"input.convention\", as.character, \"observations.in.columns\") : \n  unused arguments (as.character, \"observations.in.columns\")\nExecution halted\n})"
     },
     {
       "name": "Cell Ranger",
@@ -674,11 +686,6 @@
       "url": "https://github.com/tercen/pamsoft_grid_shiny_operator"
     },
     {
-      "name": "PCA",
-      "version": "1.1.4",
-      "url": "https://github.com/tercen/pca_operator"
-    },
-    {
       "name": "PeacoQC",
       "version": "0.2.2",
       "url": "https://github.com/tercen/peacoqc_operator"
@@ -963,7 +970,6 @@
     "https://github.com/tercen/coral_shiny_operator",
     "https://github.com/tercen/coral_shiny_v2_operator",
     "https://github.com/tercen/coralp_shiny_operator",
-    "https://github.com/tercen/custom_script_operator",
     "https://github.com/tercen/cyclone_operator",
     "https://github.com/tercen/damacy_operator",
     "https://github.com/tercen/dascombat_fit_operator",
@@ -974,9 +980,7 @@
     "https://github.com/tercen/depeche_operator",
     "https://github.com/tercen/fastq_to_counts_docker_operator",
     "https://github.com/tercen/fastq_to_counts_operator",
-    "https://github.com/tercen/faust_operator",
     "https://github.com/tercen/findMarkers_operator",
-    "https://github.com/tercen/fisher_test_operator",
     "https://github.com/tercen/flowmeans_operator",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/gmm_operator",
@@ -985,7 +989,6 @@
     "https://github.com/tercen/kmeans_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
     "https://github.com/tercen/multiplybyconstant_operator",
-    "https://github.com/tercen/nextflow_example_operator",
     "https://github.com/tercen/normalizeCounts_operator",
     "https://github.com/tercen/pause_operator",
     "https://github.com/tercen/pca_long_operator",
@@ -1003,9 +1006,6 @@
     "https://github.com/tercen/shiny_operator",
     "https://github.com/tercen/sinh_operator",
     "https://github.com/tercen/snca_operator",
-    "https://github.com/tercen/template_docker_operator",
-    "https://github.com/tercen/template_python_operator",
-    "https://github.com/tercen/template_shiny_operator",
     "https://github.com/tercen/test_builder_operator",
     "https://github.com/tercen/thresholding_operator",
     "https://github.com/tercen/trimap_python_operator",
