@@ -61,6 +61,12 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
+      "name": "Hclust - Order",
+      "version": "1.1.1",
+      "url": "https://github.com/tercen/hclust_operator",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column .ci -- val != refVal -- at line 2 -- val = 2 refVal = 3})"
+    },
+    {
       "name": "Impute",
       "version": "0.3.0",
       "url": "https://github.com/tercen/impute_operator",
@@ -71,6 +77,12 @@
       "version": "1.1.1",
       "url": "https://github.com/tercen/log_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.correlation, reason: At column ds000.log -- bad correlation -- r2 < 0.99})"
+    },
+    {
+      "name": "Max",
+      "version": "0.2.0",
+      "url": "https://github.com/tercen/max_operator",
+      "error": "ServiceError({statusCode: -142, error: create.operator.renv.failed, reason: Failed to create operator})"
     },
     {
       "name": "Linear Mixed Model",
@@ -119,6 +131,12 @@
       "version": "0.0.5",
       "url": "https://github.com/tercen/sctype_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘reshape’\n\nThe following objects are masked from ‘package:tidyr’:\n\n    expand, smiths\n\nThe following object is masked from ‘package:dplyr’:\n\n    rename\n\nAttaching SeuratObject\nAttaching sp\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nMaps last updated on: Thu Oct 24 12:31:05 2019\nThere were 41 warnings (use warnings() to see them)\nError in Z[cell_markers_genes_score[jj, \"gene_\"], ] : \n  subscript out of bounds\nCalls: sctype_score\nExecution halted\n})"
+    },
+    {
+      "name": "Sum",
+      "version": "1.10.0",
+      "url": "https://github.com/tercen/sum_operator",
+      "error": "ServiceError({statusCode: 500, error: Task.client.unknown, reason: Throw of null.})"
     },
     {
       "name": "TrackSOM operator",
@@ -527,11 +545,6 @@
       "url": "https://github.com/tercen/globaltest_operator"
     },
     {
-      "name": "Hclust - Order",
-      "version": "1.0.0",
-      "url": "https://github.com/tercen/hclust_operator"
-    },
-    {
       "name": "Heatmap Dashboard",
       "version": "0.3.0",
       "url": "https://github.com/tercen/heatmap_dashboard_operator"
@@ -595,11 +608,6 @@
       "name": "Logit",
       "version": "0.1.4",
       "url": "https://github.com/tercen/logit_operator"
-    },
-    {
-      "name": "Max",
-      "version": "0.1.2",
-      "url": "https://github.com/tercen/max_operator"
     },
     {
       "name": "Mean and CV",
@@ -865,11 +873,6 @@
       "name": "Subtract",
       "version": "0.1.3",
       "url": "https://github.com/tercen/subtract_operator"
-    },
-    {
-      "name": "Sum",
-      "version": "1.9.2",
-      "url": "https://github.com/tercen/sum_operator"
     },
     {
       "name": "Template_R_operator",
