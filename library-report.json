@@ -110,9 +110,9 @@
     },
     {
       "name": "PCA",
-      "version": "1.2.3",
+      "version": "1.3.0",
       "url": "https://github.com/tercen/pca_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\nError in library(tidyr) : there is no package called ‘tidyr’\nExecution halted\n})"
     },
     {
       "name": "Cell Ranger",
