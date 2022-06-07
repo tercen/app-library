@@ -62,9 +62,9 @@
     },
     {
       "name": "Hclust - Order",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "url": "https://github.com/tercen/hclust_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column .ci -- val != refVal -- at line 2 -- val = 2 refVal = 3})"
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column .ci -- val != refVal -- at line 0 -- val = 8 refVal = 0})"
     },
     {
       "name": "Impute",
