@@ -50,9 +50,9 @@
     },
     {
       "name": "FlowJo Export Operator",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "url": "https://github.com/tercen/flowjo_export_operator",
-      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\nError: Problem with `mutate()` input `.ri`.\n✖ Input `.ri` can't be recycled to size 3.\nℹ Input `.ri` is `seq(0, nrow(.) - 1)`.\nℹ Input `.ri` must be size 3 or 1, not 6.\nℹ The error occurred in group 1: filename = \"file1\".\nBacktrace:\n     █\n  1. ├─`%>%`(...)\n  2. ├─ctx$save(.)\n  3. │ └─base::inherits(computed.df, \"OperatorResult\")\n  4. ├─ctx$addNamespace(.)\n  5. │ └─base::sapply(...)\n  6. │   └─base::lapply(X = X, FUN = FUN, ...)\n  7. ├─dplyr::mutate(., .ri = seq(0, nrow(.) - 1))\n  8. ├─dplyr:::mutate.data.frame(., .ri = seq(0, nrow(.) - 1))\n  9. │ └─dplyr:::mutate_cols(.data, ...)\n 10. │   ├─base::withCallingHandlers(...)\n 11. │   └─mask$eval_all_mutate(quo)\n 12. └─dplyr:::abort_glue(character(0), list(x_size = 6L), \"dplyr:::mutate_incompatible_size\")\n 13.   └─rlang::exec(abort, class = class, !!!data)\nExecution halted\n})"
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\nWarning message:\nIn if (!grepl(\"filename\", colnames(rows))) stop(\"filename is required.\") :\n  the condition has length > 1 and only the first element will be used\nError: rowId is required.\nIn addition: Warning message:\nIn if (!grepl(\"rowId\", colnames(rows))) stop(\"rowId is required.\") :\n  the condition has length > 1 and only the first element will be used\nExecution halted\n})"
     },
     {
       "name": "FlowSOM MST",
@@ -304,7 +304,7 @@
     },
     {
       "name": "sctype_operator",
-      "version": "0.0.9",
+      "version": "0.0.10",
       "url": "https://github.com/tercen/sctype_operator",
       "error": "notest"
     },
