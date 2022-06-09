@@ -139,12 +139,6 @@
       "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
     },
     {
-      "name": "sctype_operator",
-      "version": "0.0.8",
-      "url": "https://github.com/tercen/sctype_operator",
-      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--OUT--\n# A tibble: 1,000 × 1\n     .ci\n   <int>\n 1     0\n 2     0\n 3     0\n 4     0\n 5     0\n 6     0\n 7     0\n 8     0\n 9     0\n10     0\n# … with 990 more rows\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘reshape’\n\nThe following objects are masked from ‘package:tidyr’:\n\n    expand, smiths\n\nThe following object is masked from ‘package:dplyr’:\n\n    rename\n\nAttaching SeuratObject\nAttaching sp\nError in names(x) <- value : \n  'names' attribute [2] must be the same length as the vector [1]\nCalls: colnames<-\nExecution halted\n})"
-    },
-    {
       "name": "Sum",
       "version": "1.10.0",
       "url": "https://github.com/tercen/sum_operator",
@@ -306,6 +300,12 @@
       "name": "AnnotatedDataFrame",
       "version": "0.1.1",
       "url": "https://github.com/tercen/readAnnotatedDataFrame_operator",
+      "error": "notest"
+    },
+    {
+      "name": "sctype_operator",
+      "version": "0.0.9",
+      "url": "https://github.com/tercen/sctype_operator",
       "error": "notest"
     },
     {
@@ -993,12 +993,14 @@
     "https://github.com/tercen/karolinska_demultiplex_operator",
     "https://github.com/tercen/kmeans_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
+    "https://github.com/tercen/marker_enrichment_operator",
     "https://github.com/tercen/multiplybyconstant_operator",
     "https://github.com/tercen/normalizeCounts_operator",
     "https://github.com/tercen/pause_operator",
     "https://github.com/tercen/pca_long_operator",
     "https://github.com/tercen/pg_plsda_classifier_operator",
     "https://github.com/tercen/pg_predict_operator",
+    "https://github.com/tercen/phate_operator",
     "https://github.com/tercen/pie_chart_shiny_operator",
     "https://github.com/tercen/ppi_string_shiny_operator",
     "https://github.com/tercen/read_VCF_operator",
