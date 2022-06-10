@@ -109,12 +109,6 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
-      "name": "pamsoft_grid_operator",
-      "version": "1.1.2",
-      "url": "https://github.com/tercen/pamsoft_grid_operator",
-      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--OUT--\nNULL\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: 'dplyr'\n\nThe following objects are masked from 'package:plyr':\n\n    arrange, count, desc, failwith, id, mutate, rename, summarise,\n    summarize\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nThere were 11 warnings (use warnings() to see them)\nError in do.grid(., tmpDir) : ------------------------------------------\nSetting up environment variables\n---\nLD_LIBRARY_PATH is .:/opt/mcr/v99/runtime/glnxa64:/opt/mcr/v99/bin/glnxa64:/opt/mcr/v99/sys/os/glnxa64:/opt/mcr/v99/sys/opengl/lib/glnxa64\nRunning PG version: 1.0.24\nCalls: %>% ... ungroup -> do -> do.grouped_df -> eval_tidy -> do.grid\nExecution halted\n})"
-    },
-    {
       "name": "pamsoft_grid_qt_operator",
       "version": "1.1.1",
       "url": "https://github.com/tercen/pamsoft_grid_qt_operator",
@@ -695,6 +689,11 @@
       "name": "Pairwise Distance",
       "version": "0.1.5",
       "url": "https://github.com/tercen/pairwise_distance_operator"
+    },
+    {
+      "name": "pamsoft_grid_operator",
+      "version": "1.2.0",
+      "url": "https://github.com/tercen/pamsoft_grid_operator"
     },
     {
       "name": "Pamsoft Grid Shiny Operator",
