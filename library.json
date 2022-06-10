@@ -3141,6 +3141,52 @@
     "path": ""
   },
   {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "pamsoft_grid_operator",
+    "name": "pamsoft_grid_operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-07-20T08:44:46.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-06-10T16:15:15.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/pamsoft_grid_operator"
+      }
+    ],
+    "tags": [
+      "image analysis"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/pamsoft_grid_operator"
+    },
+    "version": "1.2.0",
+    "authors": [
+      "tercen",
+      "Thiago"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/pamsoft_grid_operator:1.1.2"
+  },
+  {
     "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
