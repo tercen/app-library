@@ -1666,6 +1666,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Exports FlowJo results.",
+    "name": "FlowJo Export Operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-04-05T15:01:04.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-06-13T11:16:06.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/flowjo_export_operator"
+      }
+    ],
+    "tags": [
+      "flowjo"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/flowjo_export_operator"
+    },
+    "version": "0.2.5",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Calculates the ratio of change between an original and subsequent measurements.",
     "name": "Fold Change",
     "createdBy": "",
