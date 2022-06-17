@@ -1,14 +1,14 @@
 [
-    {
-        "uri": "https://github.com/tercen/normalizeCounts_operator",
-        "version": "0.0.2",
-        "base_memory": 2000000000,
-        "ratio": 25
+   {
+        "uri": "https://github.com/tercen/pamsoft_grid_operator",
+        "version": "1.2.1",
+        "base_memory": 1000000000,
+        "ratio": 5
     },
     {
-        "uri": "https://github.com/tercen/umap_operator",
+        "uri": "https://github.com/tercen/pamsoft_grid_qt_operator",
         "version": "1.2.0",
-        "base_memory": 2000000000,
-        "ratio": 10
+        "base_memory": 1000000000,
+        "ratio": 5
     }
 ]
