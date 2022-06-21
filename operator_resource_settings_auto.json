@@ -60,6 +60,16 @@
         "ratio": 6.2
     },
     {
+        "uri": "https://github.com/tercen/asinh_operator",
+        "version": "1.1.0",
+        "base_memory": 500000000,
+        "ratio_est": -1.2294,
+        "ratio_upper": 4.6466,
+        "r2": 0.1332,
+        "ratio_rounded": 4.7,
+        "ratio": 5
+    },
+    {
         "uri": "https://github.com/tercen/barplot_operator",
         "version": "0.0.3",
         "base_memory": 500000000,
@@ -334,8 +344,8 @@
         "version": "1.2.0",
         "base_memory": 500000000,
         "ratio_est": 1.2914,
-        "ratio_upper": 1.3669,
-        "r2": 0.973,
+        "ratio_upper": 1.3673,
+        "r2": 0.971,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -423,10 +433,10 @@
         "uri": "https://github.com/tercen/pca_operator",
         "version": "0.10.0",
         "base_memory": 500000000,
-        "ratio_est": -101.4155,
-        "ratio_upper": 114.1563,
-        "r2": 0.2213,
-        "ratio_rounded": 114.3,
+        "ratio_est": -102.5049,
+        "ratio_upper": 101.911,
+        "r2": 0.1819,
+        "ratio_rounded": 102,
         "ratio": 5
     },
     {
@@ -593,10 +603,10 @@
         "uri": "https://github.com/tercen/scale_operator",
         "version": "0.10.1",
         "base_memory": 500000000,
-        "ratio_est": -581.4965,
-        "ratio_upper": -77.6167,
-        "r2": 0.4437,
-        "ratio_rounded": -77.5,
+        "ratio_est": -587.6469,
+        "ratio_upper": -77.1833,
+        "r2": 0.4173,
+        "ratio_rounded": -77.1,
         "ratio": 5
     },
     {
@@ -684,8 +694,8 @@
         "version": "0.0.3",
         "base_memory": 1000000000,
         "ratio_est": 2.675,
-        "ratio_upper": 3.043,
-        "r2": 0.7171,
+        "ratio_upper": 3.04,
+        "r2": 0.7168,
         "ratio_rounded": 3.1,
         "ratio": 5
     },
