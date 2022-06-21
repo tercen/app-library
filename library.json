@@ -2111,6 +2111,50 @@
     "path": ""
   },
   {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Replaces missing data (NA) from a table by the column mean or with a value.",
+    "name": "Impute",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2019-04-04T20:44:38.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-06-21T13:53:30.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/impute_operator"
+      }
+    ],
+    "tags": [
+      "data wrangling"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/impute_operator"
+    },
+    "version": "0.3.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
     "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
