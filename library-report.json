@@ -73,12 +73,6 @@
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column .ci -- val != refVal -- at line 0 -- val = 8 refVal = 0})"
     },
     {
-      "name": "Impute",
-      "version": "0.3.0",
-      "url": "https://github.com/tercen/impute_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds40.imputed -- val != refVal -- at line 57 -- val = 1.3846153846153846 refVal = 1.38461538461538})"
-    },
-    {
       "name": "Log",
       "version": "1.1.1",
       "url": "https://github.com/tercen/log_operator",
@@ -556,6 +550,11 @@
       "name": "Identity",
       "version": "0.1.0",
       "url": "https://github.com/tercen/identity_operator"
+    },
+    {
+      "name": "Impute",
+      "version": "0.3.2",
+      "url": "https://github.com/tercen/impute_operator"
     },
     {
       "name": "IOpener dashboard (rev2)",
