@@ -3,10 +3,10 @@
         "uri": "",
         "version": "0.0.3",
         "base_memory": 500000000,
-        "ratio_est": -3090.5469,
-        "ratio_upper": -2689.9906,
-        "r2": 0.8568,
-        "ratio_rounded": -2689.9,
+        "ratio_est": -3000.3611,
+        "ratio_upper": -2610.4905,
+        "r2": 0.8516,
+        "ratio_rounded": -2610.4,
         "ratio": 5
     },
     {
@@ -83,10 +83,10 @@
         "uri": "https://github.com/tercen/check_input1_operator",
         "version": "0.0.3",
         "base_memory": 500000000,
-        "ratio_est": -5329.7598,
-        "ratio_upper": -3546.6128,
-        "r2": 0.8284,
-        "ratio_rounded": -3546.5,
+        "ratio_est": -4660.0771,
+        "ratio_upper": -2984.1975,
+        "r2": 0.7918,
+        "ratio_rounded": -2984.1,
         "ratio": 5
     },
     {
@@ -313,10 +313,10 @@
         "uri": "https://github.com/tercen/mean_operator",
         "version": "1.0.0",
         "base_memory": 500000000,
-        "ratio_est": -6056.8678,
-        "ratio_upper": -3992.3707,
-        "r2": 0.7954,
-        "ratio_rounded": -3992.3,
+        "ratio_est": -4974.141,
+        "ratio_upper": -3365.5769,
+        "r2": 0.7758,
+        "ratio_rounded": -3365.5,
         "ratio": 5
     },
     {
@@ -334,8 +334,8 @@
         "version": "1.2.0",
         "base_memory": 500000000,
         "ratio_est": 1.2914,
-        "ratio_upper": 1.367,
-        "r2": 0.9736,
+        "ratio_upper": 1.3669,
+        "r2": 0.973,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -363,10 +363,10 @@
         "uri": "https://github.com/tercen/model_based_clustering_operator",
         "version": "0.0.2",
         "base_memory": 500000000,
-        "ratio_est": -15358.229,
-        "ratio_upper": -10754.317,
-        "r2": 0.8456,
-        "ratio_rounded": -10754.2,
+        "ratio_est": -12862.3458,
+        "ratio_upper": -9174.6447,
+        "r2": 0.825,
+        "ratio_rounded": -9174.5,
         "ratio": 5
     },
     {
@@ -723,10 +723,10 @@
         "uri": "https://github.com/tercen/zscore_scaling_operator",
         "version": "0.0.2",
         "base_memory": 500000000,
-        "ratio_est": -125.491,
-        "ratio_upper": 117.4817,
-        "r2": 0.0709,
-        "ratio_rounded": 117.6,
+        "ratio_est": -128.3625,
+        "ratio_upper": 112.3345,
+        "r2": 0.0656,
+        "ratio_rounded": 112.4,
         "ratio": 5
     }
 ]
