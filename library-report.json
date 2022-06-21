@@ -153,12 +153,6 @@
   ],
   "notest_operators": [
     {
-      "name": "Antibodies Bound per Cell (ABC)",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/Antibodies_Bound_per_Cell_operator",
-      "error": "notest"
-    },
-    {
       "name": "DESeq2",
       "version": "0.0.6",
       "url": "https://github.com/tercen/DESeq2_two_conditions_operator",
@@ -328,6 +322,11 @@
     }
   ],
   "success_operators": [
+    {
+      "name": "Antibodies Bound per Cell (ABC)",
+      "version": "0.1.3",
+      "url": "https://github.com/tercen/Antibodies_Bound_per_Cell_operator"
+    },
     {
       "name": "DRC Fit",
       "version": "0.0.2",
