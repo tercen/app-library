@@ -483,10 +483,10 @@
         "uri": "https://github.com/tercen/proportion_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -4.6972,
-        "ratio_upper": -1.9618,
-        "r2": 0.7228,
-        "ratio_rounded": -1.9,
+        "ratio_est": -5.1904,
+        "ratio_upper": -2.0623,
+        "r2": 0.5753,
+        "ratio_rounded": -2,
         "ratio": 5
     },
     {
@@ -673,10 +673,10 @@
         "uri": "https://github.com/tercen/tracksom_operator",
         "version": "0.0.6",
         "base_memory": 1000000000,
-        "ratio_est": 1.6901,
-        "ratio_upper": 2.0079,
-        "r2": 0.7813,
-        "ratio_rounded": 2.1,
+        "ratio_est": 1.649,
+        "ratio_upper": 1.9095,
+        "r2": 0.8255,
+        "ratio_rounded": 2,
         "ratio": 5
     },
     {
