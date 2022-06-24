@@ -13,16 +13,16 @@
       "error": "ServiceError({statusCode: 400, error: unknown, reason: FileSystemException: Cannot open file, path = '/var/lib/tercen/data/operator/e9/1b/ee/ee1be91e-e8f3-4b83-9b78-e6dbe259da90/tercen-atsne_operator-ee88f71/tests/table2.csv' (OS Error: No such file or directory, errno = 2)})"
     },
     {
-      "name": "Base Change",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/basechange_operator",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
       "name": "Cell Plot",
       "version": "1.0.3",
       "url": "https://github.com/tercen/cellplot_shiny_operator",
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
+    },
+    {
+      "name": "Base Change",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/change_from_baseline_operator",
+      "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
       "name": "Template_R_operator",
@@ -617,11 +617,6 @@
       "name": "Model Based Clustering",
       "version": "0.0.2",
       "url": "https://github.com/tercen/model_based_clustering_operator"
-    },
-    {
-      "name": "MSA Plot",
-      "version": "0.0.4",
-      "url": "https://github.com/tercen/msa_shiny_operator"
     },
     {
       "name": "Multiple Testing",
