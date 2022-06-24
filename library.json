@@ -3185,52 +3185,6 @@
     "path": ""
   },
   {
-    "kind": "DockerOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "opencyto operator",
-    "name": "opencyto operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-03-31T13:08:24.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-04-07T13:24:08.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/opencyto_operator"
-      }
-    ],
-    "tags": [
-      "flow cytometry",
-      "clustering"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/opencyto_operator"
-    },
-    "version": "0.2.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "container": "tercen/opencyto_operator:0.2.0"
-  },
-  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -3731,7 +3685,7 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Calculates counts and relative proportions per row, column, and overall. Assesses whether a sample from a population represents the true proportion from the entire population",
+    "description": "Calculates counts and relative proportions per row, column, and overall.",
     "name": "Proportion Analysis",
     "createdBy": "",
     "acl": {
@@ -3745,7 +3699,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-03-01T14:04:17.000Z"
+      "value": "2022-06-24T06:31:49.000Z"
     },
     "urls": [
       {
@@ -3762,7 +3716,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/proportion_operator"
     },
-    "version": "0.1.0",
+    "version": "0.1.2",
     "authors": [
       "tercen"
     ],
@@ -5383,6 +5337,52 @@
     "longDescription": "",
     "path": "",
     "isViewOnly": false
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Uniform Manifold Approximation and Projection: Calculates nonlinear dimension reduction on a data set.",
+    "name": "umap",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2019-10-12T11:03:33.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-06-24T10:08:31.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/umap_operator"
+      }
+    ],
+    "tags": [
+      "flow cytometry",
+      "rnaseq",
+      "dimensionality reduction"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/umap_operator"
+    },
+    "version": "1.2.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
   },
   {
     "kind": "ROperator",
