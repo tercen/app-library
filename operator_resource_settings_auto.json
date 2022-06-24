@@ -143,10 +143,10 @@
         "uri": "https://github.com/tercen/DESeq2_two_conditions_operator",
         "version": "0.0.5",
         "base_memory": 1000000000,
-        "ratio_est": 73.8517,
-        "ratio_upper": 94.1078,
-        "r2": 0.9563,
-        "ratio_rounded": 94.2,
+        "ratio_est": 75.2713,
+        "ratio_upper": 92.0798,
+        "r2": 0.9626,
+        "ratio_rounded": 92.2,
         "ratio": 50
     },
     {
@@ -233,9 +233,9 @@
         "uri": "https://github.com/tercen/hclust_operator",
         "version": "0.10.0",
         "base_memory": 500000000,
-        "ratio_est": 0.5632,
-        "ratio_upper": 1.8991,
-        "r2": 0.0058,
+        "ratio_est": 0.5629,
+        "ratio_upper": 1.8969,
+        "r2": 0.0057,
         "ratio_rounded": 2,
         "ratio": 5
     },
@@ -453,10 +453,10 @@
         "uri": "https://github.com/tercen/pca_operator",
         "version": "1.2.3",
         "base_memory": 500000000,
-        "ratio_est": -76.4431,
-        "ratio_upper": -33.3919,
-        "r2": 0.8384,
-        "ratio_rounded": -33.3,
+        "ratio_est": -74.4813,
+        "ratio_upper": -39.7744,
+        "r2": 0.8553,
+        "ratio_rounded": -39.7,
         "ratio": 5
     },
     {
@@ -723,10 +723,10 @@
         "uri": "https://github.com/tercen/vst_operator",
         "version": "0.0.1",
         "base_memory": 1000000000,
-        "ratio_est": 46.5183,
-        "ratio_upper": 60.1828,
-        "r2": 0.9502,
-        "ratio_rounded": 60.3,
+        "ratio_est": 47.5078,
+        "ratio_upper": 58.8649,
+        "r2": 0.9574,
+        "ratio_rounded": 59,
         "ratio": 50
     },
     {
