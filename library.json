@@ -2428,6 +2428,52 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Transforms cell by calculating the logarithmic values.",
+    "name": "Log",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2017-11-17T12:14:06.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-06-23T18:53:06.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/log_operator"
+      }
+    ],
+    "tags": [
+      "data wrangling",
+      "data transformation",
+      "transform"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/log_operator"
+    },
+    "version": "1.1.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Calculates the log ratio of a measurement in two different conditions",
     "name": "Log 2-Fold Change",
     "createdBy": "",
