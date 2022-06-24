@@ -73,12 +73,6 @@
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column .ci -- val != refVal -- at line 0 -- val = 8 refVal = 0})"
     },
     {
-      "name": "Log",
-      "version": "1.1.1",
-      "url": "https://github.com/tercen/log_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.correlation, reason: At column ds000.log -- bad correlation -- r2 < 0.99})"
-    },
-    {
       "name": "Max",
       "version": "0.2.0",
       "url": "https://github.com/tercen/max_operator",
@@ -579,6 +573,11 @@
       "name": "Log Cutoff",
       "version": "0.0.2",
       "url": "https://github.com/tercen/log_cutoff_operator"
+    },
+    {
+      "name": "Log",
+      "version": "1.1.2",
+      "url": "https://github.com/tercen/log_operator"
     },
     {
       "name": "Log 2-Fold Change",
