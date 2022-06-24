@@ -2871,51 +2871,6 @@
     "path": ""
   },
   {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Multiple Sequence Alignment: Displays the alignment of three or more biological sequences (protein or nucleic acid) of similar length.",
-    "name": "MSA Plot",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-10-03T21:40:31.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-07-26T15:46:33.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/msa_shiny_operator"
-      }
-    ],
-    "tags": [
-      "bioinformatics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/msa_shiny_operator"
-    },
-    "version": "0.0.4",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true
-  },
-  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
