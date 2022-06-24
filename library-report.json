@@ -115,12 +115,6 @@
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nWarning message:\npackage ‘dplyr’ was built under R version 4.0.5 \nWarning messages:\n1: replacing previous import ‘gtools::permute’ by ‘igraph::permute’ when loading ‘TrackSOM’ \n2: replacing previous import ‘flowCore::normalize’ by ‘igraph::normalize’ when loading ‘TrackSOM’ \n3: replacing previous import ‘flowCore::filter’ by ‘tidygraph::filter’ when loading ‘TrackSOM’ \n4: replacing previous import ‘igraph::groups’ by ‘tidygraph::groups’ when loading ‘TrackSOM’ \n\nAttaching package: ‘data.table’\n\nThe following objects are masked from ‘package:dplyr’:\n\n    between, first, last\n\nWarning message:\npackage ‘data.table’ was built under R version 4.0.5 \nError: Two factors need to be projected onto columns.\nExecution halted\n})"
     },
     {
-      "name": "umap",
-      "version": "1.2.0",
-      "url": "https://github.com/tercen/umap_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column test.umap.1 -- val != refVal -- at line 0 -- val = -3.5430691200383007 refVal = -6.914291531443596})"
-    },
-    {
       "name": "Wilcoxon Test",
       "version": "0.1.1",
       "url": "https://github.com/tercen/wilcoxtest_operator",
@@ -251,7 +245,7 @@
     {
       "name": "OpenCyto one-step",
       "version": "0.0.4",
-      "url": "https://github.com/tercen/opencyto_onestep_operator",
+      "url": "https://github.com/tercen/opencyto_operator",
       "error": "notest"
     },
     {
@@ -660,11 +654,6 @@
       "url": "https://github.com/tercen/nonlinear_regression_operator"
     },
     {
-      "name": "opencyto operator",
-      "version": "0.2.0",
-      "url": "https://github.com/tercen/opencyto_operator"
-    },
-    {
       "name": "Order By",
       "version": "0.1.3",
       "url": "https://github.com/tercen/orderBy_operator"
@@ -721,7 +710,7 @@
     },
     {
       "name": "Proportion Analysis",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "url": "https://github.com/tercen/proportion_operator"
     },
     {
@@ -905,6 +894,11 @@
       "url": "https://github.com/tercen/uka_shiny_operator"
     },
     {
+      "name": "umap",
+      "version": "1.2.1",
+      "url": "https://github.com/tercen/umap_operator"
+    },
+    {
       "name": "Upper and Lower Bounds",
       "version": "0.1.1",
       "url": "https://github.com/tercen/upperandlowerbounds_operator"
@@ -951,7 +945,6 @@
     }
   ],
   "no_release_operators": [
-    "https://github.com/tercen/ExposureTimeScaling_operator",
     "https://github.com/tercen/PARC_python_operator",
     "https://github.com/tercen/TraCeR_operator",
     "https://github.com/tercen/TraCeR_summarize_operator",
