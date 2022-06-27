@@ -443,9 +443,9 @@
         "uri": "https://github.com/tercen/pca_operator",
         "version": "1.1.4",
         "base_memory": 500000000,
-        "ratio_est": 1.4137,
-        "ratio_upper": 3.4128,
-        "r2": 0.1726,
+        "ratio_est": 1.4129,
+        "ratio_upper": 3.3961,
+        "r2": 0.1644,
         "ratio_rounded": 3.5,
         "ratio": 5
     },
