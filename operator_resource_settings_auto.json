@@ -333,10 +333,10 @@
         "uri": "https://github.com/tercen/mean_operator",
         "version": "1.1.0",
         "base_memory": 500000000,
-        "ratio_est": -18.9293,
-        "ratio_upper": 14.5556,
-        "r2": 0.0626,
-        "ratio_rounded": 14.7,
+        "ratio_est": -19.0118,
+        "ratio_upper": 14.4359,
+        "r2": 0.0611,
+        "ratio_rounded": 14.5,
         "ratio": 5
     },
     {
@@ -653,10 +653,10 @@
         "uri": "https://github.com/tercen/template_R_operator",
         "version": "0.0.1",
         "base_memory": 500000000,
-        "ratio_est": 150.3036,
-        "ratio_upper": 359.3773,
-        "r2": 0.6446,
-        "ratio_rounded": 359.5,
+        "ratio_est": 49.2825,
+        "ratio_upper": 137.7447,
+        "r2": 0.4127,
+        "ratio_rounded": 137.8,
         "ratio": 5
     },
     {
