@@ -4984,6 +4984,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Calculates the sum of all the values of a cell.",
+    "name": "Sum",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2018-09-12T09:18:04.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-06-28T12:44:05.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/sum_operator"
+      }
+    ],
+    "tags": [
+      "simple arithmetic"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/sum_operator"
+    },
+    "version": "1.10.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Calculate the mathamatical average of the data points in a cell.",
     "name": "Template_R_operator",
     "createdBy": "",
