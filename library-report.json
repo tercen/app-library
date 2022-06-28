@@ -103,12 +103,6 @@
       "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
     },
     {
-      "name": "Sum",
-      "version": "1.10.0",
-      "url": "https://github.com/tercen/sum_operator",
-      "error": "ServiceError({statusCode: 500, error: Task.client.unknown, reason: Throw of null.})"
-    },
-    {
       "name": "TrackSOM operator",
       "version": "0.0.8",
       "url": "https://github.com/tercen/tracksom_operator",
@@ -852,6 +846,11 @@
       "name": "Subtract",
       "version": "0.1.3",
       "url": "https://github.com/tercen/subtract_operator"
+    },
+    {
+      "name": "Sum",
+      "version": "1.10.2",
+      "url": "https://github.com/tercen/sum_operator"
     },
     {
       "name": "Template_R_operator",
