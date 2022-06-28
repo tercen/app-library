@@ -503,6 +503,11 @@
       "url": "https://github.com/tercen/globaltest_operator"
     },
     {
+      "name": "GMM operator",
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/gmm_operator"
+    },
+    {
       "name": "Heatmap Dashboard",
       "version": "0.3.0",
       "url": "https://github.com/tercen/heatmap_dashboard_operator"
@@ -968,7 +973,6 @@
     "https://github.com/tercen/findMarkers_operator",
     "https://github.com/tercen/flowmeans_operator",
     "https://github.com/tercen/flowsom_mst_operator",
-    "https://github.com/tercen/gmm_operator",
     "https://github.com/tercen/grid_editing_shiny_operator",
     "https://github.com/tercen/karolinska_demultiplex_operator",
     "https://github.com/tercen/kmeans_operator",
