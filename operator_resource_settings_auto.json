@@ -73,10 +73,10 @@
         "uri": "https://github.com/tercen/barplot_operator",
         "version": "0.0.3",
         "base_memory": 500000000,
-        "ratio_est": -37.9513,
-        "ratio_upper": -3.0716,
-        "r2": 0.1766,
-        "ratio_rounded": -3,
+        "ratio_est": -40.607,
+        "ratio_upper": -7.3345,
+        "r2": 0.2018,
+        "ratio_rounded": -7.2,
         "ratio": 5
     },
     {
@@ -173,10 +173,10 @@
         "uri": "https://github.com/tercen/fast_tSNE_operator",
         "version": "0.1.3",
         "base_memory": 1000000000,
-        "ratio_est": 3.1506,
-        "ratio_upper": 4.7699,
-        "r2": 0.77,
-        "ratio_rounded": 4.9,
+        "ratio_est": 3.1477,
+        "ratio_upper": 4.8605,
+        "r2": 0.694,
+        "ratio_rounded": 5,
         "ratio": 5
     },
     {
@@ -204,8 +204,8 @@
         "version": "0.0.3",
         "base_memory": 1000000000,
         "ratio_est": 0.5073,
-        "ratio_upper": 0.5293,
-        "r2": 0.9891,
+        "ratio_upper": 0.5294,
+        "r2": 0.9883,
         "ratio_rounded": 0.6,
         "ratio": 5
     },
@@ -253,10 +253,10 @@
         "uri": "https://github.com/tercen/hclust_operator",
         "version": "1.1.2",
         "base_memory": 500000000,
-        "ratio_est": -6795.3368,
-        "ratio_upper": -3864.0489,
-        "r2": 0.8734,
-        "ratio_rounded": -3863.9,
+        "ratio_est": -6568.7175,
+        "ratio_upper": -4467.5891,
+        "r2": 0.8963,
+        "ratio_rounded": -4467.5,
         "ratio": 5
     },
     {
@@ -364,8 +364,8 @@
         "version": "1.2.1",
         "base_memory": 1000000000,
         "ratio_est": 2.2117,
-        "ratio_upper": 2.2969,
-        "r2": 0.9598,
+        "ratio_upper": 2.2967,
+        "r2": 0.9594,
         "ratio_rounded": 2.4,
         "ratio": 5
     },
@@ -403,11 +403,11 @@
         "uri": "https://github.com/tercen/normalizeCounts_operator",
         "version": "0.0.2",
         "base_memory": 1000000000,
-        "ratio_est": 22.9,
-        "ratio_upper": 41.2003,
-        "r2": 0.6215,
-        "ratio_rounded": 41.3,
-        "ratio": 5
+        "ratio_est": 22.8983,
+        "ratio_upper": 33.5639,
+        "r2": 0.7788,
+        "ratio_rounded": 33.7,
+        "ratio": 33.7
     },
     {
         "uri": "https://github.com/tercen/opencyto_onestep_operator",
@@ -503,9 +503,9 @@
         "uri": "https://github.com/tercen/proportion_operator",
         "version": "0.1.1",
         "base_memory": 500000000,
-        "ratio_est": 0.3458,
-        "ratio_upper": 0.4969,
-        "r2": 0.7203,
+        "ratio_est": 0.3385,
+        "ratio_upper": 0.4834,
+        "r2": 0.6948,
         "ratio_rounded": 0.6,
         "ratio": 5
     },
@@ -633,10 +633,10 @@
         "uri": "https://github.com/tercen/scRNA_seq_marker_gene_detection",
         "version": "0.0.1",
         "base_memory": 500000000,
-        "ratio_est": 0.7077,
-        "ratio_upper": 1.0862,
-        "r2": 0.7275,
-        "ratio_rounded": 1.2,
+        "ratio_est": 0.7814,
+        "ratio_upper": 1.2131,
+        "r2": 0.6171,
+        "ratio_rounded": 1.3,
         "ratio": 5
     },
     {
@@ -648,6 +648,16 @@
         "r2": 0.9862,
         "ratio_rounded": 7.8,
         "ratio": 7.8
+    },
+    {
+        "uri": "https://github.com/tercen/SNNGraphClustering_operator",
+        "version": "0.0.2",
+        "base_memory": 500000000,
+        "ratio_est": 35.1199,
+        "ratio_upper": 62.4497,
+        "r2": 0.789,
+        "ratio_rounded": 62.5,
+        "ratio": 50
     },
     {
         "uri": "https://github.com/tercen/sum_operator",
@@ -673,9 +683,9 @@
         "uri": "https://github.com/tercen/testVar_operator",
         "version": "0.0.2",
         "base_memory": 500000000,
-        "ratio_est": 0.6168,
-        "ratio_upper": 0.6683,
-        "r2": 0.991,
+        "ratio_est": 0.6159,
+        "ratio_upper": 0.6511,
+        "r2": 0.9946,
         "ratio_rounded": 0.8,
         "ratio": 5
     },
@@ -724,8 +734,8 @@
         "version": "1.2.0",
         "base_memory": 1000000000,
         "ratio_est": 6.3571,
-        "ratio_upper": 6.8009,
-        "r2": 0.9885,
+        "ratio_upper": 6.7722,
+        "r2": 0.9884,
         "ratio_rounded": 6.9,
         "ratio": 6.9
     },
