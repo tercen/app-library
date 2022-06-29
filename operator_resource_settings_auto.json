@@ -173,10 +173,10 @@
         "uri": "https://github.com/tercen/fast_tSNE_operator",
         "version": "0.1.3",
         "base_memory": 1000000000,
-        "ratio_est": 3.1477,
-        "ratio_upper": 4.8605,
-        "r2": 0.694,
-        "ratio_rounded": 5,
+        "ratio_est": 3.0085,
+        "ratio_upper": 4.3599,
+        "r2": 0.6911,
+        "ratio_rounded": 4.5,
         "ratio": 5
     },
     {
@@ -203,9 +203,9 @@
         "uri": "https://github.com/tercen/flowsom_mst_operator",
         "version": "0.0.3",
         "base_memory": 1000000000,
-        "ratio_est": 0.5073,
-        "ratio_upper": 0.5294,
-        "r2": 0.9883,
+        "ratio_est": 0.5076,
+        "ratio_upper": 0.5288,
+        "r2": 0.9877,
         "ratio_rounded": 0.6,
         "ratio": 5
     },
@@ -218,6 +218,16 @@
         "r2": 0.9474,
         "ratio_rounded": 2.6,
         "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/flowsom_operator",
+        "version": "1.3.4",
+        "base_memory": 1000000000,
+        "ratio_est": 4.4683,
+        "ratio_upper": 7.6341,
+        "r2": 0.8186,
+        "ratio_rounded": 7.7,
+        "ratio": 7.7
     },
     {
         "uri": "https://github.com/tercen/generalised_linear_model_operator",
@@ -253,10 +263,10 @@
         "uri": "https://github.com/tercen/hclust_operator",
         "version": "1.1.2",
         "base_memory": 500000000,
-        "ratio_est": -6568.7175,
-        "ratio_upper": -4467.5891,
-        "r2": 0.8963,
-        "ratio_rounded": -4467.5,
+        "ratio_est": -6221.7233,
+        "ratio_upper": -4893.0947,
+        "r2": 0.9222,
+        "ratio_rounded": -4893,
         "ratio": 5
     },
     {
@@ -363,9 +373,9 @@
         "uri": "https://github.com/tercen/MEM_operator",
         "version": "1.2.1",
         "base_memory": 1000000000,
-        "ratio_est": 2.2117,
-        "ratio_upper": 2.2967,
-        "r2": 0.9594,
+        "ratio_est": 2.2106,
+        "ratio_upper": 2.2955,
+        "r2": 0.9585,
         "ratio_rounded": 2.4,
         "ratio": 5
     },
@@ -733,11 +743,11 @@
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.0",
         "base_memory": 1000000000,
-        "ratio_est": 6.3571,
-        "ratio_upper": 6.7722,
-        "r2": 0.9884,
-        "ratio_rounded": 6.9,
-        "ratio": 6.9
+        "ratio_est": 6.3537,
+        "ratio_upper": 6.7263,
+        "r2": 0.9881,
+        "ratio_rounded": 6.8,
+        "ratio": 6.8
     },
     {
         "uri": "https://github.com/tercen/vst_operator",
