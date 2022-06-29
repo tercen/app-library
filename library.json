@@ -5699,53 +5699,6 @@
     "path": ""
   },
   {
-    "kind": "DockerWebAppOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Displays a scatter plot depiction of Planet Earth in the Mercator projection.",
-    "name": "Worldmap",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-05-29T16:34:53.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-07-26T16:05:40.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/worldmap_shiny_docker_operator"
-      }
-    ],
-    "tags": [
-      "data visualisation",
-      "map"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/worldmap_shiny_docker_operator"
-    },
-    "version": "0.1.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true,
-    "container": "agouy/worldmap:0.1.0"
-  },
-  {
     "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
