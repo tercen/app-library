@@ -771,6 +771,51 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Annotate cell populations based on a marker enrichment score computed for each cluster.",
+    "name": "Cell Annotation",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-06-30T10:28:15.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-06-30T16:20:49.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/cell_annotation_operator"
+      }
+    ],
+    "tags": [
+      "flow cytometry",
+      "annotation"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/cell_annotation_operator"
+    },
+    "version": "0.0.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Check input and return valid output",
     "name": "Check input 1 operator",
     "createdBy": "",
@@ -2653,6 +2698,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Compute the Mean Absolute Deviation of a set of data points, a robust measure of the variability.",
+    "name": "MAD (Mean Absolute Deviation)",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-06-30T17:31:32.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-06-30T18:01:41.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/mad_operator"
+      }
+    ],
+    "tags": [
+      "basic statistics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/mad_operator"
+    },
+    "version": "0.0.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Compute a standardised marker enrichment score per cluster.",
     "name": "Marker Enrichment Score",
     "createdBy": "",
@@ -2667,7 +2756,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-06-30T09:10:16.000Z"
+      "value": "2022-06-30T14:41:14.000Z"
     },
     "urls": [
       {
@@ -2684,7 +2773,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/marker_enrichment_operator"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "authors": [
       "tercen"
     ],
@@ -2875,6 +2964,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Compute the median and Median Absolute Deviation (MAD) of the data points in a cell.",
+    "name": "Median and MAD",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-06-30T17:46:51.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-06-30T18:06:09.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/median_mad_operator"
+      }
+    ],
+    "tags": [
+      "basic statistics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/median_mad_operator"
+    },
+    "version": "0.0.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Calculates the middle value of a range. The value that has an equal number of values above and below it.",
     "name": "Median",
     "createdBy": "",
@@ -2889,7 +3022,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-10-11T14:00:31.000Z"
+      "value": "2022-06-30T17:34:24.000Z"
     },
     "urls": [
       {
@@ -2905,7 +3038,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/median_operator"
     },
-    "version": "1.0.18",
+    "version": "1.1.0",
     "authors": [
       "tercen"
     ],
