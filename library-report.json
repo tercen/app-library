@@ -1,12 +1,6 @@
 {
   "failed_operators": [
     {
-      "name": "Cell Plot",
-      "version": "1.0.3",
-      "url": "https://github.com/tercen/cellplot_shiny_operator",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
       "name": "Base Change",
       "version": "0.1.1",
       "url": "https://github.com/tercen/change_from_baseline_operator",
@@ -53,18 +47,6 @@
       "version": "0.1.1",
       "url": "https://github.com/tercen/gfr_operator",
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
-      "name": "Hclust - Order",
-      "version": "1.1.2",
-      "url": "https://github.com/tercen/hclust_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column .ci -- val != refVal -- at line 0 -- val = 8 refVal = 0})"
-    },
-    {
-      "name": "Max",
-      "version": "0.2.0",
-      "url": "https://github.com/tercen/max_operator",
-      "error": "ServiceError({statusCode: -142, error: create.operator.renv.failed, reason: Failed to create operator})"
     },
     {
       "name": "Linear Mixed Model",
@@ -472,6 +454,11 @@
       "url": "https://github.com/tercen/gmm_operator"
     },
     {
+      "name": "Hclust - Order",
+      "version": "1.1.3",
+      "url": "https://github.com/tercen/hclust_operator"
+    },
+    {
       "name": "Heatmap Dashboard",
       "version": "0.3.0",
       "url": "https://github.com/tercen/heatmap_dashboard_operator"
@@ -545,6 +532,16 @@
       "name": "Logit",
       "version": "0.1.4",
       "url": "https://github.com/tercen/logit_operator"
+    },
+    {
+      "name": "Marker Enrichment Score",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/marker_enrichment_operator"
+    },
+    {
+      "name": "Max",
+      "version": "0.2.1",
+      "url": "https://github.com/tercen/max_operator"
     },
     {
       "name": "Mean and CV",
@@ -911,9 +908,8 @@
     "https://github.com/tercen/autoencoder_operator",
     "https://github.com/tercen/barplot_operator",
     "https://github.com/tercen/barplot_shiny_operator",
+    "https://github.com/tercen/cell_annotation_operator",
     "https://github.com/tercen/classification_metrics_operator",
-    "https://github.com/tercen/cluster_label_matching_operator",
-    "https://github.com/tercen/clusterlab_operator",
     "https://github.com/tercen/conditional_density_shiny_operator",
     "https://github.com/tercen/coral_docker_operator",
     "https://github.com/tercen/coral_shiny_operator",
@@ -936,7 +932,6 @@
     "https://github.com/tercen/karolinska_demultiplex_operator",
     "https://github.com/tercen/kmeans_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
-    "https://github.com/tercen/marker_enrichment_operator",
     "https://github.com/tercen/multiplybyconstant_operator",
     "https://github.com/tercen/normalizeCounts_operator",
     "https://github.com/tercen/pause_operator",
@@ -952,15 +947,12 @@
     "https://github.com/tercen/scRNAseq_QC_operator",
     "https://github.com/tercen/separate_row_operator",
     "https://github.com/tercen/shiny_docker_operator",
-    "https://github.com/tercen/shiny_operator",
     "https://github.com/tercen/sinh_operator",
-    "https://github.com/tercen/snca_operator",
     "https://github.com/tercen/test_builder_operator",
     "https://github.com/tercen/thresholding_operator",
     "https://github.com/tercen/trimap_python_operator",
     "https://github.com/tercen/trimgalore_operator",
     "https://github.com/tercen/unzip_karolinska_data_operator",
-    "https://github.com/tercen/vst_operator",
-    "https://github.com/tercen/xgboost_operator"
+    "https://github.com/tercen/vst_operator"
   ]
 }
