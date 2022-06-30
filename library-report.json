@@ -324,6 +324,11 @@
       "url": "https://github.com/tercen/calcnormfactors_operator"
     },
     {
+      "name": "Cell Annotation",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/cell_annotation_operator"
+    },
+    {
       "name": "Check input 1 operator",
       "version": "0.0.3",
       "url": "https://github.com/tercen/check_input1_operator"
@@ -534,8 +539,13 @@
       "url": "https://github.com/tercen/logit_operator"
     },
     {
+      "name": "MAD (Mean Absolute Deviation)",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/mad_operator"
+    },
+    {
       "name": "Marker Enrichment Score",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "url": "https://github.com/tercen/marker_enrichment_operator"
     },
     {
@@ -559,8 +569,13 @@
       "url": "https://github.com/tercen/mean_sd_operator"
     },
     {
+      "name": "Median and MAD",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/median_mad_operator"
+    },
+    {
       "name": "Median",
-      "version": "1.0.18",
+      "version": "1.1.0",
       "url": "https://github.com/tercen/median_operator"
     },
     {
@@ -908,7 +923,6 @@
     "https://github.com/tercen/autoencoder_operator",
     "https://github.com/tercen/barplot_operator",
     "https://github.com/tercen/barplot_shiny_operator",
-    "https://github.com/tercen/cell_annotation_operator",
     "https://github.com/tercen/classification_metrics_operator",
     "https://github.com/tercen/conditional_density_shiny_operator",
     "https://github.com/tercen/coral_docker_operator",
