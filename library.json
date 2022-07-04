@@ -2756,7 +2756,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-06-30T14:41:14.000Z"
+      "value": "2022-07-04T08:47:52.000Z"
     },
     "urls": [
       {
@@ -2773,7 +2773,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/marker_enrichment_operator"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "authors": [
       "tercen"
     ],
