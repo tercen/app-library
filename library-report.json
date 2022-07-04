@@ -545,7 +545,7 @@
     },
     {
       "name": "Marker Enrichment Score",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "url": "https://github.com/tercen/marker_enrichment_operator"
     },
     {
