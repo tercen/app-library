@@ -2384,6 +2384,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Perform k-means clustering",
+    "name": "K-means",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-02-11T17:53:25.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-05T14:16:58.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/kmeans_operator"
+      }
+    ],
+    "tags": [
+      "multivariate statistics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/kmeans_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "A non-parametric method for testing whether samples originate from the same distribution. It is used for comparing two or more independent samples.",
     "name": "Kruskal-Wallis Test",
     "createdBy": "",
@@ -5289,6 +5333,52 @@
     "longDescription": "",
     "path": "",
     "container": "tercen/simple_docker_operator:0.14.4"
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "sinh transformation a given data",
+    "name": "sinh",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-02-24T18:27:08.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-05T15:43:16.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/sinh_operator"
+      }
+    ],
+    "tags": [
+      "data transformation",
+      "data wrangling",
+      "transform"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/sinh_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
   },
   {
     "kind": "ROperator",
