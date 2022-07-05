@@ -25,12 +25,6 @@
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nError in apply(quantileDataLow, 2, function(x) { : \n  object 'quantileDataLow' not found\nCalls: <Anonymous> ... generateAnnotationThresholds -> .processChannelBounds -> apply\nExecution halted\n})"
     },
     {
-      "name": "flowCut",
-      "version": "0.1.3",
-      "url": "https://github.com/tercen/flowcut_operator",
-      "error": "ServiceError({statusCode: 400, error: run.operator.exit.code.143, reason: Failed to run operator, exit code = 143\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n})"
-    },
-    {
       "name": "FlowSOM MST",
       "version": "0.1.3",
       "url": "https://github.com/tercen/flowsom_mst_shiny_operator",
@@ -65,12 +59,6 @@
       "version": "0.1.1",
       "url": "https://github.com/tercen/read_cellranger_operator",
       "error": "ServiceError({statusCode: 400, error: unknown, reason: type 'int' is not a subtype of type 'String' in type cast})"
-    },
-    {
-      "name": "Regression Coefficients",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/regression_coefficients_operator",
-      "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
     },
     {
       "name": "TrackSOM operator",
@@ -434,6 +422,11 @@
       "url": "https://github.com/tercen/flowclean_operator"
     },
     {
+      "name": "flowCut",
+      "version": "0.1.6",
+      "url": "https://github.com/tercen/flowcut_operator"
+    },
+    {
       "name": "FlowJo Export Operator",
       "version": "0.2.5",
       "url": "https://github.com/tercen/flowjo_export_operator"
@@ -754,6 +747,11 @@
       "url": "https://github.com/tercen/readxl_operator"
     },
     {
+      "name": "Regression Coefficients",
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/regression_coefficients_operator"
+    },
+    {
       "name": "Replace",
       "version": "0.1.1",
       "url": "https://github.com/tercen/replace_operator"
@@ -960,7 +958,6 @@
     "https://github.com/tercen/rfsrc_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
     "https://github.com/tercen/separate_row_operator",
-    "https://github.com/tercen/shiny_docker_operator",
     "https://github.com/tercen/sinh_operator",
     "https://github.com/tercen/test_builder_operator",
     "https://github.com/tercen/thresholding_operator",
