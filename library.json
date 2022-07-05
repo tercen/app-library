@@ -1751,6 +1751,52 @@
     "path": ""
   },
   {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Perform quality control of flow cytometry data using flowCut.",
+    "name": "flowCut",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-06-23T07:48:03.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-05T07:19:00.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/flowcut_operator"
+      }
+    ],
+    "tags": [
+      "flow cytometry",
+      "QC"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/flowcut_operator"
+    },
+    "version": "0.1.6",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/flowcut_operator:0.1.6"
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -4614,6 +4660,50 @@
       "uri": "https://github.com/tercen/readxl_operator"
     },
     "version": "1.2.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Compute regression coefficients for a set of covariates.",
+    "name": "Regression Coefficients",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-03-16T14:15:08.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-05T12:38:20.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/regression_coefficients_operator"
+      }
+    ],
+    "tags": [
+      "linear regression"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/regression_coefficients_operator"
+    },
+    "version": "0.1.2",
     "authors": [
       "tercen"
     ],
