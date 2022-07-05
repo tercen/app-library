@@ -177,12 +177,6 @@
       "error": "notest"
     },
     {
-      "name": "AnnotatedDataFrame",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/readAnnotatedDataFrame_operator",
-      "error": "notest"
-    },
-    {
       "name": "sctype_operator",
       "version": "0.0.10",
       "url": "https://github.com/tercen/sctype_operator",
@@ -490,6 +484,11 @@
       "name": "IOpener dashboard (rev2)",
       "version": "0.0.11",
       "url": "https://github.com/tercen/iopener_dashboard_operator"
+    },
+    {
+      "name": "K-means",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/kmeans_operator"
     },
     {
       "name": "Kruskal-Wallis Test",
@@ -817,6 +816,11 @@
       "url": "https://github.com/tercen/simple_docker_operator"
     },
     {
+      "name": "sinh",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/sinh_operator"
+    },
+    {
       "name": "Square Root",
       "version": "0.1.3",
       "url": "https://github.com/tercen/sqrt_operator"
@@ -922,13 +926,11 @@
     "https://github.com/tercen/barplot_operator",
     "https://github.com/tercen/barplot_shiny_operator",
     "https://github.com/tercen/classification_metrics_operator",
-    "https://github.com/tercen/conditional_density_shiny_operator",
     "https://github.com/tercen/coral_docker_operator",
     "https://github.com/tercen/coral_shiny_operator",
     "https://github.com/tercen/coral_shiny_v2_operator",
     "https://github.com/tercen/coralp_shiny_operator",
     "https://github.com/tercen/cyclone_operator",
-    "https://github.com/tercen/damacy_operator",
     "https://github.com/tercen/dascombat_fit_operator",
     "https://github.com/tercen/dascombat_prediction_operator",
     "https://github.com/tercen/dascombat_shiny_fit_operator",
@@ -938,11 +940,8 @@
     "https://github.com/tercen/fastq_to_counts_docker_operator",
     "https://github.com/tercen/fastq_to_counts_operator",
     "https://github.com/tercen/findMarkers_operator",
-    "https://github.com/tercen/flowmeans_operator",
     "https://github.com/tercen/flowsom_mst_operator",
-    "https://github.com/tercen/grid_editing_shiny_operator",
     "https://github.com/tercen/karolinska_demultiplex_operator",
-    "https://github.com/tercen/kmeans_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
     "https://github.com/tercen/multiplybyconstant_operator",
     "https://github.com/tercen/normalizeCounts_operator",
@@ -957,8 +956,6 @@
     "https://github.com/tercen/read_png_operator",
     "https://github.com/tercen/rfsrc_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
-    "https://github.com/tercen/separate_row_operator",
-    "https://github.com/tercen/sinh_operator",
     "https://github.com/tercen/test_builder_operator",
     "https://github.com/tercen/thresholding_operator",
     "https://github.com/tercen/trimap_python_operator",
