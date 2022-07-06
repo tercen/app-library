@@ -28,5 +28,11 @@
         "version": "0.0.1",
         "base_memory": 1000000000,
         "ratio": 10
+    },
+    {
+        "uri": "https://github.com/tercen/depeche_operator",
+        "version": "117763dac009274b72bd879a3d3f6f0d9269b197",
+        "base_memory": 1000000000,
+        "ratio": 10
     }
 ]
