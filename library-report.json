@@ -159,12 +159,6 @@
       "error": "notest"
     },
     {
-      "name": "NCA",
-      "version": "0.1.2",
-      "url": "https://github.com/tercen/nca_operator",
-      "error": "notest"
-    },
-    {
       "name": "Normalisation",
       "version": "0.0.3",
       "url": "https://github.com/tercen/normalyzer_operator",
