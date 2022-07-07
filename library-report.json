@@ -531,7 +531,7 @@
     },
     {
       "name": "Marker Enrichment Score",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "url": "https://github.com/tercen/marker_enrichment_operator"
     },
     {
@@ -736,7 +736,7 @@
     },
     {
       "name": "Excel",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "url": "https://github.com/tercen/readxl_operator"
     },
     {
@@ -950,7 +950,6 @@
     "https://github.com/tercen/read_png_operator",
     "https://github.com/tercen/rfsrc_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
-    "https://github.com/tercen/test_builder_operator",
     "https://github.com/tercen/thresholding_operator",
     "https://github.com/tercen/trimap_python_operator",
     "https://github.com/tercen/trimgalore_operator",
