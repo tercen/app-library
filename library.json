@@ -2846,7 +2846,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-07-04T08:47:52.000Z"
+      "value": "2022-07-07T13:15:26.000Z"
     },
     "urls": [
       {
@@ -2863,7 +2863,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/marker_enrichment_operator"
     },
-    "version": "0.0.3",
+    "version": "0.0.4",
     "authors": [
       "tercen"
     ],
@@ -4686,7 +4686,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-03-10T10:39:31.000Z"
+      "value": "2022-07-07T13:33:09.000Z"
     },
     "urls": [
       {
@@ -4703,7 +4703,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/readxl_operator"
     },
-    "version": "1.2.0",
+    "version": "1.2.1",
     "authors": [
       "tercen"
     ],
