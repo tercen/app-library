@@ -1815,7 +1815,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-06-13T11:16:06.000Z"
+      "value": "2022-07-08T11:23:11.000Z"
     },
     "urls": [
       {
@@ -1831,7 +1831,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/flowjo_export_operator"
     },
-    "version": "0.2.5",
+    "version": "0.2.6",
     "authors": [
       "tercen"
     ],
