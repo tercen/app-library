@@ -416,7 +416,7 @@
     },
     {
       "name": "FlowJo Export Operator",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "url": "https://github.com/tercen/flowjo_export_operator"
     },
     {
