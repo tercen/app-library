@@ -650,7 +650,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-05-13T12:32:46.000Z"
+      "value": "2022-07-09T16:55:25.000Z"
     },
     "urls": [
       {
@@ -666,7 +666,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/biplot_shiny_operator"
     },
-    "version": "1.0.0",
+    "version": "1.1.0",
     "authors": [
       "Rik de Wijn"
     ],
