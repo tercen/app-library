@@ -343,10 +343,10 @@
         "uri": "https://github.com/tercen/mean_operator",
         "version": "1.0.0",
         "base_memory": 500000000,
-        "ratio_est": -4789.4312,
-        "ratio_upper": -3301.4417,
-        "r2": 0.7786,
-        "ratio_rounded": -3301.3,
+        "ratio_est": -4811.4994,
+        "ratio_upper": -3397.977,
+        "r2": 0.7873,
+        "ratio_rounded": -3397.9,
         "ratio": 5
     },
     {
@@ -613,10 +613,10 @@
         "uri": "https://github.com/tercen/readxl_operator",
         "version": "1.1.2",
         "base_memory": 500000000,
-        "ratio_est": -478.5024,
-        "ratio_upper": -172.7304,
-        "r2": 0.1634,
-        "ratio_rounded": -172.6,
+        "ratio_est": -513.1947,
+        "ratio_upper": -239.3841,
+        "r2": 0.207,
+        "ratio_rounded": -239.3,
         "ratio": 5
     },
     {
