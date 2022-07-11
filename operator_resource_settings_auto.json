@@ -593,10 +593,10 @@
         "uri": "https://github.com/tercen/read_csv_operator",
         "version": "0.1.3",
         "base_memory": 500000000,
-        "ratio_est": -15170.586,
-        "ratio_upper": 6166.918,
-        "r2": 0.6395,
-        "ratio_rounded": 6167,
+        "ratio_est": 7.3627,
+        "ratio_upper": 18.4976,
+        "r2": 0.4185,
+        "ratio_rounded": 18.6,
         "ratio": 5
     },
     {
