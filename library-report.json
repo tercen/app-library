@@ -7,12 +7,6 @@
       "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
-      "name": "Template_R_operator",
-      "version": "0.2.0",
-      "url": "https://github.com/tercen/cluster_annotation_operator",
-      "error": "ServiceError({statusCode: 400, error: unknown, reason: --ERR--\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nError in library(tidyr) : there is no package called ‘tidyr’\nExecution halted\n})"
-    },
-    {
       "name": "DR Curve Fitting Operator",
       "version": "1.2.0",
       "url": "https://github.com/tercen/dose_response_fit_operator",
@@ -49,6 +43,12 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
+      "name": "OpenCyto Gating",
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/opencyto_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})"
+    },
+    {
       "name": "Optics11",
       "version": "0.1.8",
       "url": "https://github.com/tercen/optics11_operator",
@@ -78,12 +78,6 @@
       "name": "DESeq2",
       "version": "0.0.6",
       "url": "https://github.com/tercen/DESeq2_two_conditions_operator",
-      "error": "notest"
-    },
-    {
-      "name": "RMSD",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/RMSD_operator",
       "error": "notest"
     },
     {
@@ -156,18 +150,6 @@
       "name": "MSA",
       "version": "0.2.3",
       "url": "https://github.com/tercen/msa_operator",
-      "error": "notest"
-    },
-    {
-      "name": "Normalisation",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/normalyzer_operator",
-      "error": "notest"
-    },
-    {
-      "name": "OpenCyto one-step",
-      "version": "0.0.4",
-      "url": "https://github.com/tercen/opencyto_operator",
       "error": "notest"
     },
     {
@@ -250,6 +232,11 @@
       "url": "https://github.com/tercen/PTK_QC_presence_operator"
     },
     {
+      "name": "RMSD",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/RMSD_operator"
+    },
+    {
       "name": "S100",
       "version": "0.1.0",
       "url": "https://github.com/tercen/S100_operator"
@@ -283,6 +270,11 @@
       "name": "asinh",
       "version": "1.1.0",
       "url": "https://github.com/tercen/asinh_operator"
+    },
+    {
+      "name": "Bar plot",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/barplot_operator"
     },
     {
       "name": "biplot operator",
@@ -590,6 +582,11 @@
       "url": "https://github.com/tercen/multiply_operator"
     },
     {
+      "name": "Multiply by Constant",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/multiplybyconstant_operator"
+    },
+    {
       "name": "Negative",
       "version": "0.1.3",
       "url": "https://github.com/tercen/negative_operator"
@@ -608,6 +605,11 @@
       "name": "Non Linear Regression",
       "version": "1.0.5",
       "url": "https://github.com/tercen/nonlinear_regression_operator"
+    },
+    {
+      "name": "Normalisation",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/normalyzer_operator"
     },
     {
       "name": "Order By",
@@ -917,7 +919,6 @@
     "https://github.com/tercen/alice_operator",
     "https://github.com/tercen/anova1_operator",
     "https://github.com/tercen/autoencoder_operator",
-    "https://github.com/tercen/barplot_operator",
     "https://github.com/tercen/barplot_shiny_operator",
     "https://github.com/tercen/classification_metrics_operator",
     "https://github.com/tercen/coral_docker_operator",
@@ -929,7 +930,6 @@
     "https://github.com/tercen/dascombat_prediction_operator",
     "https://github.com/tercen/dascombat_shiny_fit_operator",
     "https://github.com/tercen/data_cleaning_operator",
-    "https://github.com/tercen/data_quality_shiny_operator",
     "https://github.com/tercen/depeche_operator",
     "https://github.com/tercen/fastq_to_counts_docker_operator",
     "https://github.com/tercen/fastq_to_counts_operator",
@@ -937,9 +937,7 @@
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/karolinska_demultiplex_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
-    "https://github.com/tercen/multiplybyconstant_operator",
     "https://github.com/tercen/normalizeCounts_operator",
-    "https://github.com/tercen/pause_operator",
     "https://github.com/tercen/pg_plsda_classifier_operator",
     "https://github.com/tercen/pg_predict_operator",
     "https://github.com/tercen/phate_operator",
