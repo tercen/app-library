@@ -316,6 +316,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Root-Mean-Square Deviation: Calculates the differences between the values predicted by a model and the values observed.",
+    "name": "RMSD",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-06-22T19:51:57.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-11T09:24:45.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/RMSD_operator"
+      }
+    ],
+    "tags": [
+      "basic statistics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/RMSD_operator"
+    },
+    "version": "0.1.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Multiply input values by 100.",
     "name": "S100",
     "createdBy": "",
@@ -623,6 +667,51 @@
       "uri": "https://github.com/tercen/asinh_operator"
     },
     "version": "1.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Generate advanced barplots as PNG files.",
+    "name": "Bar plot",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-05-10T10:56:02.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-11T11:05:21.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/barplot_operator"
+      }
+    ],
+    "tags": [
+      "data visualisation",
+      "plot"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/barplot_operator"
+    },
+    "version": "0.1.0",
     "authors": [
       "tercen"
     ],
@@ -3365,6 +3454,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Multiply by constant.",
+    "name": "Multiply by Constant",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-05-05T14:09:38.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-11T07:19:34.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/multiplybyconstant_operator"
+      }
+    ],
+    "tags": [
+      "pamgene"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/multiplybyconstant_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Transforms numerical data to a negative value (i.e. multiply by -1)",
     "name": "Negative",
     "createdBy": "",
@@ -3539,6 +3672,52 @@
     "properties": [],
     "longDescription": "",
     "path": ""
+  },
+  {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Implements different normalisation methods.",
+    "name": "Normalisation",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2019-06-25T17:24:59.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-11T08:36:25.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/normalyzer_operator"
+      }
+    ],
+    "tags": [
+      "data transformation",
+      "normalisation"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/normalyzer_operator"
+    },
+    "version": "0.1.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/normalyzer_operator:0.1.1"
   },
   {
     "kind": "ROperator",
