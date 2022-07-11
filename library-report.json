@@ -111,12 +111,6 @@
       "error": "notest"
     },
     {
-      "name": "FlowSOM Tuning",
-      "version": "0.0.4",
-      "url": "https://github.com/tercen/flowsomtuning_operator",
-      "error": "notest"
-    },
-    {
       "name": "Join Genome",
       "version": "0.0.2",
       "url": "https://github.com/tercen/genome_join_operator",
@@ -186,12 +180,6 @@
       "name": "TrimGalore",
       "version": "0.1.0",
       "url": "https://github.com/tercen/trimgalore_docker_operator",
-      "error": "notest"
-    },
-    {
-      "name": "XSHIFT",
-      "version": "0.0.6",
-      "url": "https://github.com/tercen/xshift_docker_operator",
       "error": "notest"
     }
   ],
@@ -929,7 +917,6 @@
     "https://github.com/tercen/dascombat_fit_operator",
     "https://github.com/tercen/dascombat_prediction_operator",
     "https://github.com/tercen/dascombat_shiny_fit_operator",
-    "https://github.com/tercen/data_cleaning_operator",
     "https://github.com/tercen/depeche_operator",
     "https://github.com/tercen/fastq_to_counts_docker_operator",
     "https://github.com/tercen/fastq_to_counts_operator",
