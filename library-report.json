@@ -65,12 +65,6 @@
       "version": "0.0.8",
       "url": "https://github.com/tercen/tracksom_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nWarning message:\npackage ‘dplyr’ was built under R version 4.0.5 \nWarning messages:\n1: replacing previous import ‘gtools::permute’ by ‘igraph::permute’ when loading ‘TrackSOM’ \n2: replacing previous import ‘flowCore::normalize’ by ‘igraph::normalize’ when loading ‘TrackSOM’ \n3: replacing previous import ‘flowCore::filter’ by ‘tidygraph::filter’ when loading ‘TrackSOM’ \n4: replacing previous import ‘igraph::groups’ by ‘tidygraph::groups’ when loading ‘TrackSOM’ \n\nAttaching package: ‘data.table’\n\nThe following objects are masked from ‘package:dplyr’:\n\n    between, first, last\n\nWarning message:\npackage ‘data.table’ was built under R version 4.0.5 \nError: Two factors need to be projected onto columns.\nExecution halted\n})"
-    },
-    {
-      "name": "Wilcoxon Test",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/wilcoxtest_operator",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.failed, reason: Failed to create operator})"
     }
   ],
   "notest_operators": [
@@ -260,6 +254,11 @@
       "url": "https://github.com/tercen/asinh_operator"
     },
     {
+      "name": "Autoencoder operator",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/autoencoder_operator"
+    },
+    {
       "name": "Bar plot",
       "version": "0.1.0",
       "url": "https://github.com/tercen/barplot_operator"
@@ -293,6 +292,11 @@
       "name": "Chi-squared test",
       "version": "0.1.0",
       "url": "https://github.com/tercen/chisquare_test_operator"
+    },
+    {
+      "name": "Classification metrics",
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/classification_metrics_operator"
     },
     {
       "name": "Clustering Metrics",
@@ -396,7 +400,7 @@
     },
     {
       "name": "FlowJo Export Operator",
-      "version": "0.2.6",
+      "version": "0.2.7",
       "url": "https://github.com/tercen/flowjo_export_operator"
     },
     {
@@ -571,7 +575,7 @@
     },
     {
       "name": "Multiply by Constant",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "url": "https://github.com/tercen/multiplybyconstant_operator"
     },
     {
@@ -885,6 +889,11 @@
       "url": "https://github.com/tercen/vsn_shiny_operator"
     },
     {
+      "name": "Wilcoxon Test",
+      "version": "0.1.4",
+      "url": "https://github.com/tercen/wilcoxtest_operator"
+    },
+    {
       "name": "Word Count",
       "version": "1.1.0",
       "url": "https://github.com/tercen/wordcount_operator"
@@ -906,9 +915,7 @@
     "https://github.com/tercen/TraCeR_summarize_operator",
     "https://github.com/tercen/alice_operator",
     "https://github.com/tercen/anova1_operator",
-    "https://github.com/tercen/autoencoder_operator",
     "https://github.com/tercen/barplot_shiny_operator",
-    "https://github.com/tercen/classification_metrics_operator",
     "https://github.com/tercen/coral_docker_operator",
     "https://github.com/tercen/coral_shiny_operator",
     "https://github.com/tercen/coral_shiny_v2_operator",
