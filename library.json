@@ -680,6 +680,51 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Trains an autoencoder-based model",
+    "name": "Autoencoder operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-03-19T20:15:23.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-12T11:34:59.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/autoencoder_operator"
+      }
+    ],
+    "tags": [
+      "clustering",
+      "dimension reduction"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/autoencoder_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Generate advanced barplots as PNG files.",
     "name": "Bar plot",
     "createdBy": "",
@@ -982,6 +1027,50 @@
       "uri": "https://github.com/tercen/chisquare_test_operator"
     },
     "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Returns precision, recall and F1-score of a classification",
+    "name": "Classification metrics",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-03-19T15:39:17.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-12T13:13:41.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/classification_metrics_operator"
+      }
+    ],
+    "tags": [
+      "clustering"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/classification_metrics_operator"
+    },
+    "version": "0.1.2",
     "authors": [
       "tercen"
     ],
@@ -1904,7 +1993,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-07-08T11:23:11.000Z"
+      "value": "2022-07-12T07:17:09.000Z"
     },
     "urls": [
       {
@@ -1920,7 +2009,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/flowjo_export_operator"
     },
-    "version": "0.2.6",
+    "version": "0.2.7",
     "authors": [
       "tercen"
     ],
@@ -3468,7 +3557,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-07-11T07:19:34.000Z"
+      "value": "2022-07-12T05:38:20.000Z"
     },
     "urls": [
       {
@@ -3484,7 +3573,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/multiplybyconstant_operator"
     },
-    "version": "0.1.0",
+    "version": "0.1.1",
     "authors": [
       "tercen"
     ],
@@ -6279,6 +6368,51 @@
     "longDescription": "",
     "path": "",
     "isViewOnly": false
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Calculates the difference between sets of pairs and analyzes these differences to establish if they are statistically significantly different from one another. There are two variants Rank Sum and Signed Rank.",
+    "name": "Wilcoxon Test",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-12-11T16:54:10.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-12T07:39:26.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/wilcoxtest_operator"
+      }
+    ],
+    "tags": [
+      "statistical testing",
+      "test"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/wilcoxtest_operator"
+    },
+    "version": "0.1.4",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
   },
   {
     "kind": "ROperator",
