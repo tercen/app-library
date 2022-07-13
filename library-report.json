@@ -749,6 +749,11 @@
       "url": "https://github.com/tercen/rfImp_operator"
     },
     {
+      "name": "ROC Shiny Operator",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/roc_shiny_operator"
+    },
+    {
       "name": "Round",
       "version": "0.1.2",
       "url": "https://github.com/tercen/round_operator"
@@ -924,7 +929,6 @@
     "https://github.com/tercen/dascombat_fit_operator",
     "https://github.com/tercen/dascombat_prediction_operator",
     "https://github.com/tercen/dascombat_shiny_fit_operator",
-    "https://github.com/tercen/depeche_operator",
     "https://github.com/tercen/fastq_to_counts_docker_operator",
     "https://github.com/tercen/fastq_to_counts_operator",
     "https://github.com/tercen/findMarkers_operator",
