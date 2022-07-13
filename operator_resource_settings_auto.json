@@ -80,6 +80,16 @@
         "ratio": 5
     },
     {
+        "uri": "https://github.com/tercen/barplot_operator",
+        "version": "0.1.0",
+        "base_memory": 500000000,
+        "ratio_est": -4172.5785,
+        "ratio_upper": 122.6518,
+        "r2": 0.3879,
+        "ratio_rounded": 122.8,
+        "ratio": 5
+    },
+    {
         "uri": "https://github.com/tercen/check_input1_operator",
         "version": "0.0.2",
         "base_memory": 500000000,
@@ -374,8 +384,8 @@
         "version": "1.2.0",
         "base_memory": 500000000,
         "ratio_est": 1.2908,
-        "ratio_upper": 1.3678,
-        "r2": 0.9478,
+        "ratio_upper": 1.3679,
+        "r2": 0.9465,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
