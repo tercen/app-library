@@ -224,6 +224,11 @@
       "url": "https://github.com/tercen/S100_operator"
     },
     {
+      "name": "Venn",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/Venn_diag_shiny_operator"
+    },
+    {
       "name": "Add",
       "version": "0.1.1",
       "url": "https://github.com/tercen/add_operator"
@@ -913,7 +918,6 @@
     "https://github.com/tercen/PARC_python_operator",
     "https://github.com/tercen/TraCeR_operator",
     "https://github.com/tercen/TraCeR_summarize_operator",
-    "https://github.com/tercen/Venn_diag_shiny_operator",
     "https://github.com/tercen/alice_operator",
     "https://github.com/tercen/anova1_operator",
     "https://github.com/tercen/barplot_shiny_operator",
