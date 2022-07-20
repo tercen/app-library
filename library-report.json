@@ -264,11 +264,6 @@
       "url": "https://github.com/tercen/barplot_operator"
     },
     {
-      "name": "biplot operator",
-      "version": "1.1.0",
-      "url": "https://github.com/tercen/biplot_shiny_operator"
-    },
-    {
       "name": "Box Plot",
       "version": "0.0.3",
       "url": "https://github.com/tercen/boxplot_shiny_operator"
@@ -921,6 +916,7 @@
     "https://github.com/tercen/alice_operator",
     "https://github.com/tercen/anova1_operator",
     "https://github.com/tercen/barplot_shiny_operator",
+    "https://github.com/tercen/biplot_shiny_operator",
     "https://github.com/tercen/coral_docker_operator",
     "https://github.com/tercen/coral_shiny_operator",
     "https://github.com/tercen/coral_shiny_v2_operator",
