@@ -563,10 +563,10 @@
         "uri": "https://github.com/tercen/pg_plsda_classifier_operator",
         "version": "0.1.3",
         "base_memory": 1000000000,
-        "ratio_est": 159.4184,
-        "ratio_upper": 196.0126,
-        "r2": 0.9355,
-        "ratio_rounded": 196.1,
+        "ratio_est": 159.6834,
+        "ratio_upper": 190.2535,
+        "r2": 0.9365,
+        "ratio_rounded": 190.4,
         "ratio": 50
     },
     {
