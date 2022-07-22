@@ -243,9 +243,9 @@
         "uri": "https://github.com/tercen/flowsom_operator",
         "version": "1.3.4",
         "base_memory": 1000000000,
-        "ratio_est": 2.0388,
-        "ratio_upper": 2.2847,
-        "r2": 0.9396,
+        "ratio_est": 2.0391,
+        "ratio_upper": 2.2844,
+        "r2": 0.9376,
         "ratio_rounded": 2.4,
         "ratio": 5
     },
