@@ -1755,51 +1755,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Highlight text or numerical values based on a setting.",
-    "name": "Flag Condition",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-10-26T22:03:54.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-03T16:20:22.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/flag_operator"
-      }
-    ],
-    "tags": [
-      "data wrangling",
-      "text processing"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/flag_operator"
-    },
-    "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Flow Cytometry Automatic or Interactive anomaly detection: An alglorithm to perform quality control on FCS data.",
     "name": "FlowAI",
     "createdBy": "",
@@ -2785,52 +2740,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Transforms cell by calculating the logarithmic values.",
-    "name": "Log",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2017-11-17T12:14:06.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-06-23T18:53:06.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/log_operator"
-      }
-    ],
-    "tags": [
-      "data wrangling",
-      "data transformation",
-      "transform"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/log_operator"
-    },
-    "version": "1.1.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Calculates the log ratio of a measurement in two different conditions",
     "name": "Log 2-Fold Change",
     "createdBy": "",
@@ -3498,94 +3407,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Multiply by constant.",
-    "name": "Multiply by Constant",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-05-05T14:09:38.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-07-12T05:38:20.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/multiplybyconstant_operator"
-      }
-    ],
-    "tags": [
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/multiplybyconstant_operator"
-    },
-    "version": "0.1.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Transforms numerical data to a negative value (i.e. multiply by -1)",
-    "name": "Negative",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2019-04-23T07:05:30.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-18T15:22:15.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/negative_operator"
-      }
-    ],
-    "tags": [
-      "simple statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/negative_operator"
-    },
-    "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "A machine learning method for classifying multivariate data into distinct classes according to a given distance metric over the data.",
     "name": "Neighbourhood Analysis",
     "createdBy": "",
@@ -3799,50 +3620,6 @@
       "uri": "https://github.com/tercen/orderBy_operator"
     },
     "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Calculates pairwise (e.g x,y) distances between variables as a single number.",
-    "name": "Pairwise Distance",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-06-20T18:03:14.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-10T13:57:03.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/pairwise_distance_operator"
-      }
-    ],
-    "tags": [
-      "basic statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/pairwise_distance_operator"
-    },
-    "version": "0.1.5",
     "authors": [
       "tercen"
     ],
@@ -4214,50 +3991,6 @@
     "longDescription": "",
     "path": "",
     "isViewOnly": true
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Calculates the product (i.e. multiplication) of all datapoints in a cell",
-    "name": "Product",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2018-09-25T18:05:16.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-24T14:52:12.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/product_operator"
-      }
-    ],
-    "tags": [
-      "simple arithmetic"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/product_operator"
-    },
-    "version": "0.1.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
   },
   {
     "kind": "ROperator",
@@ -5165,52 +4898,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Calclates the Jaccard coefficient between nearest-neighbor sets and identifys clusters representing phenotypic similarities between cells.",
-    "name": "Rphenograph",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2018-10-11T21:36:17.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-12-08T15:53:57.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/rphenograph_operator"
-      }
-    ],
-    "tags": [
-      "clustering",
-      "flow cytometry",
-      "cytof"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/rphenograph_operator"
-    },
-    "version": "1.4.3",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Selects a quantity of the data set based on specified sample size and selection parameters.",
     "name": "Sample",
     "createdBy": "",
@@ -5388,50 +5075,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Separates a character column (text) into multiple columns using a regular expression or numeric locations.",
-    "name": "Separate",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-08-30T13:22:46.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-25T14:13:53.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/separate_operator"
-      }
-    ],
-    "tags": [
-      "data wrangling"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/separate_operator"
-    },
-    "version": "0.1.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Orders the values of a cell by the 'x-axis' and assigns a sequence number to each data point.",
     "name": "Sequence Length",
     "createdBy": "",
@@ -5558,51 +5201,6 @@
     "properties": [],
     "longDescription": "",
     "path": ""
-  },
-  {
-    "kind": "DockerOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "simple docker operator",
-    "name": "simple docker operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-03-08T16:01:27.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-16T10:25:55.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/simple_docker_operator"
-      }
-    ],
-    "tags": [
-      ""
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/simple_docker_operator"
-    },
-    "version": "0.14.4",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "container": "tercen/simple_docker_operator:0.14.4"
   },
   {
     "kind": "ROperator",
@@ -5820,50 +5418,6 @@
       "uri": "https://github.com/tercen/template_R_operator"
     },
     "version": "1.0.11",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Select a specified quantity (N) of data from the first record of the set onwards. (e.g. Top 10)",
-    "name": "Top (N)",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-07-27T10:19:27.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-25T14:45:34.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/topn_operator"
-      }
-    ],
-    "tags": [
-      "basic statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/topn_operator"
-    },
-    "version": "0.1.0",
     "authors": [
       "tercen"
     ],
@@ -6227,51 +5781,6 @@
     "version": "1.0.6",
     "authors": [
       "mpg-age-bioinformatics",
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true
-  },
-  {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Template to create a Shiny operator in Tercen.",
-    "name": "Template Shiny Operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-02-20T20:46:41.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-03-08T16:41:30.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/template_shiny_operator"
-      }
-    ],
-    "tags": [
-      "template"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/volcano_shiny_operator"
-    },
-    "version": "0.0.1",
-    "authors": [
       "tercen"
     ],
     "isPublic": true,
