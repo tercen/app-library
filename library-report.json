@@ -31,10 +31,16 @@
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nCols, reason: table.nCols != refTable.nCols})"
     },
     {
-      "name": "Log",
-      "version": "1.1.1",
-      "url": "https://github.com/tercen/log_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.correlation, reason: At column ds000.log -- bad correlation -- r2 < 0.99})"
+      "name": "GFR",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/gfr_operator",
+      "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
+    },
+    {
+      "name": "Linear Mixed Model",
+      "version": "0.2.1",
+      "url": "https://github.com/tercen/mixed_model_operator",
+      "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
       "name": "OpenCyto Gating",
@@ -47,6 +53,12 @@
       "version": "0.1.8",
       "url": "https://github.com/tercen/optics11_operator",
       "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
+    },
+    {
+      "name": "Cell Ranger",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/read_cellranger_operator",
+      "error": "ServiceError({statusCode: -142, error: unknown, reason: type 'int' is not a subtype of type 'String' in type cast})"
     },
     {
       "name": "TrackSOM operator",
@@ -66,6 +78,12 @@
       "name": "SAUCIE",
       "version": "0.0.5",
       "url": "https://github.com/tercen/SAUCIE_docker_operator",
+      "error": "notest"
+    },
+    {
+      "name": "SNNGraphClustering_operator",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/SNNGraphClustering_operator",
       "error": "notest"
     },
     {
@@ -120,18 +138,6 @@
       "name": "MSA",
       "version": "0.2.3",
       "url": "https://github.com/tercen/msa_operator",
-      "error": "notest"
-    },
-    {
-      "name": "Pairwise Distance",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/pairwise_distance_operator",
-      "error": "notest"
-    },
-    {
-      "name": "Product",
-      "version": "0.0.5",
-      "url": "https://github.com/tercen/product_operator",
       "error": "notest"
     },
     {
@@ -368,6 +374,11 @@
       "url": "https://github.com/tercen/fast_tSNE_operator"
     },
     {
+      "name": "Flag Condition",
+      "version": "0.1.4",
+      "url": "https://github.com/tercen/flag_operator"
+    },
+    {
       "name": "FlowAI",
       "version": "0.2.1",
       "url": "https://github.com/tercen/flowai_operator"
@@ -478,6 +489,11 @@
       "url": "https://github.com/tercen/log_cutoff_operator"
     },
     {
+      "name": "Log",
+      "version": "1.1.2",
+      "url": "https://github.com/tercen/log_operator"
+    },
+    {
       "name": "Log 2-Fold Change",
       "version": "0.9.1",
       "url": "https://github.com/tercen/logfoldchange_operator"
@@ -553,6 +569,16 @@
       "url": "https://github.com/tercen/multiply_operator"
     },
     {
+      "name": "Multiply by Constant",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/multiplybyconstant_operator"
+    },
+    {
+      "name": "Negative",
+      "version": "0.1.3",
+      "url": "https://github.com/tercen/negative_operator"
+    },
+    {
       "name": "Neighbourhood Analysis",
       "version": "0.1.1",
       "url": "https://github.com/tercen/neighbourhood_operator"
@@ -576,6 +602,11 @@
       "name": "Order By",
       "version": "0.1.3",
       "url": "https://github.com/tercen/orderBy_operator"
+    },
+    {
+      "name": "Pairwise Distance",
+      "version": "0.1.5",
+      "url": "https://github.com/tercen/pairwise_distance_operator"
     },
     {
       "name": "pamsoft_grid_operator",
@@ -616,6 +647,11 @@
       "name": "Flow Cytometry Plot (Shiny)",
       "version": "0.1.8",
       "url": "https://github.com/tercen/plot_fcs_shiny_operator"
+    },
+    {
+      "name": "Product",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/product_operator"
     },
     {
       "name": "Proportion Analysis",
@@ -718,6 +754,11 @@
       "url": "https://github.com/tercen/round_operator"
     },
     {
+      "name": "Rphenograph",
+      "version": "1.4.3",
+      "url": "https://github.com/tercen/rphenograph_operator"
+    },
+    {
       "name": "Sample",
       "version": "0.2.0",
       "url": "https://github.com/tercen/sample_operator"
@@ -738,6 +779,11 @@
       "url": "https://github.com/tercen/sd_operator"
     },
     {
+      "name": "Separate",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/separate_operator"
+    },
+    {
       "name": "Sequence Length",
       "version": "0.1.0",
       "url": "https://github.com/tercen/seqlen_operator"
@@ -751,6 +797,11 @@
       "name": "Sign Change",
       "version": "0.9.1",
       "url": "https://github.com/tercen/signchange_operator"
+    },
+    {
+      "name": "simple docker operator",
+      "version": "0.14.4",
+      "url": "https://github.com/tercen/simple_docker_operator"
     },
     {
       "name": "sinh",
@@ -776,6 +827,11 @@
       "name": "Template_R_operator",
       "version": "1.0.11",
       "url": "https://github.com/tercen/template_R_operator"
+    },
+    {
+      "name": "Top (N)",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/topn_operator"
     },
     {
       "name": "t-SNE",
@@ -818,6 +874,11 @@
       "url": "https://github.com/tercen/venn_shiny_operator"
     },
     {
+      "name": "Template Shiny Operator",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/volcano_shiny_operator"
+    },
+    {
       "name": "VSN",
       "version": "0.1.0",
       "url": "https://github.com/tercen/vsn_operator"
@@ -850,7 +911,6 @@
   ],
   "no_release_operators": [
     "https://github.com/tercen/PARC_python_operator",
-    "https://github.com/tercen/SNNGraphClustering_operator",
     "https://github.com/tercen/TraCeR_operator",
     "https://github.com/tercen/TraCeR_summarize_operator",
     "https://github.com/tercen/alice_operator",
@@ -868,14 +928,9 @@
     "https://github.com/tercen/fastq_to_counts_docker_operator",
     "https://github.com/tercen/fastq_to_counts_operator",
     "https://github.com/tercen/findMarkers_operator",
-    "https://github.com/tercen/flag_operator",
     "https://github.com/tercen/flowsom_mst_operator",
-    "https://github.com/tercen/gfr_operator",
     "https://github.com/tercen/karolinska_demultiplex_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
-    "https://github.com/tercen/mixed_model_operator",
-    "https://github.com/tercen/multiplybyconstant_operator",
-    "https://github.com/tercen/negative_operator",
     "https://github.com/tercen/normalizeCounts_operator",
     "https://github.com/tercen/pg_plsda_classifier_operator",
     "https://github.com/tercen/pg_predict_operator",
@@ -884,19 +939,13 @@
     "https://github.com/tercen/ppi_string_shiny_operator",
     "https://github.com/tercen/read_VCF_operator",
     "https://github.com/tercen/read_and_compensate_influx_fcs_operator",
-    "https://github.com/tercen/read_cellranger_operator",
     "https://github.com/tercen/read_png_operator",
     "https://github.com/tercen/rfsrc_operator",
-    "https://github.com/tercen/rphenograph_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
-    "https://github.com/tercen/separate_operator",
-    "https://github.com/tercen/simple_docker_operator",
     "https://github.com/tercen/thresholding_operator",
-    "https://github.com/tercen/topn_operator",
     "https://github.com/tercen/trimap_python_operator",
     "https://github.com/tercen/trimgalore_operator",
     "https://github.com/tercen/unzip_karolinska_data_operator",
-    "https://github.com/tercen/volcano_shiny_operator",
     "https://github.com/tercen/vst_operator"
   ]
 }
