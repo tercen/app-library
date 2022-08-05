@@ -360,7 +360,7 @@
     },
     {
       "name": "Export Crosstab Shiny Operator",
-      "version": "0.0.3",
+      "version": "0.0.2",
       "url": "https://github.com/tercen/export_crosstab_shiny_operator"
     },
     {
@@ -931,6 +931,7 @@
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/karolinska_demultiplex_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
+    "https://github.com/tercen/manual_gating_shiny_operator",
     "https://github.com/tercen/normalizeCounts_operator",
     "https://github.com/tercen/pg_plsda_classifier_operator",
     "https://github.com/tercen/pg_predict_operator",
