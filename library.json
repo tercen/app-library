@@ -3916,7 +3916,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-06-14T10:19:54.000Z"
+      "value": "2022-04-27T15:30:39.000Z"
     },
     "urls": [
       {
@@ -3932,7 +3932,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/pamsoft_grid_qt_operator"
     },
-    "version": "1.2.0",
+    "version": "1.0.52",
     "authors": [
       "tercen"
     ],
@@ -3940,7 +3940,7 @@
     "properties": [],
     "longDescription": "",
     "path": "",
-    "container": "tercen/pamsoft_grid_qt_operator:1.2.0"
+    "container": "tercen/pamsoft_grid_qt_operator:1.0.52"
   },
   {
     "kind": "ShinyOperator",
