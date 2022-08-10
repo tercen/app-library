@@ -53,9 +53,9 @@
         "uri": "https://github.com/tercen/asinh_operator",
         "version": "0.1.2",
         "base_memory": 500000000,
-        "ratio_est": 5.4835,
-        "ratio_upper": 6.0472,
-        "r2": 0.9626,
+        "ratio_est": 5.4798,
+        "ratio_upper": 6.0416,
+        "r2": 0.961,
         "ratio_rounded": 6.1,
         "ratio": 6.1
     },
@@ -323,10 +323,10 @@
         "uri": "https://github.com/tercen/identity_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -6655.9182,
-        "ratio_upper": -2527.978,
-        "r2": 0.4264,
-        "ratio_rounded": -2527.9,
+        "ratio_est": -3.7506,
+        "ratio_upper": 0.9128,
+        "r2": 0.1326,
+        "ratio_rounded": 1,
         "ratio": 5
     },
     {
@@ -673,11 +673,11 @@
         "uri": "https://github.com/tercen/read_fcs_operator",
         "version": "1.2.9",
         "base_memory": 500000000,
-        "ratio_est": 5.2422,
-        "ratio_upper": 8.1984,
-        "r2": 0.7673,
-        "ratio_rounded": 8.3,
-        "ratio": 8.3
+        "ratio_est": 6.8829,
+        "ratio_upper": 9.4491,
+        "r2": 0.846,
+        "ratio_rounded": 9.5,
+        "ratio": 9.5
     },
     {
         "uri": "https://github.com/tercen/read_pgcube_operator",
