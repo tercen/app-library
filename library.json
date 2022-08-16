@@ -4850,6 +4850,51 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "reads a PNG file.",
+    "name": "PNG",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-12-12T14:23:31.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-08-16T10:24:02.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/read_png_operator"
+      }
+    ],
+    "tags": [
+      "import",
+      "image"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/read_png_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Import an R-Data object (.rds)",
     "name": "RDS",
     "createdBy": "",
