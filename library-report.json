@@ -934,9 +934,7 @@
     "https://github.com/tercen/rfsrc_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
     "https://github.com/tercen/thresholding_operator",
-    "https://github.com/tercen/trimap_python_operator",
     "https://github.com/tercen/trimgalore_operator",
-    "https://github.com/tercen/unzip_karolinska_data_operator",
     "https://github.com/tercen/vst_operator"
   ]
 }
