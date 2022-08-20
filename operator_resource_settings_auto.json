@@ -893,11 +893,11 @@
         "uri": "https://github.com/tercen/tracer_docker_operator",
         "version": "0.1.1",
         "base_memory": 1000000000,
-        "ratio_est": 843335.9238,
-        "ratio_upper": 1393917.8027,
-        "r2": 0.8917,
-        "ratio_rounded": 1393917.9,
-        "ratio": 50
+        "ratio_est": 68534394.7755,
+        "ratio_upper": 205851745.2787,
+        "r2": 0.2908,
+        "ratio_rounded": 205851745.4,
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/tracksom_operator",
