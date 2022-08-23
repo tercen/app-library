@@ -739,7 +739,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-07-11T11:05:21.000Z"
+      "value": "2022-08-23T18:14:06.000Z"
     },
     "urls": [
       {
@@ -756,7 +756,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/barplot_operator"
     },
-    "version": "0.1.0",
+    "version": "0.1.4",
     "authors": [
       "tercen"
     ],
