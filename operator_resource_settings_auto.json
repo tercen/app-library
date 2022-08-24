@@ -83,10 +83,10 @@
         "uri": "https://github.com/tercen/barplot_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -5581.313,
-        "ratio_upper": -2476.0611,
-        "r2": 0.4438,
-        "ratio_rounded": -2476,
+        "ratio_est": -5594.0543,
+        "ratio_upper": -2489.5224,
+        "r2": 0.4341,
+        "ratio_rounded": -2489.4,
         "ratio": 5
     },
     {
