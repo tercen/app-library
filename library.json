@@ -5695,6 +5695,52 @@
     "path": ""
   },
   {
+    "kind": "ShinyOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Self organizing map clustering for Tercen",
+    "name": "Som Cluster Shiny Operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-08-27T19:23:07.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-08-27T19:43:32.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/template-shiny-operator"
+      }
+    ],
+    "tags": [
+      "SOM",
+      "clustering"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/somcluster_shiny_operator"
+    },
+    "version": "0.0.1",
+    "authors": [
+      "rik de wijn"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": false
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
