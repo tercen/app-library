@@ -802,6 +802,11 @@
       "url": "https://github.com/tercen/sinh_operator"
     },
     {
+      "name": "Som Cluster Shiny Operator",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/somcluster_shiny_operator"
+    },
+    {
       "name": "Square Root",
       "version": "0.1.3",
       "url": "https://github.com/tercen/sqrt_operator"
