@@ -48,6 +48,52 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Differential expression analysis for RNA-seq data.",
+    "name": "DESeq2",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-07-05T21:25:48.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-08-31T14:20:36.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/DESeq2_operator"
+      }
+    ],
+    "tags": [
+      "RNA-seq",
+      "differential expression",
+      "omics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/DESeq2_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Performs a Dose Response Curve fitting of the data",
     "name": "DRC Fit",
     "createdBy": "",
