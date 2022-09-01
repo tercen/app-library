@@ -1617,6 +1617,52 @@
     "isViewOnly": true
   },
   {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Statistical methods for differential discovery analyses in high-dimensional cytometry data.",
+    "name": "diffcyt",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-09-01T07:09:19.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-09-01T12:24:27.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/diffcyt_operator"
+      }
+    ],
+    "tags": [
+      "flow cytometry",
+      "omics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/diffcyt_operator"
+    },
+    "version": "0.0.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/diffcyt_operator:0.0.1"
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
