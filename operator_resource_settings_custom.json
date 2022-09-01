@@ -40,5 +40,11 @@
         "version": "0.1.0",
         "base_memory": 5000000000,
         "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/diffcyt_operator",
+        "version": "0.0.1",
+        "base_memory": 2000000000,
+        "ratio": 5
     }
 ]
