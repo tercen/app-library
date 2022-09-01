@@ -2560,51 +2560,6 @@
     "path": ""
   },
   {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "IOpener dashboard in Tercen.",
-    "name": "IOpener dashboard (rev2)",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-10-22T16:19:07.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-02-23T06:31:30.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/rvbeuningen/iopener_dashboard_operator"
-      }
-    ],
-    "tags": [
-      "dashboard"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/iopener_dashboard_operator"
-    },
-    "version": "0.0.11",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true
-  },
-  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
