@@ -53,9 +53,9 @@
         "uri": "https://github.com/tercen/asinh_operator",
         "version": "0.1.2",
         "base_memory": 500000000,
-        "ratio_est": 5.4713,
-        "ratio_upper": 6.0275,
-        "r2": 0.9564,
+        "ratio_est": 5.4608,
+        "ratio_upper": 5.9738,
+        "r2": 0.961,
         "ratio_rounded": 6.1,
         "ratio": 6.1
     },
@@ -63,10 +63,10 @@
         "uri": "https://github.com/tercen/asinh_operator",
         "version": "1.1.0",
         "base_memory": 500000000,
-        "ratio_est": 0.9985,
-        "ratio_upper": 1.4679,
-        "r2": 0.5061,
-        "ratio_rounded": 1.6,
+        "ratio_est": 1.0766,
+        "ratio_upper": 1.3624,
+        "r2": 0.7407,
+        "ratio_rounded": 1.5,
         "ratio": 5
     },
     {
@@ -83,20 +83,20 @@
         "uri": "https://github.com/tercen/barplot_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -5646.5003,
-        "ratio_upper": -2498.4156,
-        "r2": 0.4115,
-        "ratio_rounded": -2498.3,
+        "ratio_est": -4962.3488,
+        "ratio_upper": -2209.4528,
+        "r2": 0.3954,
+        "ratio_rounded": -2209.4,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/cell_annotation_operator",
         "version": "0.0.1",
         "base_memory": 500000000,
-        "ratio_est": -8810.6439,
-        "ratio_upper": -3542.8784,
-        "r2": 0.7822,
-        "ratio_rounded": -3542.8,
+        "ratio_est": -8171.8104,
+        "ratio_upper": -3868.7934,
+        "r2": 0.7909,
+        "ratio_rounded": -3868.7,
         "ratio": 5
     },
     {
@@ -233,11 +233,11 @@
         "uri": "https://github.com/tercen/fast_tSNE_operator",
         "version": "0.1.4",
         "base_memory": 1000000000,
-        "ratio_est": 5.1364,
-        "ratio_upper": 6.1435,
-        "r2": 0.904,
-        "ratio_rounded": 6.2,
-        "ratio": 6.2
+        "ratio_est": 5.5983,
+        "ratio_upper": 6.4161,
+        "r2": 0.9374,
+        "ratio_rounded": 6.5,
+        "ratio": 6.5
     },
     {
         "uri": "https://github.com/tercen/flowjo_export_operator",
@@ -283,9 +283,9 @@
         "uri": "https://github.com/tercen/flowsom_operator",
         "version": "1.3.4",
         "base_memory": 1000000000,
-        "ratio_est": 2.0663,
-        "ratio_upper": 2.2935,
-        "r2": 0.8944,
+        "ratio_est": 2.0823,
+        "ratio_upper": 2.3032,
+        "r2": 0.8927,
         "ratio_rounded": 2.4,
         "ratio": 5
     },
@@ -333,10 +333,10 @@
         "uri": "https://github.com/tercen/hclust_operator",
         "version": "1.1.2",
         "base_memory": 500000000,
-        "ratio_est": -472.3969,
-        "ratio_upper": -121.2208,
-        "r2": 0.133,
-        "ratio_rounded": -121.1,
+        "ratio_est": -496.5744,
+        "ratio_upper": -146.6484,
+        "r2": 0.135,
+        "ratio_rounded": -146.5,
         "ratio": 5
     },
     {
@@ -378,6 +378,16 @@
         "r2": 0.1758,
         "ratio_rounded": -0.6,
         "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/loess_smoothing_operator",
+        "version": "0.1.0",
+        "base_memory": 500000000,
+        "ratio_est": -86.5482,
+        "ratio_upper": 6.1157,
+        "r2": 0.7538,
+        "ratio_rounded": 6.2,
+        "ratio": 6.2
     },
     {
         "uri": "https://github.com/tercen/log_cutoff_operator",
@@ -433,10 +443,10 @@
         "uri": "https://github.com/tercen/marker_enrichment_operator",
         "version": "0.0.4",
         "base_memory": 500000000,
-        "ratio_est": -0.0088,
-        "ratio_upper": 0.8933,
-        "r2": 0,
-        "ratio_rounded": 1,
+        "ratio_est": -0.175,
+        "ratio_upper": 0.6147,
+        "r2": 0.0138,
+        "ratio_rounded": 0.7,
         "ratio": 5
     },
     {
@@ -673,9 +683,9 @@
         "uri": "https://github.com/tercen/proportion_operator",
         "version": "0.1.1",
         "base_memory": 500000000,
-        "ratio_est": 0.3319,
-        "ratio_upper": 0.477,
-        "r2": 0.6122,
+        "ratio_est": 0.3287,
+        "ratio_upper": 0.4738,
+        "r2": 0.5822,
         "ratio_rounded": 0.6,
         "ratio": 5
     },
@@ -763,11 +773,11 @@
         "uri": "https://github.com/tercen/read_fcs_operator",
         "version": "1.2.9",
         "base_memory": 500000000,
-        "ratio_est": 5.2387,
-        "ratio_upper": 7.3905,
-        "r2": 0.762,
-        "ratio_rounded": 7.5,
-        "ratio": 7.5
+        "ratio_est": 5.2052,
+        "ratio_upper": 7.2299,
+        "r2": 0.749,
+        "ratio_rounded": 7.3,
+        "ratio": 7.3
     },
     {
         "uri": "https://github.com/tercen/read_pgcube_operator",
@@ -930,6 +940,16 @@
         "ratio": 5
     },
     {
+        "uri": "https://github.com/tercen/tsne_operator",
+        "version": "1.1.0",
+        "base_memory": 500000000,
+        "ratio_est": 6.8573,
+        "ratio_upper": 9.5599,
+        "r2": 0.9576,
+        "ratio_rounded": 9.7,
+        "ratio": 9.7
+    },
+    {
         "uri": "https://github.com/tercen/two_sample_ttest_operator",
         "version": "0.0.2",
         "base_memory": 500000000,
@@ -963,21 +983,21 @@
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.0",
         "base_memory": 1000000000,
-        "ratio_est": 5.2968,
-        "ratio_upper": 5.7551,
-        "r2": 0.9142,
-        "ratio_rounded": 5.9,
-        "ratio": 5.9
+        "ratio_est": 5.2949,
+        "ratio_upper": 5.7428,
+        "r2": 0.9143,
+        "ratio_rounded": 5.8,
+        "ratio": 5.8
     },
     {
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.1",
         "base_memory": 1000000000,
-        "ratio_est": 0.9595,
-        "ratio_upper": 4.6652,
-        "r2": 0.1318,
-        "ratio_rounded": 4.8,
-        "ratio": 5
+        "ratio_est": 4.3468,
+        "ratio_upper": 6.1638,
+        "r2": 0.8138,
+        "ratio_rounded": 6.3,
+        "ratio": 6.3
     },
     {
         "uri": "https://github.com/tercen/vst_operator",
