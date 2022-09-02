@@ -5760,7 +5760,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-08-27T19:43:32.000Z"
+      "value": "2022-09-02T10:46:36.000Z"
     },
     "urls": [
       {
@@ -5777,7 +5777,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/somcluster_shiny_operator"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "authors": [
       "rik de wijn"
     ],
