@@ -5177,7 +5177,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-07-20T12:56:54.000Z"
+      "value": "2022-09-02T18:12:09.000Z"
     },
     "urls": [
       {
@@ -5195,7 +5195,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/roc_shiny_operator"
     },
-    "version": "0.1.1",
+    "version": "0.1.2",
     "authors": [
       "rdw"
     ],
