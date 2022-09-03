@@ -63,9 +63,9 @@
         "uri": "https://github.com/tercen/asinh_operator",
         "version": "1.1.0",
         "base_memory": 500000000,
-        "ratio_est": 1.0766,
-        "ratio_upper": 1.3624,
-        "r2": 0.7407,
+        "ratio_est": 1.3378,
+        "ratio_upper": 1.4155,
+        "r2": 0.9781,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -233,9 +233,9 @@
         "uri": "https://github.com/tercen/fast_tSNE_operator",
         "version": "0.1.4",
         "base_memory": 1000000000,
-        "ratio_est": 5.5983,
-        "ratio_upper": 6.4161,
-        "r2": 0.9374,
+        "ratio_est": 5.5831,
+        "ratio_upper": 6.4012,
+        "r2": 0.9302,
         "ratio_rounded": 6.5,
         "ratio": 6.5
     },
@@ -264,7 +264,7 @@
         "version": "0.0.3",
         "base_memory": 1000000000,
         "ratio_est": 0.4115,
-        "ratio_upper": 0.4602,
+        "ratio_upper": 0.46,
         "r2": 0.8165,
         "ratio_rounded": 0.6,
         "ratio": 5
@@ -283,9 +283,9 @@
         "uri": "https://github.com/tercen/flowsom_operator",
         "version": "1.3.4",
         "base_memory": 1000000000,
-        "ratio_est": 2.0823,
-        "ratio_upper": 2.3032,
-        "r2": 0.8927,
+        "ratio_est": 2.0843,
+        "ratio_upper": 2.3033,
+        "r2": 0.8928,
         "ratio_rounded": 2.4,
         "ratio": 5
     },
@@ -443,10 +443,10 @@
         "uri": "https://github.com/tercen/marker_enrichment_operator",
         "version": "0.0.4",
         "base_memory": 500000000,
-        "ratio_est": -0.175,
-        "ratio_upper": 0.6147,
-        "r2": 0.0138,
-        "ratio_rounded": 0.7,
+        "ratio_est": -0.2048,
+        "ratio_upper": 0.5332,
+        "r2": 0.0205,
+        "ratio_rounded": 0.6,
         "ratio": 5
     },
     {
@@ -723,10 +723,10 @@
         "uri": "https://github.com/tercen/randomlabel_operator",
         "version": "1.0.6",
         "base_memory": 500000000,
-        "ratio_est": -34.5001,
-        "ratio_upper": -15.351,
-        "r2": 0.9193,
-        "ratio_rounded": -15.3,
+        "ratio_est": -32.7398,
+        "ratio_upper": -21.7309,
+        "r2": 0.9357,
+        "ratio_rounded": -21.6,
         "ratio": 5
     },
     {
@@ -941,6 +941,16 @@
     },
     {
         "uri": "https://github.com/tercen/tsne_operator",
+        "version": "0.10.0",
+        "base_memory": 500000000,
+        "ratio_est": 3.1122,
+        "ratio_upper": 6.6338,
+        "r2": 0.7327,
+        "ratio_rounded": 6.7,
+        "ratio": 6.7
+    },
+    {
+        "uri": "https://github.com/tercen/tsne_operator",
         "version": "1.1.0",
         "base_memory": 500000000,
         "ratio_est": 6.8573,
@@ -948,6 +958,16 @@
         "r2": 0.9576,
         "ratio_rounded": 9.7,
         "ratio": 9.7
+    },
+    {
+        "uri": "https://github.com/tercen/ttest_operator",
+        "version": "0.12.3",
+        "base_memory": 500000000,
+        "ratio_est": -388.4773,
+        "ratio_upper": -25.4273,
+        "r2": 0.7217,
+        "ratio_rounded": -25.3,
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/two_sample_ttest_operator",
@@ -983,9 +1003,9 @@
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.0",
         "base_memory": 1000000000,
-        "ratio_est": 5.2949,
-        "ratio_upper": 5.7428,
-        "r2": 0.9143,
+        "ratio_est": 5.2946,
+        "ratio_upper": 5.7392,
+        "r2": 0.9144,
         "ratio_rounded": 5.8,
         "ratio": 5.8
     },
@@ -993,11 +1013,11 @@
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.1",
         "base_memory": 1000000000,
-        "ratio_est": 4.3468,
-        "ratio_upper": 6.1638,
-        "r2": 0.8138,
-        "ratio_rounded": 6.3,
-        "ratio": 6.3
+        "ratio_est": 4.3166,
+        "ratio_upper": 6.0342,
+        "r2": 0.8092,
+        "ratio_rounded": 6.1,
+        "ratio": 6.1
     },
     {
         "uri": "https://github.com/tercen/vst_operator",
