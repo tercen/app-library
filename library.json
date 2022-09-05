@@ -1481,6 +1481,50 @@
     "path": ""
   },
   {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Calculate the mathematical average of the data points in a cell.",
+    "name": "cycombine_operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-08-19T13:27:23.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-09-05T11:06:38.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/cycombine_operator"
+      }
+    ],
+    "tags": [
+      "basic statistics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/cycombine_operator"
+    },
+    "version": "0.0.9",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
     "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
