@@ -326,6 +326,11 @@
       "url": "https://github.com/tercen/cv_operator"
     },
     {
+      "name": "cycombine_operator",
+      "version": "0.0.9",
+      "url": "https://github.com/tercen/cycombine_operator"
+    },
+    {
       "name": "cytonorm",
       "version": "1.2.0",
       "url": "https://github.com/tercen/cytonorm_operator"
@@ -912,13 +917,13 @@
     "https://github.com/tercen/alice_operator",
     "https://github.com/tercen/anova1_operator",
     "https://github.com/tercen/barplot_shiny_operator",
+    "https://github.com/tercen/biexponential_operator",
     "https://github.com/tercen/biplot_shiny_operator",
     "https://github.com/tercen/coral_docker_operator",
     "https://github.com/tercen/coral_shiny_operator",
     "https://github.com/tercen/coral_shiny_v2_operator",
     "https://github.com/tercen/coralp_shiny_operator",
     "https://github.com/tercen/cyclone_operator",
-    "https://github.com/tercen/cycombine_operator",
     "https://github.com/tercen/dascombat_fit_operator",
     "https://github.com/tercen/dascombat_prediction_operator",
     "https://github.com/tercen/dascombat_shiny_fit_operator",
