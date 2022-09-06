@@ -63,9 +63,9 @@
         "uri": "https://github.com/tercen/asinh_operator",
         "version": "1.1.0",
         "base_memory": 500000000,
-        "ratio_est": 1.3378,
-        "ratio_upper": 1.4155,
-        "r2": 0.9781,
+        "ratio_est": 1.3377,
+        "ratio_upper": 1.4152,
+        "r2": 0.9776,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -83,10 +83,10 @@
         "uri": "https://github.com/tercen/barplot_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -4962.3488,
-        "ratio_upper": -2209.4528,
-        "r2": 0.3954,
-        "ratio_rounded": -2209.4,
+        "ratio_est": -4987.79,
+        "ratio_upper": -2219.889,
+        "r2": 0.3866,
+        "ratio_rounded": -2219.8,
         "ratio": 5
     },
     {
@@ -293,11 +293,11 @@
         "uri": "https://github.com/tercen/flowsom_operator",
         "version": "1.4.1",
         "base_memory": 1000000000,
-        "ratio_est": 6.6128,
-        "ratio_upper": 7.0221,
-        "r2": 0.9989,
-        "ratio_rounded": 7.1,
-        "ratio": 7.1
+        "ratio_est": 6.2877,
+        "ratio_upper": 7.2192,
+        "r2": 0.9904,
+        "ratio_rounded": 7.3,
+        "ratio": 7.3
     },
     {
         "uri": "https://github.com/tercen/generalised_linear_model_operator",
@@ -607,6 +607,16 @@
         "ratio_upper": 85.6143,
         "r2": 0.1422,
         "ratio_rounded": 85.7,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/pca_operator",
+        "version": "1.1.2",
+        "base_memory": 500000000,
+        "ratio_est": 2.3509,
+        "ratio_upper": 2.4644,
+        "r2": 0.999,
+        "ratio_rounded": 2.6,
         "ratio": 5
     },
     {
@@ -1013,11 +1023,11 @@
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.1",
         "base_memory": 1000000000,
-        "ratio_est": 4.3166,
-        "ratio_upper": 6.0342,
-        "r2": 0.8092,
-        "ratio_rounded": 6.1,
-        "ratio": 6.1
+        "ratio_est": 3.704,
+        "ratio_upper": 4.9736,
+        "r2": 0.7803,
+        "ratio_rounded": 5.1,
+        "ratio": 5.1
     },
     {
         "uri": "https://github.com/tercen/vst_operator",
