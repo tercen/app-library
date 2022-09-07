@@ -1,6 +1,12 @@
 {
   "failed_operators": [
     {
+      "name": "OpenCyto Gating",
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/automated_gating_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})"
+    },
+    {
       "name": "Base Change",
       "version": "0.1.1",
       "url": "https://github.com/tercen/change_from_baseline_operator",
@@ -43,12 +49,6 @@
       "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
-      "name": "OpenCyto Gating",
-      "version": "0.1.2",
-      "url": "https://github.com/tercen/opencyto_operator",
-      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})"
-    },
-    {
       "name": "Optics11",
       "version": "0.1.8",
       "url": "https://github.com/tercen/optics11_operator",
@@ -68,12 +68,6 @@
     }
   ],
   "notest_operators": [
-    {
-      "name": "SAUCIE",
-      "version": "0.0.5",
-      "url": "https://github.com/tercen/SAUCIE_docker_operator",
-      "error": "notest"
-    },
     {
       "name": "SNNGraphClustering_operator",
       "version": "0.0.1",
@@ -114,12 +108,6 @@
       "name": "Karolinska demultiplex docker operator",
       "version": "0.1.1",
       "url": "https://github.com/tercen/karolinska_demultiplex_docker_operator",
-      "error": "notest"
-    },
-    {
-      "name": "MDS",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/mds_operator",
       "error": "notest"
     },
     {
@@ -327,7 +315,7 @@
     },
     {
       "name": "cycombine_operator",
-      "version": "0.0.9",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/cycombine_operator"
     },
     {
@@ -681,11 +669,6 @@
       "url": "https://github.com/tercen/ratio_operator"
     },
     {
-      "name": "STRAF",
-      "version": "0.1.3",
-      "url": "https://github.com/tercen/read_STRAF_operator"
-    },
-    {
       "name": "CSV (multiple files)",
       "version": "0.1.4",
       "url": "https://github.com/tercen/read_csv_operator"
@@ -824,11 +807,6 @@
       "name": "Sum",
       "version": "1.10.2",
       "url": "https://github.com/tercen/sum_operator"
-    },
-    {
-      "name": "Template_R_operator",
-      "version": "1.0.11",
-      "url": "https://github.com/tercen/template_R_operator"
     },
     {
       "name": "Top (N)",
