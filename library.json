@@ -1499,7 +1499,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-09-05T11:06:38.000Z"
+      "value": "2022-09-07T11:56:25.000Z"
     },
     "urls": [
       {
@@ -1515,7 +1515,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/cycombine_operator"
     },
-    "version": "0.0.9",
+    "version": "0.1.0",
     "authors": [
       "tercen"
     ],
@@ -4670,51 +4670,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Import an STR Analysis Forensics file (.txt)",
-    "name": "STRAF",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-09-28T17:39:41.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-10T14:53:06.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/read_STRAF_operator"
-      }
-    ],
-    "tags": [
-      "file conversion",
-      "import"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/read_STRAF_operator"
-    },
-    "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Imports multiple CSV files in a zip file.",
     "name": "CSV (multiple files)",
     "createdBy": "",
@@ -5957,50 +5912,6 @@
       "uri": "https://github.com/tercen/sum_operator"
     },
     "version": "1.10.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Calculate the mathamatical average of the data points in a cell.",
-    "name": "Template_R_operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-02-13T16:26:14.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-10-01T14:31:03.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/template_R_operator"
-      }
-    ],
-    "tags": [
-      "basic statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/template_R_operator"
-    },
-    "version": "1.0.11",
     "authors": [
       "tercen"
     ],
