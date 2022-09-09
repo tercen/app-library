@@ -1085,6 +1085,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Calculates a set of scores that assess the quality of the results derived from a clustering alglorithm.",
+    "name": "Clustering Metrics",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-08-25T19:00:18.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-03-11T15:07:50.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/clustering_metrics_operator/"
+      }
+    ],
+    "tags": [
+      "clustering"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/clustering_metrics_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Displays the results of hierarchical clustering analysis in a tree diagram. This visualises the relationships a set clusters have to each other.",
     "name": "Hclust Tree",
     "createdBy": "",
