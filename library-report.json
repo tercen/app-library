@@ -81,6 +81,12 @@
       "error": "notest"
     },
     {
+      "name": "Clustering Metrics",
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/clustering_metrics_operator",
+      "error": "notest"
+    },
+    {
       "name": "cscore_operator",
       "version": "0.0.2",
       "url": "https://github.com/tercen/cscore_operator",
@@ -267,11 +273,6 @@
       "name": "Classification metrics",
       "version": "0.1.2",
       "url": "https://github.com/tercen/classification_metrics_operator"
-    },
-    {
-      "name": "Clustering Metrics",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/clustering_metrics_operator"
     },
     {
       "name": "Hclust Tree",
