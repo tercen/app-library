@@ -335,7 +335,7 @@
     },
     {
       "name": "diffcyt",
-      "version": "0.0.1",
+      "version": "0.1.1",
       "url": "https://github.com/tercen/diffcyt_operator"
     },
     {
@@ -809,6 +809,11 @@
       "url": "https://github.com/tercen/sum_operator"
     },
     {
+      "name": "t-Test",
+      "version": "0.12.3",
+      "url": "https://github.com/tercen/t_test_operator"
+    },
+    {
       "name": "Top (N)",
       "version": "0.1.0",
       "url": "https://github.com/tercen/topn_operator"
@@ -819,19 +824,9 @@
       "url": "https://github.com/tercen/tsne_operator"
     },
     {
-      "name": "t-Test",
-      "version": "0.12.3",
-      "url": "https://github.com/tercen/ttest_operator"
-    },
-    {
       "name": "t-Test - Two Group",
       "version": "0.0.2",
       "url": "https://github.com/tercen/two_sample_ttest_operator"
-    },
-    {
-      "name": "t-Test (Two Group)",
-      "version": "0.1.3",
-      "url": "https://github.com/tercen/twogroupttest_operator"
     },
     {
       "name": "Upstream Kinase Analysis",
