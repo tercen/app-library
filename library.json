@@ -5921,12 +5921,12 @@
     "path": ""
   },
   {
-    "kind": "ROperator",
+    "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Determines if there is a significant difference between the means of two groups, which may be related in certain features.",
-    "name": "t-Test",
+    "description": "Test for significant differences between the means of multiple groups.",
+    "name": "t Test",
     "createdBy": "",
     "acl": {
       "kind": "Acl",
@@ -5939,31 +5939,31 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-07-22T10:23:19.000Z"
+      "value": "2022-09-14T15:52:09.000Z"
     },
     "urls": [
       {
         "kind": "Url",
-        "uri": "https://github.com/tercen/ttest_operator"
+        "uri": "https://github.com/tercen/t_test_operator"
       }
     ],
     "tags": [
-      "statistical testing",
-      "test"
+      "statistical testing"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/t_test_operator"
     },
-    "version": "0.12.3",
+    "version": "1.0.0",
     "authors": [
       "tercen"
     ],
     "isPublic": true,
     "properties": [],
     "longDescription": "",
-    "path": ""
+    "path": "",
+    "container": "tercen/t_test_operator:1.0.0"
   },
   {
     "kind": "ROperator",
