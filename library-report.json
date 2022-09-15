@@ -220,7 +220,7 @@
     },
     {
       "name": "ANOVA",
-      "version": "0.11.5",
+      "version": "1.0.0",
       "url": "https://github.com/tercen/anova_operator"
     },
     {
@@ -779,11 +779,6 @@
       "url": "https://github.com/tercen/signchange_operator"
     },
     {
-      "name": "simple docker operator",
-      "version": "0.14.4",
-      "url": "https://github.com/tercen/simple_docker_operator"
-    },
-    {
       "name": "sinh",
       "version": "0.1.0",
       "url": "https://github.com/tercen/sinh_operator"
@@ -892,6 +887,7 @@
     "https://github.com/tercen/barplot_shiny_operator",
     "https://github.com/tercen/biexponential_operator",
     "https://github.com/tercen/biplot_shiny_operator",
+    "https://github.com/tercen/compare_means_operator",
     "https://github.com/tercen/coral_docker_operator",
     "https://github.com/tercen/coral_shiny_operator",
     "https://github.com/tercen/coral_shiny_v2_operator",
