@@ -1486,7 +1486,7 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Calculate the mathematical average of the data points in a cell.",
+    "description": "Adjust for batch effects using ComBat package.",
     "name": "cycombine_operator",
     "createdBy": "",
     "acl": {
@@ -1500,7 +1500,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-09-07T11:56:25.000Z"
+      "value": "2022-09-15T14:09:20.000Z"
     },
     "urls": [
       {
@@ -1509,14 +1509,14 @@
       }
     ],
     "tags": [
-      "basic statistics"
+      "flow cytometry"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/cycombine_operator"
     },
-    "version": "0.1.0",
+    "version": "0.1.1",
     "authors": [
       "tercen"
     ],
