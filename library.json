@@ -629,11 +629,11 @@
     "path": ""
   },
   {
-    "kind": "ROperator",
+    "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Analysis Of Variance: A statistical model to analyze the differences among Means in a sample. Often used to test a Null Hypothesis in experimental data.",
+    "description": "Analysis Of Variance: test for significant differences among group means.",
     "name": "ANOVA",
     "createdBy": "",
     "acl": {
@@ -647,7 +647,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-10-07T13:43:42.000Z"
+      "value": "2022-09-15T09:23:57.000Z"
     },
     "urls": [
       {
@@ -665,14 +665,15 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/anova_operator"
     },
-    "version": "0.11.5",
+    "version": "1.0.0",
     "authors": [
       "tercen"
     ],
     "isPublic": true,
     "properties": [],
     "longDescription": "",
-    "path": ""
+    "path": "",
+    "container": "tercen/anova_operator:1.0.0"
   },
   {
     "kind": "ROperator",
@@ -5648,51 +5649,6 @@
     "properties": [],
     "longDescription": "",
     "path": ""
-  },
-  {
-    "kind": "DockerOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "simple docker operator",
-    "name": "simple docker operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-03-08T16:01:27.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-16T10:25:55.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/simple_docker_operator"
-      }
-    ],
-    "tags": [
-      ""
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/simple_docker_operator"
-    },
-    "version": "0.14.4",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "container": "tercen/simple_docker_operator:0.14.4"
   },
   {
     "kind": "ROperator",
