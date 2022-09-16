@@ -43,18 +43,6 @@
       "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
-      "name": "Linear Mixed Model",
-      "version": "0.2.1",
-      "url": "https://github.com/tercen/mixed_model_operator",
-      "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
-      "name": "Optics11",
-      "version": "0.1.8",
-      "url": "https://github.com/tercen/optics11_operator",
-      "error": "ServiceError({statusCode: 400, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
       "name": "Cell Ranger",
       "version": "0.1.1",
       "url": "https://github.com/tercen/read_cellranger_operator",
@@ -108,12 +96,6 @@
       "name": "Karolinska demultiplex docker operator",
       "version": "0.1.1",
       "url": "https://github.com/tercen/karolinska_demultiplex_docker_operator",
-      "error": "notest"
-    },
-    {
-      "name": "sctype_operator",
-      "version": "0.0.10",
-      "url": "https://github.com/tercen/sctype_operator",
       "error": "notest"
     },
     {
