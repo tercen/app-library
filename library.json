@@ -2022,7 +2022,7 @@
     "path": ""
   },
   {
-    "kind": "ROperator",
+    "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
     "rev": "",
@@ -2040,7 +2040,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-04-21T08:44:08.000Z"
+      "value": "2022-07-05T07:19:00.000Z"
     },
     "urls": [
       {
@@ -2057,14 +2057,15 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/flowcut_operator"
     },
-    "version": "0.1.3",
+    "version": "0.1.6",
     "authors": [
       "tercen"
     ],
     "isPublic": true,
     "properties": [],
     "longDescription": "",
-    "path": ""
+    "path": "",
+    "container": "tercen/flowcut_operator:0.1.6"
   },
   {
     "kind": "ROperator",
