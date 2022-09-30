@@ -1500,7 +1500,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-09-15T14:09:20.000Z"
+      "value": "2022-09-30T10:19:55.000Z"
     },
     "urls": [
       {
@@ -1516,7 +1516,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/cycombine_operator"
     },
-    "version": "0.1.1",
+    "version": "0.2.0",
     "authors": [
       "tercen"
     ],
