@@ -884,6 +884,7 @@
     "https://github.com/tercen/fastq_to_counts_operator",
     "https://github.com/tercen/findMarkers_operator",
     "https://github.com/tercen/flowsom_mst_operator",
+    "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/karolinska_demultiplex_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
     "https://github.com/tercen/manual_gating_shiny_operator",
