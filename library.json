@@ -6012,6 +6012,53 @@
     "path": ""
   },
   {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Test for significant pairwise differences among group means while controlling for Family-Wise Error Rate.",
+    "name": "Tukey's test",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-10-14T08:55:03.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-10-14T10:17:57.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/tukey_hsd_operator"
+      }
+    ],
+    "tags": [
+      "statistical testing",
+      "test",
+      "linear model"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/tukey_hsd_operator"
+    },
+    "version": "0.0.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/tukey_hsd_operator:0.0.2"
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
