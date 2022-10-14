@@ -801,6 +801,11 @@
       "url": "https://github.com/tercen/tsne_operator"
     },
     {
+      "name": "Tukey's test",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/tukey_hsd_operator"
+    },
+    {
       "name": "t-Test - Two Group",
       "version": "0.0.2",
       "url": "https://github.com/tercen/two_sample_ttest_operator"
