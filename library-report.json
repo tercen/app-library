@@ -891,6 +891,7 @@
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/karolinska_demultiplex_operator",
+    "https://github.com/tercen/levene_test_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
     "https://github.com/tercen/manual_gating_shiny_operator",
     "https://github.com/tercen/normalise_cytof_operator",
