@@ -2739,6 +2739,53 @@
     "path": ""
   },
   {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Perform Levene's test to assess homogeneity of variance across groups.",
+    "name": "Levene's test",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-10-17T14:12:37.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-10-17T19:41:19.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/levene_test_operator"
+      }
+    ],
+    "tags": [
+      "statistical testing",
+      "test",
+      "linear model"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/levene_test_operator"
+    },
+    "version": "0.0.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/levene_test_operator:0.0.1"
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
