@@ -693,7 +693,7 @@
     },
     {
       "name": "RDS",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "url": "https://github.com/tercen/read_rds_operator"
     },
     {
