@@ -1907,7 +1907,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-03-03T16:20:22.000Z"
+      "value": "2022-10-19T15:58:25.000Z"
     },
     "urls": [
       {
@@ -1924,7 +1924,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/flag_operator"
     },
-    "version": "0.1.4",
+    "version": "0.2.0",
     "authors": [
       "tercen"
     ],
@@ -5017,7 +5017,7 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/readrds_operator"
+      "uri": "https://github.com/tercen/read_rds_operator"
     },
     "version": "0.1.0",
     "authors": [
