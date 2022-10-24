@@ -5002,12 +5002,12 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-03-10T11:31:11.000Z"
+      "value": "2022-10-24T15:08:22.000Z"
     },
     "urls": [
       {
         "kind": "Url",
-        "uri": "https://github.com/tercen/readrds_operator"
+        "uri": "https://github.com/tercen/read_rds_operator"
       }
     ],
     "tags": [
@@ -5019,7 +5019,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/read_rds_operator"
     },
-    "version": "0.1.0",
+    "version": "0.1.2",
     "authors": [
       "tercen"
     ],
