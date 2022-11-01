@@ -4867,7 +4867,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-10-27T08:50:02.000Z"
+      "value": "2022-11-01T14:59:00.000Z"
     },
     "urls": [
       {
@@ -4884,7 +4884,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/read_fcs_operator"
     },
-    "version": "1.4.1",
+    "version": "1.4.2",
     "authors": [
       "tercen"
     ],
