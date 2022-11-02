@@ -223,50 +223,6 @@
     "path": ""
   },
   {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Marker Enrichment Modeling Score: Calculates a score which quantifys contextual feature enrichment of immune and cancer cell subsets from fluorescence and mass cytometry.",
-    "name": "MEM Score",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-06-15T21:53:22.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-12-02T17:48:01.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/MEM_operator"
-      }
-    ],
-    "tags": [
-      "flow cytometry"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/MEM_operator"
-    },
-    "version": "1.2.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
     "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
@@ -3164,7 +3120,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-07-07T13:15:26.000Z"
+      "value": "2022-11-02T16:53:41.000Z"
     },
     "urls": [
       {
@@ -3181,7 +3137,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/marker_enrichment_operator"
     },
-    "version": "0.0.4",
+    "version": "0.1.1",
     "authors": [
       "tercen"
     ],
