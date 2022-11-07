@@ -1546,7 +1546,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-10-27T12:05:30.000Z"
+      "value": "2022-11-07T15:04:15.000Z"
     },
     "urls": [
       {
@@ -1563,7 +1563,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/debarcoding_cytof_operator"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "authors": [
       "tercen"
     ],
