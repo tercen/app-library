@@ -909,6 +909,7 @@
     "https://github.com/tercen/rectangle_gate_operator",
     "https://github.com/tercen/rfsrc_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
+    "https://github.com/tercen/simple_python_docker_operator",
     "https://github.com/tercen/thresholding_operator",
     "https://github.com/tercen/trimgalore_operator",
     "https://github.com/tercen/vst_operator"
