@@ -4,15 +4,15 @@
   "success_documents": [
     {
       "kind": "TableSchema",
-      "id": "",
+      "id": "5be56cfdda5c9323d3b1339ec00138bb",
       "isDeleted": false,
-      "rev": "",
+      "rev": "1-80307bab0f2d9901dd04982ba648077c",
       "description": "",
       "name": "Crabs Data.csv",
-      "createdBy": "",
+      "createdBy": "manu",
       "acl": {
         "kind": "Acl",
-        "owner": "",
+        "owner": "manu",
         "aces": []
       },
       "createdDate": {
@@ -25,7 +25,13 @@
       },
       "urls": [],
       "tags": [],
-      "meta": [],
+      "meta": [
+        {
+          "kind": "Pair",
+          "key": "copyOf",
+          "value": "5be56cfdda5c9323d3b1339ec0005bdb"
+        }
+      ],
       "url": {
         "kind": "Url",
         "uri": "https://github.com/tercen/test_dataset"
@@ -33,14 +39,135 @@
       "version": "0.0.1",
       "authors": [],
       "isPublic": false,
-      "projectId": "",
+      "projectId": "5be56cfdda5c9323d3b1339ec00124ea",
       "folderId": "",
-      "nRows": 0,
-      "columns": [],
-      "dataDirectory": "",
+      "nRows": 1000,
+      "columns": [
+        {
+          "kind": "ColumnSchema",
+          "id": "cc535d92-2ff1-46f0-afb7-a54f7b2881de",
+          "name": "observation",
+          "type": "double",
+          "nRows": 1000,
+          "size": 8000,
+          "metaData": {
+            "kind": "ColumnSchemaMetaData",
+            "sort": [],
+            "ascending": true,
+            "quartiles": [],
+            "properties": []
+          }
+        },
+        {
+          "kind": "ColumnSchema",
+          "id": "513e89bf-3e5d-4fb5-9c66-9c03d40cf0f1",
+          "name": "color",
+          "type": "string",
+          "nRows": 1000,
+          "size": 6000,
+          "metaData": {
+            "kind": "ColumnSchemaMetaData",
+            "sort": [],
+            "ascending": true,
+            "quartiles": [],
+            "properties": []
+          }
+        },
+        {
+          "kind": "ColumnSchema",
+          "id": "656e4055-b2ab-474c-89d0-8261e08b63f0",
+          "name": "sex",
+          "type": "string",
+          "nRows": 1000,
+          "size": 2000,
+          "metaData": {
+            "kind": "ColumnSchemaMetaData",
+            "sort": [],
+            "ascending": true,
+            "quartiles": [],
+            "properties": []
+          }
+        },
+        {
+          "kind": "ColumnSchema",
+          "id": "2a0f06a4-5794-48ce-9be6-4fda23fc7e53",
+          "name": "variable",
+          "type": "string",
+          "nRows": 1000,
+          "size": 3000,
+          "metaData": {
+            "kind": "ColumnSchemaMetaData",
+            "sort": [],
+            "ascending": true,
+            "quartiles": [],
+            "properties": []
+          }
+        },
+        {
+          "kind": "ColumnSchema",
+          "id": "6992c8cc-8e42-4827-a651-fc10e1c8eea0",
+          "name": "measurement",
+          "type": "double",
+          "nRows": 1000,
+          "size": 8000,
+          "metaData": {
+            "kind": "ColumnSchemaMetaData",
+            "sort": [],
+            "ascending": true,
+            "quartiles": [],
+            "properties": []
+          }
+        },
+        {
+          "kind": "ColumnSchema",
+          "id": "9f033870-6e0d-4e8f-a138-329a4af2d1ee",
+          "name": "filename",
+          "type": "string",
+          "nRows": 1000,
+          "size": 14000,
+          "metaData": {
+            "kind": "ColumnSchemaMetaData",
+            "sort": [],
+            "ascending": true,
+            "quartiles": [],
+            "properties": []
+          }
+        },
+        {
+          "kind": "ColumnSchema",
+          "id": "357899ab-9d41-4d57-acbb-c88e42d4f01e",
+          "name": ".ci",
+          "type": "int32",
+          "nRows": 1000,
+          "size": 4000,
+          "metaData": {
+            "kind": "ColumnSchemaMetaData",
+            "sort": [],
+            "ascending": true,
+            "quartiles": [],
+            "properties": []
+          }
+        },
+        {
+          "kind": "ColumnSchema",
+          "id": "7edf6d9d-f5e1-401e-b9a4-f866bb82da00",
+          "name": "filename_of_zip",
+          "type": "string",
+          "nRows": 1000,
+          "size": 14000,
+          "metaData": {
+            "kind": "ColumnSchemaMetaData",
+            "sort": [],
+            "ascending": true,
+            "quartiles": [],
+            "properties": []
+          }
+        }
+      ],
+      "dataDirectory": "da/24/73/7324da90-3acd-4474-817f-786b935366a4",
       "relation": {
         "kind": "Relation",
-        "id": "ed86a8fb-8322-4dde-aab8-b3ec3f41df5f"
+        "id": "50b25398-95e9-4643-9001-825f09ab7c2a"
       }
     }
   ],
