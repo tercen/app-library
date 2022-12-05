@@ -62,7 +62,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-08-31T14:20:36.000Z"
+      "value": "2022-12-05T10:53:11.000Z"
     },
     "urls": [
       {
@@ -80,7 +80,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/DESeq2_operator"
     },
-    "version": "0.1.0",
+    "version": "0.1.2",
     "authors": [
       "tercen"
     ],
@@ -742,7 +742,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-08-23T18:14:06.000Z"
+      "value": "2022-12-05T09:58:54.000Z"
     },
     "urls": [
       {
@@ -759,7 +759,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/barplot_operator"
     },
-    "version": "0.1.4",
+    "version": "0.1.5",
     "authors": [
       "tercen"
     ],
@@ -5698,6 +5698,51 @@
     "properties": [],
     "longDescription": "",
     "path": ""
+  },
+  {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Mean operator implemented in Python",
+    "name": "simple python operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-11-22T17:55:40.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-12-05T12:23:08.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/simple_docker_operator"
+      }
+    ],
+    "tags": [
+      ""
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/simple_python_docker_operator"
+    },
+    "version": "0.0.12",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/simple_python_docker_operator:0.0.12"
   },
   {
     "kind": "ROperator",
