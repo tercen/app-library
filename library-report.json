@@ -137,7 +137,7 @@
     },
     {
       "name": "DESeq2",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "url": "https://github.com/tercen/DESeq2_operator"
     },
     {
@@ -212,7 +212,7 @@
     },
     {
       "name": "Bar plot",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "url": "https://github.com/tercen/barplot_operator"
     },
     {
@@ -766,6 +766,11 @@
       "url": "https://github.com/tercen/signchange_operator"
     },
     {
+      "name": "simple python operator",
+      "version": "0.0.12",
+      "url": "https://github.com/tercen/simple_python_docker_operator"
+    },
+    {
       "name": "sinh",
       "version": "0.1.0",
       "url": "https://github.com/tercen/sinh_operator"
@@ -909,7 +914,6 @@
     "https://github.com/tercen/rectangle_gate_operator",
     "https://github.com/tercen/rfsrc_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
-    "https://github.com/tercen/simple_python_docker_operator",
     "https://github.com/tercen/thresholding_operator",
     "https://github.com/tercen/trimgalore_operator",
     "https://github.com/tercen/vst_operator"
