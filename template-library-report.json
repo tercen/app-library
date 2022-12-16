@@ -14,7 +14,7 @@
     },
     {
       "name": "Multiplex immunoassay template workflow",
-      "version": "0.0.1",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/iteos_multiplex_immunoassay_template",
       "error": "Operator(s) not Found"
     }
