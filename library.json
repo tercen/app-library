@@ -5718,7 +5718,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-12-05T12:23:08.000Z"
+      "value": "2022-12-27T20:24:21.000Z"
     },
     "urls": [
       {
@@ -5734,7 +5734,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/simple_python_docker_operator"
     },
-    "version": "0.0.12",
+    "version": "0.1.1",
     "authors": [
       "tercen"
     ],
