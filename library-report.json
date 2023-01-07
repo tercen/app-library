@@ -421,11 +421,6 @@
       "url": "https://github.com/tercen/impute_operator"
     },
     {
-      "name": "K-means",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/kmeans_operator"
-    },
-    {
       "name": "Kruskal-Wallis Test",
       "version": "0.1.1",
       "url": "https://github.com/tercen/kruskaltest_operator"
@@ -900,6 +895,7 @@
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/karolinska_demultiplex_operator",
+    "https://github.com/tercen/kmeans_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
     "https://github.com/tercen/manual_gating_shiny_operator",
     "https://github.com/tercen/normalise_cytof_operator",
