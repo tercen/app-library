@@ -766,11 +766,6 @@
       "url": "https://github.com/tercen/signchange_operator"
     },
     {
-      "name": "simple python operator",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/simple_python_docker_operator"
-    },
-    {
       "name": "sinh",
       "version": "0.1.0",
       "url": "https://github.com/tercen/sinh_operator"
