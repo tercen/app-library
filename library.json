@@ -5700,51 +5700,6 @@
     "path": ""
   },
   {
-    "kind": "DockerOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Mean operator implemented in Python",
-    "name": "simple python operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-11-22T17:55:40.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-12-27T20:24:21.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/simple_docker_operator"
-      }
-    ],
-    "tags": [
-      ""
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/simple_python_docker_operator"
-    },
-    "version": "0.1.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "container": "tercen/simple_python_docker_operator:0.0.12"
-  },
-  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
