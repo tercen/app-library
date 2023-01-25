@@ -37,12 +37,6 @@
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nCols, reason: table.nCols != refTable.nCols})"
     },
     {
-      "name": "GFR",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/gfr_operator",
-      "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
       "name": "Cell Ranger",
       "version": "0.1.1",
       "url": "https://github.com/tercen/read_cellranger_operator",
@@ -78,12 +72,6 @@
       "name": "Alignment Distance",
       "version": "0.1.1",
       "url": "https://github.com/tercen/dist_alignment_operator",
-      "error": "notest"
-    },
-    {
-      "name": "Join Genome",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/genome_join_operator",
       "error": "notest"
     },
     {
@@ -872,8 +860,6 @@
     }
   ],
   "no_release_operators": [
-    "https://github.com/tercen/TraCeR_operator",
-    "https://github.com/tercen/TraCeR_summarize_operator",
     "https://github.com/tercen/alice_operator",
     "https://github.com/tercen/anova1_operator",
     "https://github.com/tercen/biexponential_operator",
@@ -889,12 +875,10 @@
     "https://github.com/tercen/dascombat_fit_operator",
     "https://github.com/tercen/dascombat_prediction_operator",
     "https://github.com/tercen/dascombat_shiny_fit_operator",
-    "https://github.com/tercen/fastq_to_counts_docker_operator",
-    "https://github.com/tercen/fastq_to_counts_operator",
     "https://github.com/tercen/findMarkers_operator",
     "https://github.com/tercen/flowsom_mst_operator",
+    "https://github.com/tercen/flowtransform_operator",
     "https://github.com/tercen/kaplan_meier_operator",
-    "https://github.com/tercen/karolinska_demultiplex_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
     "https://github.com/tercen/manual_gating_shiny_operator",
     "https://github.com/tercen/normalise_cytof_operator",
@@ -902,14 +886,11 @@
     "https://github.com/tercen/pg_plsda_classifier_operator",
     "https://github.com/tercen/pg_predict_operator",
     "https://github.com/tercen/phate_operator",
-    "https://github.com/tercen/pie_chart_shiny_operator",
     "https://github.com/tercen/ppi_string_shiny_operator",
     "https://github.com/tercen/range_gate_operator",
-    "https://github.com/tercen/read_and_compensate_influx_fcs_operator",
     "https://github.com/tercen/rfsrc_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
     "https://github.com/tercen/thresholding_operator",
-    "https://github.com/tercen/trimgalore_operator",
     "https://github.com/tercen/vst_operator"
   ]
 }
