@@ -303,10 +303,10 @@
         "uri": "https://github.com/tercen/compare_means_operator",
         "version": "0.1.1",
         "base_memory": 1000000000,
-        "ratio_est": -363.2535,
-        "ratio_upper": -12.9171,
-        "r2": 0.079,
-        "ratio_rounded": -12.8,
+        "ratio_est": -365.6259,
+        "ratio_upper": -15.0583,
+        "r2": 0.0757,
+        "ratio_rounded": -15,
         "ratio": 5
     },
     {
@@ -413,9 +413,9 @@
         "uri": "https://github.com/tercen/diffcyt_operator",
         "version": "0.3.1",
         "base_memory": 1000000000,
-        "ratio_est": 3.3466,
-        "ratio_upper": 3.4775,
-        "r2": 0.9905,
+        "ratio_est": 3.3526,
+        "ratio_upper": 3.4839,
+        "r2": 0.9902,
         "ratio_rounded": 3.6,
         "ratio": 5
     },
@@ -483,11 +483,11 @@
         "uri": "https://github.com/tercen/faust_operator",
         "version": "0.0.6",
         "base_memory": 1000000000,
-        "ratio_est": 5.8708,
-        "ratio_upper": 6.6851,
-        "r2": 0.8678,
-        "ratio_rounded": 6.8,
-        "ratio": 6.8
+        "ratio_est": 5.6725,
+        "ratio_upper": 6.3377,
+        "r2": 0.8977,
+        "ratio_rounded": 6.4,
+        "ratio": 6.4
     },
     {
         "uri": "https://github.com/tercen/flowjo_export_operator",
@@ -774,8 +774,8 @@
         "version": "0.12.0",
         "base_memory": 500000000,
         "ratio_est": 4.4116,
-        "ratio_upper": 4.9303,
-        "r2": 0.7051,
+        "ratio_upper": 4.9299,
+        "r2": 0.7041,
         "ratio_rounded": 5,
         "ratio": 5
     },
@@ -843,10 +843,10 @@
         "uri": "https://github.com/tercen/median_operator",
         "version": "1.1.0",
         "base_memory": 500000000,
-        "ratio_est": -10.966,
-        "ratio_upper": 10.191,
-        "r2": 0.2565,
-        "ratio_rounded": 10.3,
+        "ratio_est": -0.5469,
+        "ratio_upper": 1.9263,
+        "r2": 0.036,
+        "ratio_rounded": 2,
         "ratio": 5
     },
     {
@@ -1453,10 +1453,10 @@
         "uri": "https://github.com/tercen/two_sample_ttest_operator",
         "version": "0.0.2",
         "base_memory": 500000000,
-        "ratio_est": -826.8346,
-        "ratio_upper": -387.3862,
-        "r2": 0.3988,
-        "ratio_rounded": -387.3,
+        "ratio_est": -835.2585,
+        "ratio_upper": -399.5619,
+        "r2": 0.3996,
+        "ratio_rounded": -399.5,
         "ratio": 5
     },
     {
@@ -1523,10 +1523,10 @@
         "uri": "https://github.com/tercen/zscore_scaling_operator",
         "version": "0.0.2",
         "base_memory": 500000000,
-        "ratio_est": -283.0118,
-        "ratio_upper": -124.4028,
-        "r2": 0.1775,
-        "ratio_rounded": -124.3,
+        "ratio_est": -284.0993,
+        "ratio_upper": -125.4856,
+        "r2": 0.1768,
+        "ratio_rounded": -125.4,
         "ratio": 5
     }
 ]
