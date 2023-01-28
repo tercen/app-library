@@ -313,10 +313,10 @@
         "uri": "https://github.com/tercen/compare_means_operator",
         "version": "0.1.1",
         "base_memory": 1000000000,
-        "ratio_est": -365.883,
-        "ratio_upper": -15.2562,
-        "r2": 0.0749,
-        "ratio_rounded": -15.2,
+        "ratio_est": -382.7417,
+        "ratio_upper": -33.4712,
+        "r2": 0.078,
+        "ratio_rounded": -33.4,
         "ratio": 5
     },
     {
@@ -403,10 +403,10 @@
         "uri": "https://github.com/tercen/DESeq2_two_conditions_operator",
         "version": "0.0.5",
         "base_memory": 1000000000,
-        "ratio_est": 76.5479,
-        "ratio_upper": 91.0277,
-        "r2": 0.967,
-        "ratio_rounded": 91.1,
+        "ratio_est": 75.6313,
+        "ratio_upper": 86.5674,
+        "r2": 0.9698,
+        "ratio_rounded": 86.7,
         "ratio": 50
     },
     {
@@ -593,8 +593,8 @@
         "uri": "https://github.com/tercen/hclust_operator",
         "version": "0.10.0",
         "base_memory": 500000000,
-        "ratio_est": 0.5577,
-        "ratio_upper": 1.8654,
+        "ratio_est": 0.5574,
+        "ratio_upper": 1.8638,
         "r2": 0.0053,
         "ratio_rounded": 2,
         "ratio": 5
@@ -814,8 +814,8 @@
         "version": "1.2.0",
         "base_memory": 500000000,
         "ratio_est": 1.2797,
-        "ratio_upper": 1.3573,
-        "r2": 0.8869,
+        "ratio_upper": 1.3572,
+        "r2": 0.8854,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -993,10 +993,10 @@
         "uri": "https://github.com/tercen/pca_operator",
         "version": "1.2.3",
         "base_memory": 500000000,
-        "ratio_est": -74.4813,
-        "ratio_upper": -39.7744,
-        "r2": 0.8553,
-        "ratio_rounded": -39.7,
+        "ratio_est": -73.1082,
+        "ratio_upper": -44.0719,
+        "r2": 0.8692,
+        "ratio_rounded": -44,
         "ratio": 5
     },
     {
@@ -1263,10 +1263,10 @@
         "uri": "https://github.com/tercen/readxl_operator",
         "version": "1.2.1",
         "base_memory": 500000000,
-        "ratio_est": -66.7522,
-        "ratio_upper": -5.4181,
-        "r2": 0.1416,
-        "ratio_rounded": -5.3,
+        "ratio_est": -67.0831,
+        "ratio_upper": -5.4582,
+        "r2": 0.1204,
+        "ratio_rounded": -5.4,
         "ratio": 5
     },
     {
@@ -1513,10 +1513,10 @@
         "uri": "https://github.com/tercen/vst_operator",
         "version": "0.0.1",
         "base_memory": 1000000000,
-        "ratio_est": 45.4107,
-        "ratio_upper": 54.0948,
-        "r2": 0.9603,
-        "ratio_rounded": 54.2,
+        "ratio_est": 45.3619,
+        "ratio_upper": 51.9044,
+        "r2": 0.9664,
+        "ratio_rounded": 52,
         "ratio": 50
     },
     {
