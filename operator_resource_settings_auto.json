@@ -124,8 +124,8 @@
         "version": "1.1.0",
         "base_memory": 500000000,
         "ratio_est": 1.3059,
-        "ratio_upper": 1.4336,
-        "r2": 0.8217,
+        "ratio_upper": 1.4332,
+        "r2": 0.8215,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -1093,9 +1093,9 @@
         "uri": "https://github.com/tercen/randomlabel_operator",
         "version": "1.0.1",
         "base_memory": 500000000,
-        "ratio_est": -0.1295,
-        "ratio_upper": 0.0326,
-        "r2": 0.0322,
+        "ratio_est": -0.1336,
+        "ratio_upper": 0.0158,
+        "r2": 0.0397,
         "ratio_rounded": 0.1,
         "ratio": 5
     },
