@@ -57,21 +57,9 @@
       "error": "notest"
     },
     {
-      "name": "MSA Metrics",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/alignment_metrics_operator",
-      "error": "notest"
-    },
-    {
       "name": "cscore_operator",
       "version": "0.0.2",
       "url": "https://github.com/tercen/cscore_operator",
-      "error": "notest"
-    },
-    {
-      "name": "Alignment Distance",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/dist_alignment_operator",
       "error": "notest"
     },
     {
@@ -84,12 +72,6 @@
       "name": "Karolinska demultiplex docker operator",
       "version": "0.1.1",
       "url": "https://github.com/tercen/karolinska_demultiplex_docker_operator",
-      "error": "notest"
-    },
-    {
-      "name": "Sequence to Table",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/seq2table_operator",
       "error": "notest"
     },
     {
@@ -714,11 +696,6 @@
       "url": "https://github.com/tercen/rphenograph_operator"
     },
     {
-      "name": "Sample",
-      "version": "0.2.0",
-      "url": "https://github.com/tercen/sample_operator"
-    },
-    {
       "name": "Scale",
       "version": "0.10.1",
       "url": "https://github.com/tercen/scale_operator"
@@ -880,7 +857,6 @@
     "https://github.com/tercen/flowtransform_operator",
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
-    "https://github.com/tercen/manual_gating_shiny_operator",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/normalizeCounts_operator",
     "https://github.com/tercen/pg_plsda_classifier_operator",
