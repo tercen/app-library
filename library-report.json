@@ -221,11 +221,6 @@
       "url": "https://github.com/tercen/clustering_metrics_operator"
     },
     {
-      "name": "Hclust Tree",
-      "version": "0.1.2",
-      "url": "https://github.com/tercen/clustering_tree_operator"
-    },
-    {
       "name": "ClusterX",
       "version": "0.12.0",
       "url": "https://github.com/tercen/clusterx_operator"
@@ -716,19 +711,9 @@
       "url": "https://github.com/tercen/separate_operator"
     },
     {
-      "name": "Sequence Length",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/seqlen_operator"
-    },
-    {
       "name": "Shift",
       "version": "0.2.0",
       "url": "https://github.com/tercen/shift_operator"
-    },
-    {
-      "name": "Sign Change",
-      "version": "0.9.1",
-      "url": "https://github.com/tercen/signchange_operator"
     },
     {
       "name": "sinh",
