@@ -1086,51 +1086,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Displays the results of hierarchical clustering analysis in a tree diagram. This visualises the relationships a set clusters have to each other.",
-    "name": "Hclust Tree",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-10-07T21:18:50.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-04T13:55:58.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/clustering_tree_operator"
-      }
-    ],
-    "tags": [
-      "clustering",
-      "tree"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/clustering_tree_operator"
-    },
-    "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Performs fast clustering of data by using automatic search and find of density peaks. Works best with low dimentional data (Less than 5 dimentions).",
     "name": "ClusterX",
     "createdBy": "",
@@ -5528,50 +5483,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Orders the values of a cell by the 'x-axis' and assigns a sequence number to each data point.",
-    "name": "Sequence Length",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-07-27T19:52:07.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-25T14:28:16.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/seqlen_operator"
-      }
-    ],
-    "tags": [
-      "basic statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/seqlen_operator"
-    },
-    "version": "0.1.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Adds (or subtracts) a constant number from the selected range of data.",
     "name": "Shift",
     "createdBy": "",
@@ -5603,50 +5514,6 @@
       "uri": "https://github.com/tercen/shift_operator"
     },
     "version": "0.2.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Changes the sign of given data. (e.g. positive to negative or negative to positive).",
-    "name": "Sign Change",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2018-04-29T16:13:07.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-07-26T16:01:30.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/signchange_operator"
-      }
-    ],
-    "tags": [
-      "simple statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/signchange_operator"
-    },
-    "version": "0.9.1",
     "authors": [
       "tercen"
     ],
