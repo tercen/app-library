@@ -814,8 +814,8 @@
         "version": "1.1.3",
         "base_memory": 500000000,
         "ratio_est": 0.364,
-        "ratio_upper": 1.0366,
-        "r2": 0.1168,
+        "ratio_upper": 1.0286,
+        "r2": 0.1112,
         "ratio_rounded": 1.1,
         "ratio": 5
     },
@@ -943,10 +943,10 @@
         "uri": "https://github.com/tercen/minus_operator",
         "version": "0.1.2",
         "base_memory": 500000000,
-        "ratio_est": -3222.0289,
-        "ratio_upper": -1980.6372,
-        "r2": 0.7526,
-        "ratio_rounded": -1980.5,
+        "ratio_est": -3322.4445,
+        "ratio_upper": -1961.7139,
+        "r2": 0.698,
+        "ratio_rounded": -1961.6,
         "ratio": 5
     },
     {
