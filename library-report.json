@@ -37,6 +37,12 @@
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nCols, reason: table.nCols != refTable.nCols})"
     },
     {
+      "name": "PHATE",
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/phate_operator",
+      "error": "ServiceError({statusCode: -142, error: create.operator.docker.failed, reason: Failed to pull operator})"
+    },
+    {
       "name": "Cell Ranger",
       "version": "0.1.1",
       "url": "https://github.com/tercen/read_cellranger_operator",
@@ -846,7 +852,6 @@
     "https://github.com/tercen/normalizeCounts_operator",
     "https://github.com/tercen/pg_plsda_classifier_operator",
     "https://github.com/tercen/pg_predict_operator",
-    "https://github.com/tercen/phate_operator",
     "https://github.com/tercen/ppi_string_shiny_operator",
     "https://github.com/tercen/range_gate_operator",
     "https://github.com/tercen/rfsrc_operator",
