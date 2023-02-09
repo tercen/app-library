@@ -733,9 +733,9 @@
         "uri": "https://github.com/tercen/identity_operator",
         "version": "0.0.1",
         "base_memory": 500000000,
-        "ratio_est": -6.3854,
-        "ratio_upper": 6.1156,
-        "r2": 0.0083,
+        "ratio_est": -6.4014,
+        "ratio_upper": 6.0937,
+        "r2": 0.0081,
         "ratio_rounded": 6.2,
         "ratio": 5
     },
@@ -1003,10 +1003,10 @@
         "uri": "https://github.com/tercen/pamsoft_grid_operator",
         "version": "1.0.52",
         "base_memory": 1000000000,
-        "ratio_est": 113.8604,
-        "ratio_upper": 133.9469,
-        "r2": 0.829,
-        "ratio_rounded": 134,
+        "ratio_est": 113.0817,
+        "ratio_upper": 131.8973,
+        "r2": 0.8377,
+        "ratio_rounded": 132,
         "ratio": 50
     },
     {
@@ -1133,9 +1133,9 @@
         "uri": "https://github.com/tercen/ps12image_operator",
         "version": "1.0.0",
         "base_memory": 500000000,
-        "ratio_est": 1.632,
-        "ratio_upper": 2.0579,
-        "r2": 0.5916,
+        "ratio_est": 1.6329,
+        "ratio_upper": 2.0515,
+        "r2": 0.5959,
         "ratio_rounded": 2.2,
         "ratio": 5
     },
@@ -1493,10 +1493,10 @@
         "uri": "https://github.com/tercen/two_sample_ttest_operator",
         "version": "0.0.2",
         "base_memory": 500000000,
-        "ratio_est": -845.4064,
-        "ratio_upper": -411.3269,
-        "r2": 0.3993,
-        "ratio_rounded": -411.2,
+        "ratio_est": -882.7007,
+        "ratio_upper": -451.299,
+        "r2": 0.3939,
+        "ratio_rounded": -451.2,
         "ratio": 5
     },
     {
@@ -1563,10 +1563,10 @@
         "uri": "https://github.com/tercen/zscore_scaling_operator",
         "version": "0.0.2",
         "base_memory": 500000000,
-        "ratio_est": -287.4991,
-        "ratio_upper": -128.1317,
-        "r2": 0.1655,
-        "ratio_rounded": -128,
+        "ratio_est": -291.2887,
+        "ratio_upper": -131.8796,
+        "r2": 0.163,
+        "ratio_rounded": -131.8,
         "ratio": 5
     }
 ]
