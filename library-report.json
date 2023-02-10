@@ -272,6 +272,11 @@
       "url": "https://github.com/tercen/cytonorm_operator"
     },
     {
+      "name": "DASCombat Shiny operator",
+      "version": "0.3.0",
+      "url": "https://github.com/tercen/dascombat_shiny_fit_operator"
+    },
+    {
       "name": "CYTOF Debarcoding",
       "version": "0.0.3",
       "url": "https://github.com/tercen/debarcoding_cytof_operator"
@@ -623,7 +628,7 @@
     },
     {
       "name": "Ratio",
-      "version": "1.9.1",
+      "version": "2.0.0",
       "url": "https://github.com/tercen/ratio_operator"
     },
     {
@@ -842,7 +847,6 @@
     "https://github.com/tercen/cyclone_operator",
     "https://github.com/tercen/dascombat_fit_operator",
     "https://github.com/tercen/dascombat_prediction_operator",
-    "https://github.com/tercen/dascombat_shiny_fit_operator",
     "https://github.com/tercen/findMarkers_operator",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/flowtransform_operator",
