@@ -1483,6 +1483,51 @@
     "container": "lucas501/cytonorm_docker:1.1.9"
   },
   {
+    "kind": "ShinyOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "DASCombat shiny operator.",
+    "name": "DASCombat Shiny operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-12-29T08:05:59.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-02-10T16:23:02.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/dascombat_shiny_fit_operator"
+      }
+    ],
+    "tags": [
+      "dascombat"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/dascombat_shiny_fit_operator"
+    },
+    "version": "0.3.0",
+    "authors": [
+      "William van Doorn"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": false
+  },
+  {
     "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
@@ -4645,7 +4690,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-07-22T09:45:51.000Z"
+      "value": "2023-02-10T15:59:12.000Z"
     },
     "urls": [
       {
@@ -4661,7 +4706,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/ratio_operator"
     },
-    "version": "1.9.1",
+    "version": "2.0.0",
     "authors": [
       "tercen"
     ],
