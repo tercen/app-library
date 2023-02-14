@@ -1895,8 +1895,8 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Highlight text or numerical values based on a setting.",
-    "name": "Flag Condition",
+    "description": "Highlight text or numerical values based on a condition.",
+    "name": "Flag Values",
     "createdBy": "",
     "acl": {
       "kind": "Acl",
@@ -1909,7 +1909,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-10-19T15:58:25.000Z"
+      "value": "2023-02-14T14:39:38.000Z"
     },
     "urls": [
       {
@@ -1918,15 +1918,14 @@
       }
     ],
     "tags": [
-      "data wrangling",
-      "text processing"
+      "data wrangling"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/flag_operator"
     },
-    "version": "0.2.0",
+    "version": "0.3.4",
     "authors": [
       "tercen"
     ],
