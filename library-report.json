@@ -49,10 +49,10 @@
       "error": "ServiceError({statusCode: -142, error: unknown, reason: type 'int' is not a subtype of type 'String' in type cast})"
     },
     {
-      "name": "TrackSOM operator",
-      "version": "0.0.8",
+      "name": "TrackSOM",
+      "version": "0.1.5",
       "url": "https://github.com/tercen/tracksom_operator",
-      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nWarning message:\npackage ‘dplyr’ was built under R version 4.0.5 \nWarning messages:\n1: replacing previous import ‘gtools::permute’ by ‘igraph::permute’ when loading ‘TrackSOM’ \n2: replacing previous import ‘flowCore::normalize’ by ‘igraph::normalize’ when loading ‘TrackSOM’ \n3: replacing previous import ‘flowCore::filter’ by ‘tidygraph::filter’ when loading ‘TrackSOM’ \n4: replacing previous import ‘igraph::groups’ by ‘tidygraph::groups’ when loading ‘TrackSOM’ \n\nAttaching package: ‘data.table’\n\nThe following objects are masked from ‘package:dplyr’:\n\n    between, first, last\n\nWarning message:\npackage ‘data.table’ was built under R version 4.0.5 \nError: Two factors need to be projected onto columns.\nExecution halted\n})"
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.metacluster_lineage_tracking -- val != refVal -- at line 78 -- val = B refVal = A})"
     }
   ],
   "notest_operators": [
@@ -158,7 +158,7 @@
     },
     {
       "name": "Add",
-      "version": "0.1.1",
+      "version": "1.0.0",
       "url": "https://github.com/tercen/add_operator"
     },
     {
@@ -517,8 +517,8 @@
       "url": "https://github.com/tercen/multiplybyconstant_operator"
     },
     {
-      "name": "Negative",
-      "version": "0.1.3",
+      "name": "Change Sign",
+      "version": "1.0.0",
       "url": "https://github.com/tercen/negative_operator"
     },
     {
