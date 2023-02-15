@@ -466,7 +466,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-22T14:56:05.000Z"
+      "value": "2023-02-15T14:48:54.000Z"
     },
     "urls": [
       {
@@ -482,7 +482,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/add_operator"
     },
-    "version": "0.1.1",
+    "version": "1.0.0",
     "authors": [
       "tercen"
     ],
@@ -3682,8 +3682,8 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Transforms numerical data to a negative value (i.e. multiply by -1)",
-    "name": "Negative",
+    "description": "Changes the sign of numerical data (i.e. multiply by -1)",
+    "name": "Change Sign",
     "createdBy": "",
     "acl": {
       "kind": "Acl",
@@ -3696,7 +3696,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-18T15:22:15.000Z"
+      "value": "2023-02-15T16:18:34.000Z"
     },
     "urls": [
       {
@@ -3705,14 +3705,14 @@
       }
     ],
     "tags": [
-      "simple statistics"
+      "basic operations"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/negative_operator"
     },
-    "version": "0.1.3",
+    "version": "1.0.0",
     "authors": [
       "tercen"
     ],
