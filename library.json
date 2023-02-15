@@ -2490,7 +2490,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-03-11T14:45:19.000Z"
+      "value": "2023-02-15T10:01:28.000Z"
     },
     "urls": [
       {
@@ -2508,7 +2508,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/histogram_operator"
     },
-    "version": "0.1.0",
+    "version": "0.1.1",
     "authors": [
       "tercen"
     ],
@@ -5836,50 +5836,6 @@
     "longDescription": "",
     "path": "",
     "container": "tercen/t_test_operator:1.0.0"
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Select a specified quantity (N) of data from the first record of the set onwards. (e.g. Top 10)",
-    "name": "Top (N)",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-07-27T10:19:27.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-25T14:45:34.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/topn_operator"
-      }
-    ],
-    "tags": [
-      "basic statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/topn_operator"
-    },
-    "version": "0.1.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
   },
   {
     "kind": "ROperator",
