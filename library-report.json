@@ -38,7 +38,7 @@
     },
     {
       "name": "PHATE",
-      "version": "0.0.8",
+      "version": "0.0.10",
       "url": "https://github.com/tercen/phate_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
     },
@@ -383,7 +383,7 @@
     },
     {
       "name": "Histogram Plot",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "url": "https://github.com/tercen/histogram_operator"
     },
     {
@@ -755,11 +755,6 @@
       "name": "t Test",
       "version": "1.0.0",
       "url": "https://github.com/tercen/t_test_operator"
-    },
-    {
-      "name": "Top (N)",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/topn_operator"
     },
     {
       "name": "t-SNE",
