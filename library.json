@@ -773,6 +773,52 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Perform a biexponential transformation of data points in a cell.",
+    "name": "Biexponential",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-11-04T14:17:21.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-02-16T18:25:49.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/biexponential_transform"
+      }
+    ],
+    "tags": [
+      "data transformation",
+      "data preprocessing",
+      "flow cytometry"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/biexponential_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Define intervals based on values' range and bin data points.",
     "name": "Bin",
     "createdBy": "",
@@ -2155,6 +2201,52 @@
     "properties": [],
     "longDescription": "",
     "path": ""
+  },
+  {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Flow Cytometry Self Organising Maps: An algorithm that clusters cells based on chosen channels and maps them into populations.",
+    "name": "FlowSOM",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-06-18T08:48:11.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-02-16T15:51:05.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/flowsom_operator"
+      }
+    ],
+    "tags": [
+      "flow cytometry",
+      "clustering"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/flowsom_operator"
+    },
+    "version": "1.6.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/flowsom_operator:1.6.0"
   },
   {
     "kind": "ROperator",
@@ -5164,8 +5256,8 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Calculates the contribution of a variable for a Random Forest classification.",
-    "name": "Random Forest Importance",
+    "description": "Compute RF importance values for each variable.",
+    "name": "Random Forest",
     "createdBy": "",
     "acl": {
       "kind": "Acl",
@@ -5174,27 +5266,30 @@
     },
     "createdDate": {
       "kind": "Date",
-      "value": "2018-01-16T13:42:36.000Z"
+      "value": "2021-02-10T22:09:55.000Z"
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-07-26T15:51:21.000Z"
+      "value": "2023-02-16T17:58:26.000Z"
     },
     "urls": [
       {
         "kind": "Url",
-        "uri": "https://github.com/tercen/rfImp_operator"
+        "uri": "https://github.com/tercen/rfsrc_operator"
       }
     ],
     "tags": [
-      "multivariate analysis"
+      "machine learning",
+      "modelling",
+      "supervised learning",
+      "regression"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/rfImp_operator"
+      "uri": "https://github.com/tercen/rfsrc_operator"
     },
-    "version": "1.9.1",
+    "version": "0.1.0",
     "authors": [
       "tercen"
     ],
