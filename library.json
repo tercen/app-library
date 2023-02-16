@@ -769,6 +769,50 @@
     "path": ""
   },
   {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Define intervals based on values' range and bin data points.",
+    "name": "Bin",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-02-16T08:35:00.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-02-16T10:26:58.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/bin_operator"
+      }
+    ],
+    "tags": [
+      "data preprocessing"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/bin_operator"
+    },
+    "version": "0.0.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
     "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
@@ -3608,7 +3652,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-24T14:14:49.000Z"
+      "value": "2023-02-15T19:15:37.000Z"
     },
     "urls": [
       {
@@ -3624,7 +3668,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/multiply_operator"
     },
-    "version": "0.1.0",
+    "version": "1.0.0",
     "authors": [
       "tercen"
     ],
@@ -4307,53 +4351,6 @@
     "properties": [],
     "longDescription": "",
     "path": ""
-  },
-  {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Flow Cytometry Plot",
-    "name": "Flow Cytometry Plot (Shiny)",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-06-04T13:25:24.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-07T16:38:13.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/plot_fcs_shiny_operator"
-      }
-    ],
-    "tags": [
-      "flow cytometry",
-      "plot"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/plot_fcs_shiny_operator"
-    },
-    "version": "0.1.8",
-    "authors": [
-      "tercen",
-      "wptmdoorn"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true
   },
   {
     "kind": "ROperator",
@@ -5541,7 +5538,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-13T17:05:08.000Z"
+      "value": "2023-02-16T08:12:32.000Z"
     },
     "urls": [
       {
@@ -5550,14 +5547,14 @@
       }
     ],
     "tags": [
-      "simple statistics"
+      "basic operations"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/shift_operator"
     },
-    "version": "0.2.0",
+    "version": "1.0.0",
     "authors": [
       "tercen"
     ],
@@ -5723,7 +5720,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-02-18T14:35:20.000Z"
+      "value": "2023-02-16T08:19:19.000Z"
     },
     "urls": [
       {
@@ -5739,7 +5736,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/subtract_operator"
     },
-    "version": "0.1.3",
+    "version": "1.0.0",
     "authors": [
       "tercen"
     ],
@@ -6292,6 +6289,51 @@
     "longDescription": "",
     "path": "",
     "isViewOnly": false
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Variance stabilizing transformation for RNA-seq data.",
+    "name": "VST",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-11-10T21:54:36.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-02-15T20:58:39.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/vst_operator"
+      }
+    ],
+    "tags": [
+      "RNA-seq",
+      "data preprocessing"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/vst_operator"
+    },
+    "version": "0.1.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
   },
   {
     "kind": "ROperator",
