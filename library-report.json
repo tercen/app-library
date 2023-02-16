@@ -31,14 +31,8 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.docker.failed, reason: Failed to pull operator})"
     },
     {
-      "name": "FlowSOM",
-      "version": "1.3.4",
-      "url": "https://github.com/tercen/flowsom_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nCols, reason: table.nCols != refTable.nCols})"
-    },
-    {
       "name": "PHATE",
-      "version": "0.0.13",
+      "version": "0.0.14",
       "url": "https://github.com/tercen/phate_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
     },
@@ -190,6 +184,11 @@
       "name": "Bar plot",
       "version": "0.1.5",
       "url": "https://github.com/tercen/barplot_operator"
+    },
+    {
+      "name": "Biexponential",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/biexponential_operator"
     },
     {
       "name": "Bin",
@@ -345,6 +344,11 @@
       "name": "FlowJo Export Operator",
       "version": "0.2.7",
       "url": "https://github.com/tercen/flowjo_export_operator"
+    },
+    {
+      "name": "FlowSOM",
+      "version": "1.6.0",
+      "url": "https://github.com/tercen/flowsom_operator"
     },
     {
       "name": "Fold Change",
@@ -682,9 +686,9 @@
       "url": "https://github.com/tercen/replace_operator"
     },
     {
-      "name": "Random Forest Importance",
-      "version": "1.9.1",
-      "url": "https://github.com/tercen/rfImp_operator"
+      "name": "Random Forest",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/rfsrc_operator"
     },
     {
       "name": "ROC Shiny Operator",
@@ -835,7 +839,6 @@
   "no_release_operators": [
     "https://github.com/tercen/alice_operator",
     "https://github.com/tercen/anova1_operator",
-    "https://github.com/tercen/biexponential_operator",
     "https://github.com/tercen/biplot_shiny_operator",
     "https://github.com/tercen/compare_means_operator",
     "https://github.com/tercen/compensate_cytof_operator",
@@ -857,7 +860,6 @@
     "https://github.com/tercen/pg_predict_operator",
     "https://github.com/tercen/plot_fcs_shiny_operator",
     "https://github.com/tercen/ppi_string_shiny_operator",
-    "https://github.com/tercen/rfsrc_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
     "https://github.com/tercen/thresholding_operator"
   ]
