@@ -6208,54 +6208,8 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Displays logical relations between data sets as overlapping elipses.",
-    "name": "Venn Diagram",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2018-12-05T09:57:50.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-07-22T11:29:28.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/venn_shiny_operator"
-      }
-    ],
-    "tags": [
-      "basic statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/venn_shiny_operator"
-    },
-    "version": "1.0.6",
-    "authors": [
-      "mpg-age-bioinformatics",
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true
-  },
-  {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Template to create a Shiny operator in Tercen.",
-    "name": "Template Shiny Operator",
+    "description": "A web application to create volcano plots.",
+    "name": "Volcano Plot",
     "createdBy": "",
     "acl": {
       "kind": "Acl",
@@ -6268,23 +6222,23 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-03-08T16:41:30.000Z"
+      "value": "2023-02-16T18:38:48.000Z"
     },
     "urls": [
       {
         "kind": "Url",
-        "uri": "https://github.com/tercen/template_shiny_operator"
+        "uri": "https://github.com/tercen/volcano_shiny_operator"
       }
     ],
     "tags": [
-      "template"
+      "data visualisation"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/volcano_shiny_operator"
     },
-    "version": "0.0.1",
+    "version": "0.0.3",
     "authors": [
       "tercen"
     ],
@@ -6518,51 +6472,6 @@
     "properties": [],
     "longDescription": "",
     "path": ""
-  },
-  {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Export an FCS file from Tercen.",
-    "name": "Write FCS Shiny Operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-04-23T09:30:08.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-04-27T12:46:30.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/write_fcs_shiny_operator"
-      }
-    ],
-    "tags": [
-      "shiny"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/write_fcs_shiny_operator"
-    },
-    "version": "0.0.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true
   },
   {
     "kind": "ROperator",
