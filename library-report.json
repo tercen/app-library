@@ -31,12 +31,6 @@
       "error": "ServiceError({statusCode: 400, error: create.operator.docker.failed, reason: Failed to pull operator})"
     },
     {
-      "name": "PHATE",
-      "version": "0.0.14",
-      "url": "https://github.com/tercen/phate_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
-    },
-    {
       "name": "Cell Ranger",
       "version": "0.1.1",
       "url": "https://github.com/tercen/read_cellranger_operator",
@@ -72,6 +66,12 @@
       "name": "Karolinska demultiplex docker operator",
       "version": "0.1.1",
       "url": "https://github.com/tercen/karolinska_demultiplex_docker_operator",
+      "error": "notest"
+    },
+    {
+      "name": "PHATE",
+      "version": "0.0.16",
+      "url": "https://github.com/tercen/phate_operator",
       "error": "notest"
     },
     {
@@ -791,13 +791,8 @@
       "url": "https://github.com/tercen/upperandlowerbounds_operator"
     },
     {
-      "name": "Venn Diagram",
-      "version": "1.0.6",
-      "url": "https://github.com/tercen/venn_shiny_operator"
-    },
-    {
-      "name": "Template Shiny Operator",
-      "version": "0.0.1",
+      "name": "Volcano Plot",
+      "version": "0.0.3",
       "url": "https://github.com/tercen/volcano_shiny_operator"
     },
     {
@@ -824,11 +819,6 @@
       "name": "Word Count",
       "version": "1.1.0",
       "url": "https://github.com/tercen/wordcount_operator"
-    },
-    {
-      "name": "Write FCS Shiny Operator",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/write_fcs_shiny_operator"
     },
     {
       "name": "Z-score scaling",
@@ -861,6 +851,8 @@
     "https://github.com/tercen/plot_fcs_shiny_operator",
     "https://github.com/tercen/ppi_string_shiny_operator",
     "https://github.com/tercen/scRNAseq_QC_operator",
-    "https://github.com/tercen/thresholding_operator"
+    "https://github.com/tercen/thresholding_operator",
+    "https://github.com/tercen/venn_shiny_operator",
+    "https://github.com/tercen/write_fcs_shiny_operator"
   ]
 }
