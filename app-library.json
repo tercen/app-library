@@ -17771,7 +17771,7 @@
     "kind": "Workflow",
     "id": "42ff0cd811d627ff1f68d35e33db3c91",
     "isDeleted": false,
-    "rev": "29-a065701e6ac561bf176efe9933af3387",
+    "rev": "46-01573afc206e82da49cebdd4edbe2726",
     "description": "Calulates the ratio (fold change) between a treatment and a control condition.",
     "name": "ratio_app",
     "createdBy": "myrto.kostadima",
@@ -17786,7 +17786,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-12-16T16:22:51.000Z"
+      "value": "2023-02-16T22:37:06.000Z"
     },
     "urls": [
       {
@@ -17800,13 +17800,28 @@
         "kind": "Pair",
         "key": "copyOf",
         "value": "f8a10d0f634bec18e16e16305e002f60"
+      },
+      {
+        "kind": "Pair",
+        "key": "_upgrade_",
+        "value": "0.10.0"
+      },
+      {
+        "kind": "Pair",
+        "key": "_upgrade_reset_",
+        "value": "0.10.0"
+      },
+      {
+        "kind": "Pair",
+        "key": "_upgrade_old_task_",
+        "value": "0.10.15"
       }
     ],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/ratio_app"
     },
-    "version": "0.1.0",
+    "version": "0.2.0",
     "authors": [],
     "isPublic": false,
     "projectId": "6ab4fa9ce7cf4eb188b1fba16a2f5e26",
@@ -17838,13 +17853,13 @@
       },
       {
         "kind": "Link",
-        "id": "e5bc65ca-aa51-452d-a604-739113bb33d1",
+        "id": "5514fffd-4975-476b-ba1c-fa4cd007fe2f",
         "inputId": "ebda5081-aae4-45fc-b91b-f7b4b19d402a-i-0",
         "outputId": "edbffe33-d683-4fb4-a15a-fb28e47250b4-o-0"
       },
       {
         "kind": "Link",
-        "id": "2b44f0cb-0894-4433-9a69-1ea3957b7975",
+        "id": "225090a2-58fc-40de-837d-56c8dd279010",
         "inputId": "edbffe33-d683-4fb4-a15a-fb28e47250b4-i-0",
         "outputId": "f8d030b5-666e-4be9-936f-a659c29896d0-o-0"
       }
@@ -18074,7 +18089,7 @@
                     }
                   }
                 ],
-                "name": "Define the control"
+                "name": "Group"
               }
             ]
           },
@@ -18083,14 +18098,14 @@
             "namespace": "ctrl",
             "operatorRef": {
               "kind": "OperatorRef",
-              "name": "Identity",
-              "version": "0.1.0",
-              "operatorId": "8008802feb02665ff8336e5e1b6619ac",
+              "name": "Median",
+              "version": "1.1.0",
+              "operatorId": "479c720afb58d2c6d24f9bd461546d89",
               "operatorKind": "ROperator",
               "propertyValues": [],
               "url": {
                 "kind": "Url",
-                "uri": "https://github.com/tercen/identity_operator"
+                "uri": "https://github.com/tercen/median_operator"
               }
             },
             "environment": [
@@ -18155,7 +18170,7 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "77840546-4afb-4cbe-b052-bdb1a29d2b36"
+          "id": "8348063b-c1ec-46f4-b547-72192b3091be"
         }
       },
       {
@@ -18244,7 +18259,7 @@
                   "axisExtent": {
                     "kind": "Point",
                     "x": 80.0,
-                    "y": 30.0
+                    "y": 68.0
                   },
                   "axisSettings": {
                     "kind": "AxisSettings",
@@ -18255,7 +18270,7 @@
                     "kind": "GraphicalFactor",
                     "factor": {
                       "kind": "Factor",
-                      "name": "ctrl.identity",
+                      "name": "ctrl.median",
                       "type": "double"
                     },
                     "rectangle": {
@@ -18313,7 +18328,7 @@
           },
           "columnTable": {
             "kind": "CrosstabTable",
-            "cellSize": 92.0,
+            "cellSize": 70.25,
             "offset": 0,
             "graphicalFactors": [
               {
@@ -18394,8 +18409,8 @@
             "operatorRef": {
               "kind": "OperatorRef",
               "name": "Ratio",
-              "version": "1.9.1",
-              "operatorId": "6ab4fa9ce7cf4eb188b1fba16a31aab3",
+              "version": "2.0.0",
+              "operatorId": "479c720afb58d2c6d24f9bd46154f096",
               "operatorKind": "ROperator",
               "propertyValues": [],
               "url": {
@@ -18465,7 +18480,7 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "4e36d814-d55d-4a3a-8cf4-2e4a3bb599db"
+          "id": "0d4b0883-9f34-4401-8eda-3da8160f1358"
         }
       },
       {
@@ -18793,7 +18808,7 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "c7ec96e6-2c7e-4e6b-93a6-87da1cd8a6bc"
+          "id": "60bf222b-3dab-4d4a-807a-9b936d28e98f"
         }
       },
       {
@@ -18927,7 +18942,7 @@
           "filters": [
             {
               "kind": "MappingFilter",
-              "name": "Define the control",
+              "name": "Group",
               "description": "",
               "namedFilter": {
                 "kind": "NamedFilter",
@@ -18945,9 +18960,9 @@
                     }
                   }
                 ],
-                "name": "Define the control"
+                "name": "Group"
               },
-              "isRequired": true
+              "isRequired": false
             }
           ],
           "steps": [],
@@ -19036,7 +19051,7 @@
           "defaultFilters": [
             {
               "kind": "MappingFilter",
-              "name": "Define the control",
+              "name": "Group",
               "description": "",
               "namedFilter": {
                 "kind": "NamedFilter",
@@ -19054,9 +19069,9 @@
                     }
                   }
                 ],
-                "name": "Define the control"
+                "name": "Group"
               },
-              "isRequired": true
+              "isRequired": false
             }
           ]
         }
