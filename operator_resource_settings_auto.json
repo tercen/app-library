@@ -214,8 +214,8 @@
         "version": "1.1.0",
         "base_memory": 500000000,
         "ratio_est": 1.3045,
-        "ratio_upper": 1.4225,
-        "r2": 0.8203,
+        "ratio_upper": 1.4224,
+        "r2": 0.8196,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -264,8 +264,8 @@
         "version": "0.1.5",
         "base_memory": 500000000,
         "ratio_est": -31.0357,
-        "ratio_upper": -13.31,
-        "r2": 0.1545,
+        "ratio_upper": -13.3135,
+        "r2": 0.1531,
         "ratio_rounded": -13.2,
         "ratio": 5
     },
@@ -373,10 +373,10 @@
         "uri": "https://github.com/tercen/cluster_annotation_operator",
         "version": "0.8.0",
         "base_memory": 500000000,
-        "ratio_est": -1179.1691,
-        "ratio_upper": -705.4643,
-        "r2": 0.706,
-        "ratio_rounded": -705.4,
+        "ratio_est": -1179.1644,
+        "ratio_upper": -685.8524,
+        "r2": 0.674,
+        "ratio_rounded": -685.8,
         "ratio": 5
     },
     {
@@ -923,10 +923,10 @@
         "uri": "https://github.com/tercen/median_mad_operator",
         "version": "0.0.1",
         "base_memory": 500000000,
-        "ratio_est": -5177.4485,
-        "ratio_upper": -3868.4475,
-        "r2": 0.5516,
-        "ratio_rounded": -3868.3,
+        "ratio_est": -5177.4142,
+        "ratio_upper": -3857.4455,
+        "r2": 0.5439,
+        "ratio_rounded": -3857.3,
         "ratio": 5
     },
     {
@@ -944,8 +944,8 @@
         "version": "1.1.0",
         "base_memory": 500000000,
         "ratio_est": -0.5473,
-        "ratio_upper": 1.747,
-        "r2": 0.0216,
+        "ratio_upper": 1.7196,
+        "r2": 0.0194,
         "ratio_rounded": 1.8,
         "ratio": 5
     },
@@ -1164,8 +1164,8 @@
         "version": "0.1.2",
         "base_memory": 500000000,
         "ratio_est": 0.3725,
-        "ratio_upper": 0.6053,
-        "r2": 0.1598,
+        "ratio_upper": 0.6047,
+        "r2": 0.1587,
         "ratio_rounded": 0.7,
         "ratio": 5
     },
@@ -1223,10 +1223,10 @@
         "uri": "https://github.com/tercen/ratio_operator",
         "version": "2.0.0",
         "base_memory": 500000000,
-        "ratio_est": -97575.9238,
-        "ratio_upper": 77838.0447,
-        "r2": 0.1007,
-        "ratio_rounded": 77838.1,
+        "ratio_est": -97150.1115,
+        "ratio_upper": 77190.184,
+        "r2": 0.0903,
+        "ratio_rounded": 77190.3,
         "ratio": 5
     },
     {
@@ -1334,7 +1334,7 @@
         "version": "1.6.0",
         "base_memory": 500000000,
         "ratio_est": 5.1646,
-        "ratio_upper": 6.046,
+        "ratio_upper": 6.0294,
         "r2": 0.8777,
         "ratio_rounded": 6.1,
         "ratio": 6.1
@@ -1584,9 +1584,9 @@
         "version": "1.2.1",
         "base_memory": 1000000000,
         "ratio_est": 1.4269,
-        "ratio_upper": 1.8756,
-        "r2": 0.4192,
-        "ratio_rounded": 2,
+        "ratio_upper": 1.956,
+        "r2": 0.3388,
+        "ratio_rounded": 2.1,
         "ratio": 5
     },
     {
