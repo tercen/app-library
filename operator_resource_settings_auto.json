@@ -214,8 +214,8 @@
         "version": "1.1.0",
         "base_memory": 500000000,
         "ratio_est": 1.3045,
-        "ratio_upper": 1.422,
-        "r2": 0.8194,
+        "ratio_upper": 1.4219,
+        "r2": 0.8187,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -393,10 +393,10 @@
         "uri": "https://github.com/tercen/compare_means_operator",
         "version": "0.0.3",
         "base_memory": 1000000000,
-        "ratio_est": -18.7135,
-        "ratio_upper": 12.143,
-        "r2": 0.0217,
-        "ratio_rounded": 12.2,
+        "ratio_est": -18.8938,
+        "ratio_upper": 11.906,
+        "r2": 0.0212,
+        "ratio_rounded": 12,
         "ratio": 5
     },
     {
@@ -620,6 +620,16 @@
         "ratio": 9.9
     },
     {
+        "uri": "https://github.com/tercen/flowsom_operator",
+        "version": "1.6.0",
+        "base_memory": 1000000000,
+        "ratio_est": -33048048.6294,
+        "ratio_upper": 23577621.8268,
+        "r2": 0.4355,
+        "ratio_rounded": 23577621.9,
+        "ratio": 5
+    },
+    {
         "uri": "https://github.com/tercen/flowtransform_operator",
         "version": "0.1.5",
         "base_memory": 500000000,
@@ -783,10 +793,10 @@
         "uri": "https://github.com/tercen/loess_smoothing_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -87.6051,
-        "ratio_upper": 24.6179,
-        "r2": 0.3502,
-        "ratio_rounded": 24.7,
+        "ratio_est": -87.605,
+        "ratio_upper": 24.2785,
+        "r2": 0.3189,
+        "ratio_rounded": 24.4,
         "ratio": 5
     },
     {
