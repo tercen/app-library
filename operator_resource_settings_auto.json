@@ -213,9 +213,9 @@
         "uri": "https://github.com/tercen/asinh_operator",
         "version": "1.1.0",
         "base_memory": 500000000,
-        "ratio_est": 1.3045,
-        "ratio_upper": 1.4219,
-        "r2": 0.8187,
+        "ratio_est": 1.3022,
+        "ratio_upper": 1.4179,
+        "r2": 0.8189,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -623,10 +623,10 @@
         "uri": "https://github.com/tercen/flowsom_operator",
         "version": "1.6.0",
         "base_memory": 1000000000,
-        "ratio_est": -33048048.6294,
-        "ratio_upper": 23577621.8268,
-        "r2": 0.4355,
-        "ratio_rounded": 23577621.9,
+        "ratio_est": 1.8433,
+        "ratio_upper": 4.3924,
+        "r2": 0.4017,
+        "ratio_rounded": 4.5,
         "ratio": 5
     },
     {
@@ -713,10 +713,10 @@
         "uri": "https://github.com/tercen/hclust_operator",
         "version": "1.1.2",
         "base_memory": 500000000,
-        "ratio_est": -723.2905,
-        "ratio_upper": -463.3197,
-        "r2": 0.2098,
-        "ratio_rounded": -463.2,
+        "ratio_est": -723.2897,
+        "ratio_upper": -463.196,
+        "r2": 0.2086,
+        "ratio_rounded": -463.1,
         "ratio": 5
     },
     {
@@ -1043,10 +1043,10 @@
         "uri": "https://github.com/tercen/pamsoft_grid_operator",
         "version": "1.0.52",
         "base_memory": 1000000000,
-        "ratio_est": 113.0817,
-        "ratio_upper": 131.8973,
-        "r2": 0.8377,
-        "ratio_rounded": 132,
+        "ratio_est": 112.8134,
+        "ratio_upper": 131.0477,
+        "r2": 0.842,
+        "ratio_rounded": 131.1,
         "ratio": 50
     },
     {
@@ -1193,10 +1193,10 @@
         "uri": "https://github.com/tercen/ps12image_operator",
         "version": "1.0.0",
         "base_memory": 500000000,
-        "ratio_est": 1.6329,
-        "ratio_upper": 2.0515,
-        "r2": 0.5959,
-        "ratio_rounded": 2.2,
+        "ratio_est": 1.6304,
+        "ratio_upper": 2.0419,
+        "r2": 0.5991,
+        "ratio_rounded": 2.1,
         "ratio": 5
     },
     {
@@ -1603,10 +1603,10 @@
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.1",
         "base_memory": 1000000000,
-        "ratio_est": 1.4269,
-        "ratio_upper": 1.956,
-        "r2": 0.3388,
-        "ratio_rounded": 2.1,
+        "ratio_est": 1.5484,
+        "ratio_upper": 2.1157,
+        "r2": 0.3412,
+        "ratio_rounded": 2.2,
         "ratio": 5
     },
     {
