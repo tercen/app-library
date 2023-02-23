@@ -11641,9 +11641,9 @@
     },
     {
       "kind": "Workflow",
-      "id": "019974b78a65232d86360e3f1e51232a",
+      "id": "019974b78a65232d86360e3f1e144604",
       "isDeleted": false,
-      "rev": "3-5cc19b6dc08750f5648f98c0eca7479c",
+      "rev": "4-d288213bbcfd58bd2dd271dadb0fda3f",
       "description": "",
       "name": "STK_CV_Export_app",
       "createdBy": "plinders",
@@ -11658,7 +11658,7 @@
       },
       "lastModifiedDate": {
         "kind": "Date",
-        "value": "2022-05-13T10:20:42.000Z"
+        "value": "2022-05-02T09:36:42.000Z"
       },
       "urls": [],
       "tags": [],
@@ -11667,10 +11667,10 @@
         "kind": "Url",
         "uri": "https://github.com/tercen/STK_CV_Export_app"
       },
-      "version": "0.0.2",
+      "version": "0.0.1",
       "authors": [],
       "isPublic": false,
-      "projectId": "c845ceade32c4423bc616ff5ab22f158",
+      "projectId": "ba516d78a1a52fff3d5ade7158f84cb6",
       "folderId": "",
       "links": [
         {
@@ -11940,7 +11940,7 @@
             },
             "operatorSettings": {
               "kind": "OperatorSettings",
-              "namespace": "STKCVEXPORT",
+              "namespace": "ds0",
               "operatorRef": {
                 "kind": "OperatorRef",
                 "name": "",
@@ -12067,7 +12067,7 @@
                 }
               ],
               "rectangleSelections": [],
-              "nRows": 1
+              "nRows": 1212
             },
             "taskId": ""
           },
