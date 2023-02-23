@@ -4328,7 +4328,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-02-23T10:27:30.000Z"
+      "value": "2023-02-23T11:23:26.000Z"
     },
     "urls": [
       {
@@ -4345,7 +4345,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/peacoqc_operator"
     },
-    "version": "0.3.3",
+    "version": "0.3.5",
     "authors": [
       "tercen"
     ],
