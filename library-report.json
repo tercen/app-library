@@ -25,12 +25,6 @@
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nError in apply(quantileDataLow, 2, function(x) { : \n  object 'quantileDataLow' not found\nCalls: <Anonymous> ... generateAnnotationThresholds -> .processChannelBounds -> apply\nExecution halted\n})"
     },
     {
-      "name": "FlowSOM MST",
-      "version": "0.1.3",
-      "url": "https://github.com/tercen/flowsom_mst_shiny_operator",
-      "error": "ServiceError({statusCode: 400, error: create.operator.docker.failed, reason: Failed to pull operator})"
-    },
-    {
       "name": "Cell Ranger",
       "version": "0.1.1",
       "url": "https://github.com/tercen/read_cellranger_operator",
@@ -842,6 +836,7 @@
     "https://github.com/tercen/dascombat_prediction_operator",
     "https://github.com/tercen/findMarkers_operator",
     "https://github.com/tercen/flowsom_mst_operator",
+    "https://github.com/tercen/flowsom_mst_shiny_operator",
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
     "https://github.com/tercen/normalise_cytof_operator",
