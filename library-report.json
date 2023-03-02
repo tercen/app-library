@@ -285,11 +285,6 @@
       "url": "https://github.com/tercen/density_operator"
     },
     {
-      "name": "Density Plot",
-      "version": "0.0.4",
-      "url": "https://github.com/tercen/densityplot_shiny_operator"
-    },
-    {
       "name": "diffcyt",
       "version": "0.3.1",
       "url": "https://github.com/tercen/diffcyt_operator"
@@ -834,6 +829,7 @@
     "https://github.com/tercen/cyclone_operator",
     "https://github.com/tercen/dascombat_fit_operator",
     "https://github.com/tercen/dascombat_prediction_operator",
+    "https://github.com/tercen/densityplot_shiny_operator",
     "https://github.com/tercen/findMarkers_operator",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/flowsom_mst_shiny_operator",
