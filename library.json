@@ -1708,52 +1708,6 @@
     "path": ""
   },
   {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Displays the distribution of a numeric variable using the probability density function of the variable. It is a smoothed version of the histogram.",
-    "name": "Density Plot",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-01-08T13:58:57.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-06-18T11:14:34.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/densityplot_shiny_operator"
-      }
-    ],
-    "tags": [
-      "plot",
-      "data visualisation"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/densityplot_shiny_operator"
-    },
-    "version": "0.0.4",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true
-  },
-  {
     "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
