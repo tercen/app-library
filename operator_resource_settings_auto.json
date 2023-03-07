@@ -3,10 +3,10 @@
         "uri": "",
         "version": "0.0.3",
         "base_memory": 500000000,
-        "ratio_est": -2611.8944,
-        "ratio_upper": -2327.0994,
-        "r2": 0.8383,
-        "ratio_rounded": -2327,
+        "ratio_est": -2611.2762,
+        "ratio_upper": -2327.7883,
+        "r2": 0.8379,
+        "ratio_rounded": -2327.7,
         "ratio": 5
     },
     {
@@ -423,9 +423,9 @@
         "uri": "https://github.com/tercen/compare_means_operator",
         "version": "0.1.1",
         "base_memory": 1000000000,
-        "ratio_est": 1.2046,
-        "ratio_upper": 4.4843,
-        "r2": 0.0061,
+        "ratio_est": 1.2045,
+        "ratio_upper": 4.4845,
+        "r2": 0.0058,
         "ratio_rounded": 4.6,
         "ratio": 5
     },
@@ -701,6 +701,16 @@
     },
     {
         "uri": "https://github.com/tercen/globaltest_operator",
+        "version": "0.1",
+        "base_memory": 500000000,
+        "ratio_est": 38.395,
+        "ratio_upper": 66.7529,
+        "r2": 0.8655,
+        "ratio_rounded": 66.9,
+        "ratio": 50
+    },
+    {
+        "uri": "https://github.com/tercen/globaltest_operator",
         "version": "0.1.1",
         "base_memory": 500000000,
         "ratio_est": 2.4606,
@@ -904,8 +914,8 @@
         "version": "0.12.0",
         "base_memory": 500000000,
         "ratio_est": 4.4116,
-        "ratio_upper": 4.9286,
-        "r2": 0.6915,
+        "ratio_upper": 4.9282,
+        "r2": 0.6894,
         "ratio_rounded": 5,
         "ratio": 5
     },
@@ -923,9 +933,9 @@
         "uri": "https://github.com/tercen/mean_operator",
         "version": "1.1.0",
         "base_memory": 500000000,
-        "ratio_est": -5.8103,
-        "ratio_upper": -1.2844,
-        "r2": 0.1444,
+        "ratio_est": -5.813,
+        "ratio_upper": -1.2727,
+        "r2": 0.1392,
         "ratio_rounded": -1.2,
         "ratio": 5
     },
@@ -1533,10 +1543,10 @@
         "uri": "https://github.com/tercen/template_R_operator",
         "version": "0.0.1",
         "base_memory": 500000000,
-        "ratio_est": 49.4386,
-        "ratio_upper": 137.35,
-        "r2": 0.3424,
-        "ratio_rounded": 137.4,
+        "ratio_est": 50.4422,
+        "ratio_upper": 123.3516,
+        "r2": 0.2974,
+        "ratio_rounded": 123.5,
         "ratio": 5
     },
     {
