@@ -71,7 +71,7 @@
     {
       "name": "scRNA-seq feature selection",
       "version": "0.0.3",
-      "url": "https://github.com/tercen/testVar_operator",
+      "url": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator",
       "error": "notest"
     },
     {
@@ -695,6 +695,16 @@
       "url": "https://github.com/tercen/rphenograph_operator"
     },
     {
+      "name": "scRNA-seq QC",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/scRNAseq_QC_operator"
+    },
+    {
+      "name": "scRNAseq Normalisation",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/scRNAseq_normalize_operator"
+    },
+    {
       "name": "Scale",
       "version": "0.10.1",
       "url": "https://github.com/tercen/scale_operator"
@@ -836,12 +846,10 @@
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/linear_mixed_model1_operator",
     "https://github.com/tercen/normalise_cytof_operator",
-    "https://github.com/tercen/normalizeCounts_operator",
     "https://github.com/tercen/pg_plsda_classifier_operator",
     "https://github.com/tercen/pg_predict_operator",
     "https://github.com/tercen/plot_operator",
     "https://github.com/tercen/ppi_string_shiny_operator",
-    "https://github.com/tercen/scRNAseq_QC_operator",
     "https://github.com/tercen/thresholding_operator",
     "https://github.com/tercen/venn_shiny_operator",
     "https://github.com/tercen/write_fcs_shiny_operator"
