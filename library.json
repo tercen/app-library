@@ -5442,6 +5442,98 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Operator to identify differentially expressed genes among scRNA-seq clusters.",
+    "name": "scRNAseq - Find Markers",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-10-25T15:08:23.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-03-07T16:43:09.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/scRNAseq_findMarkers_operator"
+      }
+    ],
+    "tags": [
+      "omics",
+      "scRNAseq",
+      "clustering"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/scRNAseq_findMarkers_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Find the most variable features (genes) in scRNA-seq data",
+    "name": "scRNAseq Feature Selection",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-07-26T22:07:13.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-03-07T13:11:34.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator"
+      }
+    ],
+    "tags": [
+      "omics",
+      "scRNAseq",
+      "data preprocessing"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Normalisation of scRNA-seq count data",
     "name": "scRNAseq Normalisation",
     "createdBy": "",
@@ -5742,6 +5834,52 @@
       "uri": "https://github.com/tercen/sinh_operator"
     },
     "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Perform SNN graph-based and return cluster membership.",
+    "name": "SNN Clustering",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-10-21T20:00:07.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-03-07T15:38:45.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/snn_clustering_operator"
+      }
+    ],
+    "tags": [
+      "omics",
+      "scRNAseq",
+      "clustering"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/snn_clustering_operator"
+    },
+    "version": "0.2.1",
     "authors": [
       "tercen"
     ],
