@@ -5396,6 +5396,98 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Return QC metrics for single-cell RNA-seq data",
+    "name": "scRNA-seq QC",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-07-26T21:03:17.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-03-07T11:57:20.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/scRNAseq_QC_operator"
+      }
+    ],
+    "tags": [
+      "omics",
+      "scRNA-seq",
+      "QC"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/scRNAseq_QC_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Normalisation of scRNA-seq count data",
+    "name": "scRNAseq Normalisation",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-07-26T22:06:19.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-03-07T12:20:47.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/scRNAseq_normalize_operator"
+      }
+    ],
+    "tags": [
+      "omics",
+      "scRNAseq",
+      "data preprocessing"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/scRNAseq_normalize_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Subtracts the Mean and divides by the Standard Deviation of a data set. Also called autoscaling or z-transformation.",
     "name": "Scale",
     "createdBy": "",
