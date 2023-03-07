@@ -39,12 +39,6 @@
   ],
   "notest_operators": [
     {
-      "name": "SNNGraphClustering_operator",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/SNNGraphClustering_operator",
-      "error": "notest"
-    },
-    {
       "name": "cscore_operator",
       "version": "0.0.2",
       "url": "https://github.com/tercen/cscore_operator",
@@ -66,12 +60,6 @@
       "name": "PHATE",
       "version": "0.2.0",
       "url": "https://github.com/tercen/phate_operator",
-      "error": "notest"
-    },
-    {
-      "name": "scRNA-seq feature selection",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator",
       "error": "notest"
     },
     {
@@ -700,6 +688,16 @@
       "url": "https://github.com/tercen/scRNAseq_QC_operator"
     },
     {
+      "name": "scRNAseq - Find Markers",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/scRNAseq_findMarkers_operator"
+    },
+    {
+      "name": "scRNAseq Feature Selection",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator"
+    },
+    {
       "name": "scRNAseq Normalisation",
       "version": "0.1.0",
       "url": "https://github.com/tercen/scRNAseq_normalize_operator"
@@ -733,6 +731,11 @@
       "name": "sinh",
       "version": "0.1.0",
       "url": "https://github.com/tercen/sinh_operator"
+    },
+    {
+      "name": "SNN Clustering",
+      "version": "0.2.1",
+      "url": "https://github.com/tercen/snn_clustering_operator"
     },
     {
       "name": "Som Cluster Shiny Operator",
@@ -826,7 +829,6 @@
     }
   ],
   "no_release_operators": [
-    "https://github.com/tercen/alice_operator",
     "https://github.com/tercen/anova1_operator",
     "https://github.com/tercen/biplot_shiny_operator",
     "https://github.com/tercen/compare_means_operator",
@@ -836,11 +838,9 @@
     "https://github.com/tercen/coral_shiny_operator",
     "https://github.com/tercen/coral_shiny_v2_operator",
     "https://github.com/tercen/coralp_shiny_operator",
-    "https://github.com/tercen/cyclone_operator",
     "https://github.com/tercen/dascombat_fit_operator",
     "https://github.com/tercen/dascombat_prediction_operator",
     "https://github.com/tercen/densityplot_shiny_operator",
-    "https://github.com/tercen/findMarkers_operator",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/flowsom_mst_shiny_operator",
     "https://github.com/tercen/kaplan_meier_operator",
