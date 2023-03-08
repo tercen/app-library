@@ -238,11 +238,6 @@
       "url": "https://github.com/tercen/count_operator"
     },
     {
-      "name": "Curve Fitter Shiny Operator",
-      "version": "0.0.6",
-      "url": "https://github.com/tercen/curvefitter_shiny_operator"
-    },
-    {
       "name": "CV",
       "version": "1.0.0",
       "url": "https://github.com/tercen/cv_operator"
@@ -838,6 +833,7 @@
     "https://github.com/tercen/coral_shiny_operator",
     "https://github.com/tercen/coral_shiny_v2_operator",
     "https://github.com/tercen/coralp_shiny_operator",
+    "https://github.com/tercen/curvefitter_shiny_operator",
     "https://github.com/tercen/dascombat_fit_operator",
     "https://github.com/tercen/dascombat_prediction_operator",
     "https://github.com/tercen/densityplot_shiny_operator",
