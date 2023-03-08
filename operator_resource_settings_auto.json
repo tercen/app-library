@@ -423,9 +423,9 @@
         "uri": "https://github.com/tercen/compare_means_operator",
         "version": "0.1.1",
         "base_memory": 1000000000,
-        "ratio_est": 1.2045,
-        "ratio_upper": 4.4845,
-        "r2": 0.0058,
+        "ratio_est": 1.204,
+        "ratio_upper": 4.4848,
+        "r2": 0.0052,
         "ratio_rounded": 4.6,
         "ratio": 5
     },
