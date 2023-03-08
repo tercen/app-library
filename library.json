@@ -1394,51 +1394,6 @@
     "path": ""
   },
   {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Curve fitting.",
-    "name": "Curve Fitter Shiny Operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2016-02-10T09:34:07.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-08T13:55:04.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/curvefitter_shiny_operator"
-      }
-    ],
-    "tags": [
-      "template"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/curvefitter_shiny_operator"
-    },
-    "version": "0.0.6",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": false
-  },
-  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
