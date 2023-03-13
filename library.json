@@ -4717,6 +4717,51 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Import Cell Ranger output (scRNA-seq count data)",
+    "name": "Cell Ranger",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-11-15T18:37:20.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-03-13T17:02:13.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/read_cellranger_operator"
+      }
+    ],
+    "tags": [
+      "import",
+      "scRNA-seq"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/read_cellranger_operator"
+    },
+    "version": "0.2.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Imports multiple CSV files in a zip file.",
     "name": "CSV (multiple files)",
     "createdBy": "",
@@ -5398,7 +5443,7 @@
     "isDeleted": false,
     "rev": "",
     "description": "Operator to identify differentially expressed genes among scRNA-seq clusters.",
-    "name": "scRNAseq - Find Markers",
+    "name": "scRNAseq Find Markers",
     "createdBy": "",
     "acl": {
       "kind": "Acl",
@@ -5411,7 +5456,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-03-07T16:43:09.000Z"
+      "value": "2023-03-13T16:04:52.000Z"
     },
     "urls": [
       {
@@ -5429,7 +5474,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/scRNAseq_findMarkers_operator"
     },
-    "version": "0.1.0",
+    "version": "0.1.1",
     "authors": [
       "tercen"
     ],
