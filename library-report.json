@@ -25,12 +25,6 @@
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\nError in apply(quantileDataLow, 2, function(x) { : \n  object 'quantileDataLow' not found\nCalls: <Anonymous> ... generateAnnotationThresholds -> .processChannelBounds -> apply\nExecution halted\n})"
     },
     {
-      "name": "Cell Ranger",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/read_cellranger_operator",
-      "error": "ServiceError({statusCode: -142, error: unknown, reason: type 'int' is not a subtype of type 'String' in type cast})"
-    },
-    {
       "name": "TrackSOM",
       "version": "0.1.5",
       "url": "https://github.com/tercen/tracksom_operator",
@@ -608,6 +602,11 @@
       "url": "https://github.com/tercen/ratio_operator"
     },
     {
+      "name": "Cell Ranger",
+      "version": "0.2.2",
+      "url": "https://github.com/tercen/read_cellranger_operator"
+    },
+    {
       "name": "CSV (multiple files)",
       "version": "0.2.0",
       "url": "https://github.com/tercen/read_csv_operator"
@@ -683,8 +682,8 @@
       "url": "https://github.com/tercen/scRNAseq_QC_operator"
     },
     {
-      "name": "scRNAseq - Find Markers",
-      "version": "0.1.0",
+      "name": "scRNAseq Find Markers",
+      "version": "0.1.1",
       "url": "https://github.com/tercen/scRNAseq_findMarkers_operator"
     },
     {
