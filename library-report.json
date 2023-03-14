@@ -13,12 +13,6 @@
       "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
     },
     {
-      "name": "DR Curve Fitting Operator",
-      "version": "1.2.0",
-      "url": "https://github.com/tercen/dose_response_fit_operator",
-      "error": "ServiceError({statusCode: 400, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
-    },
-    {
       "name": "FAUST",
       "version": "0.0.5",
       "url": "https://github.com/tercen/faust_operator",
@@ -45,33 +39,9 @@
       "error": "notest"
     },
     {
-      "name": "Karolinska demultiplex docker operator",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/karolinska_demultiplex_docker_operator",
-      "error": "notest"
-    },
-    {
       "name": "PHATE",
       "version": "0.2.0",
       "url": "https://github.com/tercen/phate_operator",
-      "error": "notest"
-    },
-    {
-      "name": "Tracer",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/tracer_docker_operator",
-      "error": "notest"
-    },
-    {
-      "name": "TraCeR summarise",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/tracer_summarize_docker_operator",
-      "error": "notest"
-    },
-    {
-      "name": "TrimGalore",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/trimgalore_docker_operator",
       "error": "notest"
     }
   ],
@@ -846,7 +816,6 @@
     "https://github.com/tercen/plot_operator",
     "https://github.com/tercen/ppi_string_shiny_operator",
     "https://github.com/tercen/thresholding_operator",
-    "https://github.com/tercen/venn_shiny_operator",
-    "https://github.com/tercen/write_fcs_shiny_operator"
+    "https://github.com/tercen/venn_shiny_operator"
   ]
 }
