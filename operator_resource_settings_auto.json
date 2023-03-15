@@ -554,8 +554,8 @@
         "version": "0.1.4",
         "base_memory": 1000000000,
         "ratio_est": 3.337,
-        "ratio_upper": 3.629,
-        "r2": 0.8634,
+        "ratio_upper": 3.6279,
+        "r2": 0.8633,
         "ratio_rounded": 3.7,
         "ratio": 5
     },
@@ -644,8 +644,8 @@
         "version": "1.6.0",
         "base_memory": 1000000000,
         "ratio_est": 1.5881,
-        "ratio_upper": 2.4992,
-        "r2": 0.4179,
+        "ratio_upper": 2.4805,
+        "r2": 0.4177,
         "ratio_rounded": 2.6,
         "ratio": 5
     },
@@ -904,8 +904,8 @@
         "version": "0.1.1",
         "base_memory": 500000000,
         "ratio_est": 0.4958,
-        "ratio_upper": 0.6831,
-        "r2": 0.5675,
+        "ratio_upper": 0.6828,
+        "r2": 0.5601,
         "ratio_rounded": 0.8,
         "ratio": 5
     },
@@ -1674,8 +1674,8 @@
         "version": "1.2.1",
         "base_memory": 1000000000,
         "ratio_est": 1.5925,
-        "ratio_upper": 2.1003,
-        "r2": 0.3456,
+        "ratio_upper": 2.0979,
+        "r2": 0.3455,
         "ratio_rounded": 2.2,
         "ratio": 5
     },
