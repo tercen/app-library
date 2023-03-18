@@ -1890,6 +1890,53 @@
     "path": ""
   },
   {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "FAUST: Full annotation using shape-constrained trees.",
+    "name": "FAUST",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-05-09T08:28:21.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-03-18T15:33:26.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/faust_operator"
+      }
+    ],
+    "tags": [
+      "flow cytometry",
+      "clustering",
+      "dimensionality reduction"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/faust_operator"
+    },
+    "version": "0.1.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/faust_operator:0.1.2"
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
