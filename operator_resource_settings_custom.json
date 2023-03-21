@@ -1,8 +1,20 @@
 [
    {
-        "uri": "https://github.com/tercen/pamsoft_grid_operator",
-        "version": "1.2.1",
-        "base_memory": 1000000000,
+        "uri": "https://github.com/tercen/globaltest_operator_fix",
+        "version": "0.0.1",
+        "base_memory": 10000000000,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/globaltest_operator",
+        "version": "0.0.1",
+        "base_memory": 10000000000,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/pamgene/globaltest_operator",
+        "version": "0.0.1",
+        "base_memory": 10000000000,
         "ratio": 5
     },
     {
