@@ -1,12 +1,6 @@
 {
   "failed_operators": [
     {
-      "name": "Automated gating",
-      "version": "0.3.2",
-      "url": "https://github.com/tercen/automated_gating_operator",
-      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError in `vec_as_location2_result()`:\n! Can't subset columns past the end.\nℹ Location 1 doesn't exist.\nℹ There are only 0 columns.\nBacktrace:\n     ▆\n  1. ├─base::levels(as.factor(files[[1]]))\n  2. ├─base::as.factor(files[[1]])\n  3. │ └─base::is.factor(x)\n  4. ├─files[[1]]\n  5. └─tibble:::`[[.tbl_df`(files, 1)\n  6.   └─tibble:::tbl_subset2(x, j = i, j_arg = substitute(i))\n  7.     └─tibble:::vectbl_as_col_location2(j, length(x), j_arg = j_arg)\n  8.       ├─tibble:::subclass_col_index_errors(...)\n  9.       │ └─base::withCallingHandlers(...)\n 10.       └─vctrs::vec_as_location2(j, n, names)\n 11.         ├─vctrs:::result_get(...)\n 12.         └─vctrs:::vec_as_location2_result(...)\n 13.           ├─base::tryCatch(...)\n 14.           │ └─base (local) tryCatchList(expr, classes, parentenv, handlers)\n 15.           │   └─base (local) tryCatchOne(expr, names, parentenv, handlers[[1L]])\n 16.           │     └─base (local) doTryCatch(return(expr), name, parentenv, handler)\n 17.           └─vctrs::vec_as_location(i, n, names = names, arg = arg)\n 18.             └─vctrs (local) `<fn>`()\n 19.               └─vctrs:::stop_subscript_oob(...)\n 20.                 └─vctrs:::stop_subscript(...)\n 21.                   └─rlang::abort(...)\nExecution halted\n})"
-    },
-    {
       "name": "Base Change",
       "version": "0.1.1",
       "url": "https://github.com/tercen/change_from_baseline_operator",
@@ -119,6 +113,11 @@
       "name": "Autoencoder operator",
       "version": "0.1.0",
       "url": "https://github.com/tercen/autoencoder_operator"
+    },
+    {
+      "name": "Automated gating",
+      "version": "0.3.7",
+      "url": "https://github.com/tercen/automated_gating_operator"
     },
     {
       "name": "Bar plot",
