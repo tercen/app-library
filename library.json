@@ -724,6 +724,52 @@
     "path": ""
   },
   {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Apply one of the OpenCyto automated gating methods to your data.",
+    "name": "Automated gating",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-04-07T13:24:53.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-03-22T16:16:33.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/automated_gating_operator"
+      }
+    ],
+    "tags": [
+      "flow cytometry",
+      "gating"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/automated_gating_operator"
+    },
+    "version": "0.3.7",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "tercen/automated_gating_operator:latest"
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
