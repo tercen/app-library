@@ -23,10 +23,10 @@
         "uri": "",
         "version": "0.1.2",
         "base_memory": 500000000,
-        "ratio_est": -8.1978,
-        "ratio_upper": 4.6274,
-        "r2": 0.0999,
-        "ratio_rounded": 4.7,
+        "ratio_est": -9.8711,
+        "ratio_upper": 2.1275,
+        "r2": 0.1379,
+        "ratio_rounded": 2.2,
         "ratio": 5
     },
     {
@@ -593,11 +593,11 @@
         "uri": "https://github.com/tercen/faust_operator",
         "version": "0.0.6",
         "base_memory": 1000000000,
-        "ratio_est": 5.7329,
-        "ratio_upper": 6.3265,
-        "r2": 0.8956,
-        "ratio_rounded": 6.4,
-        "ratio": 6.4
+        "ratio_est": 5.6891,
+        "ratio_upper": 6.2409,
+        "r2": 0.9029,
+        "ratio_rounded": 6.3,
+        "ratio": 6.3
     },
     {
         "uri": "https://github.com/tercen/flag_operator",
@@ -1303,9 +1303,9 @@
         "uri": "https://github.com/tercen/randomlabel_operator",
         "version": "1.0.6",
         "base_memory": 500000000,
-        "ratio_est": -4.8434,
-        "ratio_upper": 1.0815,
-        "r2": 0.0916,
+        "ratio_est": -4.8693,
+        "ratio_upper": 1.0543,
+        "r2": 0.0902,
         "ratio_rounded": 1.2,
         "ratio": 5
     },
@@ -1363,10 +1363,10 @@
         "uri": "https://github.com/tercen/read_csv_operator",
         "version": "0.2.0",
         "base_memory": 500000000,
-        "ratio_est": 1.5188,
-        "ratio_upper": 4.2566,
-        "r2": 0.0652,
-        "ratio_rounded": 4.4,
+        "ratio_est": 1.4917,
+        "ratio_upper": 4.1897,
+        "r2": 0.0623,
+        "ratio_rounded": 4.3,
         "ratio": 5
     },
     {
@@ -1723,10 +1723,10 @@
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.1",
         "base_memory": 1000000000,
-        "ratio_est": 1.2223,
-        "ratio_upper": 1.4413,
-        "r2": 0.5612,
-        "ratio_rounded": 1.5,
+        "ratio_est": 1.2704,
+        "ratio_upper": 1.4933,
+        "r2": 0.5695,
+        "ratio_rounded": 1.6,
         "ratio": 5
     },
     {
