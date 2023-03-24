@@ -1,5 +1,11 @@
 [
    {
+        "uri": "https://github.com/tercen/pg_plsda_classifier_operator_fix",
+        "version": "0.0.1",
+        "base_memory": 10000000000,
+        "ratio": 5
+   },
+   {
         "uri": "https://github.com/tercen/globaltest_operator_fix",
         "version": "0.0.1",
         "base_memory": 10000000000,
