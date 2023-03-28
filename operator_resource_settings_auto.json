@@ -1393,11 +1393,11 @@
         "uri": "https://github.com/tercen/read_fcs_operator",
         "version": "1.2.4",
         "base_memory": 500000000,
-        "ratio_est": 5.1593,
-        "ratio_upper": 5.5289,
-        "r2": 0.9388,
-        "ratio_rounded": 5.6,
-        "ratio": 5.6
+        "ratio_est": 5.3927,
+        "ratio_upper": 5.7877,
+        "r2": 0.9309,
+        "ratio_rounded": 5.9,
+        "ratio": 5.9
     },
     {
         "uri": "https://github.com/tercen/read_fcs_operator",
