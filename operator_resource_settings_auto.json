@@ -1023,10 +1023,10 @@
         "uri": "https://github.com/tercen/median_operator",
         "version": "1.1.0",
         "base_memory": 500000000,
-        "ratio_est": -0.6969,
-        "ratio_upper": 1.4415,
-        "r2": 0.0245,
-        "ratio_rounded": 1.5,
+        "ratio_est": -0.9205,
+        "ratio_upper": 1.0334,
+        "r2": 0.046,
+        "ratio_rounded": 1.1,
         "ratio": 5
     },
     {
@@ -1233,10 +1233,10 @@
         "uri": "https://github.com/tercen/phate_operator",
         "version": "0.2.0",
         "base_memory": 1000000000,
-        "ratio_est": 2.0932,
-        "ratio_upper": 2.2161,
-        "r2": 0.9985,
-        "ratio_rounded": 2.3,
+        "ratio_est": 2.1454,
+        "ratio_upper": 2.252,
+        "r2": 0.9981,
+        "ratio_rounded": 2.4,
         "ratio": 5
     },
     {
@@ -1393,9 +1393,9 @@
         "uri": "https://github.com/tercen/read_fcs_operator",
         "version": "1.2.4",
         "base_memory": 500000000,
-        "ratio_est": 5.3927,
-        "ratio_upper": 5.7877,
-        "r2": 0.9309,
+        "ratio_est": 5.427,
+        "ratio_upper": 5.824,
+        "r2": 0.9303,
         "ratio_rounded": 5.9,
         "ratio": 5.9
     },
@@ -1463,9 +1463,9 @@
         "uri": "https://github.com/tercen/read_fcs_operator",
         "version": "1.6.0",
         "base_memory": 500000000,
-        "ratio_est": 5.3178,
-        "ratio_upper": 5.9948,
-        "r2": 0.8886,
+        "ratio_est": 5.3174,
+        "ratio_upper": 5.9867,
+        "r2": 0.8885,
         "ratio_rounded": 6.1,
         "ratio": 6.1
     },
@@ -1483,10 +1483,10 @@
         "uri": "https://github.com/tercen/readxl_operator",
         "version": "1.1.2",
         "base_memory": 500000000,
-        "ratio_est": -72.4174,
-        "ratio_upper": 12.6126,
-        "r2": 0.0382,
-        "ratio_rounded": 12.7,
+        "ratio_est": -72.6025,
+        "ratio_upper": 12.4937,
+        "r2": 0.0376,
+        "ratio_rounded": 12.6,
         "ratio": 5
     },
     {
@@ -1528,6 +1528,26 @@
         "r2": 0.984,
         "ratio_rounded": 7.8,
         "ratio": 7.8
+    },
+    {
+        "uri": "https://github.com/tercen/scRNAseq_QC_operator",
+        "version": "0.1.0",
+        "base_memory": 1000000000,
+        "ratio_est": 0.9928,
+        "ratio_upper": 1.074,
+        "r2": 0.996,
+        "ratio_rounded": 1.2,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/scRNAseq_normalize_operator",
+        "version": "0.1.0",
+        "base_memory": 500000000,
+        "ratio_est": 1.1053,
+        "ratio_upper": 1.2055,
+        "r2": 0.9922,
+        "ratio_rounded": 1.3,
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/scale_operator",
