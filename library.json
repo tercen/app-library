@@ -5687,7 +5687,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-07-26T15:54:04.000Z"
+      "value": "2023-03-30T19:53:11.000Z"
     },
     "urls": [
       {
@@ -5703,7 +5703,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/scale_operator"
     },
-    "version": "0.10.1",
+    "version": "0.11.0",
     "authors": [
       "tercen"
     ],
