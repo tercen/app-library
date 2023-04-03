@@ -85,9 +85,9 @@
     },
     {
         "uri": "https://github.com/tercen/debarcoding_cytof_operator",
-        "version": "0.0.3",
-        "base_memory": 32000000000,
-        "ratio": 5
+        "version": "0.0.1",
+        "base_memory": 16000000000,
+        "ratio": 1
     },
     {
         "uri": "https://github.com/tercen/peacoqc_operator",
