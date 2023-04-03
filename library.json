@@ -6180,7 +6180,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-09-14T15:52:09.000Z"
+      "value": "2023-04-03T14:20:37.000Z"
     },
     "urls": [
       {
@@ -6196,7 +6196,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/t_test_operator"
     },
-    "version": "1.0.0",
+    "version": "1.1.0",
     "authors": [
       "tercen"
     ],
@@ -6204,7 +6204,7 @@
     "properties": [],
     "longDescription": "",
     "path": "",
-    "container": "tercen/t_test_operator:1.0.0"
+    "container": "tercen/t_test_operator:latest"
   },
   {
     "kind": "ROperator",
