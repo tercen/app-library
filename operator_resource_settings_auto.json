@@ -103,10 +103,10 @@
         "uri": "https://github.com/pamgene/ETS_operator",
         "version": "0.3.0",
         "base_memory": 500000000,
-        "ratio_est": -57.7006,
-        "ratio_upper": 15.3759,
-        "r2": 0.4446,
-        "ratio_rounded": 15.5,
+        "ratio_est": -57.5877,
+        "ratio_upper": -7.145,
+        "r2": 0.5355,
+        "ratio_rounded": -7,
         "ratio": 5
     },
     {
@@ -123,10 +123,10 @@
         "uri": "https://github.com/pamgene/S100_operator",
         "version": "0.2.0",
         "base_memory": 500000000,
-        "ratio_est": -201.7261,
-        "ratio_upper": 53.2671,
-        "r2": 0.4455,
-        "ratio_rounded": 53.4,
+        "ratio_est": -200.3277,
+        "ratio_upper": 0.5376,
+        "r2": 0.468,
+        "ratio_rounded": 0.6,
         "ratio": 5
     },
     {
