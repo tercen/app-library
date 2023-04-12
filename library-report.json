@@ -200,8 +200,8 @@
       "url": "https://github.com/tercen/cv_operator"
     },
     {
-      "name": "cycombine_operator",
-      "version": "0.2.0",
+      "name": "cyCombine",
+      "version": "0.3.2",
       "url": "https://github.com/tercen/cycombine_operator"
     },
     {
