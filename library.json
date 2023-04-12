@@ -1488,8 +1488,8 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Adjust for batch effects using ComBat package.",
-    "name": "cycombine_operator",
+    "description": "Batch effect correction of flow cytometry data.",
+    "name": "cyCombine",
     "createdBy": "",
     "acl": {
       "kind": "Acl",
@@ -1502,7 +1502,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-09-30T10:19:55.000Z"
+      "value": "2023-04-12T09:36:29.000Z"
     },
     "urls": [
       {
@@ -1511,14 +1511,16 @@
       }
     ],
     "tags": [
-      "flow cytometry"
+      "flow cytometry",
+      "batch correction",
+      "normalisation"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/cycombine_operator"
     },
-    "version": "0.2.0",
+    "version": "0.3.2",
     "authors": [
       "tercen"
     ],
