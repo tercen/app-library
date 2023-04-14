@@ -373,8 +373,8 @@
         "uri": "https://github.com/tercen/asinh_operator",
         "version": "1.1.0",
         "base_memory": 500000000,
-        "ratio_est": 1.2986,
-        "ratio_upper": 1.3898,
+        "ratio_est": 1.2956,
+        "ratio_upper": 1.3862,
         "r2": 0.8376,
         "ratio_rounded": 1.5,
         "ratio": 5
@@ -443,10 +443,10 @@
         "uri": "https://github.com/tercen/barplot_operator",
         "version": "0.1.5",
         "base_memory": 500000000,
-        "ratio_est": -30.3504,
-        "ratio_upper": -13.7583,
-        "r2": 0.1523,
-        "ratio_rounded": -13.7,
+        "ratio_est": -30.3517,
+        "ratio_upper": -13.7222,
+        "r2": 0.1492,
+        "ratio_rounded": -13.6,
         "ratio": 5
     },
     {
@@ -594,8 +594,8 @@
         "version": "0.1.1",
         "base_memory": 1000000000,
         "ratio_est": 1.2658,
-        "ratio_upper": 3.1388,
-        "r2": 0.0164,
+        "ratio_upper": 3.1387,
+        "r2": 0.0163,
         "ratio_rounded": 3.2,
         "ratio": 5
     },
@@ -623,9 +623,9 @@
         "uri": "https://github.com/tercen/count_operator",
         "version": "0.11.1",
         "base_memory": 500000000,
-        "ratio_est": 0.4462,
-        "ratio_upper": 0.5574,
-        "r2": 0.6313,
+        "ratio_est": 0.4447,
+        "ratio_upper": 0.5556,
+        "r2": 0.6222,
         "ratio_rounded": 0.7,
         "ratio": 5
     },
@@ -678,6 +678,16 @@
         "r2": 0.946,
         "ratio_rounded": 5.6,
         "ratio": 5.6
+    },
+    {
+        "uri": "https://github.com/tercen/debarcoding_cytof_operator",
+        "version": "0.0.5",
+        "base_memory": 1000000000,
+        "ratio_est": 2.8152,
+        "ratio_upper": 3.1481,
+        "r2": 0.9916,
+        "ratio_rounded": 3.2,
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/density_operator",
@@ -814,8 +824,8 @@
         "version": "0.0.3",
         "base_memory": 1000000000,
         "ratio_est": 0.173,
-        "ratio_upper": 0.2093,
-        "r2": 0.3958,
+        "ratio_upper": 0.2088,
+        "r2": 0.3948,
         "ratio_rounded": 0.3,
         "ratio": 5
     },
@@ -853,9 +863,9 @@
         "uri": "https://github.com/tercen/flowsom_operator",
         "version": "1.6.0",
         "base_memory": 1000000000,
-        "ratio_est": 1.3044,
-        "ratio_upper": 1.4249,
-        "r2": 0.9085,
+        "ratio_est": 1.3057,
+        "ratio_upper": 1.4204,
+        "r2": 0.913,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -1015,7 +1025,7 @@
         "base_memory": 500000000,
         "ratio_est": 0.1757,
         "ratio_upper": 0.4806,
-        "r2": 0.0111,
+        "r2": 0.0109,
         "ratio_rounded": 0.6,
         "ratio": 5
     },
@@ -1163,10 +1173,10 @@
         "uri": "https://github.com/tercen/mean_sd_operator",
         "version": "0.1.3",
         "base_memory": 500000000,
-        "ratio_est": -151.8573,
-        "ratio_upper": 7.8622,
-        "r2": 0.1093,
-        "ratio_rounded": 8,
+        "ratio_est": -65.7195,
+        "ratio_upper": 12.7937,
+        "r2": 0.0831,
+        "ratio_rounded": 12.9,
         "ratio": 5
     },
     {
@@ -1654,8 +1664,8 @@
         "version": "1.6.0",
         "base_memory": 500000000,
         "ratio_est": 5.4987,
-        "ratio_upper": 6.1146,
-        "r2": 0.889,
+        "ratio_upper": 6.1039,
+        "r2": 0.8889,
         "ratio_rounded": 6.2,
         "ratio": 6.2
     },
@@ -2023,9 +2033,9 @@
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.1",
         "base_memory": 1000000000,
-        "ratio_est": 1.3621,
-        "ratio_upper": 1.589,
-        "r2": 0.5451,
+        "ratio_est": 1.3719,
+        "ratio_upper": 1.5987,
+        "r2": 0.5443,
         "ratio_rounded": 1.7,
         "ratio": 5
     },
