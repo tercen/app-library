@@ -23,10 +23,10 @@
         "uri": "",
         "version": "0.1.2",
         "base_memory": 500000000,
-        "ratio_est": -12.6663,
-        "ratio_upper": -3.5024,
-        "r2": 0.2101,
-        "ratio_rounded": -3.4,
+        "ratio_est": -12.2394,
+        "ratio_upper": -3.7015,
+        "r2": 0.2182,
+        "ratio_rounded": -3.6,
         "ratio": 5
     },
     {
@@ -593,9 +593,9 @@
         "uri": "https://github.com/tercen/compare_means_operator",
         "version": "0.1.1",
         "base_memory": 1000000000,
-        "ratio_est": 1.2655,
-        "ratio_upper": 3.137,
-        "r2": 0.0162,
+        "ratio_est": 1.2643,
+        "ratio_upper": 3.1363,
+        "r2": 0.0158,
         "ratio_rounded": 3.2,
         "ratio": 5
     },
@@ -713,10 +713,10 @@
         "uri": "https://github.com/tercen/diffcyt_operator",
         "version": "0.3.1",
         "base_memory": 1000000000,
-        "ratio_est": 3.1384,
-        "ratio_upper": 3.3251,
-        "r2": 0.9715,
-        "ratio_rounded": 3.4,
+        "ratio_est": 3.0034,
+        "ratio_upper": 3.1839,
+        "r2": 0.9678,
+        "ratio_rounded": 3.3,
         "ratio": 5
     },
     {
@@ -1123,10 +1123,10 @@
         "uri": "https://github.com/tercen/marker_enrichment_operator",
         "version": "0.1.1",
         "base_memory": 500000000,
-        "ratio_est": 0.4759,
-        "ratio_upper": 0.6576,
-        "r2": 0.4762,
-        "ratio_rounded": 0.8,
+        "ratio_est": 0.4645,
+        "ratio_upper": 0.6424,
+        "r2": 0.4686,
+        "ratio_rounded": 0.7,
         "ratio": 5
     },
     {
@@ -1483,9 +1483,9 @@
         "uri": "https://github.com/tercen/proportion_operator",
         "version": "0.1.2",
         "base_memory": 500000000,
-        "ratio_est": 0.3569,
-        "ratio_upper": 0.5887,
-        "r2": 0.1249,
+        "ratio_est": 0.3557,
+        "ratio_upper": 0.5877,
+        "r2": 0.1217,
         "ratio_rounded": 0.7,
         "ratio": 5
     },
@@ -1733,11 +1733,11 @@
         "uri": "https://github.com/tercen/rphenograph_operator",
         "version": "1.1.1",
         "base_memory": 500000000,
-        "ratio_est": 3.246,
-        "ratio_upper": 5.2342,
-        "r2": 0.8579,
-        "ratio_rounded": 5.3,
-        "ratio": 5.3
+        "ratio_est": 3.3375,
+        "ratio_upper": 4.3956,
+        "r2": 0.9274,
+        "ratio_rounded": 4.5,
+        "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/scRNA_seq_marker_gene_detection",
@@ -1768,6 +1768,16 @@
         "r2": 0.997,
         "ratio_rounded": 1.1,
         "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/scRNAseq_findMarkers_operator",
+        "version": "0.1.1",
+        "base_memory": 500000000,
+        "ratio_est": 6.3539,
+        "ratio_upper": 6.76,
+        "r2": 0.9988,
+        "ratio_rounded": 6.9,
+        "ratio": 6.9
     },
     {
         "uri": "https://github.com/tercen/scRNAseq_normalize_operator",
@@ -2043,9 +2053,9 @@
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.1",
         "base_memory": 1000000000,
-        "ratio_est": 1.3729,
-        "ratio_upper": 1.5968,
-        "r2": 0.5451,
+        "ratio_est": 1.3742,
+        "ratio_upper": 1.5967,
+        "r2": 0.546,
         "ratio_rounded": 1.7,
         "ratio": 5
     },
