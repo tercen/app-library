@@ -216,7 +216,7 @@
     },
     {
       "name": "CYTOF Debarcoding",
-      "version": "0.0.3",
+      "version": "0.0.5",
       "url": "https://github.com/tercen/debarcoding_cytof_operator"
     },
     {
