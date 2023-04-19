@@ -1,104 +1,110 @@
 [
-   {
-        "uri": "https://github.com/tercen/read_fcs_operator",
-        "version": "2.0.1",
-        "base_memory": 16000000000,
-        "ratio": 5
-   },
-   {
-        "uri": "https://github.com/tercen/pg_plsda_classifier_operator_fix",
-        "version": "0.0.1",
-        "base_memory": 10000000000,
-        "ratio": 5
-   },
-   {
-        "uri": "https://github.com/tercen/globaltest_operator_fix",
-        "version": "0.0.1",
-        "base_memory": 10000000000,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/globaltest_operator",
-        "version": "0.0.1",
-        "base_memory": 10000000000,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/pamgene/globaltest_operator",
-        "version": "0.0.1",
-        "base_memory": 10000000000,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/pamsoft_grid_qt_operator",
-        "version": "1.2.0",
-        "base_memory": 1000000000,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/fast_tSNE_operator",
-        "version": "0.1.4",
-        "base_memory": 5000000000,
-        "ratio": 10
-    },
-    {
-        "uri": "https://github.com/tercen/faust_operator",
-        "version": "0.0.1",
-        "base_memory": 1000000000,
-        "ratio": 10
-    },
-    {
-        "uri": "https://github.com/tercen/depeche_operator",
-        "version": "0.0.1",
-        "base_memory": 5000000000,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/normalyzer_operator",
-        "version": "0.0.1",
-        "base_memory": 5000000000,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/DESeq2_operator",
-        "version": "0.1.0",
-        "base_memory": 5000000000,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/diffcyt_operator",
-        "version": "0.0.1",
-        "base_memory": 2000000000,
-        "ratio": 5
-    },
-     {
-        "uri": "https://github.com/tercen/cycombine_operator",
-        "version": "0.0.1",
-        "base_memory": 5000000000,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/tsne_operator",
-        "version": "0.0.1",
-        "base_memory": 10000000000,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/debarcoding_cytof_operator",
-        "version": "0.0.1",
-        "base_memory": 16000000000,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/peacoqc_operator",
-        "version": "0.0.1",
-        "base_memory": 1000000000,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/compare_means_operator",
-        "version": "0.0.1",
-        "base_memory": 10000000000,
-        "ratio": 5
-    }
+  {
+    "uri": "https://github.com/tercen/readxl_operator",
+    "version": "1.2.1",
+    "base_memory": 650000000,
+    "ratio": 3
+  },
+  {
+    "uri": "https://github.com/tercen/read_fcs_operator",
+    "version": "2.0.1",
+    "base_memory": 16000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/pg_plsda_classifier_operator_fix",
+    "version": "0.0.1",
+    "base_memory": 10000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/globaltest_operator_fix",
+    "version": "0.0.1",
+    "base_memory": 10000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/globaltest_operator",
+    "version": "0.0.1",
+    "base_memory": 10000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/pamgene/globaltest_operator",
+    "version": "0.0.1",
+    "base_memory": 10000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/pamsoft_grid_qt_operator",
+    "version": "1.2.0",
+    "base_memory": 1000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/fast_tSNE_operator",
+    "version": "0.1.4",
+    "base_memory": 5000000000,
+    "ratio": 10
+  },
+  {
+    "uri": "https://github.com/tercen/faust_operator",
+    "version": "0.0.1",
+    "base_memory": 1000000000,
+    "ratio": 10
+  },
+  {
+    "uri": "https://github.com/tercen/depeche_operator",
+    "version": "0.0.1",
+    "base_memory": 5000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/normalyzer_operator",
+    "version": "0.0.1",
+    "base_memory": 5000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/DESeq2_operator",
+    "version": "0.1.0",
+    "base_memory": 5000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/diffcyt_operator",
+    "version": "0.0.1",
+    "base_memory": 2000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/cycombine_operator",
+    "version": "0.0.1",
+    "base_memory": 5000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/tsne_operator",
+    "version": "0.0.1",
+    "base_memory": 10000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/debarcoding_cytof_operator",
+    "version": "0.0.1",
+    "base_memory": 16000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/peacoqc_operator",
+    "version": "0.0.1",
+    "base_memory": 1000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/compare_means_operator",
+    "version": "0.0.1",
+    "base_memory": 10000000000,
+    "ratio": 5
+  }
 ]
