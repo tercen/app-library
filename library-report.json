@@ -802,7 +802,7 @@
     "https://github.com/tercen/coralp_shiny_operator",
     "https://github.com/tercen/dascombat_fit_operator",
     "https://github.com/tercen/dascombat_prediction_operator",
-    "https://github.com/tercen/downsamplelabel_operator",
+    "https://github.com/tercen/downlabel_operator",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/flowsom_mst_shiny_operator",
     "https://github.com/tercen/kaplan_meier_operator",
