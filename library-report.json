@@ -690,11 +690,6 @@
       "url": "https://github.com/tercen/shift_operator"
     },
     {
-      "name": "sinh",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/sinh_operator"
-    },
-    {
       "name": "SNN Clustering",
       "version": "0.2.1",
       "url": "https://github.com/tercen/snn_clustering_operator"
@@ -812,6 +807,7 @@
     "https://github.com/tercen/pg_predict_operator",
     "https://github.com/tercen/plot_operator",
     "https://github.com/tercen/ppi_string_shiny_operator",
+    "https://github.com/tercen/sinh_operator",
     "https://github.com/tercen/thresholding_operator",
     "https://github.com/tercen/venn_shiny_operator"
   ]
