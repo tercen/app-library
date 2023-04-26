@@ -5896,6 +5896,52 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "sinh transformation a given data",
+    "name": "sinh",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2021-02-24T18:27:08.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2022-07-05T15:43:16.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/sinh_operator"
+      }
+    ],
+    "tags": [
+      "data transformation",
+      "data wrangling",
+      "transform"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/sinh_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Perform SNN graph-based and return cluster membership.",
     "name": "SNN Clustering",
     "createdBy": "",
