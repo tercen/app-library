@@ -3970,7 +3970,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2021-10-18T16:31:22.000Z"
+      "value": "2023-04-27T09:23:42.000Z"
     },
     "urls": [
       {
@@ -3980,15 +3980,15 @@
     ],
     "tags": [
       "linear model",
-      "modelling",
-      "regression"
+      "regression",
+      "dose response curve"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/nonlinear_regression_operator"
     },
-    "version": "1.0.5",
+    "version": "1.1.0",
     "authors": [
       "tercen"
     ],
