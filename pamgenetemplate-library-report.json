@@ -1,9 +1,0 @@
-{
-  "failed_documents": [],
-  "notest_documents": [],
-  "success_documents": [],
-  "no_release_documents": [
-    "https://github.com/pamgene/image_analysis_PTK_template",
-    "https://github.com/pamgene/image_analysis_STK_template"
-  ]
-}
