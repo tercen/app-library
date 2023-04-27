@@ -1,0 +1,25 @@
+{
+  "failed_documents": [
+    {
+      "name": "UKA_app",
+      "version": "0.2.1",
+      "url": "https://github.com/pamgene/UKA_app",
+      "error": "Operator(s) not Found"
+    }
+  ],
+  "notest_documents": [],
+  "success_documents": [],
+  "no_release_documents": [
+    "https://github.com/pamgene/DRC_app",
+    "https://github.com/pamgene/ETS_app",
+    "https://github.com/pamgene/MTvC_app",
+    "https://github.com/pamgene/QC_PTK_app",
+    "https://github.com/pamgene/QC_STK_app",
+    "https://github.com/pamgene/SimpleHeatmap_app",
+    "https://github.com/pamgene/foldchange_app",
+    "https://github.com/pamgene/logfoldchange_app",
+    "https://github.com/pamgene/mediqr_scaling_app",
+    "https://github.com/pamgene/ttest_app",
+    "https://github.com/pamgene/ttest_paired_app"
+  ]
+}
