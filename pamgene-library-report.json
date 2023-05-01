@@ -10,7 +10,7 @@
   "notest_operators": [
     {
       "name": "cscore_operator",
-      "version": "0.0.4",
+      "version": "0.1.0",
       "url": "https://github.com/pamgene/cscore_operator",
       "error": "notest"
     },
