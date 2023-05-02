@@ -1148,7 +1148,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-07-12T12:34:08.000Z"
+      "value": "2022-07-12T13:13:41.000Z"
     },
     "urls": [
       {
@@ -1164,7 +1164,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/classification_metrics_operator"
     },
-    "version": "0.1.0",
+    "version": "0.1.2",
     "authors": [
       "tercen"
     ],
