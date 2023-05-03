@@ -1729,7 +1729,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-09-20T16:36:29.000Z"
+      "value": "2023-05-03T13:08:30.000Z"
     },
     "urls": [
       {
@@ -1747,7 +1747,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/diffcyt_operator"
     },
-    "version": "0.3.1",
+    "version": "0.3.2",
     "authors": [
       "tercen"
     ],
@@ -1755,7 +1755,7 @@
     "properties": [],
     "longDescription": "",
     "path": "",
-    "container": "tercen/diffcyt_operator:0.3.1"
+    "container": "tercen/diffcyt_operator:0.3.2"
   },
   {
     "kind": "ROperator",
