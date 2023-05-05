@@ -1,6 +1,12 @@
 {
   "failed_operators": [
     {
+      "name": "ETS",
+      "version": "0.3.0",
+      "url": "https://github.com/pamgene/ETS_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\n\nAttaching package: ‘dplyr’\n\nThe following objects are masked from ‘package:stats’:\n\n    filter, lag\n\nThe following objects are masked from ‘package:base’:\n\n    intersect, setdiff, setequal, union\n\n\nAttaching package: ‘data.table’\n\nThe following objects are masked from ‘package:dplyr’:\n\n    between, first, last\n\nError in self$onResponseError(response, \"upload\") : \n  Failed : upload : status=500 body=500, unknown, HttpException: Failed to parse header value\nCalls: <Anonymous> -> <Anonymous> -> <Anonymous>\nExecution halted\n})"
+    },
+    {
       "name": "ANOVA1",
       "version": "0.0.1",
       "url": "https://github.com/pamgene/anova1_operator",
@@ -22,11 +28,6 @@
     }
   ],
   "success_operators": [
-    {
-      "name": "ETS",
-      "version": "0.3.0",
-      "url": "https://github.com/pamgene/ETS_operator"
-    },
     {
       "name": "PCA Shiny",
       "version": "0.0.3",
