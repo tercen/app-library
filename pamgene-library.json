@@ -1,5 +1,49 @@
 [
   {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Exposure Time Scaling",
+    "name": "ETS",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-03-10T11:55:41.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-03-10T12:08:58.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/pamgene/ETS_operator"
+      }
+    ],
+    "tags": [
+      "pamgene"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/ETS_operator"
+    },
+    "version": "0.3.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
     "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
