@@ -3260,7 +3260,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-06-02T09:46:29.000Z"
+      "value": "2022-06-30T09:25:58.000Z"
     },
     "urls": [
       {
@@ -3276,7 +3276,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/max_operator"
     },
-    "version": "0.2.0",
+    "version": "0.2.1",
     "authors": [
       "tercen"
     ],
