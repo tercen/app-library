@@ -2,13 +2,13 @@
   "failed_documents": [
     {
       "name": "PTK-C1T1C2T2",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "url": "https://github.com/pamgene/PTK_C1T1C2T2_template",
       "error": "Operator(s) not Found"
     },
     {
       "name": "PTK-CT1T2T3",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "url": "https://github.com/pamgene/PTK_C1T1T2T3_template",
       "error": "Operator(s) not Found"
     },
@@ -20,7 +20,7 @@
     },
     {
       "name": "STK_CT1T2T3",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "url": "https://github.com/pamgene/STK_C1T1T2T3_template",
       "error": "Operator(s) not Found"
     },
