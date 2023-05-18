@@ -1718,6 +1718,51 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Calculates labels which can be assigned to sample data",
+    "name": "Down Label",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-04-22T19:41:06.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-05-18T17:38:25.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/downlabel_operator"
+      }
+    ],
+    "tags": [
+      "data wrangling",
+      "sampling"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/downlabel_operator"
+    },
+    "version": "0.0.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Removes data points from a set to make it more manageable. Uses a set method such as integer factor.",
     "name": "Downsample",
     "createdBy": "",
