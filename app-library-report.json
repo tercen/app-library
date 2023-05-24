@@ -16398,7 +16398,7 @@
       },
       "lastModifiedDate": {
         "kind": "Date",
-        "value": "2022-07-29T15:20:02.000Z"
+        "value": "2023-05-24T10:34:24.000Z"
       },
       "urls": [
         {
@@ -16418,7 +16418,7 @@
         "kind": "Url",
         "uri": "https://github.com/tercen/median_mad_app"
       },
-      "version": "0.1.0",
+      "version": "0.0.2",
       "authors": [],
       "isPublic": false,
       "projectId": "7c463933edba731b0b4df14b0cb704b8",
@@ -24351,6 +24351,7 @@
     "https://github.com/tercen/check_data_per_plate_app",
     "https://github.com/tercen/pamgrid_app",
     "https://github.com/tercen/pca_app",
-    "https://github.com/tercen/sort_app"
+    "https://github.com/tercen/sort_app",
+    "https://github.com/tercen/template_app"
   ]
 }
