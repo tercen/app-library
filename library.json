@@ -742,7 +742,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-03-22T16:16:33.000Z"
+      "value": "2023-05-31T14:05:18.000Z"
     },
     "urls": [
       {
@@ -759,7 +759,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/automated_gating_operator"
     },
-    "version": "0.3.7",
+    "version": "0.3.9",
     "authors": [
       "tercen"
     ],
