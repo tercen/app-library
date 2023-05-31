@@ -3971,7 +3971,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-05-30T09:48:36.000Z"
+      "value": "2023-05-31T08:27:46.000Z"
     },
     "urls": [
       {
@@ -3989,7 +3989,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/nonlinear_regression_operator"
     },
-    "version": "1.2.0",
+    "version": "1.3.0",
     "authors": [
       "tercen"
     ],
