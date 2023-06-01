@@ -28,19 +28,19 @@
       "name": "image_analysis_PTK_afterwash",
       "version": "0.0.7",
       "url": "https://github.com/pamgene/image_analysis_PTK_afterwash_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.1.0 not found in https://github.com/pamgene/ps12image_overview_shiny_operator})"
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds2.Mean_SigmBg -- val != refVal -- at line 0 -- val = 16.6615367077063 refVal = 136.102007469654})"
     },
     {
       "name": "image_analysis_PTK_prewash",
       "version": "0.0.6",
       "url": "https://github.com/pamgene/image_analysis_PTK_prewash_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.1.0 not found in https://github.com/pamgene/ps12image_overview_shiny_operator})"
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds2.Mean_SigmBg -- val != refVal -- at line 0 -- val = 16.6615367077063 refVal = 136.102007469654})"
     },
     {
       "name": "image_analysis_STK",
       "version": "0.0.6",
       "url": "https://github.com/pamgene/image_analysis_STK_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.1.0 not found in https://github.com/pamgene/ps12image_overview_shiny_operator})"
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds2.Mean_SigmBg -- val != refVal -- at line 0 -- val = 16.6615367077063 refVal = 136.102007469654})"
     }
   ],
   "notest_documents": [],
