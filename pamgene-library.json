@@ -179,6 +179,52 @@
     "path": ""
   },
   {
+    "kind": "ShinyOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Creates a Venn diagram in a shiny application.",
+    "name": "Venn",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-03-10T12:00:53.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-06-01T12:21:16.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/pamgene/Venn_diag_shiny_operator"
+      }
+    ],
+    "tags": [
+      "venn",
+      "pamgene"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/Venn_diag_shiny_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": false
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -224,6 +270,51 @@
     "properties": [],
     "longDescription": "",
     "path": ""
+  },
+  {
+    "kind": "ShinyOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Shiny operator to an interactive 3D scatter plot",
+    "name": "Scatter 3D",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-02-25T15:17:48.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-06-01T12:17:10.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/rdewijn/tercen_scatter3d.git"
+      }
+    ],
+    "tags": [
+      "template"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/biplot_shiny_operator"
+    },
+    "version": "1.0.0",
+    "authors": [
+      "Rik de Wijn"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
     "kind": "ROperator",
@@ -315,6 +406,51 @@
     "path": ""
   },
   {
+    "kind": "ShinyOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "DASCombat shiny operator.",
+    "name": "DASCombat Shiny operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-03-10T11:55:45.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-06-01T12:18:18.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/pamgene/dascombat_shiny_fit_operator"
+      }
+    ],
+    "tags": [
+      "dascombat"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/dascombat_shiny_fit_operator"
+    },
+    "version": "0.4.0",
+    "authors": [
+      "William van Doorn"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": false
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -358,6 +494,51 @@
     "properties": [],
     "longDescription": "",
     "path": ""
+  },
+  {
+    "kind": "ShinyOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Calculates the average (mean) and the coefficient of variance(CV) of sample replicates.",
+    "name": "Mean and CV",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-03-10T11:55:52.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-06-01T12:18:46.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/pamgene/mean_and_cv_shiny_operator"
+      }
+    ],
+    "tags": [
+      "shiny"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/mean_and_cv_shiny_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
     "kind": "ROperator",
@@ -631,6 +812,54 @@
     "path": ""
   },
   {
+    "kind": "ShinyOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Create a Protein-Protein interaction network using the StringDB.",
+    "name": "Protein-Protein Network Visualization",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-03-10T11:59:57.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-06-01T12:20:36.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/pamgene/ppi_string_shiny_operator"
+      }
+    ],
+    "tags": [
+      "ppi",
+      "network",
+      "stringdb"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/ppi_string_shiny_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen",
+      "wptmdoorn"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -674,6 +903,52 @@
     "properties": [],
     "longDescription": "",
     "path": ""
+  },
+  {
+    "kind": "ShinyOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Filtering and viewing ps12 images in a shiny app.",
+    "name": "PS12 Image Overview Shiny Operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-03-10T10:21:13.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-06-01T12:10:22.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/pamgene/ps12image_overview_shiny_operator"
+      }
+    ],
+    "tags": [
+      "shiny",
+      "pamgene"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/ps12image_overview_shiny_operator"
+    },
+    "version": "0.1.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": true
   },
   {
     "kind": "ROperator",
@@ -722,6 +997,53 @@
     "path": ""
   },
   {
+    "kind": "ShinyOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Shiny operator for creating a ROC curve and classification metrics",
+    "name": "ROC Shiny Operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-03-10T12:00:58.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-06-01T12:14:17.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/pamgene/roc_shiny_operator"
+      }
+    ],
+    "tags": [
+      "classification",
+      "ROC",
+      "metrics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/roc_shiny_operator"
+    },
+    "version": "0.2.0",
+    "authors": [
+      "rdw"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": false
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -766,6 +1088,52 @@
     "path": ""
   },
   {
+    "kind": "ShinyOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Converts a list of peptides into a list of kinases.",
+    "name": "Upstream Kinase Analysis",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2022-02-22T08:52:32.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-06-01T12:11:16.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/pamgene/uka_shiny_operator"
+      }
+    ],
+    "tags": [
+      "kinase",
+      "pamgene"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/uka_shiny_operator"
+    },
+    "version": "0.1.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "isViewOnly": false
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -784,12 +1152,12 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-04-05T10:38:43.000Z"
+      "value": "2023-06-01T12:10:12.000Z"
     },
     "urls": [
       {
         "kind": "Url",
-        "uri": "https://github.com/tercen/vsn_operator"
+        "uri": "https://github.com/pamgene/vsn_operator"
       }
     ],
     "tags": [
@@ -801,7 +1169,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/vsn_operator"
     },
-    "version": "0.2.1",
+    "version": "0.2.2",
     "authors": [
       "tercen"
     ],
