@@ -49,9 +49,19 @@
       "url": "https://github.com/pamgene/S100_operator"
     },
     {
+      "name": "Venn",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/Venn_diag_shiny_operator"
+    },
+    {
       "name": "ANOVA and Dunnett",
       "version": "0.1.0",
       "url": "https://github.com/pamgene/anova_dunnett_operator"
+    },
+    {
+      "name": "Scatter 3D",
+      "version": "1.0.0",
+      "url": "https://github.com/pamgene/biplot_shiny_operator"
     },
     {
       "name": "Check input 1 operator",
@@ -64,9 +74,19 @@
       "url": "https://github.com/pamgene/col_flag_operator"
     },
     {
+      "name": "DASCombat Shiny operator",
+      "version": "0.4.0",
+      "url": "https://github.com/pamgene/dascombat_shiny_fit_operator"
+    },
+    {
       "name": "Log Cutoff",
       "version": "0.1.1",
       "url": "https://github.com/pamgene/log_cutoff_operator"
+    },
+    {
+      "name": "Mean and CV",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/mean_and_cv_shiny_operator"
     },
     {
       "name": "Minus",
@@ -99,9 +119,19 @@
       "url": "https://github.com/pamgene/pooled_sd_operator"
     },
     {
+      "name": "Protein-Protein Network Visualization",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/ppi_string_shiny_operator"
+    },
+    {
       "name": "PS12 images",
       "version": "1.2.2",
       "url": "https://github.com/pamgene/ps12image_operator"
+    },
+    {
+      "name": "PS12 Image Overview Shiny Operator",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/ps12image_overview_shiny_operator"
     },
     {
       "name": "Cube",
@@ -109,13 +139,23 @@
       "url": "https://github.com/pamgene/read_pgcube_operator"
     },
     {
+      "name": "ROC Shiny Operator",
+      "version": "0.2.0",
+      "url": "https://github.com/pamgene/roc_shiny_operator"
+    },
+    {
       "name": "t-Test - Two Group",
       "version": "0.1.1",
       "url": "https://github.com/pamgene/two_sample_ttest_operator"
     },
     {
+      "name": "Upstream Kinase Analysis",
+      "version": "0.1.1",
+      "url": "https://github.com/pamgene/uka_shiny_operator"
+    },
+    {
       "name": "VSN",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "url": "https://github.com/pamgene/vsn_operator"
     },
     {
@@ -126,19 +166,11 @@
   ],
   "no_release_operators": [
     "https://github.com/pamgene/DRC_fit_operator",
-    "https://github.com/pamgene/Venn_diag_shiny_operator",
     "https://github.com/pamgene/anova2_operator",
-    "https://github.com/pamgene/biplot_shiny_operator",
     "https://github.com/pamgene/dascombat_fit_operator",
     "https://github.com/pamgene/dascombat_prediction_operator",
-    "https://github.com/pamgene/dascombat_shiny_fit_operator",
     "https://github.com/pamgene/globaltest_operator",
-    "https://github.com/pamgene/mean_and_cv_shiny_operator",
     "https://github.com/pamgene/pg_plsda_classifier_operator",
-    "https://github.com/pamgene/ppi_string_shiny_operator",
-    "https://github.com/pamgene/ps12image_overview_shiny_operator",
-    "https://github.com/pamgene/roc_shiny_operator",
-    "https://github.com/pamgene/uka_shiny_operator",
     "https://github.com/pamgene/vsn_shiny_operator"
   ]
 }
