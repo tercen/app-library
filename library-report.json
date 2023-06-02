@@ -225,11 +225,6 @@
       "url": "https://github.com/tercen/diffcyt_operator"
     },
     {
-      "name": "Down Label",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/downlabel_operator"
-    },
-    {
       "name": "Downsample",
       "version": "1.3.0",
       "url": "https://github.com/tercen/downsample_operator"
