@@ -11364,7 +11364,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-05-17T11:34:25.000Z"
+      "value": "2023-06-07T09:48:22.000Z"
     },
     "urls": [
       {
@@ -11404,7 +11404,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/UKA_app"
     },
-    "version": "0.2.3",
+    "version": "0.2.4",
     "authors": [],
     "isPublic": false,
     "projectId": "5fdacf2e254f508d0bd669ac039f912e",
@@ -11746,7 +11746,7 @@
                 {
                   "kind": "PropertyValue",
                   "name": "Lock_kinase_family",
-                  "value": "Yes"
+                  "value": "No"
                 }
               ],
               "url": {
