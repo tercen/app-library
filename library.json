@@ -139,50 +139,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Exposure Time Scaling",
-    "name": "ETS",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-05-05T08:22:34.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2023-02-22T10:09:02.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/ETS_operator"
-      }
-    ],
-    "tags": [
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/ETS_operator"
-    },
-    "version": "0.2.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Interquartile Range: Calculates whether the value of a cell falls within the middle 50% of the distriubution range.",
     "name": "IQR",
     "createdBy": "",
@@ -439,52 +395,6 @@
       "uri": "https://github.com/tercen/add_operator"
     },
     "version": "1.0.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "2 way Analysis of variance",
-    "name": "ANOVA2",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-05-10T13:48:07.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-10-07T14:01:13.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/anova2_operator"
-      }
-    ],
-    "tags": [
-      "statistical testing",
-      "test",
-      "linear model"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/anova2_operator"
-    },
-    "version": "0.0.1",
     "authors": [
       "tercen"
     ],
@@ -3151,51 +3061,6 @@
     "properties": [],
     "longDescription": "",
     "path": ""
-  },
-  {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Calculates the average (mean) and the coefficient of variance(CV) of sample replicates.",
-    "name": "Mean and CV",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-05-24T08:36:50.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-07-20T09:12:53.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/mean_and_cv_shiny_operator"
-      }
-    ],
-    "tags": [
-      "shiny"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/mean_and_cv_shiny_operator"
-    },
-    "version": "0.0.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true
   },
   {
     "kind": "ROperator",
