@@ -12,36 +12,6 @@
     "ratio": 5
   },
   {
-    "uri": "https://github.com/tercen/pg_plsda_classifier_operator_fix",
-    "version": "0.0.1",
-    "base_memory": 10000000000,
-    "ratio": 5
-  },
-  {
-    "uri": "https://github.com/tercen/globaltest_operator_fix",
-    "version": "0.0.1",
-    "base_memory": 10000000000,
-    "ratio": 5
-  },
-  {
-    "uri": "https://github.com/tercen/globaltest_operator",
-    "version": "0.0.1",
-    "base_memory": 10000000000,
-    "ratio": 5
-  },
-  {
-    "uri": "https://github.com/pamgene/globaltest_operator",
-    "version": "0.0.1",
-    "base_memory": 10000000000,
-    "ratio": 5
-  },
-  {
-    "uri": "https://github.com/tercen/pamsoft_grid_qt_operator",
-    "version": "1.2.0",
-    "base_memory": 1000000000,
-    "ratio": 5
-  },
-  {
     "uri": "https://github.com/tercen/fast_tSNE_operator",
     "version": "0.1.4",
     "base_memory": 5000000000,
