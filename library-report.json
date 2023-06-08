@@ -15,12 +15,6 @@
   ],
   "notest_operators": [
     {
-      "name": "cscore_operator",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/cscore_operator",
-      "error": "notest"
-    },
-    {
       "name": "GSEA",
       "version": "0.0.2",
       "url": "https://github.com/tercen/gsea_operator",
@@ -48,11 +42,6 @@
       "name": "DRC Fit",
       "version": "0.0.2",
       "url": "https://github.com/tercen/DRC_fit_operator"
-    },
-    {
-      "name": "ETS",
-      "version": "0.2.1",
-      "url": "https://github.com/tercen/ETS_operator"
     },
     {
       "name": "IQR",
@@ -83,11 +72,6 @@
       "name": "Add",
       "version": "1.0.0",
       "url": "https://github.com/tercen/add_operator"
-    },
-    {
-      "name": "ANOVA2",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/anova2_operator"
     },
     {
       "name": "ANOVA and Dunnett",
@@ -383,11 +367,6 @@
       "name": "Max",
       "version": "0.2.1",
       "url": "https://github.com/tercen/max_operator"
-    },
-    {
-      "name": "Mean and CV",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/mean_and_cv_shiny_operator"
     },
     {
       "name": "Mean",
@@ -745,17 +724,11 @@
     "https://github.com/tercen/compare_means_operator",
     "https://github.com/tercen/compensate_cytof_operator",
     "https://github.com/tercen/compensate_fcs_operator",
-    "https://github.com/tercen/coral_docker_operator",
-    "https://github.com/tercen/coral_shiny_operator",
-    "https://github.com/tercen/coralp_shiny_operator",
-    "https://github.com/tercen/dascombat_prediction_operator",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/flowsom_mst_shiny_operator",
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/normalise_cytof_operator",
-    "https://github.com/tercen/pg_predict_operator",
     "https://github.com/tercen/plot_operator",
-    "https://github.com/tercen/ppi_string_shiny_operator",
     "https://github.com/tercen/thresholding_operator",
     "https://github.com/tercen/venn_shiny_operator"
   ]
