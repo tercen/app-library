@@ -1106,7 +1106,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-06-01T12:11:16.000Z"
+      "value": "2023-06-08T09:47:54.000Z"
     },
     "urls": [
       {
@@ -1123,7 +1123,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/uka_shiny_operator"
     },
-    "version": "0.1.1",
+    "version": "0.1.2",
     "authors": [
       "tercen"
     ],
