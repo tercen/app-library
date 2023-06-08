@@ -424,7 +424,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-06-01T12:18:18.000Z"
+      "value": "2023-06-08T14:57:00.000Z"
     },
     "urls": [
       {
@@ -440,7 +440,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/dascombat_shiny_fit_operator"
     },
-    "version": "0.4.0",
+    "version": "0.5.0",
     "authors": [
       "William van Doorn"
     ],
