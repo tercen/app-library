@@ -358,50 +358,6 @@
     "path": ""
   },
   {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Multiply input values by 100.",
-    "name": "S100",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-05-07T09:19:57.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-05-25T09:02:32.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/S100_operator"
-      }
-    ],
-    "tags": [
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/S100_operator"
-    },
-    "version": "0.1.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
     "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
@@ -1576,51 +1532,6 @@
     "container": "lucas501/cytonorm_docker:1.1.9"
   },
   {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "DASCombat shiny operator.",
-    "name": "DASCombat Shiny operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-12-29T08:05:59.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2023-02-10T16:23:02.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/dascombat_shiny_fit_operator"
-      }
-    ],
-    "tags": [
-      "dascombat"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/dascombat_shiny_fit_operator"
-    },
-    "version": "0.3.0",
-    "authors": [
-      "William van Doorn"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": false
-  },
-  {
     "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
@@ -2292,50 +2203,6 @@
     "version": "0.1.0",
     "authors": [
       "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Perform a global multivariate hypothesis test",
-    "name": "globaltest_operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-12-27T15:00:56.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-11T11:31:29.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/globaltest_operator"
-      }
-    ],
-    "tags": [
-      "advanced statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/globaltest_operator"
-    },
-    "version": "0.1.1",
-    "authors": [
-      "Rik de Wijn"
     ],
     "isPublic": true,
     "properties": [],
@@ -4088,143 +3955,6 @@
     "path": ""
   },
   {
-    "kind": "DockerOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "pamsoft_grid_operator",
-    "name": "pamsoft_grid_operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-07-20T08:44:46.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-06-14T09:56:41.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/pamsoft_grid_operator"
-      }
-    ],
-    "tags": [
-      "image analysis"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/pamsoft_grid_operator"
-    },
-    "version": "1.2.1",
-    "authors": [
-      "tercen",
-      "Thiago"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "container": "tercen/pamsoft_grid_operator:1.2.1"
-  },
-  {
-    "kind": "DockerOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "pamsoft_grid_qt_operator",
-    "name": "pamsoft_grid_qt_operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-08-23T11:06:25.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-06-14T10:19:54.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/pamsoft_grid_qt_operator"
-      }
-    ],
-    "tags": [
-      "image analysis"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/pamsoft_grid_qt_operator"
-    },
-    "version": "1.2.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "container": "tercen/pamsoft_grid_qt_operator:1.2.0"
-  },
-  {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Operator used to inspect and adjust gridding.",
-    "name": "Pamsoft Grid Shiny Operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-10-04T06:56:04.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-05-16T17:57:01.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/pamsoft_grid_shiny_operator"
-      }
-    ],
-    "tags": [
-      "pamsoft",
-      "grid"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/pamsoft_grid_shiny_operator"
-    },
-    "version": "1.1.5",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": false
-  },
-  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -4485,51 +4215,6 @@
       "uri": "https://github.com/tercen/proportion_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Convert a zip file of tif images to a Tercen data set.",
-    "name": "PS12 images",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-03-30T14:57:22.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-10-19T16:02:02.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/ps12image_operator"
-      }
-    ],
-    "tags": [
-      "tif",
-      "import"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/ps12image_operator"
-    },
-    "version": "1.0.0",
     "authors": [
       "tercen"
     ],
@@ -5304,53 +4989,6 @@
     "path": ""
   },
   {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Shiny operator for creating a ROC curve and classification metrics",
-    "name": "ROC Shiny Operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-07-13T12:08:42.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-09-02T18:12:09.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/roc_shiny_operator"
-      }
-    ],
-    "tags": [
-      "classification",
-      "ROC",
-      "metrics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/roc_shiny_operator"
-    },
-    "version": "0.1.2",
-    "authors": [
-      "rdw"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": false
-  },
-  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -5938,52 +5576,6 @@
     "properties": [],
     "longDescription": "",
     "path": ""
-  },
-  {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Self organizing map clustering for Tercen",
-    "name": "Som Cluster Shiny Operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2022-08-27T19:23:07.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-09-02T10:46:36.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/template-shiny-operator"
-      }
-    ],
-    "tags": [
-      "SOM",
-      "clustering"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/somcluster_shiny_operator"
-    },
-    "version": "0.0.2",
-    "authors": [
-      "rik de wijn"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": false
   },
   {
     "kind": "ROperator",
