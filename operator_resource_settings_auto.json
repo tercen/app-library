@@ -1693,11 +1693,11 @@
         "uri": "https://github.com/tercen/read_fcs_operator",
         "version": "1.2.4",
         "base_memory": 500000000,
-        "ratio_est": 5.589,
-        "ratio_upper": 5.9541,
-        "r2": 0.9277,
-        "ratio_rounded": 6.1,
-        "ratio": 6.1
+        "ratio_est": 5.5873,
+        "ratio_upper": 5.9463,
+        "r2": 0.9253,
+        "ratio_rounded": 6,
+        "ratio": 6
     },
     {
         "uri": "https://github.com/tercen/read_fcs_operator",
