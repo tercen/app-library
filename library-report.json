@@ -720,7 +720,6 @@
     }
   ],
   "no_release_operators": [
-    "https://github.com/tercen/biplot_shiny_operator",
     "https://github.com/tercen/compare_means_operator",
     "https://github.com/tercen/compensate_cytof_operator",
     "https://github.com/tercen/compensate_fcs_operator",
@@ -729,7 +728,6 @@
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/plot_operator",
-    "https://github.com/tercen/thresholding_operator",
-    "https://github.com/tercen/venn_shiny_operator"
+    "https://github.com/tercen/thresholding_operator"
   ]
 }
