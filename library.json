@@ -1539,7 +1539,7 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Removes data points from a set to make it more manageable. Uses a set method such as integer factor.",
+    "description": "Generate a random sequence to filter down or balance a dataset.",
     "name": "Downsample",
     "createdBy": "",
     "acl": {
@@ -1553,7 +1553,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-05-24T13:22:07.000Z"
+      "value": "2023-06-12T07:02:39.000Z"
     },
     "urls": [
       {
@@ -1563,14 +1563,14 @@
     ],
     "tags": [
       "data wrangling",
-      "sampling"
+      "data preprocessing"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/downsample_operator"
     },
-    "version": "1.3.0",
+    "version": "2.0.0",
     "authors": [
       "tercen"
     ],
