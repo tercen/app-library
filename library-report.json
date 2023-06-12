@@ -39,11 +39,6 @@
       "url": "https://github.com/tercen/DESeq2_operator"
     },
     {
-      "name": "DRC Fit",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/DRC_fit_operator"
-    },
-    {
       "name": "IQR",
       "version": "0.1.1",
       "url": "https://github.com/tercen/IQR_operator"
@@ -72,11 +67,6 @@
       "name": "Add",
       "version": "1.0.0",
       "url": "https://github.com/tercen/add_operator"
-    },
-    {
-      "name": "ANOVA and Dunnett",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/anova_dunnett_operator"
     },
     {
       "name": "ANOVA",
@@ -127,11 +117,6 @@
       "name": "Cell Annotation",
       "version": "0.0.1",
       "url": "https://github.com/tercen/cell_annotation_operator"
-    },
-    {
-      "name": "Check input 1 operator",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/check_input1_operator"
     },
     {
       "name": "Chi-squared test",
@@ -334,11 +319,6 @@
       "url": "https://github.com/tercen/loess_smoothing_operator"
     },
     {
-      "name": "Log Cutoff",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/log_cutoff_operator"
-    },
-    {
       "name": "Log",
       "version": "1.1.3",
       "url": "https://github.com/tercen/log_operator"
@@ -399,11 +379,6 @@
       "url": "https://github.com/tercen/minus_operator"
     },
     {
-      "name": "Model Based Clustering",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/model_based_clustering_operator"
-    },
-    {
       "name": "Multiple Testing",
       "version": "0.1.0",
       "url": "https://github.com/tercen/multiple_testing_operator"
@@ -427,11 +402,6 @@
       "name": "Neighbourhood Analysis",
       "version": "0.1.1",
       "url": "https://github.com/tercen/neighbourhood_operator"
-    },
-    {
-      "name": "Nominal CV Estimate",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/nominal_cv_estimate_operator"
     },
     {
       "name": "Non Linear Regression",
@@ -482,11 +452,6 @@
       "name": "Proportion Analysis",
       "version": "0.1.2",
       "url": "https://github.com/tercen/proportion_operator"
-    },
-    {
-      "name": "PS12 Image Overview Operator",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/ps12image_overview_shiny_operator"
     },
     {
       "name": "Q-Q Plot",
@@ -664,16 +629,6 @@
       "url": "https://github.com/tercen/tukey_hsd_operator"
     },
     {
-      "name": "t-Test - Two Group",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/two_sample_ttest_operator"
-    },
-    {
-      "name": "Upstream Kinase Analysis",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/uka_shiny_operator"
-    },
-    {
       "name": "umap",
       "version": "1.2.1",
       "url": "https://github.com/tercen/umap_operator"
@@ -712,11 +667,6 @@
       "name": "Word Count",
       "version": "1.1.0",
       "url": "https://github.com/tercen/wordcount_operator"
-    },
-    {
-      "name": "Z-score scaling",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/zscore_scaling_operator"
     }
   ],
   "no_release_operators": [
