@@ -94,51 +94,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Performs a Dose Response Curve fitting of the data",
-    "name": "DRC Fit",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-06-22T12:25:34.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-10-07T14:33:45.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/DRC_fit_operator"
-      }
-    ],
-    "tags": [
-      "DRC",
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/DRC_fit_operator"
-    },
-    "version": "0.0.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Interquartile Range: Calculates whether the value of a cell falls within the middle 50% of the distriubution range.",
     "name": "IQR",
     "createdBy": "",
@@ -395,53 +350,6 @@
       "uri": "https://github.com/tercen/add_operator"
     },
     "version": "1.0.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Performs a statistical comparison of one control vs muliptle treatment conditions.",
-    "name": "ANOVA and Dunnett",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-06-25T09:42:49.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-29T08:14:51.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/anova_dunnett_operator"
-      }
-    ],
-    "tags": [
-      "statistical testing",
-      "test",
-      "linear model",
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/anova_dunnett_operator"
-    },
-    "version": "0.0.2",
     "authors": [
       "tercen"
     ],
@@ -897,51 +805,6 @@
       "uri": "https://github.com/tercen/cell_annotation_operator"
     },
     "version": "0.0.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Check input and return valid output",
-    "name": "Check input 1 operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-06-21T08:05:01.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-10-15T13:29:08.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/check_input1_operator"
-      }
-    ],
-    "tags": [
-      "check",
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/check_input1_operator"
-    },
-    "version": "0.0.3",
     "authors": [
       "tercen"
     ],
@@ -2754,51 +2617,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Transforms data using a logarithmic function with an optional cutoff of values.",
-    "name": "Log Cutoff",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-05-10T13:44:20.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-10-07T13:23:16.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/log_cutoff_operator"
-      }
-    ],
-    "tags": [
-      "log",
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/log_cutoff_operator"
-    },
-    "version": "0.0.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Transforms cell by calculating the logarithmic values.",
     "name": "Log",
     "createdBy": "",
@@ -3332,51 +3150,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Model-based clustering based on finite normal mixture modelling",
-    "name": "Model Based Clustering",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-06-25T09:41:43.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-07T15:37:31.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/model_based_clustering_operator"
-      }
-    ],
-    "tags": [
-      "clustering",
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/model_based_clustering_operator"
-    },
-    "version": "0.0.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Corrects for the statistical liklihood of a Type 1 error (False Positive) due to the size of genetic data.",
     "name": "Multiple Testing",
     "createdBy": "",
@@ -3586,51 +3359,6 @@
       "uri": "https://github.com/tercen/neighbourhood_operator"
     },
     "version": "0.1.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Operator that estimates nominal CV's that can be used for setting a peptide cut-off.",
-    "name": "Nominal CV Estimate",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-06-21T08:09:27.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-10-07T18:40:36.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/nominal_cv_estimate_operator"
-      }
-    ],
-    "tags": [
-      "cv",
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/nominal_cv_estimate_operator"
-    },
-    "version": "0.0.1",
     "authors": [
       "tercen"
     ],
@@ -4087,52 +3815,6 @@
     "properties": [],
     "longDescription": "",
     "path": ""
-  },
-  {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Filtering and viewing ps12 images in a shiny app.",
-    "name": "PS12 Image Overview Operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-04-27T12:55:21.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-07-13T12:41:40.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/ps12image_overview_shiny_operator"
-      }
-    ],
-    "tags": [
-      "shiny",
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/ps12image_overview_shiny_operator"
-    },
-    "version": "0.0.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true
   },
   {
     "kind": "ROperator",
@@ -5719,96 +5401,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Determines if there is a significant difference between the means of two groups",
-    "name": "t-Test - Two Group",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-06-02T07:50:18.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-10-07T15:04:53.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/two_sample_ttest_operator"
-      }
-    ],
-    "tags": [
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/two_sample_ttest_operator"
-    },
-    "version": "0.0.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Converts a list of peptides into a list of kinases.",
-    "name": "Upstream Kinase Analysis",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-06-29T06:45:55.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-09-10T11:30:35.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/upstream_kinase_analysis_shiny_operator"
-      }
-    ],
-    "tags": [
-      "kinase",
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/uka_shiny_operator"
-    },
-    "version": "0.0.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": false
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Uniform Manifold Approximation and Projection: Calculates nonlinear dimension reduction on a data set.",
     "name": "umap",
     "createdBy": "",
@@ -6157,50 +5749,6 @@
       "uri": "https://github.com/tercen/wordcount_operator"
     },
     "version": "1.1.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Calculates the z score for all data points. ",
-    "name": "Z-score scaling",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-05-28T10:47:04.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-10-07T13:06:14.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/zscore_scaling_operator"
-      }
-    ],
-    "tags": [
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/zscore_scaling_operator"
-    },
-    "version": "0.0.2",
     "authors": [
       "tercen"
     ],
