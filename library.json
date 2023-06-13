@@ -184,51 +184,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "PTK_QC_presence",
-    "name": "PTK QC",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-06-10T06:56:18.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-10-07T18:22:30.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/PTK_QC_presence_operator"
-      }
-    ],
-    "tags": [
-      "pamgene",
-      "linear model"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/PTK_QC_presence_operator"
-    },
-    "version": "0.0.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Root-Mean-Square Deviation: Calculates the differences between the values predicted by a model and the values observed.",
     "name": "RMSD",
     "createdBy": "",
@@ -267,52 +222,6 @@
     "properties": [],
     "longDescription": "",
     "path": ""
-  },
-  {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Creates a Venn diagram in a shiny application.",
-    "name": "Venn",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-06-11T11:38:44.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-14T12:07:55.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/Venn_diag_shiny_operator"
-      }
-    ],
-    "tags": [
-      "venn",
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/Venn_diag_shiny_operator"
-    },
-    "version": "0.0.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": false
   },
   {
     "kind": "ROperator",
@@ -1441,51 +1350,6 @@
     "properties": [],
     "longDescription": "",
     "path": ""
-  },
-  {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Export a view from Tercen in crosstab file format.",
-    "name": "Export Crosstab Shiny Operator",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-05-10T13:59:24.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-08-12T09:30:41.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/export_crosstab_shiny_operator"
-      }
-    ],
-    "tags": [
-      "shiny"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/export_crosstab_shiny_operator"
-    },
-    "version": "0.0.3",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true
   },
   {
     "kind": "ROperator",
@@ -3866,51 +3730,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Calculates random labels which can be assigned to sample data",
-    "name": "Random Label",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2020-06-19T21:10:08.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-02-24T14:58:05.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/randomlabel_operator"
-      }
-    ],
-    "tags": [
-      "data wrangling",
-      "sampling"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/randomlabel_operator"
-    },
-    "version": "1.0.6",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Ranks the incoming data by row mean.",
     "name": "Rank by Row mean",
     "createdBy": "",
@@ -4209,52 +4028,6 @@
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/read_gmt_operator"
-    },
-    "version": "0.1.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Import a PamGene Cube file.",
-    "name": "Cube",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-08-10T16:53:52.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-11-12T14:00:32.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/read_pgcube_operator"
-      }
-    ],
-    "tags": [
-      "import",
-      "pamgene",
-      "cube"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/read_pgcube_operator"
     },
     "version": "0.1.0",
     "authors": [
@@ -5531,51 +5304,6 @@
     "longDescription": "",
     "path": "",
     "isViewOnly": true
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Variance Stabilisation and Normalisation: Removes the relation between the variance and magnitude of the measurement.",
-    "name": "VSN",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2019-07-03T19:41:28.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-03-01T11:34:20.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/vsn_operator"
-      }
-    ],
-    "tags": [
-      "normalization",
-      "rnaseq"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/vsn_operator"
-    },
-    "version": "0.1.0",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
   },
   {
     "kind": "ShinyOperator",
