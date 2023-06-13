@@ -49,19 +49,9 @@
       "url": "https://github.com/tercen/PCA_shiny_operator"
     },
     {
-      "name": "PTK QC",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/PTK_QC_presence_operator"
-    },
-    {
       "name": "RMSD",
       "version": "0.1.1",
       "url": "https://github.com/tercen/RMSD_operator"
-    },
-    {
-      "name": "Venn",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/Venn_diag_shiny_operator"
     },
     {
       "name": "Add",
@@ -187,11 +177,6 @@
       "name": "Downsample",
       "version": "2.0.0",
       "url": "https://github.com/tercen/downsample_operator"
-    },
-    {
-      "name": "Export Crosstab Shiny Operator",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/export_crosstab_shiny_operator"
     },
     {
       "name": "Fast_Rphenograph",
@@ -459,11 +444,6 @@
       "url": "https://github.com/tercen/qqplot_operator"
     },
     {
-      "name": "Random Label",
-      "version": "1.0.6",
-      "url": "https://github.com/tercen/randomlabel_operator"
-    },
-    {
       "name": "Rank by Row mean",
       "version": "0.1.0",
       "url": "https://github.com/tercen/rank_by_row_mean_operator"
@@ -497,11 +477,6 @@
       "name": "GMT",
       "version": "0.1.0",
       "url": "https://github.com/tercen/read_gmt_operator"
-    },
-    {
-      "name": "Cube",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/read_pgcube_operator"
     },
     {
       "name": "PNG",
@@ -642,11 +617,6 @@
       "name": "Volcano Plot",
       "version": "0.0.3",
       "url": "https://github.com/tercen/volcano_shiny_operator"
-    },
-    {
-      "name": "VSN",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/vsn_operator"
     },
     {
       "name": "VSN",
