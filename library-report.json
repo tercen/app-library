@@ -544,11 +544,6 @@
       "url": "https://github.com/tercen/scale_operator"
     },
     {
-      "name": "Multi-Panel Scatter Plot",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/scatterplot_shiny_operator"
-    },
-    {
       "name": "Standard Deviation",
       "version": "0.9.1",
       "url": "https://github.com/tercen/sd_operator"
@@ -646,6 +641,7 @@
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/flowsom_mst_shiny_operator",
     "https://github.com/tercen/kaplan_meier_operator",
+    "https://github.com/tercen/median_python_operator",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/plot_operator",
     "https://github.com/tercen/thresholding_operator"
