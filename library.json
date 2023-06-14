@@ -4629,51 +4629,6 @@
     "path": ""
   },
   {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Displays data points on an X/Y axis. Creates a new plot for each grouping.",
-    "name": "Multi-Panel Scatter Plot",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-01-08T23:43:59.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-07-26T15:55:55.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/scatterplot_shiny_operator"
-      }
-    ],
-    "tags": [
-      "data visualisation"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/scatterplot_shiny_operator"
-    },
-    "version": "0.0.2",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": true
-  },
-  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
