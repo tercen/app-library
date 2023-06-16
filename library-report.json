@@ -638,6 +638,7 @@
     "https://github.com/tercen/compare_means_operator",
     "https://github.com/tercen/compensate_cytof_operator",
     "https://github.com/tercen/compensate_fcs_operator",
+    "https://github.com/tercen/extract_plateid_well_date_operator",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/flowsom_mst_shiny_operator",
     "https://github.com/tercen/kaplan_meier_operator",
