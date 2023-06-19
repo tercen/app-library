@@ -722,6 +722,51 @@
     "container": "pamgene/pamsoft_grid_operator:latest"
   },
   {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "pamsoft_grid_qt_operator",
+    "name": "pamsoft_grid_qt_operator",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-03-10T11:55:28.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-06-19T17:23:25.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/pamgene/pamsoft_grid_qt_operator"
+      }
+    ],
+    "tags": [
+      "image analysis"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/pamsoft_grid_qt_operator"
+    },
+    "version": "1.3.6",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "pamgene/pamsoft_grid_qt_operator:latest"
+  },
+  {
     "kind": "ShinyOperator",
     "id": "",
     "isDeleted": false,
