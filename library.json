@@ -4133,6 +4133,51 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Import a Seurat object saved as an RData or RDS file.",
+    "name": "Seurat",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-06-20T12:04:27.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-06-20T13:40:26.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/read_seurat_operator"
+      }
+    ],
+    "tags": [
+      "import",
+      "scRNAseq"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/read_seurat_operator"
+    },
+    "version": "0.0.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Import file from Excel 2007-365 (.xlsx, .xlsm).",
     "name": "Excel",
     "createdBy": "",
