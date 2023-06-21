@@ -16,7 +16,7 @@
       "name": "MTvC_app",
       "version": "0.1.0",
       "url": "https://github.com/tercen/MTvC_app",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.column.type, reason: .sids -- bad type expected double found int32})"
+      "error": "ServiceError({statusCode: 500, error: Task.client.unknown, reason: HandshakeException: Connection terminated during handshake})"
     },
     {
       "name": "PTK QC_app",
