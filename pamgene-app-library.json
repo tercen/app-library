@@ -14022,9 +14022,9 @@
   },
   {
     "kind": "Workflow",
-    "id": "c396df425957007ccc1d5a6ff91713cf",
+    "id": "164f4cf9ebe56cb1bc5e859e586dca89",
     "isDeleted": false,
-    "rev": "10-fd931962162f9814aee806d8d25f1e39",
+    "rev": "7-9135d02f15fee25e223dfd0c59939363",
     "description": "Determines if there is a significant difference between the means of two groups.",
     "name": "TTest_app",
     "createdBy": "dschuller",
@@ -14039,7 +14039,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-05-17T11:33:19.000Z"
+      "value": "2023-06-21T12:29:38.000Z"
     },
     "urls": [
       {
@@ -14079,10 +14079,10 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/ttest_app"
     },
-    "version": "0.2.3",
+    "version": "0.3.3",
     "authors": [],
     "isPublic": false,
-    "projectId": "5fdacf2e254f508d0bd669ac039f912e",
+    "projectId": "164f4cf9ebe56cb1bc5e859e5853cc94",
     "folderId": "",
     "links": [
       {
@@ -14141,12 +14141,6 @@
       },
       {
         "kind": "Link",
-        "id": "e35c3416-ab4f-40dc-af85-8007c99f0a11",
-        "inputId": "4ce9ab15-42bd-4813-9baa-84ac651227ac-i-0",
-        "outputId": "886ae15c-a6e3-4a2f-9bf6-12228a1031c4-o-0"
-      },
-      {
-        "kind": "Link",
         "id": "f523c06d-1ff4-4dd7-9abf-b27e429b2dcd",
         "inputId": "4d6be273-e53d-48ee-876a-35975ede03fa-i-0",
         "outputId": "c8f053b4-0abe-440d-88e4-fe66c848c105-o-0"
@@ -14156,6 +14150,12 @@
         "id": "9da9b775-fd03-46db-bb99-de4b432253aa",
         "inputId": "c8f053b4-0abe-440d-88e4-fe66c848c105-i-0",
         "outputId": "4ce9ab15-42bd-4813-9baa-84ac651227ac-o-0"
+      },
+      {
+        "kind": "Link",
+        "id": "dddcca05-e6a7-4bd4-b071-cbf19c5de989",
+        "inputId": "4ce9ab15-42bd-4813-9baa-84ac651227ac-i-0",
+        "outputId": "886ae15c-a6e3-4a2f-9bf6-12228a1031c4-o-0"
       }
     ],
     "steps": [
@@ -14360,8 +14360,8 @@
             "operatorRef": {
               "kind": "OperatorRef",
               "name": "t Test",
-              "version": "1.1.0",
-              "operatorId": "e50efaa75416f1b61950d47b86216abc",
+              "version": "1.1.1",
+              "operatorId": "164f4cf9ebe56cb1bc5e859e586ef0d5",
               "operatorKind": "DockerOperator",
               "propertyValues": [
                 {
@@ -14387,7 +14387,7 @@
                 {
                   "kind": "PropertyValue",
                   "name": "var.equal",
-                  "value": "true"
+                  "value": "false"
                 },
                 {
                   "kind": "PropertyValue",
@@ -14398,6 +14398,11 @@
                   "kind": "PropertyValue",
                   "name": "detailed",
                   "value": "true"
+                },
+                {
+                  "kind": "PropertyValue",
+                  "name": "reference_index",
+                  "value": "2"
                 }
               ],
               "url": {
@@ -14455,7 +14460,7 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "46f77da0-979c-493d-b12c-943ec0bf4818"
+          "id": "9ef5cdcf-746f-41aa-a9c2-e53f9c0c4fe5"
         },
         "parentDataStepId": ""
       },
@@ -14761,7 +14766,7 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "1c74434b-6ec9-4080-b78f-d6cad67cfe89"
+          "id": "f35d831d-4aa3-41b6-8292-bc760fd45c8a"
         },
         "parentDataStepId": ""
       },
@@ -14796,7 +14801,7 @@
           "topLeft": {
             "kind": "Point",
             "x": 493.0568750000002,
-            "y": 308.5
+            "y": 307.5
           }
         },
         "state": {
@@ -15087,7 +15092,7 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "16e80cc2-a6aa-4f7b-aba2-dd2cf02a6275"
+          "id": "9e8c1696-0663-4137-b224-7fea66d97411"
         },
         "parentDataStepId": ""
       },
@@ -15353,7 +15358,7 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "08b8a318-7742-42cb-9102-820c46c776be"
+          "id": "7400eac4-a83c-40f9-9a77-df974267d814"
         },
         "parentDataStepId": ""
       },
@@ -15573,61 +15578,7 @@
               "name": "Measurement",
               "type": "double",
               "isSingle": true,
-              "description": "Select the values to use in the computation.\n\nExample:\n* log transform of S100",
-              "factorName": "Quantitation Type",
-              "factors": [],
-              "isRequired": true
-            },
-            {
-              "kind": "MappingFactor",
-              "name": "Group",
-              "type": "string",
-              "isSingle": true,
-              "description": "Select the comparison groups.\n\nExample:\n* Treatment off chip",
-              "factorName": "Treatment",
-              "factors": [],
-              "isRequired": true
-            },
-            {
-              "kind": "MappingFactor",
-              "name": "Variable",
-              "type": "string",
-              "isSingle": false,
-              "description": "Select the peptide identifier.\n\nExample:\n* ID",
-              "factorName": "Peptide",
-              "factors": [],
-              "isRequired": true
-            },
-            {
-              "kind": "MappingFactor",
-              "name": "Supergroup",
-              "type": "string",
-              "isSingle": false,
-              "description": "Select the major divisions of the comparison groups.\n\nExample:\n* Experiment\n* Cell line\n* Batch\n* Patient",
-              "factorName": "Experiment",
-              "factors": [],
-              "isRequired": false
-            },
-            {
-              "kind": "MappingFactor",
-              "name": "Observation",
-              "type": "string",
-              "isSingle": false,
-              "description": "Select a single set of data for the analysis.\n\nExample:\n* Barcode and Row\n* Barcode and Array",
-              "factorName": "Individual observation",
-              "factors": [],
-              "isRequired": true
-            }
-          ],
-          "filters": [],
-          "steps": [],
-          "defaultFactors": [
-            {
-              "kind": "MappingFactor",
-              "name": "Measurement",
-              "type": "double",
-              "isSingle": true,
-              "description": "Select the values that you wish to use in the computation.\n\nExample:\n* log transform of S100",
+              "description": "Select the factor that defines the values to use in the computation.\n\nExample:\n* log transform of S100\n* log transformed and ComBat Corrected S100\n* VSN transformed S100\n* VSN transformed and ComBat Corrected S100",
               "factorName": "Quantitation Type",
               "factors": [
                 {
@@ -15643,8 +15594,8 @@
               "name": "Group",
               "type": "string",
               "isSingle": true,
-              "description": "Select the comparison groups.\n\nExample:\n* Treatment off chip",
-              "factorName": "Treatment",
+              "description": "Select the factor that defines the comparison groups.\n\nExample:\n* Test Condition\n* Treatment off chip",
+              "factorName": "Test Condition",
               "factors": [
                 {
                   "kind": "Factor",
@@ -15675,8 +15626,8 @@
               "name": "Supergroup",
               "type": "string",
               "isSingle": false,
-              "description": "Select the major divisions of the comparison groups.\n\nExample:\n* Experiment\n* Cell line\n* Batch\n* Patient",
-              "factorName": "Experiment",
+              "description": "Select a factor that identifies the Supergroup. Supergroup(s) define each comparison group for which t-tests should be calculated. Leave blank if there is only one comparison group. \n\nExample:\n* Supergroup\n* Cell line\n* Genotype",
+              "factorName": "Supergroup",
               "factors": [
                 {
                   "kind": "Factor",
@@ -15691,8 +15642,92 @@
               "name": "Observation",
               "type": "string",
               "isSingle": false,
-              "description": "Select a single set of data for the analysis\n\nExample:\n* Barcode and Row\n* Barcode and Array",
-              "factorName": "Invidual observation",
+              "description": "Select the factor(s) defining a single value per cell.\n\nExample:\n* Barcode and Row\n* Barcode and Array\n * Sample Name",
+              "factorName": "Single Data Value per Cell",
+              "factors": [
+                {
+                  "kind": "Factor",
+                  "name": "Observation",
+                  "type": "string"
+                }
+              ],
+              "isRequired": true
+            }
+          ],
+          "filters": [],
+          "steps": [],
+          "defaultFactors": [
+            {
+              "kind": "MappingFactor",
+              "name": "Measurement",
+              "type": "double",
+              "isSingle": true,
+              "description": "Select the factor that defines the values to use in the computation.\n\nExample:\n* log transform of S100\n* log transformed and ComBat Corrected S100\n* VSN transformed S100\n* VSN transformed and ComBat Corrected S100",
+              "factorName": "Quantitation Type",
+              "factors": [
+                {
+                  "kind": "Factor",
+                  "name": "Measurement",
+                  "type": "double"
+                }
+              ],
+              "isRequired": true
+            },
+            {
+              "kind": "MappingFactor",
+              "name": "Group",
+              "type": "string",
+              "isSingle": true,
+              "description": "Select the factor that defines the comparison groups.\n\nExample:\n* Test Condition\n* Treatment off chip",
+              "factorName": "Test Condition",
+              "factors": [
+                {
+                  "kind": "Factor",
+                  "name": "Group",
+                  "type": "string"
+                }
+              ],
+              "isRequired": true
+            },
+            {
+              "kind": "MappingFactor",
+              "name": "Variable",
+              "type": "string",
+              "isSingle": false,
+              "description": "Select the peptide identifier.\n\nExample:\n* ID",
+              "factorName": "Peptide",
+              "factors": [
+                {
+                  "kind": "Factor",
+                  "name": "Variable",
+                  "type": "string"
+                }
+              ],
+              "isRequired": true
+            },
+            {
+              "kind": "MappingFactor",
+              "name": "Supergroup",
+              "type": "string",
+              "isSingle": false,
+              "description": "Select a factor that identifies the Supergroup. Supergroup(s) define each comparison group for which t-tests should be calculated. Leave blank if there is only one comparison group. \n\nExample:\n* Supergroup\n* Cell line\n* Genotype",
+              "factorName": "Supergroup",
+              "factors": [
+                {
+                  "kind": "Factor",
+                  "name": "Supergroup",
+                  "type": "string"
+                }
+              ],
+              "isRequired": false
+            },
+            {
+              "kind": "MappingFactor",
+              "name": "Observation",
+              "type": "string",
+              "isSingle": false,
+              "description": "Select the factor(s) defining a single value per cell.\n\nExample:\n* Barcode and Row\n* Barcode and Array\n * Sample Name",
+              "factorName": "Single Data Value per Cell",
               "factors": [
                 {
                   "kind": "Factor",
@@ -16124,7 +16159,7 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "958b713a-e1ef-47cf-9264-23107fa667a7"
+          "id": "8617f2ec-54b3-4e34-ae76-0504d2bdee38"
         },
         "parentDataStepId": ""
       },
@@ -16451,15 +16486,15 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "792ab3a5-0b66-4272-9e1c-537c8f4d04d0"
+          "id": "c462f973-d739-406b-a3e9-8998b3696b96"
         },
         "parentDataStepId": ""
       }
     ],
     "offset": {
       "kind": "Point",
-      "x": -40.0,
-      "y": 192.0
+      "x": 71.0,
+      "y": 313.0
     }
   },
   {
