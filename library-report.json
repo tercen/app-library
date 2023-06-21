@@ -179,11 +179,6 @@
       "url": "https://github.com/tercen/downsample_operator"
     },
     {
-      "name": "Fast_Rphenograph",
-      "version": "1.1.1",
-      "url": "https://github.com/tercen/fast_rphenograph_operator"
-    },
-    {
       "name": "FI-t-SNE",
       "version": "0.1.4",
       "url": "https://github.com/tercen/fast_tSNE_operator"
@@ -429,6 +424,11 @@
       "url": "https://github.com/tercen/percentile_operator"
     },
     {
+      "name": "PhenoGraph",
+      "version": "2.0.0",
+      "url": "https://github.com/tercen/phenograph_operator"
+    },
+    {
       "name": "Product",
       "version": "0.1.0",
       "url": "https://github.com/tercen/product_operator"
@@ -519,11 +519,6 @@
       "url": "https://github.com/tercen/round_operator"
     },
     {
-      "name": "Rphenograph",
-      "version": "1.4.3",
-      "url": "https://github.com/tercen/rphenograph_operator"
-    },
-    {
       "name": "scRNA-seq QC",
       "version": "0.1.0",
       "url": "https://github.com/tercen/scRNAseq_QC_operator"
@@ -590,7 +585,7 @@
     },
     {
       "name": "t Test",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "url": "https://github.com/tercen/t_test_operator"
     },
     {
