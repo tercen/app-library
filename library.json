@@ -1356,52 +1356,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Calclates the Jaccard coefficient between nearest-neighbor sets and identifys clusters representing phenotypic similarities between cells.",
-    "name": "Fast_Rphenograph",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-12-06T13:29:10.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-12-07T13:33:07.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/rphenograph_operator"
-      }
-    ],
-    "tags": [
-      "clustering",
-      "flow cytometry",
-      "cytof"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/fast_rphenograph_operator"
-    },
-    "version": "1.1.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "FFT-accelerated Interpolation-based t-SNE: an alternative method of t-SNE for constructing a low dimensional embedding of high-dimensional data.",
     "name": "FI-t-SNE",
     "createdBy": "",
@@ -3596,6 +3550,51 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "A graph-based method for flow cytometry data clustering.",
+    "name": "PhenoGraph",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2018-10-11T21:36:17.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-06-21T11:10:23.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/phenograph_operator"
+      }
+    ],
+    "tags": [
+      "clustering",
+      "flow cytometry"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/phenograph_operator"
+    },
+    "version": "2.0.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Calculates the product (i.e. multiplication) of all datapoints in a cell",
     "name": "Product",
     "createdBy": "",
@@ -4404,52 +4403,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Calclates the Jaccard coefficient between nearest-neighbor sets and identifys clusters representing phenotypic similarities between cells.",
-    "name": "Rphenograph",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2018-10-11T21:36:17.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-12-08T15:53:57.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/rphenograph_operator"
-      }
-    ],
-    "tags": [
-      "clustering",
-      "flow cytometry",
-      "cytof"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/rphenograph_operator"
-    },
-    "version": "1.4.3",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Return QC metrics for single-cell RNA-seq data",
     "name": "scRNA-seq QC",
     "createdBy": "",
@@ -5050,7 +5003,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-04-03T14:20:37.000Z"
+      "value": "2023-06-21T09:30:26.000Z"
     },
     "urls": [
       {
@@ -5066,7 +5019,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/t_test_operator"
     },
-    "version": "1.1.0",
+    "version": "1.1.1",
     "authors": [
       "tercen"
     ],
