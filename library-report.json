@@ -594,8 +594,8 @@
       "url": "https://github.com/tercen/tukey_hsd_operator"
     },
     {
-      "name": "umap",
-      "version": "1.2.1",
+      "name": "UMAP",
+      "version": "1.2.3",
       "url": "https://github.com/tercen/umap_operator"
     },
     {
