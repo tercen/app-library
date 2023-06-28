@@ -5083,8 +5083,8 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Uniform Manifold Approximation and Projection: Calculates nonlinear dimension reduction on a data set.",
-    "name": "umap",
+    "description": "Uniform Manifold Approximation and Projection, a dimensionality reduction method.",
+    "name": "UMAP",
     "createdBy": "",
     "acl": {
       "kind": "Acl",
@@ -5097,7 +5097,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-06-24T10:08:31.000Z"
+      "value": "2023-06-28T13:12:24.000Z"
     },
     "urls": [
       {
@@ -5106,16 +5106,17 @@
       }
     ],
     "tags": [
+      "dimensionality reduction",
       "flow cytometry",
-      "rnaseq",
-      "dimensionality reduction"
+      "omics",
+      "scRNAseq"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/umap_operator"
     },
-    "version": "1.2.1",
+    "version": "1.2.3",
     "authors": [
       "tercen"
     ],
