@@ -16519,7 +16519,7 @@
       },
       "lastModifiedDate": {
         "kind": "Date",
-        "value": "2023-05-17T11:33:02.000Z"
+        "value": "2023-06-30T12:45:17.000Z"
       },
       "urls": [
         {
@@ -16559,7 +16559,7 @@
         "kind": "Url",
         "uri": "https://github.com/pamgene/ttest_paired_app"
       },
-      "version": "0.1.1",
+      "version": "0.1.2",
       "authors": [],
       "isPublic": false,
       "projectId": "5fdacf2e254f508d0bd669ac039f912e",
@@ -16846,7 +16846,7 @@
               "operatorRef": {
                 "kind": "OperatorRef",
                 "name": "t Test",
-                "version": "1.1.0",
+                "version": "1.1.1",
                 "operatorId": "e50efaa75416f1b61950d47b86216abc",
                 "operatorKind": "DockerOperator",
                 "propertyValues": [
@@ -16884,6 +16884,11 @@
                     "kind": "PropertyValue",
                     "name": "detailed",
                     "value": "true"
+                  },
+                  {
+                    "kind": "PropertyValue",
+                    "name": "reference_index",
+                    "value": "2"
                   }
                 ],
                 "url": {
