@@ -683,9 +683,9 @@
         "uri": "https://github.com/tercen/compare_means_operator",
         "version": "0.1.1",
         "base_memory": 1000000000,
-        "ratio_est": 1.254,
-        "ratio_upper": 3.0914,
-        "r2": 0.0128,
+        "ratio_est": 1.2535,
+        "ratio_upper": 3.0888,
+        "r2": 0.0127,
         "ratio_rounded": 3.2,
         "ratio": 5
     },
@@ -1174,8 +1174,8 @@
         "version": "0.1.0",
         "base_memory": 500000000,
         "ratio_est": 0.3476,
-        "ratio_upper": 0.3777,
-        "r2": 0.657,
+        "ratio_upper": 0.3776,
+        "r2": 0.6547,
         "ratio_rounded": 0.5,
         "ratio": 5
     },
@@ -1315,7 +1315,7 @@
         "base_memory": 500000000,
         "ratio_est": 1.2767,
         "ratio_upper": 1.3538,
-        "r2": 0.8466,
+        "r2": 0.8457,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -1335,7 +1335,7 @@
         "base_memory": 500000000,
         "ratio_est": 0.3416,
         "ratio_upper": 0.492,
-        "r2": 0.2151,
+        "r2": 0.2119,
         "ratio_rounded": 0.6,
         "ratio": 5
     },
@@ -1403,10 +1403,10 @@
         "uri": "https://github.com/tercen/negative_operator",
         "version": "1.0.0",
         "base_memory": 500000000,
-        "ratio_est": -3054.7876,
-        "ratio_upper": -2613.551,
-        "r2": 0.7492,
-        "ratio_rounded": -2613.5,
+        "ratio_est": -3063.6007,
+        "ratio_upper": -2623.8906,
+        "r2": 0.7495,
+        "ratio_rounded": -2623.8,
         "ratio": 5
     },
     {
@@ -1663,10 +1663,10 @@
         "uri": "https://github.com/tercen/plot_operator",
         "version": "0.0.3",
         "base_memory": 500000000,
-        "ratio_est": -55197.4408,
-        "ratio_upper": -21713.8494,
-        "r2": 0.7402,
-        "ratio_rounded": -21713.7,
+        "ratio_est": -22.831,
+        "ratio_upper": 58.1006,
+        "r2": 0.0321,
+        "ratio_rounded": 58.2,
         "ratio": 5
     },
     {
@@ -1753,10 +1753,10 @@
         "uri": "https://github.com/tercen/rank_by_row_mean_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -3350.0969,
-        "ratio_upper": -2831.2421,
-        "r2": 0.6666,
-        "ratio_rounded": -2831.1,
+        "ratio_est": -3359.3857,
+        "ratio_upper": -2842.4852,
+        "r2": 0.6676,
+        "ratio_rounded": -2842.4,
         "ratio": 5
     },
     {
@@ -2103,10 +2103,10 @@
         "uri": "https://github.com/tercen/scale_operator",
         "version": "0.12.0",
         "base_memory": 500000000,
-        "ratio_est": -13.4687,
-        "ratio_upper": 1.0505,
-        "r2": 0.0493,
-        "ratio_rounded": 1.2,
+        "ratio_est": -13.4748,
+        "ratio_upper": 1.0375,
+        "r2": 0.0489,
+        "ratio_rounded": 1.1,
         "ratio": 5
     },
     {
