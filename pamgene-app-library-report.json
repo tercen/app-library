@@ -11985,11 +11985,11 @@
     },
     {
       "kind": "Workflow",
-      "id": "c396df425957007ccc1d5a6ff9275680",
+      "id": "4ed59474ec51b1ccb6d7e1b443a5633c",
       "isDeleted": false,
-      "rev": "4-809d147a589d12535e99718e92bb46b3",
+      "rev": "14-d533a6b021f64c7568255eec3a4bd808",
       "description": "Calulates the ratio (fold change) between a control and treatment condition.",
-      "name": "Fold Change_app",
+      "name": "foldchange_app",
       "createdBy": "dschuller",
       "acl": {
         "kind": "Acl",
@@ -12002,12 +12002,12 @@
       },
       "lastModifiedDate": {
         "kind": "Date",
-        "value": "2023-05-17T11:35:02.000Z"
+        "value": "2023-07-11T15:58:30.000Z"
       },
       "urls": [
         {
           "kind": "Url",
-          "uri": "https://github.com/tercen/foldchange_app"
+          "uri": "https://github.com/pamgene/foldchange_app"
         }
       ],
       "tags": [],
@@ -12042,10 +12042,10 @@
         "kind": "Url",
         "uri": "https://github.com/pamgene/foldchange_app"
       },
-      "version": "0.2.0",
+      "version": "0.3.0",
       "authors": [],
       "isPublic": false,
-      "projectId": "5fdacf2e254f508d0bd669ac039f912e",
+      "projectId": "4ed59474ec51b1ccb6d7e1b443a03ed9",
       "folderId": "",
       "links": [
         {
@@ -12065,12 +12065,6 @@
           "id": "825dffdf-8af7-4e7f-be8f-d8bbccdcf240",
           "inputId": "c9dab302-252b-43da-87c5-01a26821511b-i-0",
           "outputId": "a5c00b42-ba00-499d-a6fd-2ef068ae2dda-o-0"
-        },
-        {
-          "kind": "Link",
-          "id": "8f7cb289-615a-45d0-81aa-0843e911a334",
-          "inputId": "43d6f522-32c3-4aaf-9c3e-a66882714025-i-0",
-          "outputId": "6aa6d2e6-ef59-4c11-bae5-5ca61b7b4043-o-0"
         },
         {
           "kind": "Link",
@@ -12095,6 +12089,12 @@
           "id": "a3a16c64-dae1-4440-89a7-f9b2cda05df4",
           "inputId": "3757ddf2-111e-4869-ad6b-4c1fe29e658e-i-0",
           "outputId": "43d6f522-32c3-4aaf-9c3e-a66882714025-o-0"
+        },
+        {
+          "kind": "Link",
+          "id": "ac5a47f0-1f2e-4e77-9115-cfebe97182f4",
+          "inputId": "43d6f522-32c3-4aaf-9c3e-a66882714025-i-0",
+          "outputId": "6aa6d2e6-ef59-4c11-bae5-5ca61b7b4043-o-0"
         }
       ],
       "steps": [
@@ -12348,7 +12348,7 @@
                 }
               ],
               "rectangleSelections": [],
-              "nRows": 1
+              "nRows": 0
             },
             "filters": {
               "kind": "Filters",
@@ -12380,8 +12380,8 @@
               "operatorRef": {
                 "kind": "OperatorRef",
                 "name": "Identity",
-                "version": "0.1.0",
-                "operatorId": "5fdacf2e254f508d0bd669ac03ef799a",
+                "version": "0.0.1",
+                "operatorId": "5fdacf2e254f508d0bd669ac03a10031",
                 "operatorKind": "ROperator",
                 "propertyValues": [],
                 "url": {
@@ -12422,13 +12422,13 @@
                 }
               ],
               "rectangleSelections": [],
-              "nRows": 1
+              "nRows": 0
             },
             "taskId": ""
           },
           "computedRelation": {
             "kind": "Relation",
-            "id": "aee7a6f5-efa9-417d-b0a7-e0fd6332c4f3"
+            "id": "08de598c-677e-4866-8ff0-ebab895215ca"
           },
           "parentDataStepId": ""
         },
@@ -12761,7 +12761,7 @@
                 }
               ],
               "rectangleSelections": [],
-              "nRows": 1
+              "nRows": 16
             },
             "filters": {
               "kind": "Filters",
@@ -12774,13 +12774,13 @@
               "operatorRef": {
                 "kind": "OperatorRef",
                 "name": "Minus",
-                "version": "0.2.0",
-                "operatorId": "c396df425957007ccc1d5a6ff924f164",
+                "version": "0.1.2",
+                "operatorId": "c396df425957007ccc1d5a6ff9249eb9",
                 "operatorKind": "ROperator",
                 "propertyValues": [],
                 "url": {
                   "kind": "Url",
-                  "uri": "https://github.com/pamgene/minus_operator"
+                  "uri": "https://github.com/tercen/minus_operator"
                 }
               },
               "environment": [],
@@ -12816,13 +12816,13 @@
                 }
               ],
               "rectangleSelections": [],
-              "nRows": 1
+              "nRows": 100
             },
             "taskId": ""
           },
           "computedRelation": {
             "kind": "Relation",
-            "id": "dcf59cc7-4c41-46e6-adee-3ee732f55592"
+            "id": "19531ce9-b9c7-40bf-80e4-9f40c777ef0d"
           },
           "parentDataStepId": ""
         },
@@ -12856,7 +12856,7 @@
             },
             "topLeft": {
               "kind": "Point",
-              "x": 643.8802343750003,
+              "x": 642.8802343750003,
               "y": 368.5
             }
           },
@@ -13029,7 +13029,7 @@
                 }
               ],
               "rectangleSelections": [],
-              "nRows": 1
+              "nRows": 4
             },
             "filters": {
               "kind": "Filters",
@@ -13042,8 +13042,8 @@
               "operatorRef": {
                 "kind": "OperatorRef",
                 "name": "Mean",
-                "version": "1.2.0",
-                "operatorId": "5fdacf2e254f508d0bd669ac03f1f44a",
+                "version": "1.0.0",
+                "operatorId": "5fdacf2e254f508d0bd669ac03a02f30",
                 "operatorKind": "ROperator",
                 "propertyValues": [],
                 "url": {
@@ -13084,13 +13084,13 @@
                 }
               ],
               "rectangleSelections": [],
-              "nRows": 1
+              "nRows": 100
             },
             "taskId": ""
           },
           "computedRelation": {
             "kind": "Relation",
-            "id": "1ec68035-7c16-4c79-9967-fb603efb296d"
+            "id": "1ef75237-76cf-4080-8863-582f47e9a9e8"
           },
           "parentDataStepId": ""
         },
@@ -13146,8 +13146,8 @@
                 "name": "Measurement",
                 "type": "double",
                 "isSingle": true,
-                "description": "",
-                "factorName": "Measurement",
+                "description": "Select the factor that defines the values to use in the computation.\n\nExample:\n* log transform of S100\n* log transformed and ComBat Corrected S100\n* VSN transformed S100\n* VSN transformed and ComBat Corrected S100",
+                "factorName": "Quantitation Type",
                 "factors": [
                   {
                     "kind": "Factor",
@@ -13162,8 +13162,8 @@
                 "name": "Variable",
                 "type": "string",
                 "isSingle": false,
-                "description": "",
-                "factorName": "Variable",
+                "description": "Select the peptide identifier.\n\nExample:\n* ID",
+                "factorName": "Peptide",
                 "factors": [
                   {
                     "kind": "Factor",
@@ -13178,8 +13178,8 @@
                 "name": "Supergroup",
                 "type": "string",
                 "isSingle": false,
-                "description": "",
-                "factorName": "Supergroup",
+                "description": "Select factor(s) that identify separate pairing within which the fold change should be calculated. \n\nExample:\n* Barcode\n* Cell line\n* Replicate\n* Supergroup",
+                "factorName": "Pairing Factor",
                 "factors": [
                   {
                     "kind": "Factor",
@@ -13194,8 +13194,8 @@
                 "name": "Group",
                 "type": "string",
                 "isSingle": false,
-                "description": "",
-                "factorName": "Group",
+                "description": "Select the factor that defines the comparison groups.\n\nExample:\n* Test Condition\n* Treatment off chip",
+                "factorName": "Test Condition",
                 "factors": [
                   {
                     "kind": "Factor",
@@ -13210,8 +13210,8 @@
                 "name": "Pair",
                 "type": "string",
                 "isSingle": false,
-                "description": "",
-                "factorName": "Pair",
+                "description": "Leave blank",
+                "factorName": "Skip step",
                 "factors": [
                   {
                     "kind": "Factor",
@@ -13226,7 +13226,7 @@
               {
                 "kind": "MappingFilter",
                 "name": "Group",
-                "description": "",
+                "description": "Select the factor which defines the control.\n\nExample:\n* C-(DMSO, WT, Control)",
                 "namedFilter": {
                   "kind": "NamedFilter",
                   "logical": "and",
@@ -13243,7 +13243,7 @@
                       }
                     }
                   ],
-                  "name": "Group"
+                  "name": "Control"
                 },
                 "isRequired": false
               }
@@ -13255,8 +13255,8 @@
                 "name": "Measurement",
                 "type": "double",
                 "isSingle": true,
-                "description": "",
-                "factorName": "Measurement",
+                "description": "Select the factor that defines the values to use in the computation.\n\nExample:\n* log transform of S100\n* log transformed and ComBat Corrected S100\n* VSN transformed S100\n* VSN transformed and ComBat Corrected S100",
+                "factorName": "Quantitation Type",
                 "factors": [
                   {
                     "kind": "Factor",
@@ -13271,8 +13271,8 @@
                 "name": "Variable",
                 "type": "string",
                 "isSingle": false,
-                "description": "",
-                "factorName": "Variable",
+                "description": "Select the peptide identifier.\n\nExample:\n* ID",
+                "factorName": "Peptide",
                 "factors": [
                   {
                     "kind": "Factor",
@@ -13287,12 +13287,28 @@
                 "name": "Supergroup",
                 "type": "string",
                 "isSingle": false,
-                "description": "",
-                "factorName": "Supergroup",
+                "description": "Select factor(s) that identify separate pairing within which the fold change should be calculated. \n\nExample:\n* Barcode\n* Cell line\n* Replicate\n* Supergroup",
+                "factorName": "Pairing Factor",
                 "factors": [
                   {
                     "kind": "Factor",
                     "name": "Supergroup",
+                    "type": "string"
+                  }
+                ],
+                "isRequired": false
+              },
+              {
+                "kind": "MappingFactor",
+                "name": "Group",
+                "type": "string",
+                "isSingle": false,
+                "description": "Select the factor that defines the comparison groups.\n\nExample:\n* Test Condition\n* Treatment off chip",
+                "factorName": "Test Condition",
+                "factors": [
+                  {
+                    "kind": "Factor",
+                    "name": "Group",
                     "type": "string"
                   }
                 ],
@@ -13303,8 +13319,8 @@
                 "name": "Pair",
                 "type": "string",
                 "isSingle": false,
-                "description": "",
-                "factorName": "Pair",
+                "description": "Leave blank",
+                "factorName": "Skip step",
                 "factors": [
                   {
                     "kind": "Factor",
@@ -13312,30 +13328,14 @@
                     "type": "string"
                   }
                 ],
-                "isRequired": true
-              },
-              {
-                "kind": "MappingFactor",
-                "name": "Group",
-                "type": "string",
-                "isSingle": false,
-                "description": "",
-                "factorName": "Group",
-                "factors": [
-                  {
-                    "kind": "Factor",
-                    "name": "Group",
-                    "type": "string"
-                  }
-                ],
-                "isRequired": true
+                "isRequired": false
               }
             ],
             "defaultFilters": [
               {
                 "kind": "MappingFilter",
                 "name": "Group",
-                "description": "",
+                "description": "Select the factor which defines the control.\n\nExample:\n* C-(DMSO, WT, Control)",
                 "namedFilter": {
                   "kind": "NamedFilter",
                   "logical": "and",
@@ -13352,7 +13352,7 @@
                       }
                     }
                   ],
-                  "name": "Group"
+                  "name": "Control"
                 },
                 "isRequired": false
               }
@@ -13688,7 +13688,7 @@
           },
           "computedRelation": {
             "kind": "Relation",
-            "id": "a023f3e4-85bc-45de-b401-15d357336c19"
+            "id": "9de33191-c587-4a93-a51d-30a31c33ef3b"
           },
           "parentDataStepId": ""
         },
@@ -13757,8 +13757,8 @@
             },
             "topLeft": {
               "kind": "Point",
-              "x": 637.2478692626955,
-              "y": 114.5
+              "x": 641.2478692626955,
+              "y": 108.5
             }
           },
           "state": {
@@ -13951,7 +13951,7 @@
                 }
               ],
               "rectangleSelections": [],
-              "nRows": 1
+              "nRows": 16
             },
             "filters": {
               "kind": "Filters",
@@ -14006,21 +14006,21 @@
                 }
               ],
               "rectangleSelections": [],
-              "nRows": 1
+              "nRows": 100
             },
             "taskId": ""
           },
           "computedRelation": {
             "kind": "Relation",
-            "id": "e7e5e5d2-3be3-4084-b709-003d14ae5355"
+            "id": "e5fc594f-9f22-49aa-80eb-1ba9dd8eb1ca"
           },
           "parentDataStepId": ""
         }
       ],
       "offset": {
         "kind": "Point",
-        "x": -41.0,
-        "y": -97.0
+        "x": 125.0,
+        "y": 49.0
       }
     },
     {
