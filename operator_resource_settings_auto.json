@@ -273,10 +273,10 @@
         "uri": "https://github.com/pamgene/ps12image_operator",
         "version": "1.2.2",
         "base_memory": 500000000,
-        "ratio_est": 0.4024,
-        "ratio_upper": 0.9717,
-        "r2": 0.0401,
-        "ratio_rounded": 1.1,
+        "ratio_est": 0.3387,
+        "ratio_upper": 0.8966,
+        "r2": 0.029,
+        "ratio_rounded": 1,
         "ratio": 5
     },
     {
@@ -893,10 +893,10 @@
         "uri": "https://github.com/tercen/extract_plateid_well_date_operator",
         "version": "630fbee8e6e46c3293e26e6ec22aff9249deba3b",
         "base_memory": 500000000,
-        "ratio_est": -906.8211,
-        "ratio_upper": -754.4098,
-        "r2": 0.9738,
-        "ratio_rounded": -754.3,
+        "ratio_est": -884.3896,
+        "ratio_upper": -737.2885,
+        "r2": 0.9697,
+        "ratio_rounded": -737.2,
         "ratio": 5
     },
     {
@@ -1843,9 +1843,9 @@
         "uri": "https://github.com/tercen/read_csv_operator",
         "version": "0.2.0",
         "base_memory": 500000000,
-        "ratio_est": 5.1805,
-        "ratio_upper": 6.3357,
-        "r2": 0.6609,
+        "ratio_est": 5.1794,
+        "ratio_upper": 6.3184,
+        "r2": 0.6592,
         "ratio_rounded": 6.4,
         "ratio": 5
     },
@@ -2353,9 +2353,9 @@
         "uri": "https://github.com/tercen/tsne_operator",
         "version": "1.1.0",
         "base_memory": 500000000,
-        "ratio_est": 6.409,
-        "ratio_upper": 7.3655,
-        "r2": 0.8938,
+        "ratio_est": 6.4057,
+        "ratio_upper": 7.3541,
+        "r2": 0.892,
         "ratio_rounded": 7.5,
         "ratio": 7.5
     },
@@ -2463,10 +2463,10 @@
         "uri": "https://github.com/tercen/zscore_scaling_operator",
         "version": "0.0.2",
         "base_memory": 500000000,
-        "ratio_est": -12.2919,
-        "ratio_upper": -4.3531,
-        "r2": 0.0948,
-        "ratio_rounded": -4.3,
+        "ratio_est": -12.2483,
+        "ratio_upper": -4.6179,
+        "r2": 0.1005,
+        "ratio_rounded": -4.5,
         "ratio": 5
     }
 ]
