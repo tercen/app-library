@@ -968,7 +968,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-06-01T12:10:22.000Z"
+      "value": "2023-07-14T07:40:56.000Z"
     },
     "urls": [
       {
@@ -985,7 +985,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/ps12image_overview_shiny_operator"
     },
-    "version": "0.1.0",
+    "version": "0.2.0",
     "authors": [
       "tercen"
     ],
