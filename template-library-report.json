@@ -25,6 +25,12 @@
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})"
     },
     {
+      "name": "Dose response curves",
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/iteos_dose_response_curves_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/plot_operator})"
+    },
+    {
       "name": "Multiplex immunoassay template workflow",
       "version": "0.1.0",
       "url": "https://github.com/tercen/iteos_multiplex_immunoassay_template",
