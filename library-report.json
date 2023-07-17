@@ -25,6 +25,12 @@
       "version": "0.2.0",
       "url": "https://github.com/tercen/phate_operator",
       "error": "notest"
+    },
+    {
+      "name": "Plot",
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/plot_operator",
+      "error": "notest"
     }
   ],
   "success_operators": [
@@ -639,7 +645,6 @@
     "https://github.com/tercen/median_python_operator",
     "https://github.com/tercen/my_operator",
     "https://github.com/tercen/normalise_cytof_operator",
-    "https://github.com/tercen/plot_operator",
     "https://github.com/tercen/thresholding_operator"
   ]
 }
