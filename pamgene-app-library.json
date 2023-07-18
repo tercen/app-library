@@ -9317,13 +9317,13 @@
     "kind": "Workflow",
     "id": "0e19b61311c69fe34f479b830b10a5b0",
     "isDeleted": false,
-    "rev": "26-1f502af49d93d832f58c011049b7bd0c",
+    "rev": "42-5eb337f26f13995be2c40febcdad6c6c",
     "description": "",
     "name": "simple_heatmap_app",
     "createdBy": "dschuller",
     "acl": {
       "kind": "Acl",
-      "owner": "Test_NewTemplates",
+      "owner": "dschuller",
       "aces": []
     },
     "createdDate": {
@@ -9332,7 +9332,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-05-17T11:32:20.000Z"
+      "value": "2023-07-18T12:30:51.000Z"
     },
     "urls": [],
     "tags": [],
@@ -9341,7 +9341,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/SimpleHeatmap_app"
     },
-    "version": "0.0.4",
+    "version": "0.0.6",
     "authors": [],
     "isPublic": false,
     "projectId": "0e19b61311c69fe34f479b830b0b1895",
@@ -9385,12 +9385,6 @@
       },
       {
         "kind": "Link",
-        "id": "49720d6e-1d0c-4060-b902-5cb70399b55f",
-        "inputId": "efafef7c-9610-4ed3-9876-11a8a97b1b35-i-0",
-        "outputId": "371a82ba-57b2-4bd6-bce6-e839374548d1-o-0"
-      },
-      {
-        "kind": "Link",
         "id": "31b0b44a-352b-432d-9d4f-f504fc7d5d74",
         "inputId": "d2762f0e-c945-4b4b-bd33-c7388e3efc09-i-0",
         "outputId": "4be93d15-f509-4706-9de9-f65e154d2152-o-0"
@@ -9403,9 +9397,15 @@
       },
       {
         "kind": "Link",
-        "id": "95bd2c0f-a896-4f73-9502-8e8dcd212fd8",
+        "id": "3f4a5064-e471-45f2-ae7c-33a0c143b25d",
         "inputId": "7f47b2e8-92da-4d66-bd83-a041f7372207-i-0",
-        "outputId": "efafef7c-9610-4ed3-9876-11a8a97b1b35-o-0"
+        "outputId": "59fb5bce-1706-4652-8a57-1e1cd8dceb75-o-0"
+      },
+      {
+        "kind": "Link",
+        "id": "68a9c1b6-a7c9-4647-adae-5a2aebb47a53",
+        "inputId": "59fb5bce-1706-4652-8a57-1e1cd8dceb75-i-0",
+        "outputId": "371a82ba-57b2-4bd6-bce6-e839374548d1-o-0"
       }
     ],
     "steps": [
@@ -9652,7 +9652,7 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "066af2e3-a127-45c2-ad4a-4988ec00b6c9"
+          "id": "876e9460-98f7-49ff-9d51-43de94fb488a"
         },
         "parentDataStepId": ""
       },
@@ -9899,7 +9899,7 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "e0a0562c-a75c-4350-a8b0-a024685e0ead"
+          "id": "3f242ecb-2e42-456d-9dc0-f0ac43e2c91b"
         },
         "parentDataStepId": ""
       },
@@ -10098,7 +10098,7 @@
               }
             ],
             "rectangleSelections": [],
-            "nRows": 1
+            "nRows": 10
           },
           "filters": {
             "kind": "Filters",
@@ -10127,7 +10127,7 @@
           },
           "rowTable": {
             "kind": "CrosstabTable",
-            "cellSize": 16.954545454545453,
+            "cellSize": 36.95454545454545,
             "offset": 0,
             "graphicalFactors": [
               {
@@ -10141,7 +10141,7 @@
                   "kind": "Rectangle",
                   "extent": {
                     "kind": "Point",
-                    "x": 0.0,
+                    "x": 96.0,
                     "y": 30.0
                   },
                   "topLeft": {
@@ -10174,13 +10174,13 @@
               }
             ],
             "rectangleSelections": [],
-            "nRows": 1
+            "nRows": 10
           },
           "taskId": ""
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "14f9006c-bcfa-4a21-894b-e3706e944d4b"
+          "id": "312bca29-89d6-4c65-a0ae-22c4a3f9bb79"
         },
         "parentDataStepId": ""
       },
@@ -10494,7 +10494,7 @@
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "6796ce29-1ebc-47cf-893a-1e1939c50a44"
+          "id": "164c3f5b-c286-43ca-888d-e9968ba09208"
         },
         "parentDataStepId": ""
       },
@@ -10698,7 +10698,7 @@
               }
             ],
             "rectangleSelections": [],
-            "nRows": 10
+            "nRows": 1
           },
           "filters": {
             "kind": "Filters",
@@ -10741,7 +10741,7 @@
                   "kind": "Rectangle",
                   "extent": {
                     "kind": "Point",
-                    "x": 0.0,
+                    "x": 63.0,
                     "y": 30.0
                   },
                   "topLeft": {
@@ -10774,13 +10774,13 @@
               }
             ],
             "rectangleSelections": [],
-            "nRows": 10
+            "nRows": 1
           },
           "taskId": ""
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "75a0c3d0-6552-478f-ab23-40ca7cf8036a"
+          "id": "c882fbac-be72-45d4-87d4-2e31707cc9b1"
         },
         "parentDataStepId": ""
       },
@@ -10817,157 +10817,6 @@
           "taskState": {
             "kind": "InitState"
           }
-        }
-      },
-      {
-        "kind": "WizardStep",
-        "id": "efafef7c-9610-4ed3-9876-11a8a97b1b35",
-        "groupId": "",
-        "name": "Wizard",
-        "inputs": [
-          {
-            "kind": "InputPort",
-            "id": "efafef7c-9610-4ed3-9876-11a8a97b1b35-i-0",
-            "linkType": "relation",
-            "name": "table"
-          }
-        ],
-        "outputs": [
-          {
-            "kind": "OutputPort",
-            "id": "efafef7c-9610-4ed3-9876-11a8a97b1b35-o-0",
-            "linkType": "relation",
-            "name": "table"
-          }
-        ],
-        "rectangle": {
-          "kind": "Rectangle",
-          "extent": {
-            "kind": "Point",
-            "x": 88.99000000000001,
-            "y": 55.0
-          },
-          "topLeft": {
-            "kind": "Point",
-            "x": 701.254941711426,
-            "y": -0.5
-          }
-        },
-        "state": {
-          "kind": "StepState",
-          "taskId": "",
-          "taskState": {
-            "kind": "InitState"
-          }
-        },
-        "model": {
-          "kind": "WizardStepModel",
-          "namespace": "Heatmap",
-          "description": "Generates heatmaps ranked by row mean",
-          "appDesignType": "Heatmap.c03_simple",
-          "factors": [
-            {
-              "kind": "MappingFactor",
-              "name": "Measurement",
-              "type": "double",
-              "isSingle": true,
-              "description": "Select the factor that defines the values to use in the computation.",
-              "factorName": "Quantitation Type",
-              "factors": [
-                {
-                  "kind": "Factor",
-                  "name": "Measurement",
-                  "type": "double"
-                }
-              ],
-              "isRequired": true
-            },
-            {
-              "kind": "MappingFactor",
-              "name": "Variable",
-              "type": "string",
-              "isSingle": false,
-              "description": "Select the peptide identifier.",
-              "factorName": "Peptide",
-              "factors": [
-                {
-                  "kind": "Factor",
-                  "name": "Variable",
-                  "type": "string"
-                }
-              ],
-              "isRequired": true
-            },
-            {
-              "kind": "MappingFactor",
-              "name": "Observation",
-              "type": "string",
-              "isSingle": false,
-              "description": "Select the factor(s) defining a single value per cell.\n\nExample:\n* Barcode and Row\n* Barcode and Array\n * Sample Name",
-              "factorName": "Single Data Value per Cell",
-              "factors": [
-                {
-                  "kind": "Factor",
-                  "name": "Observation",
-                  "type": "string"
-                }
-              ],
-              "isRequired": true
-            }
-          ],
-          "filters": [],
-          "steps": [],
-          "defaultFactors": [
-            {
-              "kind": "MappingFactor",
-              "name": "Measurement",
-              "type": "double",
-              "isSingle": true,
-              "description": "Select the factor that defines the values to use in the computation.",
-              "factorName": "Quantitation Type",
-              "factors": [
-                {
-                  "kind": "Factor",
-                  "name": "Measurement",
-                  "type": "double"
-                }
-              ],
-              "isRequired": true
-            },
-            {
-              "kind": "MappingFactor",
-              "name": "Variable",
-              "type": "string",
-              "isSingle": false,
-              "description": "Select the peptide identifier.",
-              "factorName": "Peptide",
-              "factors": [
-                {
-                  "kind": "Factor",
-                  "name": "Variable",
-                  "type": "string"
-                }
-              ],
-              "isRequired": true
-            },
-            {
-              "kind": "MappingFactor",
-              "name": "Observation",
-              "type": "string",
-              "isSingle": false,
-              "description": "Select the factor(s) defining a single value per cell.\n\nExample:\n* Barcode and Row\n* Barcode and Array\n * Sample Name",
-              "factorName": "Single Data Value per Cell",
-              "factors": [
-                {
-                  "kind": "Factor",
-                  "name": "Observation",
-                  "type": "string"
-                }
-              ],
-              "isRequired": true
-            }
-          ],
-          "defaultFilters": []
         }
       },
       {
@@ -11217,7 +11066,7 @@
               }
             ],
             "rectangleSelections": [],
-            "nRows": 10
+            "nRows": 1
           },
           "filters": {
             "kind": "Filters",
@@ -11260,7 +11109,7 @@
                   "kind": "Rectangle",
                   "extent": {
                     "kind": "Point",
-                    "x": 0.0,
+                    "x": 61.0,
                     "y": 30.0
                   },
                   "topLeft": {
@@ -11293,13 +11142,13 @@
               }
             ],
             "rectangleSelections": [],
-            "nRows": 10
+            "nRows": 1
           },
           "taskId": ""
         },
         "computedRelation": {
           "kind": "Relation",
-          "id": "3ef8fe34-7004-4773-b03c-56c880fffde5"
+          "id": "18f81fe8-dc4c-451e-a8bc-3f51a29ce3d7"
         },
         "parentDataStepId": ""
       },
@@ -11337,12 +11186,163 @@
             "kind": "InitState"
           }
         }
+      },
+      {
+        "kind": "WizardStep",
+        "id": "59fb5bce-1706-4652-8a57-1e1cd8dceb75",
+        "groupId": "",
+        "name": "Wizard",
+        "inputs": [
+          {
+            "kind": "InputPort",
+            "id": "59fb5bce-1706-4652-8a57-1e1cd8dceb75-i-0",
+            "linkType": "relation",
+            "name": "table"
+          }
+        ],
+        "outputs": [
+          {
+            "kind": "OutputPort",
+            "id": "59fb5bce-1706-4652-8a57-1e1cd8dceb75-o-0",
+            "linkType": "relation",
+            "name": "table"
+          }
+        ],
+        "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+            "kind": "Point",
+            "x": 88.99000000000001,
+            "y": 55.0
+          },
+          "topLeft": {
+            "kind": "Point",
+            "x": 699.2549417114258,
+            "y": 6.5
+          }
+        },
+        "state": {
+          "kind": "StepState",
+          "taskId": "",
+          "taskState": {
+            "kind": "InitState"
+          }
+        },
+        "model": {
+          "kind": "WizardStepModel",
+          "namespace": "Heatmap",
+          "description": "Generates heatmaps ranked by row mean",
+          "appDesignType": "Heatmap.c03_simple",
+          "factors": [
+            {
+              "kind": "MappingFactor",
+              "name": "Measurement",
+              "type": "double",
+              "isSingle": true,
+              "description": "Select the factor that defines the values to use in the computation.",
+              "factorName": "Quantitation Type",
+              "factors": [
+                {
+                  "kind": "Factor",
+                  "name": "Measurement",
+                  "type": "double"
+                }
+              ],
+              "isRequired": true
+            },
+            {
+              "kind": "MappingFactor",
+              "name": "Variable",
+              "type": "string",
+              "isSingle": false,
+              "description": "Select the peptide identifier.",
+              "factorName": "Peptide",
+              "factors": [
+                {
+                  "kind": "Factor",
+                  "name": "Variable",
+                  "type": "string"
+                }
+              ],
+              "isRequired": true
+            },
+            {
+              "kind": "MappingFactor",
+              "name": "Observation",
+              "type": "string",
+              "isSingle": false,
+              "description": "Select the factor(s) defining a single value per cell.\n\nExample:\n* Barcode and Row\n* Barcode and Array\n * Sample Name",
+              "factorName": "Single Data Value per Cell",
+              "factors": [
+                {
+                  "kind": "Factor",
+                  "name": "Observation",
+                  "type": "string"
+                }
+              ],
+              "isRequired": true
+            }
+          ],
+          "filters": [],
+          "steps": [],
+          "defaultFactors": [
+            {
+              "kind": "MappingFactor",
+              "name": "Measurement",
+              "type": "double",
+              "isSingle": true,
+              "description": "Select the factor that defines the values to use in the computation.",
+              "factorName": "Quantitation Type",
+              "factors": [
+                {
+                  "kind": "Factor",
+                  "name": "Measurement",
+                  "type": "double"
+                }
+              ],
+              "isRequired": true
+            },
+            {
+              "kind": "MappingFactor",
+              "name": "Variable",
+              "type": "string",
+              "isSingle": false,
+              "description": "Select the peptide identifier.",
+              "factorName": "Peptide",
+              "factors": [
+                {
+                  "kind": "Factor",
+                  "name": "Variable",
+                  "type": "string"
+                }
+              ],
+              "isRequired": true
+            },
+            {
+              "kind": "MappingFactor",
+              "name": "Observation",
+              "type": "string",
+              "isSingle": false,
+              "description": "Select the factor(s) defining a single value per cell.\n\nExample:\n* Barcode and Row\n* Barcode and Array\n * Sample Name",
+              "factorName": "Single Data Value per Cell",
+              "factors": [
+                {
+                  "kind": "Factor",
+                  "name": "Observation",
+                  "type": "string"
+                }
+              ],
+              "isRequired": true
+            }
+          ],
+          "defaultFilters": []
+        }
       }
     ],
     "offset": {
       "kind": "Point",
-      "x": -137.0,
-      "y": 139.0
+      "x": -164.0,
+      "y": 200.0
     }
   },
   {
