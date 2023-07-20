@@ -53,9 +53,9 @@
   "success_documents": [
     {
       "kind": "Workflow",
-      "id": "fb4466424b945f95afd0d4f6e2fbb1c0",
+      "id": "019974b78a65232d86360e3f1e50bfef",
       "isDeleted": false,
-      "rev": "7-0ae2a5a74fda1b1046616c01a1e230ed",
+      "rev": "3-bb3661497dca8535e025ab0d7dfeedfe",
       "description": "Export file for PTK CV calculations in automated report",
       "name": "PTK_CV_Export_app",
       "createdBy": "plinders",
@@ -70,7 +70,7 @@
       },
       "lastModifiedDate": {
         "kind": "Date",
-        "value": "2022-05-02T09:34:45.000Z"
+        "value": "2022-05-13T10:20:22.000Z"
       },
       "urls": [],
       "tags": [],
@@ -79,10 +79,10 @@
         "kind": "Url",
         "uri": "https://github.com/tercen/PTK_CV_Export_app"
       },
-      "version": "0.0.1",
+      "version": "0.0.2",
       "authors": [],
       "isPublic": false,
-      "projectId": "ba516d78a1a52fff3d5ade7158f84cb6",
+      "projectId": "c845ceade32c4423bc616ff5ab22f158",
       "folderId": "",
       "links": [
         {
@@ -333,7 +333,7 @@
             },
             "operatorSettings": {
               "kind": "OperatorSettings",
-              "namespace": "ds0",
+              "namespace": "PTKCVEXPORT",
               "operatorRef": {
                 "kind": "OperatorRef",
                 "name": "",
@@ -463,7 +463,7 @@
                 }
               ],
               "rectangleSelections": [],
-              "nRows": 1428
+              "nRows": 1
             },
             "taskId": ""
           },
