@@ -694,7 +694,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-04-07T13:41:21.000Z"
+      "value": "2023-07-24T09:45:27.000Z"
     },
     "urls": [
       {
@@ -710,7 +710,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/pamsoft_grid_operator"
     },
-    "version": "1.3.4",
+    "version": "1.4.1",
     "authors": [
       "tercen",
       "Thiago"
@@ -719,7 +719,7 @@
     "properties": [],
     "longDescription": "",
     "path": "",
-    "container": "pamgene/pamsoft_grid_operator:latest"
+    "container": "pamgene/pamsoft_grid_operator:1.4.1"
   },
   {
     "kind": "DockerOperator",
@@ -740,7 +740,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-06-20T10:09:35.000Z"
+      "value": "2023-07-24T09:43:36.000Z"
     },
     "urls": [
       {
@@ -756,7 +756,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/pamsoft_grid_qt_operator"
     },
-    "version": "1.3.8",
+    "version": "1.4.1",
     "authors": [
       "tercen"
     ],
@@ -764,7 +764,7 @@
     "properties": [],
     "longDescription": "",
     "path": "",
-    "container": "pamgene/pamsoft_grid_qt_operator:latest"
+    "container": "pamgene/pamsoft_grid_qt_operator:1.4.1"
   },
   {
     "kind": "ShinyOperator",
