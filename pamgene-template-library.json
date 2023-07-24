@@ -67800,7 +67800,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-07-20T15:27:41.000Z"
+      "value": "2023-07-24T15:18:48.000Z"
     },
     "urls": [
       {
@@ -67835,7 +67835,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/image_analysis_PTK_afterwash_template"
     },
-    "version": "0.0.12",
+    "version": "0.1.0",
     "authors": [],
     "isPublic": false,
     "projectId": "5fdacf2e254f508d0bd669ac039fb28b",
@@ -68781,7 +68781,7 @@
             "operatorRef": {
               "kind": "OperatorRef",
               "name": "pamsoft_grid_operator",
-              "version": "1.3.4",
+              "version": "1.4.1",
               "operatorId": "0e19b61311c69fe34f479b830b50db2a",
               "operatorKind": "DockerOperator",
               "propertyValues": [
@@ -70129,7 +70129,7 @@
             "operatorRef": {
               "kind": "OperatorRef",
               "name": "pamsoft_grid_qt_operator",
-              "version": "1.3.8",
+              "version": "1.4.1",
               "operatorId": "164f4cf9ebe56cb1bc5e859e58411eed",
               "operatorKind": "DockerOperator",
               "propertyValues": [
@@ -70950,7 +70950,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-07-20T15:26:14.000Z"
+      "value": "2023-07-24T15:19:09.000Z"
     },
     "urls": [
       {
@@ -70985,7 +70985,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/image_analysis_PTK_prewash_template"
     },
-    "version": "0.0.11",
+    "version": "0.1.0",
     "authors": [],
     "isPublic": false,
     "projectId": "5fdacf2e254f508d0bd669ac039fb28b",
@@ -71615,7 +71615,7 @@
             "operatorRef": {
               "kind": "OperatorRef",
               "name": "pamsoft_grid_operator",
-              "version": "1.3.4",
+              "version": "1.4.1",
               "operatorId": "0e19b61311c69fe34f479b830b50db2a",
               "operatorKind": "DockerOperator",
               "propertyValues": [
@@ -72244,7 +72244,7 @@
             "operatorRef": {
               "kind": "OperatorRef",
               "name": "pamsoft_grid_qt_operator",
-              "version": "1.3.8",
+              "version": "1.4.1",
               "operatorId": "164f4cf9ebe56cb1bc5e859e58411eed",
               "operatorKind": "DockerOperator",
               "propertyValues": [
@@ -73950,7 +73950,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-07-20T15:22:13.000Z"
+      "value": "2023-07-24T15:19:25.000Z"
     },
     "urls": [
       {
@@ -73985,7 +73985,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/image_analysis_STK_template"
     },
-    "version": "0.0.10",
+    "version": "0.1.0",
     "authors": [],
     "isPublic": false,
     "projectId": "5fdacf2e254f508d0bd669ac039fb28b",
@@ -74609,7 +74609,7 @@
             "operatorRef": {
               "kind": "OperatorRef",
               "name": "pamsoft_grid_operator",
-              "version": "1.3.4",
+              "version": "1.4.1",
               "operatorId": "0e19b61311c69fe34f479b830b50db2a",
               "operatorKind": "DockerOperator",
               "propertyValues": [
@@ -75238,7 +75238,7 @@
             "operatorRef": {
               "kind": "OperatorRef",
               "name": "pamsoft_grid_qt_operator",
-              "version": "1.3.8",
+              "version": "1.4.1",
               "operatorId": "164f4cf9ebe56cb1bc5e859e58411eed",
               "operatorKind": "DockerOperator",
               "propertyValues": [
