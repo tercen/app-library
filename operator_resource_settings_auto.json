@@ -163,10 +163,10 @@
         "uri": "https://github.com/pamgene/PTK_QC_presence_operator",
         "version": "0.1.2",
         "base_memory": 500000000,
-        "ratio_est": -197.0423,
-        "ratio_upper": -127.1741,
-        "r2": 0.8265,
-        "ratio_rounded": -127.1,
+        "ratio_est": -196.2407,
+        "ratio_upper": -132.9164,
+        "r2": 0.8384,
+        "ratio_rounded": -132.8,
         "ratio": 5
     },
     {
@@ -193,10 +193,10 @@
         "uri": "https://github.com/pamgene/check_input1_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -2075.581,
-        "ratio_upper": -1762.7116,
-        "r2": 0.7239,
-        "ratio_rounded": -1762.6,
+        "ratio_est": -2080.2915,
+        "ratio_upper": -1769.689,
+        "r2": 0.7256,
+        "ratio_rounded": -1769.6,
         "ratio": 5
     },
     {
@@ -213,10 +213,10 @@
         "uri": "https://github.com/pamgene/log_cutoff_operator",
         "version": "0.1.1",
         "base_memory": 500000000,
-        "ratio_est": -509.057,
-        "ratio_upper": -323.6883,
-        "r2": 0.2108,
-        "ratio_rounded": -323.6,
+        "ratio_est": -512.0367,
+        "ratio_upper": -326.9422,
+        "r2": 0.2111,
+        "ratio_rounded": -326.8,
         "ratio": 5
     },
     {
@@ -243,10 +243,10 @@
         "uri": "https://github.com/pamgene/nominal_cv_estimate_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -1752.9169,
-        "ratio_upper": -1405.5892,
-        "r2": 0.7305,
-        "ratio_rounded": -1405.5,
+        "ratio_est": -1763.5534,
+        "ratio_upper": -1418.4998,
+        "r2": 0.7317,
+        "ratio_rounded": -1418.4,
         "ratio": 5
     },
     {
@@ -323,10 +323,10 @@
         "uri": "https://github.com/pamgene/vsn_operator",
         "version": "0.2.2",
         "base_memory": 500000000,
-        "ratio_est": -2165.0679,
-        "ratio_upper": -2027.2137,
-        "r2": 0.9781,
-        "ratio_rounded": -2027.1,
+        "ratio_est": -2157.7782,
+        "ratio_upper": -2025.8637,
+        "r2": 0.9778,
+        "ratio_rounded": -2025.8,
         "ratio": 5
     },
     {
@@ -513,10 +513,10 @@
         "uri": "https://github.com/tercen/automated_gating_operator",
         "version": "0.3.10",
         "base_memory": 1000000000,
-        "ratio_est": 5.8688,
-        "ratio_upper": 8.4423,
-        "r2": 0.4079,
-        "ratio_rounded": 8.5,
+        "ratio_est": 5.6292,
+        "ratio_upper": 7.9846,
+        "r2": 0.4248,
+        "ratio_rounded": 8.1,
         "ratio": 5
     },
     {
@@ -653,10 +653,10 @@
         "uri": "https://github.com/tercen/cell_annotation_operator",
         "version": "0.2.0",
         "base_memory": 500000000,
-        "ratio_est": -3516.8091,
-        "ratio_upper": -2701.7489,
-        "r2": 0.7654,
-        "ratio_rounded": -2701.6,
+        "ratio_est": -3235.6063,
+        "ratio_upper": -2439.622,
+        "r2": 0.7372,
+        "ratio_rounded": -2439.5,
         "ratio": 5
     },
     {
@@ -744,8 +744,8 @@
         "version": "0.1.1",
         "base_memory": 1000000000,
         "ratio_est": 2.88,
-        "ratio_upper": 3.0996,
-        "r2": 0.8049,
+        "ratio_upper": 3.0992,
+        "r2": 0.804,
         "ratio_rounded": 3.2,
         "ratio": 5
     },
@@ -793,9 +793,9 @@
         "uri": "https://github.com/tercen/count_operator",
         "version": "1.0.0",
         "base_memory": 500000000,
-        "ratio_est": 0.6047,
-        "ratio_upper": 0.6488,
-        "r2": 0.9426,
+        "ratio_est": 0.6044,
+        "ratio_upper": 0.6483,
+        "r2": 0.9423,
         "ratio_rounded": 0.7,
         "ratio": 5
     },
@@ -1285,7 +1285,7 @@
         "base_memory": 500000000,
         "ratio_est": 0.3435,
         "ratio_upper": 0.3732,
-        "r2": 0.5508,
+        "r2": 0.5349,
         "ratio_rounded": 0.5,
         "ratio": 5
     },
@@ -1513,10 +1513,10 @@
         "uri": "https://github.com/tercen/negative_operator",
         "version": "1.0.0",
         "base_memory": 500000000,
-        "ratio_est": -2781.3477,
-        "ratio_upper": -2416.2842,
-        "r2": 0.7092,
-        "ratio_rounded": -2416.2,
+        "ratio_est": -2771.8885,
+        "ratio_upper": -2417.5388,
+        "r2": 0.7153,
+        "ratio_rounded": -2417.4,
         "ratio": 5
     },
     {
@@ -1873,10 +1873,10 @@
         "uri": "https://github.com/tercen/rank_by_row_mean_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -3025.3985,
-        "ratio_upper": -2610.3156,
-        "r2": 0.6328,
-        "ratio_rounded": -2610.2,
+        "ratio_est": -3006.0915,
+        "ratio_upper": -2602.034,
+        "r2": 0.6382,
+        "ratio_rounded": -2601.9,
         "ratio": 5
     },
     {
@@ -2223,10 +2223,10 @@
         "uri": "https://github.com/tercen/scale_operator",
         "version": "0.11.0",
         "base_memory": 500000000,
-        "ratio_est": -3651.6674,
-        "ratio_upper": -3188.2423,
-        "r2": 0.7182,
-        "ratio_rounded": -3188.1,
+        "ratio_est": -3224.3439,
+        "ratio_upper": -2798.1051,
+        "r2": 0.689,
+        "ratio_rounded": -2798,
         "ratio": 5
     },
     {
@@ -2234,8 +2234,8 @@
         "version": "0.12.0",
         "base_memory": 500000000,
         "ratio_est": 1.1312,
-        "ratio_upper": 1.2505,
-        "r2": 0.7719,
+        "ratio_upper": 1.2504,
+        "r2": 0.7686,
         "ratio_rounded": 1.4,
         "ratio": 5
     },
@@ -2343,10 +2343,10 @@
         "uri": "https://github.com/tercen/t_test_operator",
         "version": "1.1.1",
         "base_memory": 1000000000,
-        "ratio_est": -2697.9183,
-        "ratio_upper": -2305.7868,
-        "r2": 0.7906,
-        "ratio_rounded": -2305.7,
+        "ratio_est": -2294.6215,
+        "ratio_upper": -1947.0487,
+        "r2": 0.7567,
+        "ratio_rounded": -1946.9,
         "ratio": 5
     },
     {
