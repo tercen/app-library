@@ -1513,10 +1513,10 @@
         "uri": "https://github.com/tercen/negative_operator",
         "version": "1.0.0",
         "base_memory": 500000000,
-        "ratio_est": -2794.8407,
-        "ratio_upper": -2452.1989,
-        "r2": 0.7217,
-        "ratio_rounded": -2452.1,
+        "ratio_est": -2796.0541,
+        "ratio_upper": -2451.4819,
+        "r2": 0.7182,
+        "ratio_rounded": -2451.4,
         "ratio": 5
     },
     {
@@ -1873,9 +1873,9 @@
         "uri": "https://github.com/tercen/rank_by_row_mean_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -3015.1418,
-        "ratio_upper": -2622.4093,
-        "r2": 0.6434,
+        "ratio_est": -3016.4335,
+        "ratio_upper": -2622.3949,
+        "r2": 0.6408,
         "ratio_rounded": -2622.3,
         "ratio": 5
     },
