@@ -1913,11 +1913,11 @@
         "uri": "https://github.com/tercen/read_cellranger_operator",
         "version": "0.2.2",
         "base_memory": 500000000,
-        "ratio_est": 23.1874,
-        "ratio_upper": 24.9705,
-        "r2": 0.9913,
-        "ratio_rounded": 25.1,
-        "ratio": 25.1
+        "ratio_est": 23.2139,
+        "ratio_upper": 24.9492,
+        "r2": 0.9908,
+        "ratio_rounded": 25,
+        "ratio": 25
     },
     {
         "uri": "https://github.com/tercen/read_csv_operator",
@@ -2173,8 +2173,8 @@
         "uri": "https://github.com/tercen/scRNAseq_QC_operator",
         "version": "0.1.0",
         "base_memory": 1000000000,
-        "ratio_est": 0.9731,
-        "ratio_upper": 1.0009,
+        "ratio_est": 0.9732,
+        "ratio_upper": 1.0002,
         "r2": 0.9975,
         "ratio_rounded": 1.1,
         "ratio": 5
@@ -2193,9 +2193,9 @@
         "uri": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": 1.3088,
-        "ratio_upper": 1.4058,
-        "r2": 0.9938,
+        "ratio_est": 1.3087,
+        "ratio_upper": 1.4013,
+        "r2": 0.9935,
         "ratio_rounded": 1.5,
         "ratio": 5
     },
@@ -2204,8 +2204,8 @@
         "version": "0.1.0",
         "base_memory": 500000000,
         "ratio_est": 1.1234,
-        "ratio_upper": 1.1635,
-        "r2": 0.9946,
+        "ratio_upper": 1.163,
+        "r2": 0.9945,
         "ratio_rounded": 1.3,
         "ratio": 5
     },
