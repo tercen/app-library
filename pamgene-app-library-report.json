@@ -1,5 +1,18 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "name": "PTK_CV_Export_app",
+      "version": "Instance of 'Release'",
+      "url": "https://github.com/pamgene/PTK_CV_Export_app",
+      "error": "Failed to load workflow.json : GitHub Error: Not Found"
+    },
+    {
+      "name": "STK_CV_Export_app",
+      "version": "Instance of 'Release'",
+      "url": "https://github.com/pamgene/STK_CV_Export_app",
+      "error": "Failed to load workflow.json : GitHub Error: Not Found"
+    }
+  ],
   "notest_documents": [],
   "success_documents": [
     {
