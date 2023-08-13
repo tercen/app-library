@@ -1,10 +1,10 @@
 {
   "failed_documents": [
     {
-      "name": "FlowJo Cluster Explorer #2 - Advanced",
-      "version": "0.0.2",
+      "name": "FlowJo_advanced_cluster_explorer_template",
+      "version": "Instance of 'Release'",
       "url": "https://github.com/tercen/FlowJo_advanced_cluster_explorer_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.10.0 not found in https://github.com/tercen/hclust_operator})"
+      "error": "Failed to load workflow.json : FormatException: Unexpected end of input (at character 1)\n\n^\n"
     },
     {
       "name": "FlowJo Cluster Explorer #1 - Basic",
@@ -13,10 +13,10 @@
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.10.0 not found in https://github.com/tercen/hclust_operator})"
     },
     {
-      "name": "TraCeR workflow with demultiplexing using external storage",
-      "version": "0.0.1",
+      "name": "TraCeR_with_demultiplexing_template",
+      "version": "null",
       "url": "https://github.com/tercen/TraCeR_with_demultiplexing_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName eaad083d62c0ea62d4e4fcc8093bdc9f32e7d319 not found in https://github.com/tercen/karolinska_demultiplex_docker_operator})"
+      "error": "GitHub Error: FormatException: Unexpected end of input (at character 1)\n\n^\n"
     },
     {
       "name": "TraCeR workflow without demultiplexing using external storage",
