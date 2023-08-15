@@ -53,10 +53,10 @@
         "uri": "",
         "version": "0.1.2",
         "base_memory": 500000000,
-        "ratio_est": -11.5877,
-        "ratio_upper": -5.1798,
-        "r2": 0.2659,
-        "ratio_rounded": -5.1,
+        "ratio_est": -11.5234,
+        "ratio_upper": -5.355,
+        "r2": 0.2748,
+        "ratio_rounded": -5.3,
         "ratio": 5
     },
     {
@@ -1033,10 +1033,10 @@
         "uri": "https://github.com/tercen/faust_operator",
         "version": "0.1.2",
         "base_memory": 1000000000,
-        "ratio_est": 4.2575,
-        "ratio_upper": 4.83,
-        "r2": 0.9645,
-        "ratio_rounded": 4.9,
+        "ratio_est": 4.3098,
+        "ratio_upper": 4.8619,
+        "r2": 0.9649,
+        "ratio_rounded": 5,
         "ratio": 5
     },
     {
@@ -1305,7 +1305,7 @@
         "base_memory": 500000000,
         "ratio_est": 0.3435,
         "ratio_upper": 0.3731,
-        "r2": 0.502,
+        "r2": 0.501,
         "ratio_rounded": 0.5,
         "ratio": 5
     },
@@ -1884,8 +1884,8 @@
         "version": "1.0.6",
         "base_memory": 500000000,
         "ratio_est": -0.0095,
-        "ratio_upper": 0.0184,
-        "r2": 0.0071,
+        "ratio_upper": 0.0183,
+        "r2": 0.007,
         "ratio_rounded": 0.1,
         "ratio": 5
     },
@@ -1963,10 +1963,10 @@
         "uri": "https://github.com/tercen/read_csv_operator",
         "version": "0.2.0",
         "base_memory": 500000000,
-        "ratio_est": 5.1744,
-        "ratio_upper": 6.1682,
-        "r2": 0.6282,
-        "ratio_rounded": 6.3,
+        "ratio_est": 5.2691,
+        "ratio_upper": 6.2653,
+        "r2": 0.6302,
+        "ratio_rounded": 6.4,
         "ratio": 5
     },
     {
@@ -2093,8 +2093,8 @@
         "uri": "https://github.com/tercen/read_fcs_operator",
         "version": "2.1.1",
         "base_memory": 500000000,
-        "ratio_est": 8.2497,
-        "ratio_upper": 9.5717,
+        "ratio_est": 8.2485,
+        "ratio_upper": 9.565,
         "r2": 0.6337,
         "ratio_rounded": 9.7,
         "ratio": 5
@@ -2153,10 +2153,10 @@
         "uri": "https://github.com/tercen/rphenograph_operator",
         "version": "1.1.1",
         "base_memory": 500000000,
-        "ratio_est": 3.7325,
-        "ratio_upper": 3.954,
-        "r2": 0.9698,
-        "ratio_rounded": 4.1,
+        "ratio_est": 4.4632,
+        "ratio_upper": 4.638,
+        "r2": 0.9863,
+        "ratio_rounded": 4.7,
         "ratio": 5
     },
     {
