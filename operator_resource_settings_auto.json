@@ -824,8 +824,8 @@
         "version": "1.0.0",
         "base_memory": 500000000,
         "ratio_est": 0.6044,
-        "ratio_upper": 0.648,
-        "r2": 0.9415,
+        "ratio_upper": 0.6478,
+        "r2": 0.9411,
         "ratio_rounded": 0.7,
         "ratio": 5
     },
@@ -1315,7 +1315,7 @@
         "base_memory": 500000000,
         "ratio_est": 0.3435,
         "ratio_upper": 0.3731,
-        "r2": 0.5006,
+        "r2": 0.4999,
         "ratio_rounded": 0.5,
         "ratio": 5
     },
@@ -1943,10 +1943,10 @@
         "uri": "https://github.com/tercen/ratio_operator",
         "version": "2.0.0",
         "base_memory": 500000000,
-        "ratio_est": -230.2329,
-        "ratio_upper": -14.8735,
-        "r2": 0.1625,
-        "ratio_rounded": -14.8,
+        "ratio_est": -237.8505,
+        "ratio_upper": -24.2266,
+        "r2": 0.1653,
+        "ratio_rounded": -24.1,
         "ratio": 5
     },
     {
@@ -2143,10 +2143,10 @@
         "uri": "https://github.com/tercen/readxl_operator",
         "version": "1.2.1",
         "base_memory": 500000000,
-        "ratio_est": -69.3899,
-        "ratio_upper": -9.1169,
-        "r2": 0.0834,
-        "ratio_rounded": -9,
+        "ratio_est": -69.4291,
+        "ratio_upper": -9.322,
+        "r2": 0.083,
+        "ratio_rounded": -9.2,
         "ratio": 5
     },
     {
@@ -2364,8 +2364,8 @@
         "version": "1.10.2",
         "base_memory": 500000000,
         "ratio_est": 0.6155,
-        "ratio_upper": 0.9669,
-        "r2": 0.4202,
+        "ratio_upper": 0.966,
+        "r2": 0.4111,
         "ratio_rounded": 1.1,
         "ratio": 5
     },
