@@ -3296,7 +3296,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-08-23T17:56:10.000Z"
+      "value": "2023-08-24T15:00:44.000Z"
     },
     "urls": [
       {
@@ -3312,7 +3312,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/pairwise_distance_operator"
     },
-    "version": "0.2.0",
+    "version": "0.2.1",
     "authors": [
       "tercen"
     ],
