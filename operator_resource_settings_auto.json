@@ -824,8 +824,8 @@
         "version": "1.0.0",
         "base_memory": 500000000,
         "ratio_est": 0.6044,
-        "ratio_upper": 0.6473,
-        "r2": 0.9397,
+        "ratio_upper": 0.6471,
+        "r2": 0.9393,
         "ratio_rounded": 0.7,
         "ratio": 5
     },
@@ -1483,9 +1483,9 @@
         "uri": "https://github.com/tercen/median_mad_operator",
         "version": "0.0.1",
         "base_memory": 500000000,
-        "ratio_est": 0.3454,
-        "ratio_upper": 0.4775,
-        "r2": 0.2152,
+        "ratio_est": 0.3452,
+        "ratio_upper": 0.477,
+        "r2": 0.2124,
         "ratio_rounded": 0.6,
         "ratio": 5
     },
