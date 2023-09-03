@@ -27,6 +27,12 @@
       "error": "notest"
     },
     {
+      "name": "Hclust - Groups",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/hierarchical_clustering_operator",
+      "error": "notest"
+    },
+    {
       "name": "PHATE",
       "version": "0.2.0",
       "url": "https://github.com/tercen/phate_operator",
@@ -259,11 +265,6 @@
       "name": "Heatmap Plot",
       "version": "0.1.8",
       "url": "https://github.com/tercen/heatmap_shiny_operator"
-    },
-    {
-      "name": "Hclust - Groups",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/hierarchical_clustering_operator"
     },
     {
       "name": "Histogram Plot",
