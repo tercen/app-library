@@ -1716,50 +1716,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Calculates the ratio of change between an original and subsequent measurements.",
-    "name": "Fold Change",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2018-04-27T19:01:00.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-06-18T15:20:37.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/foldchange_operator"
-      }
-    ],
-    "tags": [
-      "simple statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/foldchange_operator"
-    },
-    "version": "0.10.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Calculates a probability of whether a data point will meet a binary criteria.",
     "name": "Logistic Regression",
     "createdBy": "",
