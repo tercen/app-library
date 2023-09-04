@@ -237,11 +237,6 @@
       "url": "https://github.com/tercen/flowsom_operator"
     },
     {
-      "name": "Fold Change",
-      "version": "0.10.1",
-      "url": "https://github.com/tercen/foldchange_operator"
-    },
-    {
       "name": "Logistic Regression",
       "version": "0.1.0",
       "url": "https://github.com/tercen/generalised_linear_model_operator"
@@ -649,6 +644,7 @@
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/flowsom_mst_shiny_operator",
     "https://github.com/tercen/flowvs_operator",
+    "https://github.com/tercen/foldchange_operator",
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/my_operator",
     "https://github.com/tercen/normalise_cytof_operator",
