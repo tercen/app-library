@@ -2481,6 +2481,51 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Perform a channel-specific logicle data tranformation.",
+    "name": "Logicle",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-09-04T09:38:31.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-09-05T13:46:59.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/logicle_operator"
+      }
+    ],
+    "tags": [
+      "data transformation",
+      "flow cytometry"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/logicle_operator"
+    },
+    "version": "1.0.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Transforms proportion data from logistic regression to a binary value (1 or 0).",
     "name": "Logit",
     "createdBy": "",
