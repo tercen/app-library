@@ -772,7 +772,7 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Calculates a set of scores that assess the quality of the results derived from a clustering alglorithm.",
+    "description": "Calculates a set of cluster validation metrics.",
     "name": "Clustering Metrics",
     "createdBy": "",
     "acl": {
@@ -786,7 +786,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-03-11T15:07:50.000Z"
+      "value": "2023-09-05T08:22:22.000Z"
     },
     "urls": [
       {
@@ -802,7 +802,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/clustering_metrics_operator"
     },
-    "version": "0.1.0",
+    "version": "0.2.0",
     "authors": [
       "tercen"
     ],
@@ -1710,6 +1710,50 @@
     "longDescription": "",
     "path": "",
     "container": "tercen/flowsom_operator:1.6.0"
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Calculates the ratio of change between an original and subsequent measurements.",
+    "name": "Fold Change",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2018-04-27T19:01:00.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2021-06-18T15:20:37.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/foldchange_operator"
+      }
+    ],
+    "tags": [
+      "simple statistics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/foldchange_operator"
+    },
+    "version": "0.10.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
   },
   {
     "kind": "ROperator",
