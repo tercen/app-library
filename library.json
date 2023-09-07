@@ -3998,7 +3998,7 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Import a Gene Matrix Transposed file (.gmt)",
+    "description": "Import a Gene Matrix Transposed (GMT) file containing gene sets.",
     "name": "GMT",
     "createdBy": "",
     "acl": {
@@ -4012,7 +4012,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-03-14T17:29:45.000Z"
+      "value": "2023-09-07T14:21:57.000Z"
     },
     "urls": [
       {
@@ -4021,15 +4021,16 @@
       }
     ],
     "tags": [
-      "file conversion",
-      "Import"
+      "import",
+      "omics",
+      "annotation"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/read_gmt_operator"
     },
-    "version": "0.1.0",
+    "version": "1.0.0",
     "authors": [
       "tercen"
     ],
