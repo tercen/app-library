@@ -27,12 +27,6 @@
   ],
   "notest_operators": [
     {
-      "name": "GSEA",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/gsea_operator",
-      "error": "notest"
-    },
-    {
       "name": "PHATE",
       "version": "0.2.0",
       "url": "https://github.com/tercen/phate_operator",
@@ -250,6 +244,11 @@
       "name": "GMM operator",
       "version": "0.1.2",
       "url": "https://github.com/tercen/gmm_operator"
+    },
+    {
+      "name": "GSEA",
+      "version": "1.0.1",
+      "url": "https://github.com/tercen/gsea_operator"
     },
     {
       "name": "Hclust - Order",
