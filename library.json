@@ -1850,6 +1850,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Gene Set Enrichment Analysis: Evaluates microarray data at the level of gene expression sets to find statistically significant genes based on biologically relevant differances.",
+    "name": "GSEA",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-10-11T06:46:30.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-09-07T05:26:06.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/gsea_operator"
+      }
+    ],
+    "tags": [
+      "bioinformatics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/gsea_operator"
+    },
+    "version": "1.0.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Hierarchical Clustering: An algorithm that groups data points in levels of similarity returns the order of groups.",
     "name": "Hclust - Order",
     "createdBy": "",
