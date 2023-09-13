@@ -5,12 +5,6 @@
       "version": "0.0.1",
       "url": "https://github.com/pamgene/anova1_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
-    },
-    {
-      "name": "pamsoft_grid_qt_operator",
-      "version": "1.4.1",
-      "url": "https://github.com/pamgene/pamsoft_grid_qt_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds1.Mean_SigmBg -- val != refVal -- at line 0 -- val = 136.102007469654 refVal = 16.6615367077063})"
     }
   ],
   "notest_operators": [
@@ -107,6 +101,11 @@
       "name": "pamsoft_grid_operator",
       "version": "1.4.1",
       "url": "https://github.com/pamgene/pamsoft_grid_operator"
+    },
+    {
+      "name": "pamsoft_grid_qt_operator",
+      "version": "1.4.2",
+      "url": "https://github.com/pamgene/pamsoft_grid_qt_operator"
     },
     {
       "name": "Pamsoft Grid Shiny Operator",
