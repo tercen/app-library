@@ -337,7 +337,7 @@
     },
     {
       "name": "Marker Enrichment Score",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "url": "https://github.com/tercen/marker_enrichment_operator"
     },
     {
@@ -655,6 +655,7 @@
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/singleR_operator",
+    "https://github.com/tercen/synthetic_data_operator",
     "https://github.com/tercen/thresholding_operator"
   ]
 }
