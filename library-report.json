@@ -616,11 +616,6 @@
       "url": "https://github.com/tercen/volcano_shiny_operator"
     },
     {
-      "name": "VSN",
-      "version": "0.0.5",
-      "url": "https://github.com/tercen/vsn_shiny_operator"
-    },
-    {
       "name": "VST",
       "version": "0.1.1",
       "url": "https://github.com/tercen/vst_operator"
