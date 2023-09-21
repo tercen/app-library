@@ -1,24 +1,6 @@
 {
   "failed_operators": [
     {
-      "name": "Base Change",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/change_from_baseline_operator",
-      "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
-      "name": "Hclust - Groups",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/hierarchical_clustering_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})"
-    },
-    {
-      "name": "Template Python operator",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/median_python_operator",
-      "error": "ServiceError({statusCode: -142, error: create.operator.docker.failed, reason: Failed to pull operator})"
-    },
-    {
       "name": "TrackSOM",
       "version": "0.1.5",
       "url": "https://github.com/tercen/tracksom_operator",
@@ -254,6 +236,11 @@
       "name": "Heatmap Dashboard",
       "version": "0.3.0",
       "url": "https://github.com/tercen/heatmap_dashboard_operator"
+    },
+    {
+      "name": "Hierarchical Clustering",
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/hierarchical_clustering_operator"
     },
     {
       "name": "Histogram Plot",
