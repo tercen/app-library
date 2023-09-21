@@ -1941,6 +1941,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Cluster data points based on their pairwise similarity and returns the group memberships.",
+    "name": "Hierarchical Clustering",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2020-10-18T16:45:44.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-09-21T12:59:08.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/hierarchical_clustering_operator"
+      }
+    ],
+    "tags": [
+      "clustering"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/hierarchical_clustering_operator"
+    },
+    "version": "0.1.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Displays a representation of the distribution of numerical data using bars on an X,Y grid.",
     "name": "Histogram Plot",
     "createdBy": "",
