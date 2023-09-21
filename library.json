@@ -5172,52 +5172,6 @@
     "isViewOnly": true
   },
   {
-    "kind": "ShinyOperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
-    "description": "Normalization: VSN (VSN with shiny interface app)",
-    "name": "VSN",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2021-06-08T08:12:57.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-11-11T17:39:50.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/vsn_shiny_operator"
-      }
-    ],
-    "tags": [
-      "normalization",
-      "pamgene"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/vsn_shiny_operator"
-    },
-    "version": "0.0.5",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": "",
-    "isViewOnly": false
-  },
-  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
