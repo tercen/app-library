@@ -2045,7 +2045,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-05-24T12:45:39.000Z"
+      "value": "2023-09-25T09:47:17.000Z"
     },
     "urls": [
       {
@@ -2054,15 +2054,14 @@
       }
     ],
     "tags": [
-      "identity",
-      "pamgene"
+      "data preprocessing"
     ],
     "meta": [],
     "url": {
       "kind": "Url",
       "uri": "https://github.com/tercen/identity_operator"
     },
-    "version": "0.1.0",
+    "version": "0.1.2",
     "authors": [
       "tercen"
     ],
