@@ -93,10 +93,10 @@
         "uri": "",
         "version": "0.1.3",
         "base_memory": 500000000,
-        "ratio_est": -132.3546,
-        "ratio_upper": -63.1317,
-        "r2": 0.415,
-        "ratio_rounded": -63,
+        "ratio_est": -132.8696,
+        "ratio_upper": -63.2591,
+        "r2": 0.4057,
+        "ratio_rounded": -63.2,
         "ratio": 5
     },
     {
@@ -863,10 +863,10 @@
         "uri": "https://github.com/tercen/compare_means_operator",
         "version": "0.1.9",
         "base_memory": 1000000000,
-        "ratio_est": -3158.1885,
-        "ratio_upper": -152.2927,
-        "r2": 0.494,
-        "ratio_rounded": -152.2,
+        "ratio_est": -3329.3513,
+        "ratio_upper": -362.0549,
+        "r2": 0.4299,
+        "ratio_rounded": -362,
         "ratio": 5
     },
     {
@@ -904,8 +904,8 @@
         "version": "1.0.0",
         "base_memory": 500000000,
         "ratio_est": 0.6037,
-        "ratio_upper": 0.6447,
-        "r2": 0.9334,
+        "ratio_upper": 0.6443,
+        "r2": 0.9316,
         "ratio_rounded": 0.7,
         "ratio": 5
     },
@@ -1153,10 +1153,10 @@
         "uri": "https://github.com/tercen/flag_operator",
         "version": "0.3.4",
         "base_memory": 500000000,
-        "ratio_est": -11.9976,
-        "ratio_upper": 42.1063,
-        "r2": 0.049,
-        "ratio_rounded": 42.2,
+        "ratio_est": -12.0203,
+        "ratio_upper": 38.7647,
+        "r2": 0.0325,
+        "ratio_rounded": 38.9,
         "ratio": 5
     },
     {
@@ -1415,7 +1415,7 @@
         "base_memory": 500000000,
         "ratio_est": 0.3426,
         "ratio_upper": 0.3722,
-        "r2": 0.4306,
+        "r2": 0.4248,
         "ratio_rounded": 0.5,
         "ratio": 5
     },
@@ -1593,10 +1593,10 @@
         "uri": "https://github.com/tercen/mean_sd_operator",
         "version": "0.1.3",
         "base_memory": 500000000,
-        "ratio_est": -67.052,
-        "ratio_upper": -24.099,
-        "r2": 0.1883,
-        "ratio_rounded": -24,
+        "ratio_est": -67.1096,
+        "ratio_upper": -23.8331,
+        "r2": 0.161,
+        "ratio_rounded": -23.7,
         "ratio": 5
     },
     {
@@ -1604,8 +1604,8 @@
         "version": "0.0.1",
         "base_memory": 500000000,
         "ratio_est": 0.3449,
-        "ratio_upper": 0.4756,
-        "r2": 0.1853,
+        "ratio_upper": 0.4757,
+        "r2": 0.1815,
         "ratio_rounded": 0.6,
         "ratio": 5
     },
@@ -1973,10 +1973,10 @@
         "uri": "https://github.com/tercen/plot_operator",
         "version": "0.0.12",
         "base_memory": 500000000,
-        "ratio_est": -2996.5453,
-        "ratio_upper": -1728.0429,
-        "r2": 0.4437,
-        "ratio_rounded": -1727.9,
+        "ratio_est": -3002.7967,
+        "ratio_upper": -1732.6074,
+        "r2": 0.4377,
+        "ratio_rounded": -1732.5,
         "ratio": 5
     },
     {
@@ -1993,10 +1993,10 @@
         "uri": "https://github.com/tercen/plot_operator",
         "version": "0.0.16",
         "base_memory": 500000000,
-        "ratio_est": -367.0103,
-        "ratio_upper": -20.765,
-        "r2": 0.2432,
-        "ratio_rounded": -20.7,
+        "ratio_est": -383.5291,
+        "ratio_upper": -27.9248,
+        "r2": 0.1231,
+        "ratio_rounded": -27.8,
         "ratio": 5
     },
     {
@@ -2043,10 +2043,10 @@
         "uri": "https://github.com/tercen/plot_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -54.2634,
-        "ratio_upper": 0.0279,
-        "r2": 0.7781,
-        "ratio_rounded": 0.1,
+        "ratio_est": -54.3046,
+        "ratio_upper": 12.8038,
+        "r2": 0.4567,
+        "ratio_rounded": 12.9,
         "ratio": 5
     },
     {
@@ -2153,10 +2153,10 @@
         "uri": "https://github.com/tercen/ratio_operator",
         "version": "2.0.0",
         "base_memory": 500000000,
-        "ratio_est": -246.4418,
-        "ratio_upper": -38.4103,
-        "r2": 0.1789,
-        "ratio_rounded": -38.3,
+        "ratio_est": -247.7177,
+        "ratio_upper": -38.2341,
+        "r2": 0.1341,
+        "ratio_rounded": -38.1,
         "ratio": 5
     },
     {
@@ -2323,8 +2323,8 @@
         "uri": "https://github.com/tercen/read_fcs_operator",
         "version": "2.1.1",
         "base_memory": 500000000,
-        "ratio_est": 14.6005,
-        "ratio_upper": 16.0212,
+        "ratio_est": 14.6004,
+        "ratio_upper": 16.0165,
         "r2": 0.7901,
         "ratio_rounded": 16.1,
         "ratio": 16.1
@@ -2494,8 +2494,8 @@
         "version": "0.12.0",
         "base_memory": 500000000,
         "ratio_est": 1.13,
-        "ratio_upper": 1.2476,
-        "r2": 0.6796,
+        "ratio_upper": 1.248,
+        "r2": 0.6643,
         "ratio_rounded": 1.3,
         "ratio": 5
     },
