@@ -73,6 +73,11 @@
       "url": "https://github.com/pamgene/dascombat_shiny_fit_operator"
     },
     {
+      "name": "Export Crosstab Shiny Operator",
+      "version": "0.0.6",
+      "url": "https://github.com/pamgene/export_crosstab_shiny_operator"
+    },
+    {
       "name": "Log Cutoff",
       "version": "0.1.1",
       "url": "https://github.com/pamgene/log_cutoff_operator"
