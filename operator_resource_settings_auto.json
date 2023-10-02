@@ -410,36 +410,6 @@
         "ratio": 5
     },
     {
-        "uri": "https://github.com/tercen/DESeq2_operator",
-        "version": "0.1.1",
-        "base_memory": 500000000,
-        "ratio_est": 240.6301,
-        "ratio_upper": 282.8769,
-        "r2": 0.9073,
-        "ratio_rounded": 283,
-        "ratio": 50
-    },
-    {
-        "uri": "https://github.com/tercen/DESeq2_two_conditions_operator",
-        "version": "0.0.5",
-        "base_memory": 1000000000,
-        "ratio_est": 76.5076,
-        "ratio_upper": 86.6344,
-        "r2": 0.9716,
-        "ratio_rounded": 86.7,
-        "ratio": 50
-    },
-    {
-        "uri": "https://github.com/tercen/DESeq2_two_conditions_operator",
-        "version": "0.0.6",
-        "base_memory": 1000000000,
-        "ratio_est": 18.1607,
-        "ratio_upper": 26.8809,
-        "r2": 0.7932,
-        "ratio_rounded": 27,
-        "ratio": 27
-    },
-    {
         "uri": "https://github.com/tercen/ETS_operator",
         "version": "0.0.2",
         "base_memory": 500000000,
