@@ -38,14 +38,8 @@
   {
     "uri": "https://github.com/tercen/DESeq2_operator",
     "version": "0.1.0",
-    "base_memory": 5000000000,
-    "ratio": 50
-  },
-  {
-    "uri": "https://github.com/tercen/DESeq2_operator",
-    "version": "0.1.2",
-    "base_memory": 6000000000,
-    "ratio": 50
+    "base_memory": 10000000000,
+    "ratio": 5
   },
   {
     "uri": "https://github.com/tercen/diffcyt_operator",
