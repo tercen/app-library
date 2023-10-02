@@ -1,191 +1,12 @@
 [
     {
-        "uri": "",
-        "version": "0.0.1",
-        "base_memory": 500000000,
-        "ratio_est": -1785.4985,
-        "ratio_upper": 5104.3165,
-        "r2": 0.1908,
-        "ratio_rounded": 5104.4,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "0.0.2",
-        "base_memory": 500000000,
-        "ratio_est": -179.7775,
-        "ratio_upper": 771.0836,
-        "r2": 0.0749,
-        "ratio_rounded": 771.2,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "0.0.3",
-        "base_memory": 500000000,
-        "ratio_est": -2595.9926,
-        "ratio_upper": -2315.4426,
-        "r2": 0.8376,
-        "ratio_rounded": -2315.3,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "0.0.3",
-        "base_memory": 1000000000,
-        "ratio_est": 0.4634,
-        "ratio_upper": 0.8003,
-        "r2": 0.5311,
-        "ratio_rounded": 0.9,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "0.0.6",
-        "base_memory": 1000000000,
-        "ratio_est": 9.0538,
-        "ratio_upper": 9.9364,
-        "r2": 0.9973,
-        "ratio_rounded": 10,
-        "ratio": 10
-    },
-    {
-        "uri": "",
-        "version": "0.1",
-        "base_memory": 500000000,
-        "ratio_est": -219167.598,
-        "ratio_upper": -161507.2404,
-        "r2": 0.8964,
-        "ratio_rounded": -161507.1,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "0.1.0",
-        "base_memory": 500000000,
-        "ratio_est": 0.949,
-        "ratio_upper": 1.263,
-        "r2": 0.8747,
-        "ratio_rounded": 1.4,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "0.1.1",
-        "base_memory": 500000000,
-        "ratio_est": 3.3647,
-        "ratio_upper": 6.2955,
-        "r2": 0.2637,
-        "ratio_rounded": 6.4,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "0.1.2",
-        "base_memory": 500000000,
-        "ratio_est": -11.3112,
-        "ratio_upper": -5.3964,
-        "r2": 0.2802,
-        "ratio_rounded": -5.3,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "0.1.3",
-        "base_memory": 500000000,
-        "ratio_est": -132.8696,
-        "ratio_upper": -63.2591,
-        "r2": 0.4057,
-        "ratio_rounded": -63.2,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "0.1.3",
-        "base_memory": 1000000000,
-        "ratio_est": 225.7208,
-        "ratio_upper": 252.3712,
-        "r2": 0.9821,
-        "ratio_rounded": 252.5,
-        "ratio": 50
-    },
-    {
-        "uri": "",
-        "version": "0.1.5",
-        "base_memory": 500000000,
-        "ratio_est": -2725.1558,
-        "ratio_upper": 6470.0514,
-        "r2": 0.2356,
-        "ratio_rounded": 6470.2,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "0.10.1",
-        "base_memory": 500000000,
-        "ratio_est": -16.307,
-        "ratio_upper": 48.2813,
-        "r2": 0.1828,
-        "ratio_rounded": 48.4,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "0.9.1",
-        "base_memory": 500000000,
-        "ratio_est": -3.3228,
-        "ratio_upper": -0.6595,
-        "r2": 0.4568,
-        "ratio_rounded": -0.6,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "1.0.6",
-        "base_memory": 500000000,
-        "ratio_est": -1376.9346,
-        "ratio_upper": -532.2558,
-        "r2": 0.7733,
-        "ratio_rounded": -532.2,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "1.1.0",
-        "base_memory": 500000000,
-        "ratio_est": 1.331,
-        "ratio_upper": 1.46,
-        "r2": 0.9522,
-        "ratio_rounded": 1.6,
-        "ratio": 5
-    },
-    {
-        "uri": "",
-        "version": "1.2.0",
-        "base_memory": 500000000,
-        "ratio_est": 6.4161,
-        "ratio_upper": 8.8363,
-        "r2": 0.843,
-        "ratio_rounded": 8.9,
-        "ratio": 8.9
-    },
-    {
-        "uri": "",
-        "version": "1.3.2",
-        "base_memory": 500000000,
-        "ratio_est": -0.8273,
-        "ratio_upper": 2.367,
-        "r2": 0.1906,
-        "ratio_rounded": 2.5,
-        "ratio": 5
-    },
-    {
         "uri": "https://github.com/BvHeeswijk/peacoqc_operator",
         "version": "0.1.1",
         "base_memory": 500000000,
         "ratio_est": 1.5298,
         "ratio_upper": 2.8684,
         "r2": 0.8209,
+        "typical_duration": 19.9,
         "ratio_rounded": 3,
         "ratio": 5
     },
@@ -196,6 +17,7 @@
         "ratio_est": 0.2072,
         "ratio_upper": 2.1271,
         "r2": 0.0393,
+        "typical_duration": 12.7,
         "ratio_rounded": 2.2,
         "ratio": 5
     },
@@ -206,6 +28,7 @@
         "ratio_est": -938.2526,
         "ratio_upper": -574.0331,
         "r2": 0.5459,
+        "typical_duration": 6.9,
         "ratio_rounded": -573.9,
         "ratio": 5
     },
@@ -213,10 +36,11 @@
         "uri": "https://github.com/pamgene/ETS_operator",
         "version": "0.3.0",
         "base_memory": 500000000,
-        "ratio_est": -40.0195,
-        "ratio_upper": -27.8593,
-        "r2": 0.3015,
-        "ratio_rounded": -27.8,
+        "ratio_est": -38.6882,
+        "ratio_upper": -27.2132,
+        "r2": 0.3011,
+        "typical_duration": 4.2,
+        "ratio_rounded": -27.1,
         "ratio": 5
     },
     {
@@ -226,6 +50,7 @@
         "ratio_est": -114.746,
         "ratio_upper": -75.6043,
         "r2": 0.6252,
+        "typical_duration": 7.9,
         "ratio_rounded": -75.5,
         "ratio": 5
     },
@@ -233,60 +58,66 @@
         "uri": "https://github.com/pamgene/PTK_QC_presence_operator",
         "version": "0.1.2",
         "base_memory": 500000000,
-        "ratio_est": -181.3991,
-        "ratio_upper": -155.656,
-        "r2": 0.8851,
-        "ratio_rounded": -155.6,
+        "ratio_est": -165.0372,
+        "ratio_upper": -136.3831,
+        "r2": 0.8221,
+        "typical_duration": 7.5,
+        "ratio_rounded": -136.3,
         "ratio": 5
     },
     {
         "uri": "https://github.com/pamgene/S100_operator",
         "version": "0.2.0",
         "base_memory": 500000000,
-        "ratio_est": -145.2818,
-        "ratio_upper": -107.8514,
-        "r2": 0.3751,
-        "ratio_rounded": -107.8,
+        "ratio_est": -140.7368,
+        "ratio_upper": -105.1876,
+        "r2": 0.3726,
+        "typical_duration": 4.1,
+        "ratio_rounded": -105.1,
         "ratio": 5
     },
     {
         "uri": "https://github.com/pamgene/anova_dunnett_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -1702.4694,
-        "ratio_upper": -1501.9776,
-        "r2": 0.8575,
-        "ratio_rounded": -1501.9,
+        "ratio_est": -1660.128,
+        "ratio_upper": -1462.9067,
+        "r2": 0.8478,
+        "typical_duration": 6.3,
+        "ratio_rounded": -1462.8,
         "ratio": 5
     },
     {
         "uri": "https://github.com/pamgene/check_input1_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -2203.1042,
-        "ratio_upper": -1966.9099,
-        "r2": 0.749,
-        "ratio_rounded": -1966.8,
+        "ratio_est": -2187.5964,
+        "ratio_upper": -1958.2493,
+        "r2": 0.7492,
+        "typical_duration": 3.6,
+        "ratio_rounded": -1958.1,
         "ratio": 5
     },
     {
         "uri": "https://github.com/pamgene/col_flag_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -12076.8623,
-        "ratio_upper": -10329.0725,
-        "r2": 0.7994,
-        "ratio_rounded": -10329,
+        "ratio_est": -11731.4199,
+        "ratio_upper": -10047.1423,
+        "r2": 0.7923,
+        "typical_duration": 2.7,
+        "ratio_rounded": -10047,
         "ratio": 5
     },
     {
         "uri": "https://github.com/pamgene/log_cutoff_operator",
         "version": "0.1.1",
         "base_memory": 500000000,
-        "ratio_est": -663.9931,
-        "ratio_upper": -491.9357,
-        "r2": 0.2508,
-        "ratio_rounded": -491.8,
+        "ratio_est": -676.2864,
+        "ratio_upper": -506.2196,
+        "r2": 0.2575,
+        "typical_duration": 3.4,
+        "ratio_rounded": -506.1,
         "ratio": 5
     },
     {
@@ -296,6 +127,7 @@
         "ratio_est": -2120.9994,
         "ratio_upper": -633.0478,
         "r2": 0.6806,
+        "typical_duration": 3.5,
         "ratio_rounded": -632.9,
         "ratio": 5
     },
@@ -303,20 +135,22 @@
         "uri": "https://github.com/pamgene/model_based_clustering_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -8736.8398,
-        "ratio_upper": -7825.6135,
-        "r2": 0.8831,
-        "ratio_rounded": -7825.5,
+        "ratio_est": -8813.1864,
+        "ratio_upper": -7927.6768,
+        "r2": 0.8847,
+        "typical_duration": 4,
+        "ratio_rounded": -7927.6,
         "ratio": 5
     },
     {
         "uri": "https://github.com/pamgene/nominal_cv_estimate_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -1900.9221,
-        "ratio_upper": -1632.82,
-        "r2": 0.7518,
-        "ratio_rounded": -1632.7,
+        "ratio_est": -1889.6361,
+        "ratio_upper": -1628.1371,
+        "r2": 0.7527,
+        "typical_duration": 3.1,
+        "ratio_rounded": -1628,
         "ratio": 5
     },
     {
@@ -326,6 +160,7 @@
         "ratio_est": 116.7669,
         "ratio_upper": 133.2352,
         "r2": 0.7602,
+        "typical_duration": 29.5,
         "ratio_rounded": 133.3,
         "ratio": 50
     },
@@ -333,10 +168,11 @@
         "uri": "https://github.com/pamgene/pamsoft_grid_operator",
         "version": "1.4.1",
         "base_memory": 1000000000,
-        "ratio_est": 150.3411,
-        "ratio_upper": 168.406,
-        "r2": 0.8683,
-        "ratio_rounded": 168.5,
+        "ratio_est": 138.2808,
+        "ratio_upper": 155.6536,
+        "r2": 0.8514,
+        "typical_duration": 31.6,
+        "ratio_rounded": 155.8,
         "ratio": 50
     },
     {
@@ -346,6 +182,7 @@
         "ratio_est": 113.0276,
         "ratio_upper": 139.9785,
         "r2": 0.7797,
+        "typical_duration": 34.8,
         "ratio_rounded": 140.1,
         "ratio": 50
     },
@@ -356,6 +193,7 @@
         "ratio_est": 86.1131,
         "ratio_upper": 104.5892,
         "r2": 0.7516,
+        "typical_duration": 37.8,
         "ratio_rounded": 104.7,
         "ratio": 50
     },
@@ -366,6 +204,7 @@
         "ratio_est": 123.8821,
         "ratio_upper": 145.0527,
         "r2": 0.7982,
+        "typical_duration": 37.1,
         "ratio_rounded": 145.2,
         "ratio": 50
     },
@@ -373,10 +212,11 @@
         "uri": "https://github.com/pamgene/pamsoft_grid_qt_operator",
         "version": "1.4.2",
         "base_memory": 1000000000,
-        "ratio_est": 128.9394,
-        "ratio_upper": 195.2288,
-        "r2": 0.8293,
-        "ratio_rounded": 195.3,
+        "ratio_est": 89.9674,
+        "ratio_upper": 128.0167,
+        "r2": 0.8103,
+        "typical_duration": 43.4,
+        "ratio_rounded": 128.1,
         "ratio": 50
     },
     {
@@ -386,6 +226,7 @@
         "ratio_est": -262028.7868,
         "ratio_upper": -187993.9502,
         "r2": 0.8938,
+        "typical_duration": 3,
         "ratio_rounded": -187993.9,
         "ratio": 5
     },
@@ -393,21 +234,56 @@
         "uri": "https://github.com/pamgene/ps12image_operator",
         "version": "1.2.2",
         "base_memory": 500000000,
-        "ratio_est": 0.3017,
-        "ratio_upper": 0.6936,
-        "r2": 0.0215,
-        "ratio_rounded": 0.8,
+        "ratio_est": 0.3867,
+        "ratio_upper": 0.7738,
+        "r2": 0.035,
+        "typical_duration": 8.1,
+        "ratio_rounded": 0.9,
         "ratio": 5
     },
     {
         "uri": "https://github.com/pamgene/vsn_operator",
         "version": "0.2.2",
         "base_memory": 500000000,
-        "ratio_est": -184.2757,
-        "ratio_upper": -88.7738,
-        "r2": 0.2488,
-        "ratio_rounded": -88.7,
+        "ratio_est": -195.6045,
+        "ratio_upper": -101.1747,
+        "r2": 0.2523,
+        "typical_duration": 6.1,
+        "ratio_rounded": -101.1,
         "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/DESeq2_operator",
+        "version": "0.1.1",
+        "base_memory": 500000000,
+        "ratio_est": 240.6301,
+        "ratio_upper": 282.8769,
+        "r2": 0.9073,
+        "typical_duration": 24,
+        "ratio_rounded": 283,
+        "ratio": 50
+    },
+    {
+        "uri": "https://github.com/tercen/DESeq2_two_conditions_operator",
+        "version": "0.0.5",
+        "base_memory": 500000000,
+        "ratio_est": 76.8596,
+        "ratio_upper": 86.8813,
+        "r2": 0.9666,
+        "typical_duration": 30.2,
+        "ratio_rounded": 87,
+        "ratio": 50
+    },
+    {
+        "uri": "https://github.com/tercen/DESeq2_two_conditions_operator",
+        "version": "0.0.6",
+        "base_memory": 500000000,
+        "ratio_est": 18.1607,
+        "ratio_upper": 26.8809,
+        "r2": 0.7932,
+        "typical_duration": 27.5,
+        "ratio_rounded": 27,
+        "ratio": 27
     },
     {
         "uri": "https://github.com/tercen/ETS_operator",
@@ -416,6 +292,7 @@
         "ratio_est": -18.0213,
         "ratio_upper": 13.6368,
         "r2": 0.0711,
+        "typical_duration": 16.9,
         "ratio_rounded": 13.7,
         "ratio": 5
     },
@@ -426,6 +303,7 @@
         "ratio_est": -0.6512,
         "ratio_upper": 19.3613,
         "r2": 0.0004,
+        "typical_duration": 15.9,
         "ratio_rounded": 19.5,
         "ratio": 5
     },
@@ -436,6 +314,7 @@
         "ratio_est": -15605.7244,
         "ratio_upper": 7461.3763,
         "r2": 0.509,
+        "typical_duration": 13.4,
         "ratio_rounded": 7461.5,
         "ratio": 5
     },
@@ -446,6 +325,7 @@
         "ratio_est": -861.5833,
         "ratio_upper": 368.3447,
         "r2": 0.6327,
+        "typical_duration": 12.4,
         "ratio_rounded": 368.4,
         "ratio": 5
     },
@@ -456,16 +336,18 @@
         "ratio_est": 5.3169,
         "ratio_upper": 6.7079,
         "r2": 0.682,
+        "typical_duration": 13.3,
         "ratio_rounded": 6.8,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/MEM_operator",
         "version": "1.2.1",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 2.2064,
         "ratio_upper": 2.2836,
         "r2": 0.9565,
+        "typical_duration": 23.9,
         "ratio_rounded": 2.4,
         "ratio": 5
     },
@@ -476,6 +358,7 @@
         "ratio_est": -160.5612,
         "ratio_upper": -102.0557,
         "r2": 0.7586,
+        "typical_duration": 10.5,
         "ratio_rounded": -102,
         "ratio": 5
     },
@@ -486,6 +369,7 @@
         "ratio_est": -131.4522,
         "ratio_upper": -80.9694,
         "r2": 0.3724,
+        "typical_duration": 4.4,
         "ratio_rounded": -80.9,
         "ratio": 5
     },
@@ -496,6 +380,7 @@
         "ratio_est": -3746.7875,
         "ratio_upper": 1158.4345,
         "r2": 0.6719,
+        "typical_duration": 9.5,
         "ratio_rounded": 1158.5,
         "ratio": 5
     },
@@ -506,6 +391,7 @@
         "ratio_est": 35.1199,
         "ratio_upper": 62.4497,
         "r2": 0.789,
+        "typical_duration": 18.8,
         "ratio_rounded": 62.5,
         "ratio": 50
     },
@@ -516,6 +402,7 @@
         "ratio_est": -2436.0725,
         "ratio_upper": -1966.4469,
         "r2": 0.8024,
+        "typical_duration": 6.8,
         "ratio_rounded": -1966.3,
         "ratio": 5
     },
@@ -526,6 +413,7 @@
         "ratio_est": -892.4563,
         "ratio_upper": -723.8623,
         "r2": 0.9157,
+        "typical_duration": 9.9,
         "ratio_rounded": -723.8,
         "ratio": 5
     },
@@ -536,6 +424,7 @@
         "ratio_est": 1.9112,
         "ratio_upper": 2.2299,
         "r2": 0.942,
+        "typical_duration": 4.2,
         "ratio_rounded": 2.3,
         "ratio": 5
     },
@@ -546,6 +435,7 @@
         "ratio_est": 5.3857,
         "ratio_upper": 5.8067,
         "r2": 0.9518,
+        "typical_duration": 12.5,
         "ratio_rounded": 5.9,
         "ratio": 5.9
     },
@@ -556,6 +446,7 @@
         "ratio_est": 1.217,
         "ratio_upper": 1.2426,
         "r2": 0.9666,
+        "typical_duration": 11.9,
         "ratio_rounded": 1.3,
         "ratio": 5
     },
@@ -566,17 +457,8 @@
         "ratio_est": 3.5441,
         "ratio_upper": 4.5403,
         "r2": 0.978,
+        "typical_duration": 31.9,
         "ratio_rounded": 4.6,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/automated_gating_operator",
-        "version": "0.3.10",
-        "base_memory": 1000000000,
-        "ratio_est": 5.6887,
-        "ratio_upper": 8.205,
-        "r2": 0.3763,
-        "ratio_rounded": 8.3,
         "ratio": 5
     },
     {
@@ -586,6 +468,7 @@
         "ratio_est": 1.0024,
         "ratio_upper": 2.0084,
         "r2": 0.3729,
+        "typical_duration": 19.3,
         "ratio_rounded": 2.1,
         "ratio": 5
     },
@@ -596,6 +479,7 @@
         "ratio_est": 1.484,
         "ratio_upper": 1.6012,
         "r2": 0.9488,
+        "typical_duration": 37.7,
         "ratio_rounded": 1.7,
         "ratio": 5
     },
@@ -606,7 +490,19 @@
         "ratio_est": 2.3425,
         "ratio_upper": 2.9269,
         "r2": 0.6857,
+        "typical_duration": 28.8,
         "ratio_rounded": 3,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/automated_gating_operator",
+        "version": "0.3.10",
+        "base_memory": 1000000000,
+        "ratio_est": 5.6887,
+        "ratio_upper": 8.205,
+        "r2": 0.3763,
+        "typical_duration": 14,
+        "ratio_rounded": 8.3,
         "ratio": 5
     },
     {
@@ -616,6 +512,7 @@
         "ratio_est": -40.6121,
         "ratio_upper": -7.3242,
         "r2": 0.1968,
+        "typical_duration": 6.1,
         "ratio_rounded": -7.2,
         "ratio": 5
     },
@@ -626,6 +523,7 @@
         "ratio_est": -5117.0358,
         "ratio_upper": -2402.1034,
         "r2": 0.3915,
+        "typical_duration": 6.9,
         "ratio_rounded": -2402,
         "ratio": 5
     },
@@ -636,6 +534,7 @@
         "ratio_est": -2.2361,
         "ratio_upper": 2.9285,
         "r2": 0.0147,
+        "typical_duration": 10,
         "ratio_rounded": 3,
         "ratio": 5
     },
@@ -646,16 +545,17 @@
         "ratio_est": -16.0593,
         "ratio_upper": -5.5385,
         "r2": 0.0639,
+        "typical_duration": 8.4,
         "ratio_rounded": -5.4,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/biexponential_transform",
-        "version": "v0.0.4",
         "base_memory": 500000000,
         "ratio_est": 0.9753,
         "ratio_upper": 1.9825,
         "r2": 0.3363,
+        "typical_duration": 21.4,
         "ratio_rounded": 2.1,
         "ratio": 5
     },
@@ -666,6 +566,7 @@
         "ratio_est": -3093.7595,
         "ratio_upper": -1325.655,
         "r2": 0.5803,
+        "typical_duration": 6.6,
         "ratio_rounded": -1325.6,
         "ratio": 5
     },
@@ -676,6 +577,7 @@
         "ratio_est": -2603.5644,
         "ratio_upper": -2109.8558,
         "r2": 0.9434,
+        "typical_duration": 3.7,
         "ratio_rounded": -2109.8,
         "ratio": 5
     },
@@ -686,6 +588,7 @@
         "ratio_est": -2935.9835,
         "ratio_upper": -2054.9834,
         "r2": 0.8818,
+        "typical_duration": 6.8,
         "ratio_rounded": -2054.9,
         "ratio": 5
     },
@@ -696,6 +599,7 @@
         "ratio_est": -2460.9633,
         "ratio_upper": -2410.2662,
         "r2": 0.9994,
+        "typical_duration": 3.6,
         "ratio_rounded": -2410.2,
         "ratio": 5
     },
@@ -706,6 +610,7 @@
         "ratio_est": -3809.7615,
         "ratio_upper": -2262.7093,
         "r2": 0.4996,
+        "typical_duration": 6.5,
         "ratio_rounded": -2262.6,
         "ratio": 5
     },
@@ -716,6 +621,7 @@
         "ratio_est": -1222.0463,
         "ratio_upper": -856.9736,
         "r2": 0.4348,
+        "typical_duration": 3.6,
         "ratio_rounded": -856.9,
         "ratio": 5
     },
@@ -726,6 +632,7 @@
         "ratio_est": -494.1631,
         "ratio_upper": 12.583,
         "r2": 0.2138,
+        "typical_duration": 3.8,
         "ratio_rounded": 12.7,
         "ratio": 5
     },
@@ -736,6 +643,7 @@
         "ratio_est": -2992.7818,
         "ratio_upper": -2392.0146,
         "r2": 0.8489,
+        "typical_duration": 4.9,
         "ratio_rounded": -2391.9,
         "ratio": 5
     },
@@ -746,6 +654,7 @@
         "ratio_est": -3715.2952,
         "ratio_upper": -2603.141,
         "r2": 0.621,
+        "typical_duration": 4.3,
         "ratio_rounded": -2603,
         "ratio": 5
     },
@@ -756,7 +665,19 @@
         "ratio_est": 2.2071,
         "ratio_upper": 5.8453,
         "r2": 0.2194,
+        "typical_duration": 7.8,
         "ratio_rounded": 5.9,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/cluster_annotation_operator",
+        "version": "0.8.0",
+        "base_memory": 500000000,
+        "ratio_est": -1283.6725,
+        "ratio_upper": -846.88,
+        "r2": 0.7012,
+        "typical_duration": 12.7,
+        "ratio_rounded": -846.8,
         "ratio": 5
     },
     {
@@ -766,6 +687,7 @@
         "ratio_est": -2275.3789,
         "ratio_upper": -2240.7347,
         "r2": 0.9998,
+        "typical_duration": 4.2,
         "ratio_rounded": -2240.6,
         "ratio": 5
     },
@@ -776,17 +698,8 @@
         "ratio_est": -1527.5175,
         "ratio_upper": -1137.3389,
         "r2": 0.7552,
+        "typical_duration": 4.5,
         "ratio_rounded": -1137.2,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/cluster_annotation_operator",
-        "version": "0.8.0",
-        "base_memory": 500000000,
-        "ratio_est": -1283.6725,
-        "ratio_upper": -846.88,
-        "r2": 0.7012,
-        "ratio_rounded": -846.8,
         "ratio": 5
     },
     {
@@ -796,6 +709,7 @@
         "ratio_est": 1.2829,
         "ratio_upper": 23.1918,
         "r2": 0.0119,
+        "typical_duration": 4.5,
         "ratio_rounded": 23.3,
         "ratio": 5
     },
@@ -806,6 +720,7 @@
         "ratio_est": -17522.8337,
         "ratio_upper": -12039.2371,
         "r2": 0.6415,
+        "typical_duration": 3.3,
         "ratio_rounded": -12039.1,
         "ratio": 5
     },
@@ -816,6 +731,7 @@
         "ratio_est": -19.0782,
         "ratio_upper": 11.6275,
         "r2": 0.0205,
+        "typical_duration": 5.7,
         "ratio_rounded": 11.7,
         "ratio": 5
     },
@@ -826,6 +742,7 @@
         "ratio_est": 2.8507,
         "ratio_upper": 3.0587,
         "r2": 0.73,
+        "typical_duration": 12.9,
         "ratio_rounded": 3.2,
         "ratio": 5
     },
@@ -836,6 +753,7 @@
         "ratio_est": -3329.3513,
         "ratio_upper": -362.0549,
         "r2": 0.4299,
+        "typical_duration": 3.9,
         "ratio_rounded": -362,
         "ratio": 5
     },
@@ -846,6 +764,7 @@
         "ratio_est": -5.0729,
         "ratio_upper": 1.3062,
         "r2": 0.2373,
+        "typical_duration": 6.2,
         "ratio_rounded": 1.4,
         "ratio": 5
     },
@@ -856,6 +775,7 @@
         "ratio_est": 0.4768,
         "ratio_upper": 0.5149,
         "r2": 0.9606,
+        "typical_duration": 7.5,
         "ratio_rounded": 0.6,
         "ratio": 5
     },
@@ -866,6 +786,7 @@
         "ratio_est": 0.618,
         "ratio_upper": 0.652,
         "r2": 0.9382,
+        "typical_duration": 10.5,
         "ratio_rounded": 0.8,
         "ratio": 5
     },
@@ -876,6 +797,7 @@
         "ratio_est": 0.6037,
         "ratio_upper": 0.6443,
         "r2": 0.9316,
+        "typical_duration": 7.5,
         "ratio_rounded": 0.7,
         "ratio": 5
     },
@@ -886,6 +808,7 @@
         "ratio_est": 10.5687,
         "ratio_upper": 18.3659,
         "r2": 0.8062,
+        "typical_duration": 27.9,
         "ratio_rounded": 18.5,
         "ratio": 18.5
     },
@@ -896,6 +819,7 @@
         "ratio_est": 2.0587,
         "ratio_upper": 2.4242,
         "r2": 0.9911,
+        "typical_duration": 52.1,
         "ratio_rounded": 2.5,
         "ratio": 5
     },
@@ -906,6 +830,7 @@
         "ratio_est": 1.6789,
         "ratio_upper": 1.6938,
         "r2": 1,
+        "typical_duration": 16.8,
         "ratio_rounded": 1.8,
         "ratio": 5
     },
@@ -916,6 +841,7 @@
         "ratio_est": 11.1408,
         "ratio_upper": 22.5825,
         "r2": 0.6822,
+        "typical_duration": 31.8,
         "ratio_rounded": 22.7,
         "ratio": 5
     },
@@ -926,6 +852,7 @@
         "ratio_est": 4.2242,
         "ratio_upper": 5.5185,
         "r2": 0.946,
+        "typical_duration": 118.5,
         "ratio_rounded": 5.6,
         "ratio": 5.6
     },
@@ -936,6 +863,7 @@
         "ratio_est": 2.8533,
         "ratio_upper": 2.949,
         "r2": 0.9959,
+        "typical_duration": 284.7,
         "ratio_rounded": 3,
         "ratio": 5
     },
@@ -946,6 +874,7 @@
         "ratio_est": 6.0368,
         "ratio_upper": 6.1679,
         "r2": 0.9984,
+        "typical_duration": 123.3,
         "ratio_rounded": 6.3,
         "ratio": 6.3
     },
@@ -956,6 +885,7 @@
         "ratio_est": 11.8055,
         "ratio_upper": 60.553,
         "r2": 0.1707,
+        "typical_duration": 11.1,
         "ratio_rounded": 60.7,
         "ratio": 5
     },
@@ -966,6 +896,7 @@
         "ratio_est": -0.0995,
         "ratio_upper": 7.0055,
         "r2": 0.0001,
+        "typical_duration": 11.2,
         "ratio_rounded": 7.1,
         "ratio": 5
     },
@@ -976,6 +907,7 @@
         "ratio_est": 84.7252,
         "ratio_upper": 272.8459,
         "r2": 0.2066,
+        "typical_duration": 11.8,
         "ratio_rounded": 272.9,
         "ratio": 5
     },
@@ -986,6 +918,7 @@
         "ratio_est": 3.0162,
         "ratio_upper": 3.1811,
         "r2": 0.9696,
+        "typical_duration": 26.1,
         "ratio_rounded": 3.3,
         "ratio": 5
     },
@@ -996,6 +929,7 @@
         "ratio_est": 3.3053,
         "ratio_upper": 3.3746,
         "r2": 0.9961,
+        "typical_duration": 35.2,
         "ratio_rounded": 3.5,
         "ratio": 5
     },
@@ -1006,6 +940,7 @@
         "ratio_est": 3.2474,
         "ratio_upper": 3.3205,
         "r2": 0.9981,
+        "typical_duration": 34.3,
         "ratio_rounded": 3.4,
         "ratio": 5
     },
@@ -1016,6 +951,7 @@
         "ratio_est": 0.1915,
         "ratio_upper": 0.2884,
         "r2": 0.7488,
+        "typical_duration": 6.6,
         "ratio_rounded": 0.4,
         "ratio": 5
     },
@@ -1026,6 +962,7 @@
         "ratio_est": 2.9151,
         "ratio_upper": 2.9949,
         "r2": 0.9998,
+        "typical_duration": 18,
         "ratio_rounded": 3.1,
         "ratio": 5
     },
@@ -1036,46 +973,50 @@
         "ratio_est": 3.6528,
         "ratio_upper": 3.6697,
         "r2": 0.9998,
+        "typical_duration": 22.5,
         "ratio_rounded": 3.8,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/extract_plateid_well_date_operator",
-        "version": "630fbee8e6e46c3293e26e6ec22aff9249deba3b",
         "base_memory": 500000000,
         "ratio_est": -884.3896,
         "ratio_upper": -737.2885,
         "r2": 0.9697,
+        "typical_duration": 8.9,
         "ratio_rounded": -737.2,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/fast_tSNE_operator",
         "version": "0.0.4",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 2.9815,
         "ratio_upper": 3.2601,
         "r2": 0.8484,
+        "typical_duration": 39.7,
         "ratio_rounded": 3.4,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/fast_tSNE_operator",
         "version": "0.1.3",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 3.9543,
         "ratio_upper": 5.0666,
         "r2": 0.6688,
+        "typical_duration": 53.3,
         "ratio_rounded": 5.2,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/fast_tSNE_operator",
         "version": "0.1.4",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 2.7238,
         "ratio_upper": 2.8972,
         "r2": 0.8772,
+        "typical_duration": 34.4,
         "ratio_rounded": 3,
         "ratio": 5
     },
@@ -1086,6 +1027,7 @@
         "ratio_est": 5.3368,
         "ratio_upper": 5.7519,
         "r2": 0.919,
+        "typical_duration": 97.5,
         "ratio_rounded": 5.9,
         "ratio": 5.9
     },
@@ -1096,6 +1038,7 @@
         "ratio_est": 4.4312,
         "ratio_upper": 5.3487,
         "r2": 0.8879,
+        "typical_duration": 679.2,
         "ratio_rounded": 5.4,
         "ratio": 5.4
     },
@@ -1106,6 +1049,7 @@
         "ratio_est": 0.7102,
         "ratio_upper": 0.7544,
         "r2": 0.9853,
+        "typical_duration": 26.3,
         "ratio_rounded": 0.9,
         "ratio": 5
     },
@@ -1116,6 +1060,7 @@
         "ratio_est": -72664.5097,
         "ratio_upper": -69209.3947,
         "r2": 0.9962,
+        "typical_duration": 13.9,
         "ratio_rounded": -69209.3,
         "ratio": 5
     },
@@ -1126,6 +1071,7 @@
         "ratio_est": -12.0203,
         "ratio_upper": 38.7647,
         "r2": 0.0325,
+        "typical_duration": 4.9,
         "ratio_rounded": 38.9,
         "ratio": 5
     },
@@ -1136,26 +1082,29 @@
         "ratio_est": 1.1123,
         "ratio_upper": 1.1419,
         "r2": 0.9963,
+        "typical_duration": 15.3,
         "ratio_rounded": 1.2,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/flowjo_export_operator",
         "version": "0.0.7",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 3.7697,
         "ratio_upper": 4.3173,
         "r2": 0.747,
+        "typical_duration": 31.7,
         "ratio_rounded": 4.4,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/flowjo_export_operator",
         "version": "0.1.0",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 8.5437,
         "ratio_upper": 10.1719,
         "r2": 0.8569,
+        "typical_duration": 36.4,
         "ratio_rounded": 10.3,
         "ratio": 10.3
     },
@@ -1166,6 +1115,7 @@
         "ratio_est": 0.1658,
         "ratio_upper": 0.1981,
         "r2": 0.3738,
+        "typical_duration": 14.6,
         "ratio_rounded": 0.3,
         "ratio": 5
     },
@@ -1176,6 +1126,7 @@
         "ratio_est": 2.3641,
         "ratio_upper": 2.4752,
         "r2": 0.9471,
+        "typical_duration": 33.5,
         "ratio_rounded": 2.6,
         "ratio": 5
     },
@@ -1186,6 +1137,7 @@
         "ratio_est": 1.4758,
         "ratio_upper": 1.5764,
         "r2": 0.8316,
+        "typical_duration": 45.7,
         "ratio_rounded": 1.7,
         "ratio": 5
     },
@@ -1196,6 +1148,7 @@
         "ratio_est": 6.6367,
         "ratio_upper": 9.798,
         "r2": 0.7475,
+        "typical_duration": 96.2,
         "ratio_rounded": 9.9,
         "ratio": 9.9
     },
@@ -1206,6 +1159,7 @@
         "ratio_est": 1.1363,
         "ratio_upper": 1.1539,
         "r2": 0.9893,
+        "typical_duration": 18.9,
         "ratio_rounded": 1.3,
         "ratio": 5
     },
@@ -1216,6 +1170,7 @@
         "ratio_est": -75.1623,
         "ratio_upper": -75.0665,
         "r2": 1,
+        "typical_duration": 4.8,
         "ratio_rounded": -75,
         "ratio": 5
     },
@@ -1226,6 +1181,7 @@
         "ratio_est": -44.4192,
         "ratio_upper": -37.8485,
         "r2": 0.9466,
+        "typical_duration": 5,
         "ratio_rounded": -37.7,
         "ratio": 5
     },
@@ -1236,16 +1192,17 @@
         "ratio_est": -1.9644,
         "ratio_upper": 1.5325,
         "r2": 0.0494,
+        "typical_duration": 11.9,
         "ratio_rounded": 1.6,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/fsgea_operator",
-        "version": "f61e9e802be76470087d5ea01c390832bf006beb",
         "base_memory": 500000000,
         "ratio_est": 5.5373,
         "ratio_upper": 13.2887,
         "r2": 0.1167,
+        "typical_duration": 16.1,
         "ratio_rounded": 13.4,
         "ratio": 5
     },
@@ -1256,6 +1213,7 @@
         "ratio_est": -31142.4555,
         "ratio_upper": -23585.9903,
         "r2": 0.9562,
+        "typical_duration": 7,
         "ratio_rounded": -23585.9,
         "ratio": 5
     },
@@ -1266,6 +1224,7 @@
         "ratio_est": 38.395,
         "ratio_upper": 66.7529,
         "r2": 0.8655,
+        "typical_duration": 12.1,
         "ratio_rounded": 66.9,
         "ratio": 50
     },
@@ -1276,6 +1235,7 @@
         "ratio_est": 2.4606,
         "ratio_upper": 11.5312,
         "r2": 0.0716,
+        "typical_duration": 8.9,
         "ratio_rounded": 11.6,
         "ratio": 5
     },
@@ -1286,6 +1246,7 @@
         "ratio_est": -2.4127,
         "ratio_upper": 5.4838,
         "r2": 0.0439,
+        "typical_duration": 5.4,
         "ratio_rounded": 5.6,
         "ratio": 5
     },
@@ -1296,6 +1257,7 @@
         "ratio_est": -2.4321,
         "ratio_upper": 4.7569,
         "r2": 0.1072,
+        "typical_duration": 4.1,
         "ratio_rounded": 4.9,
         "ratio": 5
     },
@@ -1304,8 +1266,9 @@
         "version": "0.10.0",
         "base_memory": 500000000,
         "ratio_est": 1.2226,
-        "ratio_upper": 1.4679,
-        "r2": 0.4185,
+        "ratio_upper": 1.4672,
+        "r2": 0.4173,
+        "typical_duration": 3.4,
         "ratio_rounded": 1.6,
         "ratio": 5
     },
@@ -1316,6 +1279,7 @@
         "ratio_est": -1106.1381,
         "ratio_upper": -537.8767,
         "r2": 0.5949,
+        "typical_duration": 5.9,
         "ratio_rounded": -537.8,
         "ratio": 5
     },
@@ -1326,6 +1290,7 @@
         "ratio_est": -723.9332,
         "ratio_upper": -463.3769,
         "r2": 0.2052,
+        "typical_duration": 5.5,
         "ratio_rounded": -463.3,
         "ratio": 5
     },
@@ -1336,6 +1301,7 @@
         "ratio_est": -6.8021,
         "ratio_upper": 1.0056,
         "r2": 0.0177,
+        "typical_duration": 3.9,
         "ratio_rounded": 1.1,
         "ratio": 5
     },
@@ -1346,6 +1312,7 @@
         "ratio_est": 0.4243,
         "ratio_upper": 0.5851,
         "r2": 0.6901,
+        "typical_duration": 10.7,
         "ratio_rounded": 0.7,
         "ratio": 5
     },
@@ -1356,6 +1323,7 @@
         "ratio_est": -9.4044,
         "ratio_upper": -3.8834,
         "r2": 0.4669,
+        "typical_duration": 9.7,
         "ratio_rounded": -3.8,
         "ratio": 5
     },
@@ -1366,6 +1334,7 @@
         "ratio_est": 0.5892,
         "ratio_upper": 0.6814,
         "r2": 0.8809,
+        "typical_duration": 12.5,
         "ratio_rounded": 0.8,
         "ratio": 5
     },
@@ -1376,6 +1345,7 @@
         "ratio_est": -6.6138,
         "ratio_upper": 5.8411,
         "r2": 0.0074,
+        "typical_duration": 4.7,
         "ratio_rounded": 5.9,
         "ratio": 5
     },
@@ -1385,7 +1355,8 @@
         "base_memory": 500000000,
         "ratio_est": 0.3426,
         "ratio_upper": 0.3722,
-        "r2": 0.4211,
+        "r2": 0.4129,
+        "typical_duration": 3.7,
         "ratio_rounded": 0.5,
         "ratio": 5
     },
@@ -1396,6 +1367,7 @@
         "ratio_est": 7.9084,
         "ratio_upper": 9.6679,
         "r2": 0.8939,
+        "typical_duration": 12.1,
         "ratio_rounded": 9.8,
         "ratio": 9.8
     },
@@ -1406,6 +1378,7 @@
         "ratio_est": -1331.6945,
         "ratio_upper": -383.8437,
         "r2": 0.3868,
+        "typical_duration": 3.5,
         "ratio_rounded": -383.7,
         "ratio": 5
     },
@@ -1416,6 +1389,7 @@
         "ratio_est": -90.2225,
         "ratio_upper": 20.0709,
         "r2": 0.2861,
+        "typical_duration": 5,
         "ratio_rounded": 20.2,
         "ratio": 5
     },
@@ -1426,6 +1400,7 @@
         "ratio_est": -2902.5596,
         "ratio_upper": -2387.0145,
         "r2": 0.8733,
+        "typical_duration": 7.9,
         "ratio_rounded": -2386.9,
         "ratio": 5
     },
@@ -1436,6 +1411,7 @@
         "ratio_est": -3759.0342,
         "ratio_upper": -3178.8158,
         "r2": 0.82,
+        "typical_duration": 8.1,
         "ratio_rounded": -3178.7,
         "ratio": 5
     },
@@ -1446,6 +1422,7 @@
         "ratio_est": -54.7833,
         "ratio_upper": 10.7898,
         "r2": 0.5347,
+        "typical_duration": 4.7,
         "ratio_rounded": 10.9,
         "ratio": 5
     },
@@ -1456,6 +1433,7 @@
         "ratio_est": -0.9248,
         "ratio_upper": 1.4772,
         "r2": 0.1961,
+        "typical_duration": 13.7,
         "ratio_rounded": 1.6,
         "ratio": 5
     },
@@ -1466,6 +1444,7 @@
         "ratio_est": 0.2847,
         "ratio_upper": 0.8529,
         "r2": 0.0422,
+        "typical_duration": 8.1,
         "ratio_rounded": 1,
         "ratio": 5
     },
@@ -1476,6 +1455,7 @@
         "ratio_est": 1.5348,
         "ratio_upper": 1.6882,
         "r2": 0.9956,
+        "typical_duration": 23.2,
         "ratio_rounded": 1.8,
         "ratio": 5
     },
@@ -1486,6 +1466,7 @@
         "ratio_est": -1.2331,
         "ratio_upper": -0.1234,
         "r2": 0.4854,
+        "typical_duration": 13.8,
         "ratio_rounded": -0,
         "ratio": 5
     },
@@ -1496,6 +1477,7 @@
         "ratio_est": 0.5091,
         "ratio_upper": 0.5905,
         "r2": 0.6368,
+        "typical_duration": 10.8,
         "ratio_rounded": 0.7,
         "ratio": 5
     },
@@ -1506,6 +1488,7 @@
         "ratio_est": 0.6587,
         "ratio_upper": 0.6759,
         "r2": 0.9767,
+        "typical_duration": 7,
         "ratio_rounded": 0.8,
         "ratio": 5
     },
@@ -1516,6 +1499,7 @@
         "ratio_est": -5.7145,
         "ratio_upper": 7.7301,
         "r2": 0.1593,
+        "typical_duration": 12.7,
         "ratio_rounded": 7.8,
         "ratio": 5
     },
@@ -1526,6 +1510,7 @@
         "ratio_est": 4.4089,
         "ratio_upper": 4.9234,
         "r2": 0.6779,
+        "typical_duration": 4.7,
         "ratio_rounded": 5,
         "ratio": 5
     },
@@ -1536,6 +1521,7 @@
         "ratio_est": 0.2904,
         "ratio_upper": 0.8163,
         "r2": 0.0179,
+        "typical_duration": 4.1,
         "ratio_rounded": 0.9,
         "ratio": 5
     },
@@ -1546,6 +1532,7 @@
         "ratio_est": -5.813,
         "ratio_upper": -1.2727,
         "r2": 0.1392,
+        "typical_duration": 7.3,
         "ratio_rounded": -1.2,
         "ratio": 5
     },
@@ -1554,8 +1541,9 @@
         "version": "1.2.0",
         "base_memory": 500000000,
         "ratio_est": 1.2225,
-        "ratio_upper": 1.3005,
-        "r2": 0.7871,
+        "ratio_upper": 1.3004,
+        "r2": 0.7855,
+        "typical_duration": 6.7,
         "ratio_rounded": 1.4,
         "ratio": 5
     },
@@ -1566,6 +1554,7 @@
         "ratio_est": -67.1096,
         "ratio_upper": -23.8331,
         "r2": 0.161,
+        "typical_duration": 7.4,
         "ratio_rounded": -23.7,
         "ratio": 5
     },
@@ -1576,6 +1565,7 @@
         "ratio_est": 0.3448,
         "ratio_upper": 0.4756,
         "r2": 0.1625,
+        "typical_duration": 5.9,
         "ratio_rounded": 0.6,
         "ratio": 5
     },
@@ -1586,6 +1576,7 @@
         "ratio_est": -148.2025,
         "ratio_upper": 180.7749,
         "r2": 0.2067,
+        "typical_duration": 3.8,
         "ratio_rounded": 180.9,
         "ratio": 5
     },
@@ -1596,6 +1587,7 @@
         "ratio_est": 0.6951,
         "ratio_upper": 0.7144,
         "r2": 0.9809,
+        "typical_duration": 4.7,
         "ratio_rounded": 0.8,
         "ratio": 5
     },
@@ -1606,6 +1598,7 @@
         "ratio_est": -3.4986,
         "ratio_upper": 5.1576,
         "r2": 0.0222,
+        "typical_duration": 4.9,
         "ratio_rounded": 5.3,
         "ratio": 5
     },
@@ -1616,6 +1609,7 @@
         "ratio_est": -1606.4419,
         "ratio_upper": -535.1159,
         "r2": 0.2763,
+        "typical_duration": 12.6,
         "ratio_rounded": -535,
         "ratio": 5
     },
@@ -1626,6 +1620,7 @@
         "ratio_est": -11963.1053,
         "ratio_upper": -10461.3224,
         "r2": 0.88,
+        "typical_duration": 5.1,
         "ratio_rounded": -10461.2,
         "ratio": 5
     },
@@ -1636,6 +1631,7 @@
         "ratio_est": -4356.4789,
         "ratio_upper": 2792.3017,
         "r2": 0.0576,
+        "typical_duration": 12.5,
         "ratio_rounded": 2792.4,
         "ratio": 5
     },
@@ -1643,10 +1639,11 @@
         "uri": "https://github.com/tercen/negative_operator",
         "version": "1.0.0",
         "base_memory": 500000000,
-        "ratio_est": -583.4288,
-        "ratio_upper": -395.5729,
-        "r2": 0.197,
-        "ratio_rounded": -395.5,
+        "ratio_est": -617.0491,
+        "ratio_upper": -434.6467,
+        "r2": 0.216,
+        "typical_duration": 3.9,
+        "ratio_rounded": -434.5,
         "ratio": 5
     },
     {
@@ -1656,16 +1653,18 @@
         "ratio_est": -2876.7232,
         "ratio_upper": -2415.5312,
         "r2": 0.8831,
+        "typical_duration": 3.6,
         "ratio_rounded": -2415.4,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/normalizeCounts_operator",
         "version": "0.0.2",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 22.8989,
         "ratio_upper": 32.8992,
         "r2": 0.7788,
+        "typical_duration": 55.8,
         "ratio_rounded": 33,
         "ratio": 33
     },
@@ -1676,6 +1675,7 @@
         "ratio_est": 4.1557,
         "ratio_upper": 4.4905,
         "r2": 0.9733,
+        "typical_duration": 12.5,
         "ratio_rounded": 4.6,
         "ratio": 5
     },
@@ -1686,6 +1686,7 @@
         "ratio_est": -5.3239,
         "ratio_upper": 3.9562,
         "r2": 0.536,
+        "typical_duration": 10.9,
         "ratio_rounded": 4.1,
         "ratio": 5
     },
@@ -1696,6 +1697,7 @@
         "ratio_est": -56.5305,
         "ratio_upper": -4.4785,
         "r2": 0.2859,
+        "typical_duration": 12.2,
         "ratio_rounded": -4.4,
         "ratio": 5
     },
@@ -1706,6 +1708,7 @@
         "ratio_est": 112.8134,
         "ratio_upper": 131.0477,
         "r2": 0.842,
+        "typical_duration": 40.1,
         "ratio_rounded": 131.1,
         "ratio": 50
     },
@@ -1716,6 +1719,7 @@
         "ratio_est": 98.6148,
         "ratio_upper": 121.0454,
         "r2": 0.7836,
+        "typical_duration": 40.4,
         "ratio_rounded": 121.1,
         "ratio": 50
     },
@@ -1726,6 +1730,7 @@
         "ratio_est": -5.6161,
         "ratio_upper": 6.2602,
         "r2": 0.0302,
+        "typical_duration": 6.2,
         "ratio_rounded": 6.4,
         "ratio": 5
     },
@@ -1736,6 +1741,7 @@
         "ratio_est": 2.3509,
         "ratio_upper": 2.4644,
         "r2": 0.999,
+        "typical_duration": 27.4,
         "ratio_rounded": 2.6,
         "ratio": 5
     },
@@ -1746,6 +1752,7 @@
         "ratio_est": 1.0098,
         "ratio_upper": 1.4564,
         "r2": 0.5366,
+        "typical_duration": 16.8,
         "ratio_rounded": 1.6,
         "ratio": 5
     },
@@ -1756,6 +1763,7 @@
         "ratio_est": -73.1082,
         "ratio_upper": -44.0719,
         "r2": 0.8692,
+        "typical_duration": 2.9,
         "ratio_rounded": -44,
         "ratio": 5
     },
@@ -1766,6 +1774,7 @@
         "ratio_est": 1.6703,
         "ratio_upper": 3.0273,
         "r2": 0.0828,
+        "typical_duration": 8.3,
         "ratio_rounded": 3.1,
         "ratio": 5
     },
@@ -1776,6 +1785,7 @@
         "ratio_est": -1199.0206,
         "ratio_upper": 299.2398,
         "r2": 0.5919,
+        "typical_duration": 11.6,
         "ratio_rounded": 299.3,
         "ratio": 5
     },
@@ -1786,6 +1796,7 @@
         "ratio_est": 0.2876,
         "ratio_upper": 1.0355,
         "r2": 0.0581,
+        "typical_duration": 3.9,
         "ratio_rounded": 1.1,
         "ratio": 5
     },
@@ -1796,6 +1807,7 @@
         "ratio_est": 276.5421,
         "ratio_upper": 384.1827,
         "r2": 0.8538,
+        "typical_duration": 26.3,
         "ratio_rounded": 384.3,
         "ratio": 50
     },
@@ -1806,6 +1818,7 @@
         "ratio_est": 229.7171,
         "ratio_upper": 258.3503,
         "r2": 0.9854,
+        "typical_duration": 23.6,
         "ratio_rounded": 258.5,
         "ratio": 50
     },
@@ -1816,6 +1829,7 @@
         "ratio_est": 194.3191,
         "ratio_upper": 250.187,
         "r2": 0.6866,
+        "typical_duration": 39.1,
         "ratio_rounded": 250.3,
         "ratio": 5
     },
@@ -1826,6 +1840,7 @@
         "ratio_est": 25121165.4095,
         "ratio_upper": 29249217.0231,
         "r2": 0.9839,
+        "typical_duration": 7.5,
         "ratio_rounded": 29249217.1,
         "ratio": 50
     },
@@ -1836,6 +1851,7 @@
         "ratio_est": -6616.8872,
         "ratio_upper": 1667.712,
         "r2": 0.3276,
+        "typical_duration": 97.9,
         "ratio_rounded": 1667.8,
         "ratio": 5
     },
@@ -1846,6 +1862,7 @@
         "ratio_est": 2.2335,
         "ratio_upper": 2.2874,
         "r2": 0.9943,
+        "typical_duration": 22.2,
         "ratio_rounded": 2.4,
         "ratio": 5
     },
@@ -1856,17 +1873,8 @@
         "ratio_est": 3.2157,
         "ratio_upper": 3.3446,
         "r2": 0.9985,
+        "typical_duration": 55.4,
         "ratio_rounded": 3.4,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/plot_operator",
-        "version": "0.0.0.10",
-        "base_memory": 500000000,
-        "ratio_est": -3855.4857,
-        "ratio_upper": -3260.2313,
-        "r2": 0.9857,
-        "ratio_rounded": -3260.1,
         "ratio": 5
     },
     {
@@ -1876,6 +1884,7 @@
         "ratio_est": -5022.0777,
         "ratio_upper": -4987.2744,
         "r2": 1,
+        "typical_duration": 8.8,
         "ratio_rounded": -4987.2,
         "ratio": 5
     },
@@ -1886,6 +1895,7 @@
         "ratio_est": -168.8781,
         "ratio_upper": -53.7887,
         "r2": 0.493,
+        "typical_duration": 11.1,
         "ratio_rounded": -53.7,
         "ratio": 5
     },
@@ -1896,6 +1906,7 @@
         "ratio_est": -25605.2509,
         "ratio_upper": -21901.9541,
         "r2": 0.9804,
+        "typical_duration": 4.2,
         "ratio_rounded": -21901.9,
         "ratio": 5
     },
@@ -1906,7 +1917,19 @@
         "ratio_est": -26157.5544,
         "ratio_upper": -18682.8681,
         "r2": 0.8687,
+        "typical_duration": 3.9,
         "ratio_rounded": -18682.8,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/plot_operator",
+        "version": "0.0.0.10",
+        "base_memory": 500000000,
+        "ratio_est": -3855.4857,
+        "ratio_upper": -3260.2313,
+        "r2": 0.9857,
+        "typical_duration": 3.9,
+        "ratio_rounded": -3260.1,
         "ratio": 5
     },
     {
@@ -1916,67 +1939,8 @@
         "ratio_est": -4080.5055,
         "ratio_upper": -2275.8345,
         "r2": 0.7961,
+        "typical_duration": 5.2,
         "ratio_rounded": -2275.7,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/plot_operator",
-        "version": "0.0.10",
-        "base_memory": 500000000,
-        "ratio_est": -378.3096,
-        "ratio_upper": 220.8545,
-        "r2": 0.3386,
-        "ratio_rounded": 221,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/plot_operator",
-        "version": "0.0.11",
-        "base_memory": 500000000,
-        "ratio_est": -4161.763,
-        "ratio_upper": -2373.9883,
-        "r2": 0.8992,
-        "ratio_rounded": -2373.9,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/plot_operator",
-        "version": "0.0.12",
-        "base_memory": 500000000,
-        "ratio_est": -3002.7967,
-        "ratio_upper": -1732.6074,
-        "r2": 0.4377,
-        "ratio_rounded": -1732.5,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/plot_operator",
-        "version": "0.0.15",
-        "base_memory": 500000000,
-        "ratio_est": -3365.0334,
-        "ratio_upper": -1796.9409,
-        "r2": 0.9125,
-        "ratio_rounded": -1796.8,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/plot_operator",
-        "version": "0.0.16",
-        "base_memory": 500000000,
-        "ratio_est": -383.5291,
-        "ratio_upper": -27.9248,
-        "r2": 0.1231,
-        "ratio_rounded": -27.8,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/plot_operator",
-        "version": "0.0.17",
-        "base_memory": 500000000,
-        "ratio_est": -3.1113,
-        "ratio_upper": 5.6554,
-        "r2": 0.0702,
-        "ratio_rounded": 5.8,
         "ratio": 5
     },
     {
@@ -1986,6 +1950,7 @@
         "ratio_est": -2527.299,
         "ratio_upper": -1918.1466,
         "r2": 0.975,
+        "typical_duration": 4.8,
         "ratio_rounded": -1918,
         "ratio": 5
     },
@@ -1996,6 +1961,7 @@
         "ratio_est": -25.6504,
         "ratio_upper": 51.0042,
         "r2": 0.031,
+        "typical_duration": 4.5,
         "ratio_rounded": 51.1,
         "ratio": 5
     },
@@ -2006,7 +1972,74 @@
         "ratio_est": -2.5922,
         "ratio_upper": 26.602,
         "r2": 0.0082,
+        "typical_duration": 15.5,
         "ratio_rounded": 26.7,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/plot_operator",
+        "version": "0.0.10",
+        "base_memory": 500000000,
+        "ratio_est": -378.3096,
+        "ratio_upper": 220.8545,
+        "r2": 0.3386,
+        "typical_duration": 11.5,
+        "ratio_rounded": 221,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/plot_operator",
+        "version": "0.0.11",
+        "base_memory": 500000000,
+        "ratio_est": -4161.763,
+        "ratio_upper": -2373.9883,
+        "r2": 0.8992,
+        "typical_duration": 9,
+        "ratio_rounded": -2373.9,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/plot_operator",
+        "version": "0.0.12",
+        "base_memory": 500000000,
+        "ratio_est": -3002.7967,
+        "ratio_upper": -1732.6074,
+        "r2": 0.4377,
+        "typical_duration": 17.4,
+        "ratio_rounded": -1732.5,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/plot_operator",
+        "version": "0.0.15",
+        "base_memory": 500000000,
+        "ratio_est": -3365.0334,
+        "ratio_upper": -1796.9409,
+        "r2": 0.9125,
+        "typical_duration": 10.6,
+        "ratio_rounded": -1796.8,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/plot_operator",
+        "version": "0.0.16",
+        "base_memory": 500000000,
+        "ratio_est": -383.5291,
+        "ratio_upper": -27.9248,
+        "r2": 0.1231,
+        "typical_duration": 10.9,
+        "ratio_rounded": -27.8,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/plot_operator",
+        "version": "0.0.17",
+        "base_memory": 500000000,
+        "ratio_est": -3.1113,
+        "ratio_upper": 5.6554,
+        "r2": 0.0702,
+        "typical_duration": 13.8,
+        "ratio_rounded": 5.8,
         "ratio": 5
     },
     {
@@ -2016,6 +2049,7 @@
         "ratio_est": -54.9924,
         "ratio_upper": 13.6779,
         "r2": 0.1107,
+        "typical_duration": 12.7,
         "ratio_rounded": 13.8,
         "ratio": 5
     },
@@ -2026,6 +2060,7 @@
         "ratio_est": -5.4333,
         "ratio_upper": -2.4336,
         "r2": 0.5598,
+        "typical_duration": 8.3,
         "ratio_rounded": -2.3,
         "ratio": 5
     },
@@ -2036,6 +2071,7 @@
         "ratio_est": 0.3209,
         "ratio_upper": 0.4648,
         "r2": 0.5295,
+        "typical_duration": 8.8,
         "ratio_rounded": 0.6,
         "ratio": 5
     },
@@ -2046,6 +2082,7 @@
         "ratio_est": 0.591,
         "ratio_upper": 0.6091,
         "r2": 0.965,
+        "typical_duration": 6.4,
         "ratio_rounded": 0.7,
         "ratio": 5
     },
@@ -2056,6 +2093,7 @@
         "ratio_est": 1.7535,
         "ratio_upper": 2.0671,
         "r2": 0.6768,
+        "typical_duration": 14.4,
         "ratio_rounded": 2.2,
         "ratio": 5
     },
@@ -2066,6 +2104,7 @@
         "ratio_est": -50.7068,
         "ratio_upper": 146.3178,
         "r2": 0.1886,
+        "typical_duration": 3.4,
         "ratio_rounded": 146.4,
         "ratio": 5
     },
@@ -2076,6 +2115,7 @@
         "ratio_est": -0.1357,
         "ratio_upper": 0.0029,
         "r2": 0.0447,
+        "typical_duration": 4.6,
         "ratio_rounded": 0.1,
         "ratio": 5
     },
@@ -2086,6 +2126,7 @@
         "ratio_est": -0.0096,
         "ratio_upper": 0.0182,
         "r2": 0.0066,
+        "typical_duration": 6.8,
         "ratio_rounded": 0.1,
         "ratio": 5
     },
@@ -2096,6 +2137,7 @@
         "ratio_est": -61.5938,
         "ratio_upper": 89.9276,
         "r2": 0.0243,
+        "typical_duration": 3.8,
         "ratio_rounded": 90,
         "ratio": 5
     },
@@ -2103,10 +2145,11 @@
         "uri": "https://github.com/tercen/rank_by_row_mean_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -3041.9354,
-        "ratio_upper": -2729.1423,
-        "r2": 0.654,
-        "ratio_rounded": -2729,
+        "ratio_est": -2819.2959,
+        "ratio_upper": -2527.3617,
+        "r2": 0.6385,
+        "typical_duration": 3.5,
+        "ratio_rounded": -2527.3,
         "ratio": 5
     },
     {
@@ -2116,6 +2159,7 @@
         "ratio_est": -16.0198,
         "ratio_upper": 2.7957,
         "r2": 0.0406,
+        "typical_duration": 6,
         "ratio_rounded": 2.9,
         "ratio": 5
     },
@@ -2126,6 +2170,7 @@
         "ratio_est": -247.7177,
         "ratio_upper": -38.2341,
         "r2": 0.1341,
+        "typical_duration": 9.1,
         "ratio_rounded": -38.1,
         "ratio": 5
     },
@@ -2136,6 +2181,7 @@
         "ratio_est": 21.6203,
         "ratio_upper": 22.7476,
         "r2": 0.9804,
+        "typical_duration": 27.2,
         "ratio_rounded": 22.8,
         "ratio": 22.8
     },
@@ -2146,6 +2192,7 @@
         "ratio_est": 23.7507,
         "ratio_upper": 37.7148,
         "r2": 0.9103,
+        "typical_duration": 44.5,
         "ratio_rounded": 37.8,
         "ratio": 37.8
     },
@@ -2156,6 +2203,7 @@
         "ratio_est": 22.3675,
         "ratio_upper": 30.1956,
         "r2": 0.649,
+        "typical_duration": 10.3,
         "ratio_rounded": 30.3,
         "ratio": 5
     },
@@ -2166,6 +2214,7 @@
         "ratio_est": 5.4041,
         "ratio_upper": 6.375,
         "r2": 0.6268,
+        "typical_duration": 6.6,
         "ratio_rounded": 6.5,
         "ratio": 5
     },
@@ -2176,6 +2225,7 @@
         "ratio_est": -21625.2279,
         "ratio_upper": -9993.9074,
         "r2": 0.8161,
+        "typical_duration": 13,
         "ratio_rounded": -9993.8,
         "ratio": 5
     },
@@ -2186,6 +2236,7 @@
         "ratio_est": 5.5873,
         "ratio_upper": 5.9463,
         "r2": 0.9253,
+        "typical_duration": 13.7,
         "ratio_rounded": 6,
         "ratio": 6
     },
@@ -2196,6 +2247,7 @@
         "ratio_est": 5.123,
         "ratio_upper": 6.7637,
         "r2": 0.726,
+        "typical_duration": 14.7,
         "ratio_rounded": 6.9,
         "ratio": 6.9
     },
@@ -2206,6 +2258,7 @@
         "ratio_est": 2.9079,
         "ratio_upper": 3.128,
         "r2": 0.9783,
+        "typical_duration": 18.7,
         "ratio_rounded": 3.2,
         "ratio": 5
     },
@@ -2216,6 +2269,7 @@
         "ratio_est": 6.563,
         "ratio_upper": 8.1114,
         "r2": 0.9844,
+        "typical_duration": 8.9,
         "ratio_rounded": 8.2,
         "ratio": 8.2
     },
@@ -2226,6 +2280,7 @@
         "ratio_est": 6.6935,
         "ratio_upper": 7.0751,
         "r2": 0.9801,
+        "typical_duration": 12.3,
         "ratio_rounded": 7.2,
         "ratio": 7.2
     },
@@ -2236,6 +2291,7 @@
         "ratio_est": 1.8475,
         "ratio_upper": 11.8439,
         "r2": 0.0718,
+        "typical_duration": 8.4,
         "ratio_rounded": 11.9,
         "ratio": 5
     },
@@ -2246,6 +2302,7 @@
         "ratio_est": 6.4938,
         "ratio_upper": 6.9033,
         "r2": 0.9619,
+        "typical_duration": 20.4,
         "ratio_rounded": 7,
         "ratio": 7
     },
@@ -2256,6 +2313,7 @@
         "ratio_est": 3.6985,
         "ratio_upper": 4.1098,
         "r2": 0.8523,
+        "typical_duration": 19.9,
         "ratio_rounded": 4.2,
         "ratio": 5
     },
@@ -2266,6 +2324,7 @@
         "ratio_est": 19.3812,
         "ratio_upper": 31.6322,
         "r2": 0.7627,
+        "typical_duration": 4.6,
         "ratio_rounded": 31.7,
         "ratio": 31.7
     },
@@ -2276,6 +2335,7 @@
         "ratio_est": 7.5386,
         "ratio_upper": 9.8167,
         "r2": 0.758,
+        "typical_duration": 23.9,
         "ratio_rounded": 9.9,
         "ratio": 9.9
     },
@@ -2286,6 +2346,7 @@
         "ratio_est": 10.5369,
         "ratio_upper": 10.9195,
         "r2": 0.9935,
+        "typical_duration": 28.3,
         "ratio_rounded": 11,
         "ratio": 11
     },
@@ -2293,9 +2354,10 @@
         "uri": "https://github.com/tercen/read_fcs_operator",
         "version": "2.1.1",
         "base_memory": 500000000,
-        "ratio_est": 14.5989,
-        "ratio_upper": 16.0104,
+        "ratio_est": 14.5988,
+        "ratio_upper": 16.0011,
         "r2": 0.7901,
+        "typical_duration": 14,
         "ratio_rounded": 16.1,
         "ratio": 16.1
     },
@@ -2306,6 +2368,7 @@
         "ratio_est": -494.3993,
         "ratio_upper": -100.2366,
         "r2": 0.5819,
+        "typical_duration": 4.8,
         "ratio_rounded": -100.1,
         "ratio": 5
     },
@@ -2316,6 +2379,7 @@
         "ratio_est": -45.7986,
         "ratio_upper": 20.6014,
         "r2": 0.0233,
+        "typical_duration": 4.2,
         "ratio_rounded": 20.7,
         "ratio": 5
     },
@@ -2326,6 +2390,7 @@
         "ratio_est": -69.8405,
         "ratio_upper": -10.1685,
         "r2": 0.0804,
+        "typical_duration": 5.5,
         "ratio_rounded": -10.1,
         "ratio": 5
     },
@@ -2336,6 +2401,7 @@
         "ratio_est": -357.9399,
         "ratio_upper": 9.0317,
         "r2": 0.1714,
+        "typical_duration": 2.7,
         "ratio_rounded": 9.1,
         "ratio": 5
     },
@@ -2346,6 +2412,7 @@
         "ratio_est": 1321.0599,
         "ratio_upper": 1713.788,
         "r2": 0.9754,
+        "typical_duration": 67.9,
         "ratio_rounded": 1713.9,
         "ratio": 50
     },
@@ -2356,6 +2423,7 @@
         "ratio_est": 4.6076,
         "ratio_upper": 4.6897,
         "r2": 0.9959,
+        "typical_duration": 137.5,
         "ratio_rounded": 4.8,
         "ratio": 5
     },
@@ -2366,6 +2434,7 @@
         "ratio_est": 5.0947,
         "ratio_upper": 7.444,
         "r2": 0.8062,
+        "typical_duration": 424.7,
         "ratio_rounded": 7.5,
         "ratio": 7.5
     },
@@ -2376,26 +2445,29 @@
         "ratio_est": 0.7814,
         "ratio_upper": 1.2131,
         "r2": 0.6171,
+        "typical_duration": 20.8,
         "ratio_rounded": 1.3,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/scRNAseq_QC_operator",
         "version": "0.0.2",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 6.7994,
         "ratio_upper": 7.6881,
         "r2": 0.984,
+        "typical_duration": 23.5,
         "ratio_rounded": 7.8,
         "ratio": 7.8
     },
     {
         "uri": "https://github.com/tercen/scRNAseq_QC_operator",
         "version": "0.1.0",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 0.9691,
         "ratio_upper": 0.9873,
         "r2": 0.9966,
+        "typical_duration": 19.2,
         "ratio_rounded": 1.1,
         "ratio": 5
     },
@@ -2406,6 +2478,7 @@
         "ratio_est": 5.8761,
         "ratio_upper": 6.0767,
         "r2": 0.9932,
+        "typical_duration": 122.3,
         "ratio_rounded": 6.2,
         "ratio": 6.2
     },
@@ -2416,6 +2489,7 @@
         "ratio_est": 1.1883,
         "ratio_upper": 1.2666,
         "r2": 0.9556,
+        "typical_duration": 10.2,
         "ratio_rounded": 1.4,
         "ratio": 5
     },
@@ -2426,7 +2500,19 @@
         "ratio_est": 1.1136,
         "ratio_upper": 1.1456,
         "r2": 0.989,
+        "typical_duration": 13.6,
         "ratio_rounded": 1.2,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/scale_operator",
+        "version": "0.4.0",
+        "base_memory": 500000000,
+        "ratio_est": -3001.4925,
+        "ratio_upper": -2062.3358,
+        "r2": 0.4315,
+        "typical_duration": 2.5,
+        "ratio_rounded": -2062.2,
         "ratio": 5
     },
     {
@@ -2436,6 +2522,7 @@
         "ratio_est": 3.9427,
         "ratio_upper": 4.8574,
         "r2": 0.789,
+        "typical_duration": 10.2,
         "ratio_rounded": 5,
         "ratio": 5
     },
@@ -2446,6 +2533,7 @@
         "ratio_est": -0.0901,
         "ratio_upper": 1.6746,
         "r2": 0.0003,
+        "typical_duration": 7.2,
         "ratio_rounded": 1.8,
         "ratio": 5
     },
@@ -2453,10 +2541,11 @@
         "uri": "https://github.com/tercen/scale_operator",
         "version": "0.11.0",
         "base_memory": 500000000,
-        "ratio_est": -3014.7789,
-        "ratio_upper": -2662.0813,
-        "r2": 0.6417,
-        "ratio_rounded": -2662,
+        "ratio_est": -2903.665,
+        "ratio_upper": -2558.4759,
+        "r2": 0.626,
+        "typical_duration": 3.3,
+        "ratio_rounded": -2558.4,
         "ratio": 5
     },
     {
@@ -2465,18 +2554,9 @@
         "base_memory": 500000000,
         "ratio_est": 1.13,
         "ratio_upper": 1.248,
-        "r2": 0.6599,
+        "r2": 0.6505,
+        "typical_duration": 4.7,
         "ratio_rounded": 1.3,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/scale_operator",
-        "version": "0.4.0",
-        "base_memory": 500000000,
-        "ratio_est": -3001.4925,
-        "ratio_upper": -2062.3358,
-        "r2": 0.4315,
-        "ratio_rounded": -2062.2,
         "ratio": 5
     },
     {
@@ -2486,6 +2566,7 @@
         "ratio_est": -72308.9809,
         "ratio_upper": 124600.4977,
         "r2": 0.3213,
+        "typical_duration": 4,
         "ratio_rounded": 124600.6,
         "ratio": 5
     },
@@ -2496,6 +2577,7 @@
         "ratio_est": -98.7957,
         "ratio_upper": 118.992,
         "r2": 0.1001,
+        "typical_duration": 7,
         "ratio_rounded": 119.1,
         "ratio": 5
     },
@@ -2506,6 +2588,7 @@
         "ratio_est": -27.6567,
         "ratio_upper": -19.1304,
         "r2": 0.4754,
+        "typical_duration": 5,
         "ratio_rounded": -19,
         "ratio": 5
     },
@@ -2516,6 +2599,7 @@
         "ratio_est": 5.0607,
         "ratio_upper": 5.6348,
         "r2": 0.9767,
+        "typical_duration": 192.8,
         "ratio_rounded": 5.7,
         "ratio": 5.7
     },
@@ -2526,6 +2610,7 @@
         "ratio_est": -60.8594,
         "ratio_upper": -20.4943,
         "r2": 0.3494,
+        "typical_duration": 8.2,
         "ratio_rounded": -20.4,
         "ratio": 5
     },
@@ -2536,17 +2621,8 @@
         "ratio_est": -4207.9699,
         "ratio_upper": -3028.6603,
         "r2": 0.8027,
+        "typical_duration": 4,
         "ratio_rounded": -3028.6,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/sum_operator",
-        "version": "1.10.2",
-        "base_memory": 500000000,
-        "ratio_est": 0.6109,
-        "ratio_upper": 0.9587,
-        "r2": 0.3745,
-        "ratio_rounded": 1.1,
         "ratio": 5
     },
     {
@@ -2556,7 +2632,19 @@
         "ratio_est": -126.6085,
         "ratio_upper": -58.4535,
         "r2": 0.5901,
+        "typical_duration": 8.1,
         "ratio_rounded": -58.4,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/sum_operator",
+        "version": "1.10.2",
+        "base_memory": 500000000,
+        "ratio_est": 0.6109,
+        "ratio_upper": 0.9587,
+        "r2": 0.3745,
+        "typical_duration": 6.2,
+        "ratio_rounded": 1.1,
         "ratio": 5
     },
     {
@@ -2566,6 +2654,7 @@
         "ratio_est": -654.4589,
         "ratio_upper": -185.0222,
         "r2": 0.6709,
+        "typical_duration": 5.3,
         "ratio_rounded": -184.9,
         "ratio": 5
     },
@@ -2576,6 +2665,7 @@
         "ratio_est": -2522.4315,
         "ratio_upper": -2231.2509,
         "r2": 0.9147,
+        "typical_duration": 5.5,
         "ratio_rounded": -2231.2,
         "ratio": 5
     },
@@ -2583,10 +2673,11 @@
         "uri": "https://github.com/tercen/t_test_operator",
         "version": "1.1.1",
         "base_memory": 1000000000,
-        "ratio_est": -1456.0216,
-        "ratio_upper": -1212.6337,
-        "r2": 0.5825,
-        "ratio_rounded": -1212.5,
+        "ratio_est": -1441.4034,
+        "ratio_upper": -1206.1883,
+        "r2": 0.5873,
+        "typical_duration": 6,
+        "ratio_rounded": -1206.1,
         "ratio": 5
     },
     {
@@ -2596,6 +2687,7 @@
         "ratio_est": 50.4422,
         "ratio_upper": 123.3516,
         "r2": 0.2974,
+        "typical_duration": 11.5,
         "ratio_rounded": 123.5,
         "ratio": 5
     },
@@ -2606,6 +2698,7 @@
         "ratio_est": 53.349,
         "ratio_upper": 91.8255,
         "r2": 0.7599,
+        "typical_duration": 9.6,
         "ratio_rounded": 91.9,
         "ratio": 50
     },
@@ -2616,6 +2709,7 @@
         "ratio_est": -89.8403,
         "ratio_upper": 95.1837,
         "r2": 0.1367,
+        "typical_duration": 11.3,
         "ratio_rounded": 95.3,
         "ratio": 5
     },
@@ -2626,6 +2720,7 @@
         "ratio_est": 3.0884,
         "ratio_upper": 4.7428,
         "r2": 0.9244,
+        "typical_duration": 21.4,
         "ratio_rounded": 4.8,
         "ratio": 5
     },
@@ -2636,6 +2731,7 @@
         "ratio_est": 0.6159,
         "ratio_upper": 0.6511,
         "r2": 0.9946,
+        "typical_duration": 46,
         "ratio_rounded": 0.8,
         "ratio": 5
     },
@@ -2646,6 +2742,7 @@
         "ratio_est": -80.2659,
         "ratio_upper": -43.5541,
         "r2": 0.6337,
+        "typical_duration": 196.7,
         "ratio_rounded": -43.5,
         "ratio": 5
     },
@@ -2656,6 +2753,7 @@
         "ratio_est": 89687911.619,
         "ratio_upper": 219654517.0211,
         "r2": 0.3794,
+        "typical_duration": 89.8,
         "ratio_rounded": 219654517.1,
         "ratio": 5
     },
@@ -2666,6 +2764,7 @@
         "ratio_est": 1.5542,
         "ratio_upper": 1.642,
         "r2": 0.9704,
+        "typical_duration": 18,
         "ratio_rounded": 1.7,
         "ratio": 5
     },
@@ -2676,6 +2775,7 @@
         "ratio_est": 137778.3123,
         "ratio_upper": 327867.7765,
         "r2": 0.4637,
+        "typical_duration": 4.5,
         "ratio_rounded": 327867.9,
         "ratio": 5
     },
@@ -2686,6 +2786,7 @@
         "ratio_est": 2.9355,
         "ratio_upper": 4.298,
         "r2": 0.677,
+        "typical_duration": 95.7,
         "ratio_rounded": 4.4,
         "ratio": 5
     },
@@ -2696,6 +2797,7 @@
         "ratio_est": 6.4057,
         "ratio_upper": 7.3541,
         "r2": 0.892,
+        "typical_duration": 32.4,
         "ratio_rounded": 7.5,
         "ratio": 7.5
     },
@@ -2706,6 +2808,7 @@
         "ratio_est": -237.517,
         "ratio_upper": 320.7393,
         "r2": 0.0492,
+        "typical_duration": 3.2,
         "ratio_rounded": 320.8,
         "ratio": 5
     },
@@ -2716,6 +2819,7 @@
         "ratio_est": -388.4773,
         "ratio_upper": -25.4273,
         "r2": 0.7217,
+        "typical_duration": 6.1,
         "ratio_rounded": -25.3,
         "ratio": 5
     },
@@ -2726,56 +2830,62 @@
         "ratio_est": -944.3235,
         "ratio_upper": -509.1693,
         "r2": 0.3573,
+        "typical_duration": 5.2,
         "ratio_rounded": -509.1,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/umap_operator",
         "version": "0.0.3",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 2.4518,
         "ratio_upper": 2.7587,
         "r2": 0.7457,
+        "typical_duration": 23.5,
         "ratio_rounded": 2.9,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.1.0",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": -2.15,
         "ratio_upper": -1.819,
         "r2": 0.9933,
+        "typical_duration": 6.3,
         "ratio_rounded": -1.7,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.0",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 2.6365,
         "ratio_upper": 2.8411,
         "r2": 0.8092,
+        "typical_duration": 55.6,
         "ratio_rounded": 2.9,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.1",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 1.6247,
         "ratio_upper": 1.7953,
         "r2": 0.5809,
+        "typical_duration": 42.6,
         "ratio_rounded": 1.9,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/umap_operator",
         "version": "1.2.3",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 2.6796,
         "ratio_upper": 2.7781,
         "r2": 0.9841,
+        "typical_duration": 99.3,
         "ratio_rounded": 2.9,
         "ratio": 5
     },
@@ -2786,16 +2896,18 @@
         "ratio_est": -2176.6766,
         "ratio_upper": -1789.1602,
         "r2": 0.9244,
+        "typical_duration": 6.6,
         "ratio_rounded": -1789.1,
         "ratio": 5
     },
     {
         "uri": "https://github.com/tercen/vst_operator",
         "version": "0.0.1",
-        "base_memory": 1000000000,
+        "base_memory": 500000000,
         "ratio_est": 44.9539,
         "ratio_upper": 50.5408,
         "r2": 0.9696,
+        "typical_duration": 13.4,
         "ratio_rounded": 50.6,
         "ratio": 50
     },
@@ -2806,6 +2918,7 @@
         "ratio_est": -2224.5165,
         "ratio_upper": -1979.5642,
         "r2": 0.9966,
+        "typical_duration": 4.7,
         "ratio_rounded": -1979.5,
         "ratio": 5
     },
@@ -2816,7 +2929,86 @@
         "ratio_est": -12.2483,
         "ratio_upper": -4.6179,
         "r2": 0.1005,
+        "typical_duration": 5,
         "ratio_rounded": -4.5,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/readxl_operator",
+        "version": "1.2.1",
+        "base_memory": 650000000,
+        "ratio": 3
+    },
+    {
+        "uri": "https://github.com/tercen/read_fcs_operator",
+        "version": "2.0.1",
+        "base_memory": 16000000000,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/fast_tSNE_operator",
+        "version": "0.1.4",
+        "base_memory": 5000000000,
+        "ratio": 10
+    },
+    {
+        "uri": "https://github.com/tercen/faust_operator",
+        "version": "0.0.1",
+        "base_memory": 1000000000,
+        "ratio": 10
+    },
+    {
+        "uri": "https://github.com/tercen/depeche_operator",
+        "version": "0.0.1",
+        "base_memory": 5000000000,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/normalyzer_operator",
+        "version": "0.0.1",
+        "base_memory": 5000000000,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/DESeq2_operator",
+        "version": "0.1.2",
+        "base_memory": 10000000000,
+        "ratio": 50
+    },
+    {
+        "uri": "https://github.com/tercen/diffcyt_operator",
+        "version": "0.0.1",
+        "base_memory": 2000000000,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/cycombine_operator",
+        "version": "0.0.1",
+        "base_memory": 5000000000,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/tsne_operator",
+        "version": "0.0.1",
+        "base_memory": 10000000000,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/debarcoding_cytof_operator",
+        "version": "0.0.1",
+        "base_memory": 16000000000,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/peacoqc_operator",
+        "version": "0.0.1",
+        "base_memory": 1000000000,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/compare_means_operator",
+        "version": "0.0.1",
+        "base_memory": 10000000000,
         "ratio": 5
     }
 ]
