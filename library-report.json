@@ -264,11 +264,6 @@
       "url": "https://github.com/tercen/kmeans_operator"
     },
     {
-      "name": "Kruskal-Wallis Test",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/kruskaltest_operator"
-    },
-    {
       "name": "Lagpad",
       "version": "0.1.0",
       "url": "https://github.com/tercen/lagpad_operator"
@@ -549,11 +544,6 @@
       "url": "https://github.com/tercen/shift_operator"
     },
     {
-      "name": "sinh",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/sinh_operator"
-    },
-    {
       "name": "SNN Clustering",
       "version": "0.2.1",
       "url": "https://github.com/tercen/snn_clustering_operator"
@@ -625,7 +615,9 @@
     "https://github.com/tercen/compensate_fcs_operator",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/kaplan_meier_operator",
+    "https://github.com/tercen/kruskaltest_operator",
     "https://github.com/tercen/normalise_cytof_operator",
+    "https://github.com/tercen/sinh_operator",
     "https://github.com/tercen/synthetic_data_operator",
     "https://github.com/tercen/thresholding_operator"
   ]
