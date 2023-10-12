@@ -175,7 +175,6 @@
     "https://github.com/pamgene/dascombat_prediction_operator",
     "https://github.com/pamgene/globaltest_operator",
     "https://github.com/pamgene/pg_plsda_classifier_operator",
-    "https://github.com/pamgene/uka_operator",
     "https://github.com/pamgene/vsn_shiny_operator"
   ]
 }
