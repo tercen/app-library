@@ -1375,11 +1375,11 @@
         "uri": "https://github.com/tercen/identity_operator",
         "version": "0.1.2",
         "base_memory": 500000000,
-        "ratio_est": -1631.5803,
-        "ratio_upper": -447.3007,
-        "r2": 0.1971,
+        "ratio_est": -1649.7998,
+        "ratio_upper": -468.1194,
+        "r2": 0.1939,
         "typical_duration": 12.9,
-        "ratio_rounded": -447.2,
+        "ratio_rounded": -468,
         "ratio": 5
     },
     {
@@ -2409,12 +2409,12 @@
         "uri": "https://github.com/tercen/read_fcs_operator",
         "version": "2.1.1",
         "base_memory": 500000000,
-        "ratio_est": 14.5922,
-        "ratio_upper": 15.9586,
-        "r2": 0.7903,
-        "typical_duration": 14.1,
-        "ratio_rounded": 16.1,
-        "ratio": 16.1
+        "ratio_est": 14.5904,
+        "ratio_upper": 15.9486,
+        "r2": 0.7902,
+        "typical_duration": 14.2,
+        "ratio_rounded": 16,
+        "ratio": 16
     },
     {
         "uri": "https://github.com/tercen/read_fcs_operator",
