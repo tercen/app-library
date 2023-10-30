@@ -2612,50 +2612,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Calculate the maximum value in a cell",
-    "name": "Max",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2019-02-05T16:34:10.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2022-06-30T09:25:58.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/max_operator"
-      }
-    ],
-    "tags": [
-      "basic statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/max_operator"
-    },
-    "version": "0.2.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Calculate the mathematical average of the data points in a cell.",
     "name": "Mean",
     "createdBy": "",
