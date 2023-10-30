@@ -1366,7 +1366,7 @@
         "base_memory": 500000000,
         "ratio_est": 0.3426,
         "ratio_upper": 0.3722,
-        "r2": 0.3633,
+        "r2": 0.3622,
         "typical_duration": 4.5,
         "ratio_rounded": 0.5,
         "ratio": 5
