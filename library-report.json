@@ -7,12 +7,6 @@
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})"
     },
     {
-      "name": "Max",
-      "version": "0.2.1",
-      "url": "https://github.com/tercen/min_max_operator",
-      "error": "ServiceError({statusCode: -142, error: unknown, reason: type 'Null' is not a subtype of type 'num' in type cast})"
-    },
-    {
       "name": "TrackSOM",
       "version": "0.1.5",
       "url": "https://github.com/tercen/tracksom_operator",
@@ -343,6 +337,11 @@
       "name": "Median",
       "version": "1.1.0",
       "url": "https://github.com/tercen/median_operator"
+    },
+    {
+      "name": "Min and Max",
+      "version": "0.3.0",
+      "url": "https://github.com/tercen/min_max_operator"
     },
     {
       "name": "Scale Min/Max",
