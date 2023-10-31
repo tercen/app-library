@@ -2788,6 +2788,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Calculate the minimum and maximum values in a cell",
+    "name": "Min and Max",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2019-02-05T16:34:10.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-10-31T09:47:31.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/min_max_operator"
+      }
+    ],
+    "tags": [
+      "basic statistics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/min_max_operator"
+    },
+    "version": "0.3.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "Substracts the Min and divides by the Range of a dataset. The value returned is between 0 to 1.",
     "name": "Scale Min/Max",
     "createdBy": "",
