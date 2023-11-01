@@ -1221,6 +1221,50 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
+    "description": "Export a CSV file based on a crosstab projection.",
+    "name": "Export CSV",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-10-31T17:10:57.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-11-01T14:11:25.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/export_csv_operator"
+      }
+    ],
+    "tags": [
+      "export"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/export_csv_operator"
+    },
+    "version": "0.0.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
     "description": "FFT-accelerated Interpolation-based t-SNE: an alternative method of t-SNE for constructing a low dimensional embedding of high-dimensional data.",
     "name": "FI-t-SNE",
     "createdBy": "",
