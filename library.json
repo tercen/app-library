@@ -1221,8 +1221,8 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Export a CSV file based on a crosstab projection.",
-    "name": "Export CSV",
+    "description": "Export a data table defined on the crosstab area.",
+    "name": "Export Table",
     "createdBy": "",
     "acl": {
       "kind": "Acl",
@@ -1235,12 +1235,12 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-11-01T14:11:25.000Z"
+      "value": "2023-11-02T11:37:00.000Z"
     },
     "urls": [
       {
         "kind": "Url",
-        "uri": "https://github.com/tercen/export_csv_operator"
+        "uri": "https://github.com/tercen/export_table_operator"
       }
     ],
     "tags": [
@@ -1249,9 +1249,9 @@
     "meta": [],
     "url": {
       "kind": "Url",
-      "uri": "https://github.com/tercen/export_csv_operator"
+      "uri": "https://github.com/tercen/export_table_operator"
     },
-    "version": "0.0.2",
+    "version": "0.1.0",
     "authors": [
       "tercen"
     ],
