@@ -164,9 +164,9 @@
       "url": "https://github.com/tercen/downsample_operator"
     },
     {
-      "name": "Export CSV",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/export_csv_operator"
+      "name": "Export Table",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/export_table_operator"
     },
     {
       "name": "FI-t-SNE",
