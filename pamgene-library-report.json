@@ -9,6 +9,12 @@
   ],
   "notest_operators": [
     {
+      "name": "cscore_operator",
+      "version": "0.1.1",
+      "url": "https://github.com/pamgene/cscore_operator",
+      "error": "notest"
+    },
+    {
       "name": "Linear Mixed Model1",
       "version": "0.0.1",
       "url": "https://github.com/pamgene/linear_mixed_model1_operator",
