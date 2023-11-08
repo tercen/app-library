@@ -721,6 +721,52 @@
     "path": ""
   },
   {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Returns the parameters of a non linear regression",
+    "name": "Non Linear Regression",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-11-08T10:57:06.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-11-08T12:38:40.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/nonlinear_regression_operator"
+      }
+    ],
+    "tags": [
+      "linear model",
+      "regression",
+      "dose response curve"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/nonlinear_regression_operator"
+    },
+    "version": "1.4.2",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
     "kind": "DockerOperator",
     "id": "",
     "isDeleted": false,
