@@ -103,6 +103,11 @@
       "url": "https://github.com/pamgene/nominal_cv_estimate_operator"
     },
     {
+      "name": "Non Linear Regression",
+      "version": "1.4.2",
+      "url": "https://github.com/pamgene/nonlinear_regression_operator"
+    },
+    {
       "name": "pamsoft_grid_operator",
       "version": "1.4.1",
       "url": "https://github.com/pamgene/pamsoft_grid_operator"
