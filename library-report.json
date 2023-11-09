@@ -225,7 +225,7 @@
     },
     {
       "name": "GMM operator",
-      "version": "0.1.2",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/gmm_operator"
     },
     {
@@ -539,6 +539,11 @@
       "url": "https://github.com/tercen/scale_operator"
     },
     {
+      "name": "Standard Deviation",
+      "version": "0.9.1",
+      "url": "https://github.com/tercen/sd_operator"
+    },
+    {
       "name": "Separate",
       "version": "0.1.0",
       "url": "https://github.com/tercen/separate_operator"
@@ -627,7 +632,6 @@
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/scyan_operator",
-    "https://github.com/tercen/sd_operator",
     "https://github.com/tercen/synthetic_data_operator",
     "https://github.com/tercen/thresholding_operator"
   ]
