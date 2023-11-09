@@ -4584,50 +4584,6 @@
     "id": "",
     "isDeleted": false,
     "rev": "",
-    "description": "Calculates the Square Root of the variance from the Mean of a data set.",
-    "name": "Standard Deviation",
-    "createdBy": "",
-    "acl": {
-      "kind": "Acl",
-      "owner": "",
-      "aces": []
-    },
-    "createdDate": {
-      "kind": "Date",
-      "value": "2018-04-29T11:02:11.000Z"
-    },
-    "lastModifiedDate": {
-      "kind": "Date",
-      "value": "2021-07-22T10:14:54.000Z"
-    },
-    "urls": [
-      {
-        "kind": "Url",
-        "uri": "https://github.com/tercen/sd_operator"
-      }
-    ],
-    "tags": [
-      "basic statistics"
-    ],
-    "meta": [],
-    "url": {
-      "kind": "Url",
-      "uri": "https://github.com/tercen/sd_operator"
-    },
-    "version": "0.9.1",
-    "authors": [
-      "tercen"
-    ],
-    "isPublic": true,
-    "properties": [],
-    "longDescription": "",
-    "path": ""
-  },
-  {
-    "kind": "ROperator",
-    "id": "",
-    "isDeleted": false,
-    "rev": "",
     "description": "Separates a character column (text) into multiple columns using a regular expression or numeric locations.",
     "name": "Separate",
     "createdBy": "",
