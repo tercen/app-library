@@ -1773,7 +1773,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2022-06-28T14:09:44.000Z"
+      "value": "2022-06-28T14:08:09.000Z"
     },
     "urls": [
       {
@@ -1789,7 +1789,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/gmm_operator"
     },
-    "version": "0.1.2",
+    "version": "0.1.0",
     "authors": [
       "tercen"
     ],
@@ -4571,6 +4571,50 @@
       "uri": "https://github.com/tercen/scale_operator"
     },
     "version": "0.12.0",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": ""
+  },
+  {
+    "kind": "ROperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Calculates the Square Root of the variance from the Mean of a data set.",
+    "name": "Standard Deviation",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2018-04-29T11:02:11.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2021-07-22T10:14:54.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/tercen/sd_operator"
+      }
+    ],
+    "tags": [
+      "basic statistics"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/tercen/sd_operator"
+    },
+    "version": "0.9.1",
     "authors": [
       "tercen"
     ],
