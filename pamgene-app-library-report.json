@@ -5,6 +5,18 @@
       "version": "Instance of 'Release'",
       "url": "https://github.com/pamgene/STK_CV_Export_app",
       "error": "Failed to load workflow.json : GitHub Error: Not Found"
+    },
+    {
+      "name": "UKA_MTvC_app",
+      "version": "0.0.1",
+      "url": "https://github.com/pamgene/UKA_MTvC_app",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName b7ede2f not found in https://github.com/pamgene/uka_operator})"
+    },
+    {
+      "name": "UKA_TT_app",
+      "version": "0.0.1",
+      "url": "https://github.com/pamgene/UKA_TT_app",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName b7ede2f not found in https://github.com/pamgene/uka_operator})"
     }
   ],
   "notest_documents": [],
@@ -19450,8 +19462,6 @@
   ],
   "no_release_documents": [
     "https://github.com/pamgene/DRC_app",
-    "https://github.com/pamgene/UKA_MTvC_app",
-    "https://github.com/pamgene/UKA_TT_app",
     "https://github.com/pamgene/logfoldchange_app",
     "https://github.com/pamgene/mediqr_scaling_app"
   ]
