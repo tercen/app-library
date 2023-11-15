@@ -15,7 +15,7 @@
     {
       "name": "UKA_TT_app",
       "version": "0.0.1",
-      "url": "https://github.com/pamgene/UKA_TT_app",
+      "url": "https://github.com/pamgene/UKA_TGC_app",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName b7ede2f not found in https://github.com/pamgene/uka_operator})"
     }
   ],
