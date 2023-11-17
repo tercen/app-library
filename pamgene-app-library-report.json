@@ -8,15 +8,15 @@
     },
     {
       "name": "UKA_MTvC_app",
-      "version": "0.0.1",
+      "version": "0.0.3",
       "url": "https://github.com/pamgene/UKA_MTvC_app",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName b7ede2f not found in https://github.com/pamgene/uka_operator})"
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.1 not found in https://github.com/pamgene/uka_operator})"
     },
     {
       "name": "UKA_TT_app",
-      "version": "0.0.1",
+      "version": "0.0.3",
       "url": "https://github.com/pamgene/UKA_TGC_app",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName b7ede2f not found in https://github.com/pamgene/uka_operator})"
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.1 not found in https://github.com/pamgene/uka_operator})"
     }
   ],
   "notest_documents": [],
