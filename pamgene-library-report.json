@@ -19,6 +19,12 @@
       "version": "0.0.1",
       "url": "https://github.com/pamgene/linear_mixed_model1_operator",
       "error": "notest"
+    },
+    {
+      "name": "UKA operator",
+      "version": "0.0.1",
+      "url": "https://github.com/pamgene/uka_operator",
+      "error": "notest"
     }
   ],
   "success_operators": [
