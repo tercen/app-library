@@ -11,6 +11,10 @@
     {
       "url": "https://github.com/tercen/data_designs",
       "version": "0.0.1"
+    },
+    {
+      "url": "https://github.com/tercen/export_app",
+      "version": "0.0.2"
     }
   ]
 }
