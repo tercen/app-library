@@ -1132,10 +1132,10 @@
         "uri": "https://github.com/tercen/faust_operator",
         "version": "0.1.2",
         "base_memory": 1000000000,
-        "ratio_est": 4.5283,
-        "ratio_upper": 5.1708,
-        "r2": 0.7891,
-        "typical_duration": 73.5,
+        "ratio_est": 4.5294,
+        "ratio_upper": 5.1587,
+        "r2": 0.7893,
+        "typical_duration": 69.5,
         "ratio_rounded": 5.3,
         "ratio": 5.3
     },
@@ -2343,7 +2343,7 @@
         "base_memory": 500000000,
         "ratio_est": -0.0096,
         "ratio_upper": 0.0191,
-        "r2": 0.0037,
+        "r2": 0.0036,
         "typical_duration": 7.3,
         "ratio_rounded": 0.1,
         "ratio": 5
