@@ -267,11 +267,11 @@
         "uri": "https://github.com/pamgene/uka_operator",
         "version": "0.0.3",
         "base_memory": 500000000,
-        "ratio_est": -757.309,
-        "ratio_upper": -626.4538,
-        "r2": 0.46,
+        "ratio_est": -758.7243,
+        "ratio_upper": -627.8924,
+        "r2": 0.4598,
         "typical_duration": 81.2,
-        "ratio_rounded": -626.4,
+        "ratio_rounded": -627.8,
         "ratio": 5
     },
     {
