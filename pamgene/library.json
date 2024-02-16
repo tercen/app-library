@@ -20,6 +20,11 @@
     "url": "https://github.com/pamgene/PCA_shiny_operator"
   },
   {
+    "name": "PTK_C1T1C2T2_template",
+    "version": "0.2.3",
+    "url": "https://github.com/pamgene/PTK_C1T1C2T2_template"
+  },
+  {
     "name": "PTK_CT1T2T3_template",
     "version": "0.2.3",
     "url": "https://github.com/pamgene/PTK_CT1T2T3_template"
