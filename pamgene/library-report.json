@@ -1,25 +1,18 @@
 {
   "failed_documents": [
     {
-      "name": "PTK_C1T1C2T2_template",
-      "version": "0.2.3",
-      "url": "https://github.com/pamgene/PTK_C1T1C2T2_template",
-      "error": "ServiceError({statusCode: -142, error: create.operator.renv.failed, reason: Failed to create operator})",
-      "retry": 0
-    },
-    {
       "name": "STK_CV_Export_app",
       "version": "0.1",
       "url": "https://github.com/pamgene/STK_CV_Export_app",
       "error": "Failed to load workflow.json : GitHub Error: Not Found",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "anova1_operator",
       "version": "0.0.1",
       "url": "https://github.com/pamgene/anova1_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
@@ -78,6 +71,11 @@
       "name": "PCA Shiny",
       "version": "0.0.3",
       "url": "https://github.com/pamgene/PCA_shiny_operator"
+    },
+    {
+      "name": "PTK_C1T1C2T2_template",
+      "version": "0.2.3",
+      "url": "https://github.com/pamgene/PTK_C1T1C2T2_template"
     },
     {
       "name": "PTK_CT1T2T3_template",
