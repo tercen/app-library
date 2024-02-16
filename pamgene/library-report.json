@@ -5,14 +5,14 @@
       "version": "0.1",
       "url": "https://github.com/pamgene/STK_CV_Export_app",
       "error": "Failed to load workflow.json : GitHub Error: Not Found",
-      "retry": 1
+      "retry": 2
     },
     {
       "name": "anova1_operator",
       "version": "0.0.1",
       "url": "https://github.com/pamgene/anova1_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
-      "retry": 1
+      "retry": 2
     }
   ],
   "notest_documents": [
