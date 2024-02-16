@@ -515,11 +515,6 @@
     "url": "https://github.com/tercen/simple_workflow_template"
   },
   {
-    "name": "Simple",
-    "version": "0.0.1",
-    "url": "https://github.com/tercen/simple_workflow_test_tags_template"
-  },
-  {
     "name": "sinh",
     "version": "0.1.2",
     "url": "https://github.com/tercen/sinh_operator"
@@ -555,9 +550,9 @@
     "url": "https://github.com/tercen/test_dataset"
   },
   {
-    "name": "Crabs Data.csv",
-    "version": "0.0.1",
-    "url": "https://github.com/tercen/test_tags_dataset"
+    "name": "TrackSOM",
+    "version": "0.1.5",
+    "url": "https://github.com/tercen/tracksom_operator"
   },
   {
     "name": "t-SNE",
