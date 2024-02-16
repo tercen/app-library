@@ -1,20 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "name": "STK_CV_Export_app",
-      "version": "0.1",
-      "url": "https://github.com/pamgene/STK_CV_Export_app",
-      "error": "Failed to load workflow.json : GitHub Error: Not Found",
-      "retry": 2
-    },
-    {
-      "name": "anova1_operator",
-      "version": "0.0.1",
-      "url": "https://github.com/pamgene/anova1_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
-      "retry": 2
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "name": "cscore_operator",
@@ -50,7 +35,22 @@
     "https://github.com/pamgene/non_standard_apps_template",
     "https://github.com/pamgene/vsn_shiny_operator"
   ],
-  "blacklisted_documents": [],
+  "blacklisted_documents": [
+    {
+      "name": "STK_CV_Export_app",
+      "version": "0.1",
+      "url": "https://github.com/pamgene/STK_CV_Export_app",
+      "error": "Failed to load workflow.json : GitHub Error: Not Found",
+      "retry": 2
+    },
+    {
+      "name": "anova1_operator",
+      "version": "0.0.1",
+      "url": "https://github.com/pamgene/anova1_operator",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
+      "retry": 2
+    }
+  ],
   "success_documents": [
     {
       "name": "ETS_app",
