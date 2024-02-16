@@ -1,252 +1,254 @@
-[
-  {
-    "name": "ETS_app",
-    "version": "0.1.0",
-    "url": "https://github.com/pamgene/ETS_app"
-  },
-  {
-    "name": "ETS",
-    "version": "0.3.0",
-    "url": "https://github.com/pamgene/ETS_operator"
-  },
-  {
-    "name": "MTvC_app",
-    "version": "0.2.4",
-    "url": "https://github.com/pamgene/MTvC_app"
-  },
-  {
-    "name": "PCA Shiny",
-    "version": "0.0.3",
-    "url": "https://github.com/pamgene/PCA_shiny_operator"
-  },
-  {
-    "name": "PTK_C1T1C2T2_template",
-    "version": "0.2.3",
-    "url": "https://github.com/pamgene/PTK_C1T1C2T2_template"
-  },
-  {
-    "name": "PTK_CT1T2T3_template",
-    "version": "0.2.3",
-    "url": "https://github.com/pamgene/PTK_CT1T2T3_template"
-  },
-  {
-    "name": "PTK QC",
-    "version": "0.1.2",
-    "url": "https://github.com/pamgene/PTK_QC_presence_operator"
-  },
-  {
-    "name": "QC_PTK_app",
-    "version": "0.1.2",
-    "url": "https://github.com/pamgene/QC_PTK_app"
-  },
-  {
-    "name": "QC_STK_app",
-    "version": "0.2.2",
-    "url": "https://github.com/pamgene/QC_STK_app"
-  },
-  {
-    "name": "S100",
-    "version": "0.2.0",
-    "url": "https://github.com/pamgene/S100_operator"
-  },
-  {
-    "name": "STK_C1T1C2T2_template",
-    "version": "0.2.3",
-    "url": "https://github.com/pamgene/STK_C1T1C2T2_template"
-  },
-  {
-    "name": "STK_CT1T2T3_template",
-    "version": "0.2.3",
-    "url": "https://github.com/pamgene/STK_CT1T2T3_template"
-  },
-  {
-    "name": "simple_heatmap_app",
-    "version": "0.0.7",
-    "url": "https://github.com/pamgene/SimpleHeatmap_app"
-  },
-  {
-    "name": "UKA_FC_app",
-    "version": "0.1.0",
-    "url": "https://github.com/pamgene/UKA_FC_app"
-  },
-  {
-    "name": "UKA_MTvC_app",
-    "version": "0.0.12",
-    "url": "https://github.com/pamgene/UKA_MTvC_app"
-  },
-  {
-    "name": "UKA_TGC_app",
-    "version": "0.0.17",
-    "url": "https://github.com/pamgene/UKA_TGC_app"
-  },
-  {
-    "name": "UKA_app",
-    "version": "0.3.0",
-    "url": "https://github.com/pamgene/UKA_app"
-  },
-  {
-    "name": "Venn",
-    "version": "0.1.0",
-    "url": "https://github.com/pamgene/Venn_diag_shiny_operator"
-  },
-  {
-    "name": "ANOVA and Dunnett",
-    "version": "0.1.0",
-    "url": "https://github.com/pamgene/anova_dunnett_operator"
-  },
-  {
-    "name": "Scatter 3D",
-    "version": "1.0.0",
-    "url": "https://github.com/pamgene/biplot_shiny_operator"
-  },
-  {
-    "name": "Check input 1 operator",
-    "version": "0.1.0",
-    "url": "https://github.com/pamgene/check_input1_operator"
-  },
-  {
-    "name": "Col-flag",
-    "version": "0.1.0",
-    "url": "https://github.com/pamgene/col_flag_operator"
-  },
-  {
-    "name": "DASCombat Shiny operator",
-    "version": "0.5.1",
-    "url": "https://github.com/pamgene/dascombat_shiny_fit_operator"
-  },
-  {
-    "name": "Export Crosstab Shiny Operator",
-    "version": "0.0.6",
-    "url": "https://github.com/pamgene/export_crosstab_shiny_operator"
-  },
-  {
-    "name": "Fold Change_app",
-    "version": "0.3.6",
-    "url": "https://github.com/pamgene/foldchange_app"
-  },
-  {
-    "name": "image_analysis_PTK_afterwash_template",
-    "version": "0.2.1",
-    "url": "https://github.com/pamgene/image_analysis_PTK_afterwash_template"
-  },
-  {
-    "name": "image_analysis_PTK_prewash_template",
-    "version": "0.2.1",
-    "url": "https://github.com/pamgene/image_analysis_PTK_prewash_template"
-  },
-  {
-    "name": "image_analysis_STK_template",
-    "version": "0.2.1",
-    "url": "https://github.com/pamgene/image_analysis_STK_template"
-  },
-  {
-    "name": "Log Cutoff",
-    "version": "0.1.1",
-    "url": "https://github.com/pamgene/log_cutoff_operator"
-  },
-  {
-    "name": "Mean and CV",
-    "version": "0.1.0",
-    "url": "https://github.com/pamgene/mean_and_cv_shiny_operator"
-  },
-  {
-    "name": "Minus",
-    "version": "0.2.0",
-    "url": "https://github.com/pamgene/minus_operator"
-  },
-  {
-    "name": "Model Based Clustering",
-    "version": "0.1.0",
-    "url": "https://github.com/pamgene/model_based_clustering_operator"
-  },
-  {
-    "name": "Nominal CV Estimate",
-    "version": "0.1.0",
-    "url": "https://github.com/pamgene/nominal_cv_estimate_operator"
-  },
-  {
-    "name": "Non Linear Regression",
-    "version": "1.4.2",
-    "url": "https://github.com/pamgene/nonlinear_regression_operator"
-  },
-  {
-    "name": "pamsoft_grid_operator",
-    "version": "1.4.1",
-    "url": "https://github.com/pamgene/pamsoft_grid_operator"
-  },
-  {
-    "name": "pamsoft_grid_qt_operator",
-    "version": "1.4.2",
-    "url": "https://github.com/pamgene/pamsoft_grid_qt_operator"
-  },
-  {
-    "name": "Pamsoft Grid Shiny Operator",
-    "version": "1.2.1",
-    "url": "https://github.com/pamgene/pamsoft_grid_shiny_operator"
-  },
-  {
-    "name": "PG PLSDA Classifier",
-    "version": "0.3.1",
-    "url": "https://github.com/pamgene/pg_plsda_classifier_operator"
-  },
-  {
-    "name": "Pooled Standard Deviation",
-    "version": "0.1",
-    "url": "https://github.com/pamgene/pooled_sd_operator"
-  },
-  {
-    "name": "Protein-Protein Network Visualization",
-    "version": "0.1.0",
-    "url": "https://github.com/pamgene/ppi_string_shiny_operator"
-  },
-  {
-    "name": "PS12 images",
-    "version": "1.2.2",
-    "url": "https://github.com/pamgene/ps12image_operator"
-  },
-  {
-    "name": "PS12 Image Overview Shiny Operator",
-    "version": "0.2.1",
-    "url": "https://github.com/pamgene/ps12image_overview_shiny_operator"
-  },
-  {
-    "name": "Cube",
-    "version": "0.2.0",
-    "url": "https://github.com/pamgene/read_pgcube_operator"
-  },
-  {
-    "name": "ROC Shiny Operator",
-    "version": "0.2.0",
-    "url": "https://github.com/pamgene/roc_shiny_operator"
-  },
-  {
-    "name": "TTest_app",
-    "version": "0.3.5",
-    "url": "https://github.com/pamgene/ttest_app"
-  },
-  {
-    "name": "TTest_paired_app",
-    "version": "0.2.0",
-    "url": "https://github.com/pamgene/ttest_paired_app"
-  },
-  {
-    "name": "t-Test - Two Group",
-    "version": "0.1.1",
-    "url": "https://github.com/pamgene/two_sample_ttest_operator"
-  },
-  {
-    "name": "Upstream Kinase Analysis",
-    "version": "0.3.1",
-    "url": "https://github.com/pamgene/uka_shiny_operator"
-  },
-  {
-    "name": "VSN",
-    "version": "0.2.2",
-    "url": "https://github.com/pamgene/vsn_operator"
-  },
-  {
-    "name": "Z-score scaling",
-    "version": "0.1.0",
-    "url": "https://github.com/pamgene/zscore_scaling_operator"
-  }
-]
+{
+  "repos": [
+    {
+      "name": "ETS_app",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/ETS_app"
+    },
+    {
+      "name": "ETS",
+      "version": "0.3.0",
+      "url": "https://github.com/pamgene/ETS_operator"
+    },
+    {
+      "name": "MTvC_app",
+      "version": "0.2.4",
+      "url": "https://github.com/pamgene/MTvC_app"
+    },
+    {
+      "name": "PCA Shiny",
+      "version": "0.0.3",
+      "url": "https://github.com/pamgene/PCA_shiny_operator"
+    },
+    {
+      "name": "PTK_C1T1C2T2_template",
+      "version": "0.2.3",
+      "url": "https://github.com/pamgene/PTK_C1T1C2T2_template"
+    },
+    {
+      "name": "PTK_CT1T2T3_template",
+      "version": "0.2.3",
+      "url": "https://github.com/pamgene/PTK_CT1T2T3_template"
+    },
+    {
+      "name": "PTK QC",
+      "version": "0.1.2",
+      "url": "https://github.com/pamgene/PTK_QC_presence_operator"
+    },
+    {
+      "name": "QC_PTK_app",
+      "version": "0.1.2",
+      "url": "https://github.com/pamgene/QC_PTK_app"
+    },
+    {
+      "name": "QC_STK_app",
+      "version": "0.2.2",
+      "url": "https://github.com/pamgene/QC_STK_app"
+    },
+    {
+      "name": "S100",
+      "version": "0.2.0",
+      "url": "https://github.com/pamgene/S100_operator"
+    },
+    {
+      "name": "STK_C1T1C2T2_template",
+      "version": "0.2.3",
+      "url": "https://github.com/pamgene/STK_C1T1C2T2_template"
+    },
+    {
+      "name": "STK_CT1T2T3_template",
+      "version": "0.2.3",
+      "url": "https://github.com/pamgene/STK_CT1T2T3_template"
+    },
+    {
+      "name": "simple_heatmap_app",
+      "version": "0.0.7",
+      "url": "https://github.com/pamgene/SimpleHeatmap_app"
+    },
+    {
+      "name": "UKA_FC_app",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/UKA_FC_app"
+    },
+    {
+      "name": "UKA_MTvC_app",
+      "version": "0.0.12",
+      "url": "https://github.com/pamgene/UKA_MTvC_app"
+    },
+    {
+      "name": "UKA_TGC_app",
+      "version": "0.0.17",
+      "url": "https://github.com/pamgene/UKA_TGC_app"
+    },
+    {
+      "name": "UKA_app",
+      "version": "0.3.0",
+      "url": "https://github.com/pamgene/UKA_app"
+    },
+    {
+      "name": "Venn",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/Venn_diag_shiny_operator"
+    },
+    {
+      "name": "ANOVA and Dunnett",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/anova_dunnett_operator"
+    },
+    {
+      "name": "Scatter 3D",
+      "version": "1.0.0",
+      "url": "https://github.com/pamgene/biplot_shiny_operator"
+    },
+    {
+      "name": "Check input 1 operator",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/check_input1_operator"
+    },
+    {
+      "name": "Col-flag",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/col_flag_operator"
+    },
+    {
+      "name": "DASCombat Shiny operator",
+      "version": "0.5.1",
+      "url": "https://github.com/pamgene/dascombat_shiny_fit_operator"
+    },
+    {
+      "name": "Export Crosstab Shiny Operator",
+      "version": "0.0.6",
+      "url": "https://github.com/pamgene/export_crosstab_shiny_operator"
+    },
+    {
+      "name": "Fold Change_app",
+      "version": "0.3.6",
+      "url": "https://github.com/pamgene/foldchange_app"
+    },
+    {
+      "name": "image_analysis_PTK_afterwash_template",
+      "version": "0.2.1",
+      "url": "https://github.com/pamgene/image_analysis_PTK_afterwash_template"
+    },
+    {
+      "name": "image_analysis_PTK_prewash_template",
+      "version": "0.2.1",
+      "url": "https://github.com/pamgene/image_analysis_PTK_prewash_template"
+    },
+    {
+      "name": "image_analysis_STK_template",
+      "version": "0.2.1",
+      "url": "https://github.com/pamgene/image_analysis_STK_template"
+    },
+    {
+      "name": "Log Cutoff",
+      "version": "0.1.1",
+      "url": "https://github.com/pamgene/log_cutoff_operator"
+    },
+    {
+      "name": "Mean and CV",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/mean_and_cv_shiny_operator"
+    },
+    {
+      "name": "Minus",
+      "version": "0.2.0",
+      "url": "https://github.com/pamgene/minus_operator"
+    },
+    {
+      "name": "Model Based Clustering",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/model_based_clustering_operator"
+    },
+    {
+      "name": "Nominal CV Estimate",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/nominal_cv_estimate_operator"
+    },
+    {
+      "name": "Non Linear Regression",
+      "version": "1.4.2",
+      "url": "https://github.com/pamgene/nonlinear_regression_operator"
+    },
+    {
+      "name": "pamsoft_grid_operator",
+      "version": "1.4.1",
+      "url": "https://github.com/pamgene/pamsoft_grid_operator"
+    },
+    {
+      "name": "pamsoft_grid_qt_operator",
+      "version": "1.4.2",
+      "url": "https://github.com/pamgene/pamsoft_grid_qt_operator"
+    },
+    {
+      "name": "Pamsoft Grid Shiny Operator",
+      "version": "1.2.1",
+      "url": "https://github.com/pamgene/pamsoft_grid_shiny_operator"
+    },
+    {
+      "name": "PG PLSDA Classifier",
+      "version": "0.3.1",
+      "url": "https://github.com/pamgene/pg_plsda_classifier_operator"
+    },
+    {
+      "name": "Pooled Standard Deviation",
+      "version": "0.1",
+      "url": "https://github.com/pamgene/pooled_sd_operator"
+    },
+    {
+      "name": "Protein-Protein Network Visualization",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/ppi_string_shiny_operator"
+    },
+    {
+      "name": "PS12 images",
+      "version": "1.2.2",
+      "url": "https://github.com/pamgene/ps12image_operator"
+    },
+    {
+      "name": "PS12 Image Overview Shiny Operator",
+      "version": "0.2.1",
+      "url": "https://github.com/pamgene/ps12image_overview_shiny_operator"
+    },
+    {
+      "name": "Cube",
+      "version": "0.2.0",
+      "url": "https://github.com/pamgene/read_pgcube_operator"
+    },
+    {
+      "name": "ROC Shiny Operator",
+      "version": "0.2.0",
+      "url": "https://github.com/pamgene/roc_shiny_operator"
+    },
+    {
+      "name": "TTest_app",
+      "version": "0.3.5",
+      "url": "https://github.com/pamgene/ttest_app"
+    },
+    {
+      "name": "TTest_paired_app",
+      "version": "0.2.0",
+      "url": "https://github.com/pamgene/ttest_paired_app"
+    },
+    {
+      "name": "t-Test - Two Group",
+      "version": "0.1.1",
+      "url": "https://github.com/pamgene/two_sample_ttest_operator"
+    },
+    {
+      "name": "Upstream Kinase Analysis",
+      "version": "0.3.1",
+      "url": "https://github.com/pamgene/uka_shiny_operator"
+    },
+    {
+      "name": "VSN",
+      "version": "0.2.2",
+      "url": "https://github.com/pamgene/vsn_operator"
+    },
+    {
+      "name": "Z-score scaling",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/zscore_scaling_operator"
+    }
+  ]
+}
