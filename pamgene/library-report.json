@@ -1,13 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "name": "test_dataset",
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/test_dataset",
-      "error": "Failed to load dataset.json : GitHub Error: Not Found",
-      "retry": 2
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "name": "cscore_operator",
@@ -202,6 +194,13 @@
       "url": "https://github.com/tercen/simple_workflow_test_tags_template",
       "error": "Blacklisted blacklist : [blacklist, pamgene, flowjo] found [pamgene]",
       "retry": 0
+    },
+    {
+      "name": "test_dataset",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/test_dataset",
+      "error": "Failed to load dataset.json : GitHub Error: Not Found",
+      "retry": 2
     },
     {
       "name": "Crabs Data.csv",
