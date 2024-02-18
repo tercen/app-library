@@ -4,71 +4,71 @@
       "name": "DESeq2_operator",
       "version": "0.1.4",
       "url": "https://github.com/tercen/DESeq2_operator",
-      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
-      "retry": 0
+      "error": "ServiceError({statusCode: -142, error: state.canceled, reason: Canceled})",
+      "retry": 1
     },
     {
       "name": "automated_gating_operator",
       "version": "0.3.10",
       "url": "https://github.com/tercen/automated_gating_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: A lebel containing Event IDs should be specified.\nExecution halted\n})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "boxplot_shiny_operator",
       "version": "0.0.4",
       "url": "https://github.com/tercen/boxplot_shiny_operator",
       "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "debarcoding_cytof_operator",
       "version": "0.0.5",
       "url": "https://github.com/tercen/debarcoding_cytof_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: Argument 'txt' must be a JSON string, URL or file.\nExecution halted\n})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "loess_smoothing_operator",
       "version": "0.1.0",
       "url": "https://github.com/tercen/loess_smoothing_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds4.y_pred -- val != refVal -- at line 4 -- val = 1.559645497633647 refVal = 1.5596454976336473})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "multiple_testing_operator",
       "version": "0.1.0",
       "url": "https://github.com/tercen/multiple_testing_operator",
       "error": "ServiceError({statusCode: -142, error: create.operator.renv.failed, reason: Failed to create operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "peacoqc_operator",
       "version": "0.3.5",
       "url": "https://github.com/tercen/peacoqc_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "regression_coefficients_operator",
       "version": "0.1.2",
       "url": "https://github.com/tercen/regression_coefficients_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "tracksom_operator",
       "version": "0.1.5",
       "url": "https://github.com/tercen/tracksom_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.metacluster_lineage_tracking -- val != refVal -- at line 78 -- val = B refVal = A})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "vst_operator",
       "version": "0.1.1",
       "url": "https://github.com/tercen/vst_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
