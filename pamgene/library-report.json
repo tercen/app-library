@@ -1079,6 +1079,11 @@
       "url": "https://github.com/tercen/t_test_operator"
     },
     {
+      "name": "test_dataset",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/test_dataset"
+    },
+    {
       "name": "t-SNE",
       "version": "1.1.2",
       "url": "https://github.com/tercen/tsne_operator"
