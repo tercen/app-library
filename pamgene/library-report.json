@@ -1,5 +1,13 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "name": "export_operator",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/export_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 41, in onResponseError\n    raise TercenError(str(obj))\ntercen.http.HttpClientService.TercenError: {'statusCode': 404, 'error': 'Workflow.not_found', 'reason': 'missing'}\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/operator/main.py\", line 147, in <module>\n    workflow = tercenCtx.context.client.workflowService.get(workflowId)\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 72, in get\n    self.onError(e)\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 46, in onError\n    raise error\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 67, in get\n    self.onResponseError(response)\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 43, in onResponseError\n    raise TercenError('unknown : failed to decode')\ntercen.http.HttpClientService.TercenError: unknown : failed to decode\n})",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "name": "Linear Mixed Model1",
@@ -37,7 +45,6 @@
     "https://github.com/pamgene/dascombat_fit_operator",
     "https://github.com/pamgene/dascombat_prediction_operator",
     "https://github.com/pamgene/globaltest_operator",
-    "https://github.com/pamgene/logfoldchange_app",
     "https://github.com/pamgene/mediqr_scaling_app",
     "https://github.com/pamgene/non_standard_apps_template",
     "https://github.com/pamgene/vsn_shiny_operator",
@@ -50,7 +57,6 @@
     "https://github.com/tercen/compensate_cytof_operator",
     "https://github.com/tercen/compensate_fcs_operator",
     "https://github.com/tercen/crabs_dataset",
-    "https://github.com/tercen/export_operator",
     "https://github.com/tercen/flow_basic_template",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/foldchange_operator",
@@ -73,13 +79,6 @@
     "https://github.com/tercen/yoruba_dataset"
   ],
   "blacklisted_documents": [
-    {
-      "name": "STK_CV_Export_app",
-      "version": "0.1",
-      "url": "https://github.com/pamgene/STK_CV_Export_app",
-      "error": "Failed to load workflow.json : GitHub Error: Not Found",
-      "retry": 2
-    },
     {
       "name": "anova1_operator",
       "version": "0.0.1",
@@ -365,11 +364,6 @@
       "name": "Nominal CV Estimate",
       "version": "0.1.0",
       "url": "https://github.com/pamgene/nominal_cv_estimate_operator"
-    },
-    {
-      "name": "Non Linear Regression",
-      "version": "1.4.2",
-      "url": "https://github.com/pamgene/nonlinear_regression_operator"
     },
     {
       "name": "pamsoft_grid_operator",
