@@ -5,126 +5,126 @@
       "version": "0.1.0",
       "url": "https://github.com/tercen/DRC_app",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.Ymax -- val != refVal -- at line 0 -- val = 2.3976375312700577 refVal = 2.397637611604864})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "ETS_app",
       "version": "0.0.2",
       "url": "https://github.com/tercen/ETS_app",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "FlowJo_advanced_cluster_explorer_template",
       "version": "0.0.2",
       "url": "https://github.com/tercen/FlowJo_advanced_cluster_explorer_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.10.0 not found in https://github.com/tercen/hclust_operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "FlowJo_basic_cluster_explorer_template",
       "version": "0.0.2",
       "url": "https://github.com/tercen/FlowJo_basic_cluster_explorer_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.10.0 not found in https://github.com/tercen/hclust_operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "FlowJo_cluster_explorer_full_template",
       "version": "0.0.7",
       "url": "https://github.com/tercen/FlowJo_cluster_explorer_full_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/flowsom_mst_operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "FlowJo_cluster_explorer_quick_template",
       "version": "0.0.7",
       "url": "https://github.com/tercen/FlowJo_cluster_explorer_quick_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/flowsom_mst_operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "MTvC_app",
       "version": "0.1.0",
       "url": "https://github.com/tercen/MTvC_app",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.column.type, reason: .sids -- bad type expected double found int32})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "QC_PTK_app",
       "version": "0.0.2",
       "url": "https://github.com/tercen/QC_PTK_app",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.intercept -- val != refVal -- at line 16 -- val = 0.11306818281300333 refVal = 0.11306818281300388})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "QC_STK_app",
       "version": "0.1.0",
       "url": "https://github.com/tercen/QC_STK_app",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "TraCeR_with_demultiplexing_template",
       "version": "0.0.1",
       "url": "https://github.com/tercen/TraCeR_with_demultiplexing_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName eaad083d62c0ea62d4e4fcc8093bdc9f32e7d319 not found in https://github.com/tercen/karolinska_demultiplex_docker_operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "TraCeR_without_demultiplexing_template",
       "version": "0.0.3",
       "url": "https://github.com/tercen/TraCeR_without_demultiplexing_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "UKA_app",
       "version": "0.1.0",
       "url": "https://github.com/tercen/UKA_app",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/upstream_kinase_analysis_shiny_operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "export_operator",
       "version": "0.1.7",
       "url": "https://github.com/tercen/export_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 41, in onResponseError\n    raise TercenError(str(obj))\ntercen.http.HttpClientService.TercenError: {'statusCode': 404, 'error': 'Workflow.not_found', 'reason': 'missing'}\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/operator/main.py\", line 142, in <module>\n    workflow = tercenCtx.context.client.workflowService.get(workflowId)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 72, in get\n    self.onError(e)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 46, in onError\n    raise error\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 67, in get\n    self.onResponseError(response)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 43, in onResponseError\n    raise TercenError('unknown : failed to decode')\ntercen.http.HttpClientService.TercenError: unknown : failed to decode\n})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "foldchange_app",
       "version": "0.1.0",
       "url": "https://github.com/tercen/foldchange_app",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.minus -- val != refVal -- at line 0 -- val = NaN refVal = -0.62446801830083})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "iteos_dose_response_curves_template",
       "version": "0.0.3",
       "url": "https://github.com/tercen/iteos_dose_response_curves_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "iteos_flowjo_reported_stats_template",
       "version": "0.0.3",
       "url": "https://github.com/tercen/iteos_flowjo_reported_stats_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.1.9 not found in https://github.com/tercen/compare_means_operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "iteos_multiplex_immunoassay_template",
       "version": "0.1.0",
       "url": "https://github.com/tercen/iteos_multiplex_immunoassay_template",
       "error": "ServiceError({statusCode: -142, error: UNKNOWN, reason: OperatorResult -- .ci or .ri attribute is required})",
-      "retry": 0
+      "retry": 1
     },
     {
       "name": "logfoldchange_app",
       "version": "0.1.0",
       "url": "https://github.com/tercen/logfoldchange_app",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.minus -- val != refVal -- at line 0 -- val = NaN refVal = -0.62446801830083})",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
