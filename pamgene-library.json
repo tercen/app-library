@@ -904,6 +904,51 @@
     "isViewOnly": false
   },
   {
+    "kind": "DockerOperator",
+    "id": "",
+    "isDeleted": false,
+    "rev": "",
+    "description": "Classifier operator",
+    "name": "PG PLSDA Classifier",
+    "createdBy": "",
+    "acl": {
+      "kind": "Acl",
+      "owner": "",
+      "aces": []
+    },
+    "createdDate": {
+      "kind": "Date",
+      "value": "2023-03-10T11:55:38.000Z"
+    },
+    "lastModifiedDate": {
+      "kind": "Date",
+      "value": "2023-12-20T10:42:51.000Z"
+    },
+    "urls": [
+      {
+        "kind": "Url",
+        "uri": "https://github.com/pamgene/pg_plsda_classifier_operator"
+      }
+    ],
+    "tags": [
+      "pamsoft grid"
+    ],
+    "meta": [],
+    "url": {
+      "kind": "Url",
+      "uri": "https://github.com/pamgene/pg_plsda_classifier_operator"
+    },
+    "version": "0.3.1",
+    "authors": [
+      "tercen"
+    ],
+    "isPublic": true,
+    "properties": [],
+    "longDescription": "",
+    "path": "",
+    "container": "pamgene/pg_plsda_classifier_operator:latest"
+  },
+  {
     "kind": "ROperator",
     "id": "",
     "isDeleted": false,
@@ -1242,7 +1287,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-08-11T12:28:27.000Z"
+      "value": "2023-11-28T11:05:46.000Z"
     },
     "urls": [
       {
@@ -1259,7 +1304,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/uka_shiny_operator"
     },
-    "version": "0.2.0",
+    "version": "0.3.1",
     "authors": [
       "tercen"
     ],
