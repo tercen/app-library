@@ -1,59 +1,14 @@
 {
   "repos": [
     {
-      "name": "DRC_app",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/DRC_app"
-    },
-    {
-      "name": "ETS_app",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/ETS_app"
-    },
-    {
-      "name": "FlowJo Cluster Explorer #2 - Advanced",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/FlowJo_advanced_cluster_explorer_template"
-    },
-    {
-      "name": "FlowJo Cluster Explorer #1 - Basic",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/FlowJo_basic_cluster_explorer_template"
-    },
-    {
-      "name": "FlowJo Cluster Explorer - Full",
-      "version": "0.0.7",
-      "url": "https://github.com/tercen/FlowJo_cluster_explorer_full_template"
-    },
-    {
-      "name": "FlowJo Cluster Explorer - Quick View",
-      "version": "0.0.7",
-      "url": "https://github.com/tercen/FlowJo_cluster_explorer_quick_template"
-    },
-    {
       "name": "IQR",
       "version": "0.1.3",
       "url": "https://github.com/tercen/IQR_operator"
     },
     {
-      "name": "MTvC_app",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/MTvC_app"
-    },
-    {
       "name": "PTK_CV_Export_app",
       "version": "0.0.2",
       "url": "https://github.com/tercen/PTK_CV_Export_app"
-    },
-    {
-      "name": "PTK QC_app",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/QC_PTK_app"
-    },
-    {
-      "name": "QC_STK_app",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/QC_STK_app"
     },
     {
       "name": "RMSD",
@@ -64,21 +19,6 @@
       "name": "STK_CV_Export_app",
       "version": "0.0.2",
       "url": "https://github.com/tercen/STK_CV_Export_app"
-    },
-    {
-      "name": "TraCeR workflow with demultiplexing using external storage",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/TraCeR_with_demultiplexing_template"
-    },
-    {
-      "name": "TraCeR workflow without demultiplexing using external storage",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/TraCeR_without_demultiplexing_template"
-    },
-    {
-      "name": "UKA_PTK_app",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/UKA_app"
     },
     {
       "name": "Add",
@@ -241,11 +181,6 @@
       "url": "https://github.com/tercen/flowsom_operator"
     },
     {
-      "name": "Fold Change_app",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/foldchange_app"
-    },
-    {
       "name": "Logistic Regression",
       "version": "0.1.0",
       "url": "https://github.com/tercen/generalised_linear_model_operator"
@@ -291,21 +226,6 @@
       "url": "https://github.com/tercen/impute_operator"
     },
     {
-      "name": "Dose response curves",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/iteos_dose_response_curves_template"
-    },
-    {
-      "name": "Analyzing FlowJo-reported stats",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/iteos_flowjo_reported_stats_template"
-    },
-    {
-      "name": "Multiplex immunoassay template workflow",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/iteos_multiplex_immunoassay_template"
-    },
-    {
       "name": "K-means",
       "version": "0.1.2",
       "url": "https://github.com/tercen/kmeans_operator"
@@ -334,11 +254,6 @@
       "name": "Log",
       "version": "1.1.5",
       "url": "https://github.com/tercen/log_operator"
-    },
-    {
-      "name": "Log Fold Change_app",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/logfoldchange_app"
     },
     {
       "name": "Logicle",
