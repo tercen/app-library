@@ -22,7 +22,7 @@
     },
     {
       "name": "UKA operator",
-      "version": "0.0.1",
+      "version": "0.0.3",
       "url": "https://github.com/pamgene/uka_operator",
       "error": "notest"
     }
@@ -129,6 +129,11 @@
       "url": "https://github.com/pamgene/pamsoft_grid_shiny_operator"
     },
     {
+      "name": "PG PLSDA Classifier",
+      "version": "0.3.1",
+      "url": "https://github.com/pamgene/pg_plsda_classifier_operator"
+    },
+    {
       "name": "Pooled Standard Deviation",
       "version": "0.1",
       "url": "https://github.com/pamgene/pooled_sd_operator"
@@ -165,7 +170,7 @@
     },
     {
       "name": "Upstream Kinase Analysis",
-      "version": "0.2.0",
+      "version": "0.3.1",
       "url": "https://github.com/pamgene/uka_shiny_operator"
     },
     {
@@ -185,7 +190,6 @@
     "https://github.com/pamgene/dascombat_fit_operator",
     "https://github.com/pamgene/dascombat_prediction_operator",
     "https://github.com/pamgene/globaltest_operator",
-    "https://github.com/pamgene/pg_plsda_classifier_operator",
     "https://github.com/pamgene/vsn_shiny_operator"
   ]
 }
