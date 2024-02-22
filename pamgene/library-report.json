@@ -1,10 +1,143 @@
 {
   "failed_documents": [
     {
+      "name": "PTK_C1T1C2T2_template",
+      "version": "0.2.3",
+      "url": "https://github.com/pamgene/PTK_C1T1C2T2_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "name": "PTK_CT1T2T3_template",
+      "version": "0.2.3",
+      "url": "https://github.com/pamgene/PTK_CT1T2T3_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "name": "STK_C1T1C2T2_template",
+      "version": "0.2.3",
+      "url": "https://github.com/pamgene/STK_C1T1C2T2_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "name": "STK_CT1T2T3_template",
+      "version": "0.2.3",
+      "url": "https://github.com/pamgene/STK_CT1T2T3_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "name": "UKA_MTvC_app",
+      "version": "0.0.12",
+      "url": "https://github.com/pamgene/UKA_MTvC_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "name": "UKA_TGC_app",
+      "version": "0.0.17",
+      "url": "https://github.com/pamgene/UKA_TGC_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "name": "DRC_app",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/DRC_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.Ymax -- val != refVal -- at line 0 -- val = 2.3976375312700577 refVal = 2.397637611604864})",
+      "retry": 0
+    },
+    {
+      "name": "ETS_app",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/ETS_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
+      "retry": 0
+    },
+    {
+      "name": "MTvC_app",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/MTvC_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.column.type, reason: .sids -- bad type expected double found int32})",
+      "retry": 0
+    },
+    {
+      "name": "QC_PTK_app",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/QC_PTK_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.intercept -- val != refVal -- at line 16 -- val = 0.11306818281300333 refVal = 0.11306818281300388})",
+      "retry": 0
+    },
+    {
+      "name": "QC_STK_app",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/QC_STK_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "name": "TraCeR_with_demultiplexing_template",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/TraCeR_with_demultiplexing_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName eaad083d62c0ea62d4e4fcc8093bdc9f32e7d319 not found in https://github.com/tercen/karolinska_demultiplex_docker_operator})",
+      "retry": 0
+    },
+    {
+      "name": "TraCeR_without_demultiplexing_template",
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/TraCeR_without_demultiplexing_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "name": "UKA_app",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/UKA_app",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/upstream_kinase_analysis_shiny_operator})",
+      "retry": 0
+    },
+    {
       "name": "export_operator",
-      "version": "0.1.1",
+      "version": "0.1.7",
       "url": "https://github.com/tercen/export_operator",
-      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 41, in onResponseError\n    raise TercenError(str(obj))\ntercen.http.HttpClientService.TercenError: {'statusCode': 404, 'error': 'Workflow.not_found', 'reason': 'missing'}\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/operator/main.py\", line 147, in <module>\n    workflow = tercenCtx.context.client.workflowService.get(workflowId)\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 72, in get\n    self.onError(e)\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 46, in onError\n    raise error\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 67, in get\n    self.onResponseError(response)\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 43, in onResponseError\n    raise TercenError('unknown : failed to decode')\ntercen.http.HttpClientService.TercenError: unknown : failed to decode\n})",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 41, in onResponseError\n    raise TercenError(str(obj))\ntercen.http.HttpClientService.TercenError: {'statusCode': 404, 'error': 'Workflow.not_found', 'reason': 'missing'}\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/operator/main.py\", line 142, in <module>\n    workflow = tercenCtx.context.client.workflowService.get(workflowId)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 72, in get\n    self.onError(e)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 46, in onError\n    raise error\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 67, in get\n    self.onResponseError(response)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 43, in onResponseError\n    raise TercenError('unknown : failed to decode')\ntercen.http.HttpClientService.TercenError: unknown : failed to decode\n})",
+      "retry": 0
+    },
+    {
+      "name": "foldchange_app",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/foldchange_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.minus -- val != refVal -- at line 0 -- val = NaN refVal = -0.62446801830083})",
+      "retry": 0
+    },
+    {
+      "name": "iteos_dose_response_curves_template",
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/iteos_dose_response_curves_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "name": "iteos_flowjo_reported_stats_template",
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/iteos_flowjo_reported_stats_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.1.9 not found in https://github.com/tercen/compare_means_operator})",
+      "retry": 0
+    },
+    {
+      "name": "iteos_multiplex_immunoassay_template",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/iteos_multiplex_immunoassay_template",
+      "error": "ServiceError({statusCode: -142, error: UNKNOWN, reason: OperatorResult -- .ci or .ri attribute is required})",
+      "retry": 0
+    },
+    {
+      "name": "logfoldchange_app",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/logfoldchange_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.minus -- val != refVal -- at line 0 -- val = NaN refVal = -0.62446801830083})",
       "retry": 0
     }
   ],
@@ -60,6 +193,7 @@
     "https://github.com/tercen/flow_basic_template",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/foldchange_operator",
+    "https://github.com/tercen/gating_to_reference_operator",
     "https://github.com/tercen/image_analysis_PTK_AfterWash_template",
     "https://github.com/tercen/image_analysis_PTK_PreWash_template",
     "https://github.com/tercen/image_analysis_STK_template",
@@ -170,7 +304,13 @@
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
       "retry": 2
     },
-
+    {
+      "name": "Simple",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/simple_workflow_test_tags_template",
+      "error": "Blacklisted blacklist : [blacklist, pamgene, flowjo] found [pamgene]",
+      "retry": 0
+    },
     {
       "name": "Crabs Data.csv",
       "version": "0.0.1",
@@ -194,33 +334,61 @@
     }
   ],
   "success_documents": [
-
+    {
+      "name": "ETS_app",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/ETS_app"
+    },
     {
       "name": "ETS",
       "version": "0.3.0",
       "url": "https://github.com/pamgene/ETS_operator"
     },
-
+    {
+      "name": "MTvC_app",
+      "version": "0.2.4",
+      "url": "https://github.com/pamgene/MTvC_app"
+    },
     {
       "name": "PCA Shiny",
       "version": "0.0.3",
       "url": "https://github.com/pamgene/PCA_shiny_operator"
     },
-
-
     {
       "name": "PTK QC",
       "version": "0.1.2",
       "url": "https://github.com/pamgene/PTK_QC_presence_operator"
     },
-
+    {
+      "name": "QC_PTK_app",
+      "version": "0.1.2",
+      "url": "https://github.com/pamgene/QC_PTK_app"
+    },
+    {
+      "name": "QC_STK_app",
+      "version": "0.2.2",
+      "url": "https://github.com/pamgene/QC_STK_app"
+    },
     {
       "name": "S100",
       "version": "0.2.0",
       "url": "https://github.com/pamgene/S100_operator"
     },
-
-
+    {
+      "name": "simple_heatmap_app",
+      "version": "0.0.7",
+      "url": "https://github.com/pamgene/SimpleHeatmap_app"
+    },
+    {
+      "name": "UKA_FC_app",
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/UKA_FC_app"
+    },
+    {
+      "name": "UKA_app",
+      "version": "0.3.0",
+      "url": "https://github.com/pamgene/UKA_app"
+    },
     {
       "name": "Venn",
       "version": "0.1.0",
@@ -256,9 +424,26 @@
       "version": "0.0.6",
       "url": "https://github.com/pamgene/export_crosstab_shiny_operator"
     },
-
-
-
+    {
+      "name": "Fold Change_app",
+      "version": "0.3.6",
+      "url": "https://github.com/pamgene/foldchange_app"
+    },
+    {
+      "name": "image_analysis_PTK_afterwash_template",
+      "version": "0.2.1",
+      "url": "https://github.com/pamgene/image_analysis_PTK_afterwash_template"
+    },
+    {
+      "name": "image_analysis_PTK_prewash_template",
+      "version": "0.2.1",
+      "url": "https://github.com/pamgene/image_analysis_PTK_prewash_template"
+    },
+    {
+      "name": "image_analysis_STK_template",
+      "version": "0.2.1",
+      "url": "https://github.com/pamgene/image_analysis_STK_template"
+    },
     {
       "name": "Log Cutoff",
       "version": "0.1.1",
@@ -334,7 +519,16 @@
       "version": "0.2.0",
       "url": "https://github.com/pamgene/roc_shiny_operator"
     },
-
+    {
+      "name": "TTest_app",
+      "version": "0.3.5",
+      "url": "https://github.com/pamgene/ttest_app"
+    },
+    {
+      "name": "TTest_paired_app",
+      "version": "0.2.0",
+      "url": "https://github.com/pamgene/ttest_paired_app"
+    },
     {
       "name": "t-Test - Two Group",
       "version": "0.1.1",
@@ -355,22 +549,26 @@
       "version": "0.1.0",
       "url": "https://github.com/pamgene/zscore_scaling_operator"
     },
-
     {
       "name": "IQR",
       "version": "0.1.3",
       "url": "https://github.com/tercen/IQR_operator"
     },
-
-
+    {
+      "name": "PTK_CV_Export_app",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/PTK_CV_Export_app"
+    },
     {
       "name": "RMSD",
       "version": "0.1.3",
       "url": "https://github.com/tercen/RMSD_operator"
     },
-
-
-
+    {
+      "name": "STK_CV_Export_app",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/STK_CV_Export_app"
+    },
     {
       "name": "Add",
       "version": "1.0.4",
@@ -476,7 +674,11 @@
       "version": "2.0.2",
       "url": "https://github.com/tercen/downsample_operator"
     },
-
+    {
+      "name": "export_app",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/export_app"
+    },
     {
       "name": "Export Table",
       "version": "0.1.6",
@@ -527,7 +729,6 @@
       "version": "1.6.2",
       "url": "https://github.com/tercen/flowsom_operator"
     },
-
     {
       "name": "Logistic Regression",
       "version": "0.1.0",
@@ -573,7 +774,6 @@
       "version": "0.3.4",
       "url": "https://github.com/tercen/impute_operator"
     },
-
     {
       "name": "K-means",
       "version": "0.1.2",
@@ -604,7 +804,6 @@
       "version": "1.1.5",
       "url": "https://github.com/tercen/log_operator"
     },
-
     {
       "name": "Logicle",
       "version": "1.0.2",
@@ -635,7 +834,11 @@
       "version": "0.1.5",
       "url": "https://github.com/tercen/mean_sd_operator"
     },
-
+    {
+      "name": "median_mad_app",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/median_mad_app"
+    },
     {
       "name": "Median and MAD",
       "version": "0.0.3",
@@ -711,7 +914,11 @@
       "version": "2.0.2",
       "url": "https://github.com/tercen/phenograph_operator"
     },
-
+    {
+      "name": "plot_median_ratio_app",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/plot_median_ratio_app"
+    },
     {
       "name": "Product",
       "version": "0.1.2",
@@ -732,7 +939,11 @@
       "version": "0.1.2",
       "url": "https://github.com/tercen/rank_by_row_mean_operator"
     },
-
+    {
+      "name": "ratio_app",
+      "version": "0.2.0",
+      "url": "https://github.com/tercen/ratio_app"
+    },
     {
       "name": "Ratio",
       "version": "2.0.1",
@@ -803,7 +1014,11 @@
       "version": "0.1.2",
       "url": "https://github.com/tercen/scRNAseq_QC_operator"
     },
-
+    {
+      "name": "scRNAseq - Basic Cell Ranger Workflow",
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/scRNAseq_basic_template"
+    },
     {
       "name": "scRNAseq Find Markers",
       "version": "0.1.3",
@@ -819,7 +1034,11 @@
       "version": "0.1.2",
       "url": "https://github.com/tercen/scRNAseq_normalize_operator"
     },
-
+    {
+      "name": "scale_min_max_app",
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/scale_min_max_app"
+    },
     {
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
@@ -840,7 +1059,11 @@
       "version": "1.0.1",
       "url": "https://github.com/tercen/shift_operator"
     },
-
+    {
+      "name": "Simple",
+      "version": "1.0.1",
+      "url": "https://github.com/tercen/simple_workflow_template"
+    },
     {
       "name": "sinh",
       "version": "0.1.2",
@@ -881,7 +1104,16 @@
       "version": "1.1.2",
       "url": "https://github.com/tercen/tsne_operator"
     },
-
+    {
+      "name": "ttest_app",
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/ttest_app"
+    },
+    {
+      "name": "ttest_paired_app",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/ttest_paired_app"
+    },
     {
       "name": "Tukey Test",
       "version": "0.0.4",
