@@ -11016,7 +11016,7 @@
     "kind": "Workflow",
     "id": "387c06aa5634942391a5403a078f1617",
     "isDeleted": false,
-    "rev": "3-4b867d15b70eed5d7229c0e3cb657a76",
+    "rev": "4-ee8a78021145b6186319954b2e9de155",
     "description": "Converts a list of peptides into a list of kinases.",
     "name": "UKA_FC_app",
     "createdBy": "dschuller",
@@ -11031,12 +11031,12 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-08-14T09:57:43.000Z"
+      "value": "2023-11-28T11:16:25.000Z"
     },
     "urls": [
       {
         "kind": "Url",
-        "uri": "https://github.com/pamgene/UKA_FC_app"
+        "uri": "https://github.com/tercen/simple_workflow_tmpl"
       }
     ],
     "tags": [],
@@ -11066,7 +11066,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/UKA_FC_app"
     },
-    "version": "0.0.3",
+    "version": "0.1.0",
     "authors": [],
     "isPublic": false,
     "projectId": "e53e831c80cb06b8ebb3828de4b83f98",
@@ -11369,8 +11369,8 @@
             "operatorRef": {
               "kind": "OperatorRef",
               "name": "Upstream Kinase Analysis",
-              "version": "0.2.0",
-              "operatorId": "387c06aa5634942391a5403a071c7064",
+              "version": "0.3.1",
+              "operatorId": "e3d98495ccd1bc1ddde3430a4d2e873c",
               "operatorKind": "ShinyOperator",
               "propertyValues": [
                 {
@@ -11433,7 +11433,7 @@
               }
             ],
             "rectangleSelections": [],
-            "nRows": 148
+            "nRows": 1
           },
           "taskId": ""
         },
@@ -11486,9 +11486,9 @@
         },
         "model": {
           "kind": "WizardStepModel",
-          "namespace": "UKA_FC",
+          "namespace": "UKA",
           "description": "Find kinase activity changes from differential peptide phosphorylation",
-          "appDesignType": "uka_fc.c03_simple",
+          "appDesignType": "uka.c03_simple",
           "factors": [
             {
               "kind": "MappingFactor",
@@ -11605,7 +11605,7 @@
     "kind": "Workflow",
     "id": "387c06aa5634942391a5403a0730be62",
     "isDeleted": false,
-    "rev": "6-79dd7a5a27e659fc0050b27c26e5c04d",
+    "rev": "8-cfc94b056308393a247cc2610afbbbf1",
     "description": "Converts a list of peptides into a list of kinases.",
     "name": "UKA_app",
     "createdBy": "dschuller",
@@ -11620,12 +11620,12 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2023-08-14T09:16:36.000Z"
+      "value": "2023-11-28T11:14:25.000Z"
     },
     "urls": [
       {
         "kind": "Url",
-        "uri": "https://github.com/pamgene/UKA_app"
+        "uri": "https://github.com/tercen/simple_workflow_tmpl"
       }
     ],
     "tags": [],
@@ -11655,7 +11655,7 @@
       "kind": "Url",
       "uri": "https://github.com/pamgene/UKA_app"
     },
-    "version": "0.2.8",
+    "version": "0.3.0",
     "authors": [],
     "isPublic": false,
     "projectId": "e53e831c80cb06b8ebb3828de4b83f98",
@@ -11793,8 +11793,8 @@
           },
           "topLeft": {
             "kind": "Point",
-            "x": 624.4025781250002,
-            "y": 117.5
+            "x": 625.4025781250002,
+            "y": 118.5
           }
         },
         "state": {
@@ -11972,7 +11972,7 @@
               }
             ],
             "rectangleSelections": [],
-            "nRows": 6
+            "nRows": 1
           },
           "filters": {
             "kind": "Filters",
@@ -11985,8 +11985,8 @@
             "operatorRef": {
               "kind": "OperatorRef",
               "name": "Upstream Kinase Analysis",
-              "version": "0.2.0",
-              "operatorId": "387c06aa5634942391a5403a071c7064",
+              "version": "0.3.1",
+              "operatorId": "e3d98495ccd1bc1ddde3430a4d2e873c",
               "operatorKind": "ShinyOperator",
               "propertyValues": [
                 {
@@ -12049,7 +12049,7 @@
               }
             ],
             "rectangleSelections": [],
-            "nRows": 173
+            "nRows": 1
           },
           "taskId": ""
         },
