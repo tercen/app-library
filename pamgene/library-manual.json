@@ -1,37 +1,30 @@
 {
   "repos": [
     {
-      "name": "UKA_MTvC_app",
       "version": "0.0.12",
       "url": "https://github.com/pamgene/UKA_MTvC_app"
     },
     {
-      "name": "UKA_TGC_app",
       "version": "0.0.17",
       "url": "https://github.com/pamgene/UKA_TGC_app"
     },
     {
-      "name": "UKA",
-      "version": "",
+      "version": "0.0.3",
       "url": "https://github.com/pamgene/UKA_operator"
     },
     {
-      "name": "PTK_C1T1C2T2_template",
       "version": "0.2.3",
       "url": "https://github.com/pamgene/PTK_C1T1C2T2_template"
     },
     {
-      "name": "STK_C1T1C2T2_template",
       "version": "0.2.3",
       "url": "https://github.com/pamgene/STK_C1T1C2T2_template"
     },
     {
-      "name": "PTK_CT1T2T3_template",
       "version": "0.2.3",
       "url": "https://github.com/pamgene/PTK_CT1T2T3_template"
     },
     {
-      "name": "STK_CT1T2T3_template",
       "version": "0.2.3",
       "url": "https://github.com/pamgene/STK_CT1T2T3_template"
     }
