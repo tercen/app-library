@@ -11,14 +11,9 @@
       "url": "https://github.com/pamgene/UKA_TGC_app"
     },
     {
-      "name": "UKA_FC_app",
-      "version": "0.1.0",
-      "url": "https://github.com/pamgene/UKA_FC_app"
-    },
-    {
-      "name": "UKA_app",
-      "version": "0.3.0",
-      "url": "https://github.com/pamgene/UKA_app"
+      "name": "UKA",
+      "version": "",
+      "url": "https://github.com/pamgene/UKA_operator"
     },
     {
       "name": "PTK_C1T1C2T2_template",
