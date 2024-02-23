@@ -1,135 +1,32 @@
 {
   "failed_documents": [
     {
-      "name": "ETS_app",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/ETS_app",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
-      "retry": 2
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/DRC_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.Ymax -- val != refVal -- at line 0 -- val = 2.3976375312700577 refVal = 2.397637611604864})",
+      "retry": 0
     },
     {
-      "name": "FlowJo_basic_cluster_explorer_template",
       "version": "0.0.2",
-      "url": "https://github.com/tercen/FlowJo_basic_cluster_explorer_template",
+      "url": "https://github.com/tercen/FlowJo_advanced_cluster_explorer_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.10.0 not found in https://github.com/tercen/hclust_operator})",
-      "retry": 2
-    },
-    {
-      "name": "FlowJo_cluster_explorer_full_template",
-      "version": "0.0.7",
-      "url": "https://github.com/tercen/FlowJo_cluster_explorer_full_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/flowsom_mst_operator})",
-      "retry": 2
-    },
-    {
-      "name": "FlowJo_cluster_explorer_quick_template",
-      "version": "0.0.7",
-      "url": "https://github.com/tercen/FlowJo_cluster_explorer_quick_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/flowsom_mst_operator})",
-      "retry": 2
-    },
-    {
-      "name": "MTvC_app",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/MTvC_app",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.column.type, reason: .sids -- bad type expected double found int32})",
-      "retry": 2
-    },
-    {
-      "name": "QC_PTK_app",
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/QC_PTK_app",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.intercept -- val != refVal -- at line 16 -- val = 0.11306818281300333 refVal = 0.11306818281300388})",
-      "retry": 2
-    },
-    {
-      "name": "QC_STK_app",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/QC_STK_app",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "name": "TraCeR_with_demultiplexing_template",
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/TraCeR_with_demultiplexing_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName eaad083d62c0ea62d4e4fcc8093bdc9f32e7d319 not found in https://github.com/tercen/karolinska_demultiplex_docker_operator})",
-      "retry": 2
-    },
-    {
-      "name": "TraCeR_without_demultiplexing_template",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/TraCeR_without_demultiplexing_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "name": "UKA_app",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/UKA_app",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/upstream_kinase_analysis_shiny_operator})",
-      "retry": 2
-    },
-    {
-      "name": "export_operator",
-      "version": "0.1.7",
-      "url": "https://github.com/tercen/export_operator",
-      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 41, in onResponseError\n    raise TercenError(str(obj))\ntercen.http.HttpClientService.TercenError: {'statusCode': 404, 'error': 'Workflow.not_found', 'reason': 'missing'}\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/operator/main.py\", line 142, in <module>\n    workflow = tercenCtx.context.client.workflowService.get(workflowId)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 72, in get\n    self.onError(e)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 46, in onError\n    raise error\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 67, in get\n    self.onResponseError(response)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 43, in onResponseError\n    raise TercenError('unknown : failed to decode')\ntercen.http.HttpClientService.TercenError: unknown : failed to decode\n})",
-      "retry": 2
-    },
-    {
-      "name": "foldchange_app",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/foldchange_app",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.minus -- val != refVal -- at line 0 -- val = NaN refVal = -0.62446801830083})",
-      "retry": 2
-    },
-    {
-      "name": "iteos_dose_response_curves_template",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/iteos_dose_response_curves_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "name": "iteos_flowjo_reported_stats_template",
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/iteos_flowjo_reported_stats_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.1.9 not found in https://github.com/tercen/compare_means_operator})",
-      "retry": 2
-    },
-    {
-      "name": "iteos_multiplex_immunoassay_template",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/iteos_multiplex_immunoassay_template",
-      "error": "ServiceError({statusCode: -142, error: UNKNOWN, reason: OperatorResult -- .ci or .ri attribute is required})",
-      "retry": 2
-    },
-    {
-      "name": "logfoldchange_app",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/logfoldchange_app",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.minus -- val != refVal -- at line 0 -- val = NaN refVal = -0.62446801830083})",
-      "retry": 2
+      "retry": 0
     }
   ],
   "notest_documents": [
     {
-      "name": "PHATE",
       "version": "0.2.0",
       "url": "https://github.com/tercen/phate_operator",
       "error": "notest",
       "retry": 0
     },
     {
-      "name": "Plot",
       "version": "0.1.0",
       "url": "https://github.com/tercen/plot_operator",
       "error": "notest",
       "retry": 0
     },
     {
-      "name": "Scyan",
       "version": "0.0.5",
       "url": "https://github.com/tercen/scyan_operator",
       "error": "notest",
@@ -170,77 +67,162 @@
   ],
   "blacklisted_documents": [
     {
-      "name": "DESeq2_operator",
       "version": "0.1.4",
       "url": "https://github.com/tercen/DESeq2_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
       "retry": 2
     },
     {
-      "name": "automated_gating_operator",
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/ETS_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/FlowJo_basic_cluster_explorer_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.10.0 not found in https://github.com/tercen/hclust_operator})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.7",
+      "url": "https://github.com/tercen/FlowJo_cluster_explorer_full_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/flowsom_mst_operator})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.7",
+      "url": "https://github.com/tercen/FlowJo_cluster_explorer_quick_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/flowsom_mst_operator})",
+      "retry": 2
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/MTvC_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.column.type, reason: .sids -- bad type expected double found int32})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/QC_PTK_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.intercept -- val != refVal -- at line 16 -- val = 0.11306818281300333 refVal = 0.11306818281300388})",
+      "retry": 2
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/QC_STK_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/TraCeR_with_demultiplexing_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName eaad083d62c0ea62d4e4fcc8093bdc9f32e7d319 not found in https://github.com/tercen/karolinska_demultiplex_docker_operator})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/TraCeR_without_demultiplexing_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/UKA_app",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/upstream_kinase_analysis_shiny_operator})",
+      "retry": 2
+    },
+    {
       "version": "0.3.10",
       "url": "https://github.com/tercen/automated_gating_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: A lebel containing Event IDs should be specified.\nExecution halted\n})",
       "retry": 2
     },
     {
-      "name": "boxplot_shiny_operator",
       "version": "0.0.4",
       "url": "https://github.com/tercen/boxplot_shiny_operator",
       "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})",
       "retry": 2
     },
     {
-      "name": "debarcoding_cytof_operator",
       "version": "0.0.5",
       "url": "https://github.com/tercen/debarcoding_cytof_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: Argument 'txt' must be a JSON string, URL or file.\nExecution halted\n})",
       "retry": 2
     },
     {
-      "name": "loess_smoothing_operator",
+      "version": "0.1.7",
+      "url": "https://github.com/tercen/export_operator",
+      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 41, in onResponseError\n    raise TercenError(str(obj))\ntercen.http.HttpClientService.TercenError: {'statusCode': 404, 'error': 'Workflow.not_found', 'reason': 'missing'}\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/operator/main.py\", line 142, in <module>\n    workflow = tercenCtx.context.client.workflowService.get(workflowId)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 72, in get\n    self.onError(e)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 46, in onError\n    raise error\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 67, in get\n    self.onResponseError(response)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 43, in onResponseError\n    raise TercenError('unknown : failed to decode')\ntercen.http.HttpClientService.TercenError: unknown : failed to decode\n})",
+      "retry": 2
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/foldchange_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.minus -- val != refVal -- at line 0 -- val = NaN refVal = -0.62446801830083})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/iteos_dose_response_curves_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/iteos_flowjo_reported_stats_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.1.9 not found in https://github.com/tercen/compare_means_operator})",
+      "retry": 2
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/iteos_multiplex_immunoassay_template",
+      "error": "ServiceError({statusCode: -142, error: UNKNOWN, reason: OperatorResult -- .ci or .ri attribute is required})",
+      "retry": 2
+    },
+    {
       "version": "0.1.0",
       "url": "https://github.com/tercen/loess_smoothing_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds4.y_pred -- val != refVal -- at line 4 -- val = 1.559645497633647 refVal = 1.5596454976336473})",
       "retry": 2
     },
     {
-      "name": "multiple_testing_operator",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/logfoldchange_app",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.minus -- val != refVal -- at line 0 -- val = NaN refVal = -0.62446801830083})",
+      "retry": 2
+    },
+    {
       "version": "0.1.0",
       "url": "https://github.com/tercen/multiple_testing_operator",
       "error": "ServiceError({statusCode: -142, error: create.operator.renv.failed, reason: Failed to create operator})",
       "retry": 2
     },
     {
-      "name": "peacoqc_operator",
       "version": "0.3.5",
       "url": "https://github.com/tercen/peacoqc_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
       "retry": 2
     },
     {
-      "name": "regression_coefficients_operator",
       "version": "0.1.2",
       "url": "https://github.com/tercen/regression_coefficients_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
       "retry": 2
     },
     {
-      "name": "Simple",
       "version": "0.0.1",
       "url": "https://github.com/tercen/simple_workflow_test_tags_template",
       "error": "Blacklisted blacklist : [blacklist, pamgene] found [pamgene]",
       "retry": 0
     },
     {
-      "name": "Crabs Data.csv",
       "version": "0.0.1",
       "url": "https://github.com/tercen/test_tags_dataset",
       "error": "Blacklisted blacklist : [blacklist, pamgene] found [blacklist]",
       "retry": 0
     },
     {
-      "name": "vst_operator",
       "version": "0.1.1",
       "url": "https://github.com/tercen/vst_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
@@ -249,597 +231,482 @@
   ],
   "success_documents": [
     {
-      "name": "IQR",
+      "version": "https://github.com/tercen/simple_workflow_template",
+      "url": "1.1.0"
+    },
+    {
       "version": "0.1.3",
       "url": "https://github.com/tercen/IQR_operator"
     },
     {
-      "name": "PTK_CV_Export_app",
       "version": "0.0.2",
       "url": "https://github.com/tercen/PTK_CV_Export_app"
     },
     {
-      "name": "RMSD",
       "version": "0.1.3",
       "url": "https://github.com/tercen/RMSD_operator"
     },
     {
-      "name": "STK_CV_Export_app",
       "version": "0.0.2",
       "url": "https://github.com/tercen/STK_CV_Export_app"
     },
     {
-      "name": "Add",
       "version": "1.0.4",
       "url": "https://github.com/tercen/add_operator"
     },
     {
-      "name": "ANOVA",
       "version": "1.0.7",
       "url": "https://github.com/tercen/anova_operator"
     },
     {
-      "name": "asinh",
       "version": "1.1.2",
       "url": "https://github.com/tercen/asinh_operator"
     },
     {
-      "name": "Autoencoder operator",
       "version": "0.1.0",
       "url": "https://github.com/tercen/autoencoder_operator"
     },
     {
-      "name": "Biexponential",
       "version": "0.1.3",
       "url": "https://github.com/tercen/biexponential_operator"
     },
     {
-      "name": "Bin",
       "version": "0.0.4",
       "url": "https://github.com/tercen/bin_operator"
     },
     {
-      "name": "Normalisation Factors",
       "version": "0.1.2",
       "url": "https://github.com/tercen/calcnormfactors_operator"
     },
     {
-      "name": "Cell Annotation",
       "version": "0.0.1",
       "url": "https://github.com/tercen/cell_annotation_operator"
     },
     {
-      "name": "Chi-squared Test",
       "version": "0.1.2",
       "url": "https://github.com/tercen/chisquare_test_operator"
     },
     {
-      "name": "Classification Metrics",
       "version": "0.1.4",
       "url": "https://github.com/tercen/classification_metrics_operator"
     },
     {
-      "name": "Clustering Metrics",
       "version": "0.2.1",
       "url": "https://github.com/tercen/clustering_metrics_operator"
     },
     {
-      "name": "ClusterX",
       "version": "0.12.0",
       "url": "https://github.com/tercen/clusterx_operator"
     },
     {
-      "name": "Flag Columns",
       "version": "0.0.3",
       "url": "https://github.com/tercen/col_flag_operator"
     },
     {
-      "name": "Concatenate",
       "version": "0.1.4",
       "url": "https://github.com/tercen/concatenate_operator"
     },
     {
-      "name": "Constant",
       "version": "1.0.1",
       "url": "https://github.com/tercen/constant_operator"
     },
     {
-      "name": "Count",
       "version": "1.0.2",
       "url": "https://github.com/tercen/count_operator"
     },
     {
-      "name": "CV",
       "version": "1.0.2",
       "url": "https://github.com/tercen/cv_operator"
     },
     {
-      "name": "cyCombine",
       "version": "0.3.4",
       "url": "https://github.com/tercen/cycombine_operator"
     },
     {
-      "name": "cytonorm",
       "version": "1.2.0",
       "url": "https://github.com/tercen/cytonorm_operator"
     },
     {
-      "name": "diffcyt",
       "version": "0.3.2",
       "url": "https://github.com/tercen/diffcyt_operator"
     },
     {
-      "name": "Downsample",
       "version": "2.0.2",
       "url": "https://github.com/tercen/downsample_operator"
     },
     {
-      "name": "export_app",
       "version": "0.0.2",
       "url": "https://github.com/tercen/export_app"
     },
     {
-      "name": "Export Table",
       "version": "0.2.1",
       "url": "https://github.com/tercen/export_table_operator"
     },
     {
-      "name": "Fast t-SNE",
       "version": "0.1.6",
       "url": "https://github.com/tercen/fast_tSNE_operator"
     },
     {
-      "name": "FAUST",
       "version": "0.1.4",
       "url": "https://github.com/tercen/faust_operator"
     },
     {
-      "name": "Export FCS",
       "version": "0.1.2",
       "url": "https://github.com/tercen/fcs_export_operator"
     },
     {
-      "name": "Flag Values",
       "version": "0.3.6",
       "url": "https://github.com/tercen/flag_operator"
     },
     {
-      "name": "FlowAI",
       "version": "0.2.3",
       "url": "https://github.com/tercen/flowai_operator"
     },
     {
-      "name": "FlowClean",
       "version": "0.2.4",
       "url": "https://github.com/tercen/flowclean_operator"
     },
     {
-      "name": "flowCut",
       "version": "0.1.8",
       "url": "https://github.com/tercen/flowcut_operator"
     },
     {
-      "name": "Export FlowJo",
       "version": "0.2.9",
       "url": "https://github.com/tercen/flowjo_export_operator"
     },
     {
-      "name": "FlowSOM",
       "version": "1.6.2",
       "url": "https://github.com/tercen/flowsom_operator"
     },
     {
-      "name": "Logistic Regression",
       "version": "0.1.0",
       "url": "https://github.com/tercen/generalised_linear_model_operator"
     },
     {
-      "name": "GMM",
       "version": "0.1.4",
       "url": "https://github.com/tercen/gmm_operator"
     },
     {
-      "name": "GSEA",
       "version": "1.0.3",
       "url": "https://github.com/tercen/gsea_operator"
     },
     {
-      "name": "Heatmap Clustering",
       "version": "1.1.6",
       "url": "https://github.com/tercen/hclust_operator"
     },
     {
-      "name": "Heatmap",
       "version": "0.3.2",
       "url": "https://github.com/tercen/heatmap_dashboard_operator"
     },
     {
-      "name": "Hierarchical Clustering",
       "version": "0.1.4",
       "url": "https://github.com/tercen/hierarchical_clustering_operator"
     },
     {
-      "name": "Histogram",
       "version": "0.1.3",
       "url": "https://github.com/tercen/histogram_operator"
     },
     {
-      "name": "Identity",
       "version": "0.1.3",
       "url": "https://github.com/tercen/identity_operator"
     },
     {
-      "name": "Impute",
       "version": "0.3.4",
       "url": "https://github.com/tercen/impute_operator"
     },
     {
-      "name": "K-means",
       "version": "0.1.2",
       "url": "https://github.com/tercen/kmeans_operator"
     },
     {
-      "name": "Kruskal-Wallis Test",
       "version": "0.1.3",
       "url": "https://github.com/tercen/kruskaltest_operator"
     },
     {
-      "name": "Lagpad",
       "version": "0.1.1",
       "url": "https://github.com/tercen/lagpad_operator"
     },
     {
-      "name": "Levene Test",
       "version": "0.0.3",
       "url": "https://github.com/tercen/levene_test_operator"
     },
     {
-      "name": "Linear Regression",
       "version": "1.0.11",
       "url": "https://github.com/tercen/lm_operator"
     },
     {
-      "name": "Log",
       "version": "1.1.5",
       "url": "https://github.com/tercen/log_operator"
     },
     {
-      "name": "Logicle",
       "version": "1.0.2",
       "url": "https://github.com/tercen/logicle_operator"
     },
     {
-      "name": "Logit",
       "version": "0.1.6",
       "url": "https://github.com/tercen/logit_operator"
     },
     {
-      "name": "Mean Absolute Deviation",
       "version": "0.0.4",
       "url": "https://github.com/tercen/mad_operator"
     },
     {
-      "name": "Marker Enrichment Score",
       "version": "0.1.3",
       "url": "https://github.com/tercen/marker_enrichment_operator"
     },
     {
-      "name": "Mean",
       "version": "1.3.2",
       "url": "https://github.com/tercen/mean_operator"
     },
     {
-      "name": "Mean and SD",
       "version": "0.1.5",
       "url": "https://github.com/tercen/mean_sd_operator"
     },
     {
-      "name": "median_mad_app",
       "version": "0.0.2",
       "url": "https://github.com/tercen/median_mad_app"
     },
     {
-      "name": "Median and MAD",
       "version": "0.0.3",
       "url": "https://github.com/tercen/median_mad_operator"
     },
     {
-      "name": "Median",
       "version": "1.1.2",
       "url": "https://github.com/tercen/median_operator"
     },
     {
-      "name": "Min and Max",
       "version": "0.3.2",
       "url": "https://github.com/tercen/min_max_operator"
     },
     {
-      "name": "Scale (Min-Max)",
       "version": "0.1.4",
       "url": "https://github.com/tercen/minmax_scale_operator"
     },
     {
-      "name": "Minus",
       "version": "0.1.4",
       "url": "https://github.com/tercen/minus_operator"
     },
     {
-      "name": "Multiply",
       "version": "1.0.2",
       "url": "https://github.com/tercen/multiply_operator"
     },
     {
-      "name": "Multiply by Constant",
       "version": "0.1.3",
       "url": "https://github.com/tercen/multiplybyconstant_operator"
     },
     {
-      "name": "Change Sign",
       "version": "1.0.2",
       "url": "https://github.com/tercen/negative_operator"
     },
     {
-      "name": "Non Linear Regression",
       "version": "1.4.3",
       "url": "https://github.com/tercen/nonlinear_regression_operator"
     },
     {
-      "name": "Normalisation",
       "version": "0.1.4",
       "url": "https://github.com/tercen/normalyzer_operator"
     },
     {
-      "name": "Order By",
       "version": "0.1.5",
       "url": "https://github.com/tercen/orderBy_operator"
     },
     {
-      "name": "Pairwise Distance",
       "version": "0.2.3",
       "url": "https://github.com/tercen/pairwise_distance_operator"
     },
     {
-      "name": "PCA",
       "version": "1.3.4",
       "url": "https://github.com/tercen/pca_operator"
     },
     {
-      "name": "Percentile",
       "version": "0.1.4",
       "url": "https://github.com/tercen/percentile_operator"
     },
     {
-      "name": "PhenoGraph",
       "version": "2.0.2",
       "url": "https://github.com/tercen/phenograph_operator"
     },
     {
-      "name": "plot_median_ratio_app",
       "version": "0.0.1",
       "url": "https://github.com/tercen/plot_median_ratio_app"
     },
     {
-      "name": "Product",
       "version": "0.1.2",
       "url": "https://github.com/tercen/product_operator"
     },
     {
-      "name": "Count and Proportion",
       "version": "0.1.4",
       "url": "https://github.com/tercen/proportion_operator"
     },
     {
-      "name": "Q-Q Plot",
       "version": "0.1.2",
       "url": "https://github.com/tercen/qqplot_operator"
     },
     {
-      "name": "Rank by Row Means",
       "version": "0.1.2",
       "url": "https://github.com/tercen/rank_by_row_mean_operator"
     },
     {
-      "name": "ratio_app",
       "version": "0.2.0",
       "url": "https://github.com/tercen/ratio_app"
     },
     {
-      "name": "Ratio",
       "version": "2.0.1",
       "url": "https://github.com/tercen/ratio_operator"
     },
     {
-      "name": "Cell Ranger",
       "version": "0.2.4",
       "url": "https://github.com/tercen/read_cellranger_operator"
     },
     {
-      "name": "CSV (multiple files)",
       "version": "0.2.3",
       "url": "https://github.com/tercen/read_csv_operator"
     },
     {
-      "name": "FASTA",
       "version": "0.1.10",
       "url": "https://github.com/tercen/read_fasta_operator"
     },
     {
-      "name": "FCS",
       "version": "2.3.0",
       "url": "https://github.com/tercen/read_fcs_operator"
     },
     {
-      "name": "GMT",
       "version": "1.0.2",
       "url": "https://github.com/tercen/read_gmt_operator"
     },
     {
-      "name": "PNG",
       "version": "0.1.2",
       "url": "https://github.com/tercen/read_png_operator"
     },
     {
-      "name": "RDS",
       "version": "0.1.4",
       "url": "https://github.com/tercen/read_rds_operator"
     },
     {
-      "name": "Seurat",
       "version": "0.0.4",
       "url": "https://github.com/tercen/read_seurat_operator"
     },
     {
-      "name": "Excel",
       "version": "1.2.3",
       "url": "https://github.com/tercen/readxl_operator"
     },
     {
-      "name": "Replace",
       "version": "0.1.2",
       "url": "https://github.com/tercen/replace_operator"
     },
     {
-      "name": "Random Forest",
       "version": "0.1.2",
       "url": "https://github.com/tercen/rfsrc_operator"
     },
     {
-      "name": "Round",
       "version": "0.1.3",
       "url": "https://github.com/tercen/round_operator"
     },
     {
-      "name": "scRNAseq QC",
       "version": "0.1.2",
       "url": "https://github.com/tercen/scRNAseq_QC_operator"
     },
     {
-      "name": "scRNAseq - Basic Cell Ranger Workflow",
       "version": "0.0.1",
       "url": "https://github.com/tercen/scRNAseq_basic_template"
     },
     {
-      "name": "scRNAseq Find Markers",
       "version": "0.1.3",
       "url": "https://github.com/tercen/scRNAseq_findMarkers_operator"
     },
     {
-      "name": "scRNAseq Feature Selection",
       "version": "0.1.2",
       "url": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator"
     },
     {
-      "name": "scRNAseq Normalisation",
       "version": "0.1.2",
       "url": "https://github.com/tercen/scRNAseq_normalize_operator"
     },
     {
-      "name": "scale_min_max_app",
       "version": "0.0.3",
       "url": "https://github.com/tercen/scale_min_max_app"
     },
     {
-      "name": "Scale (Z-Score)",
       "version": "0.12.2",
       "url": "https://github.com/tercen/scale_operator"
     },
     {
-      "name": "Standard Deviation",
       "version": "0.9.1",
       "url": "https://github.com/tercen/sd_operator"
     },
     {
-      "name": "Separate",
       "version": "0.1.1",
       "url": "https://github.com/tercen/separate_operator"
     },
     {
-      "name": "Shift",
       "version": "1.0.1",
       "url": "https://github.com/tercen/shift_operator"
     },
     {
-      "name": "sinh",
       "version": "0.1.2",
       "url": "https://github.com/tercen/sinh_operator"
     },
     {
-      "name": "SNN Clustering",
       "version": "0.2.3",
       "url": "https://github.com/tercen/snn_clustering_operator"
     },
     {
-      "name": "Square Root",
       "version": "0.1.5",
       "url": "https://github.com/tercen/sqrt_operator"
     },
     {
-      "name": "Subtract",
       "version": "1.0.2",
       "url": "https://github.com/tercen/subtract_operator"
     },
     {
-      "name": "Sum",
       "version": "1.10.3",
       "url": "https://github.com/tercen/sum_operator"
     },
     {
-      "name": "t Test",
       "version": "1.1.3",
       "url": "https://github.com/tercen/t_test_operator"
     },
     {
-      "name": "test_dataset",
       "version": "0.1.1",
       "url": "https://github.com/tercen/test_dataset"
     },
     {
-      "name": "TrackSOM",
       "version": "0.1.5",
       "url": "https://github.com/tercen/tracksom_operator"
     },
     {
-      "name": "t-SNE",
       "version": "1.1.2",
       "url": "https://github.com/tercen/tsne_operator"
     },
     {
-      "name": "ttest_app",
       "version": "0.1.1",
       "url": "https://github.com/tercen/ttest_app"
     },
     {
-      "name": "ttest_paired_app",
       "version": "0.0.2",
       "url": "https://github.com/tercen/ttest_paired_app"
     },
     {
-      "name": "Tukey Test",
       "version": "0.0.4",
       "url": "https://github.com/tercen/tukey_hsd_operator"
     },
     {
-      "name": "UMAP",
       "version": "1.2.5",
       "url": "https://github.com/tercen/umap_operator"
     },
     {
-      "name": "Upper and Lower Bounds",
       "version": "0.1.2",
       "url": "https://github.com/tercen/upperandlowerbounds_operator"
     },
     {
-      "name": "Volcano Plot",
       "version": "0.0.3",
       "url": "https://github.com/tercen/volcano_shiny_operator"
     },
     {
-      "name": "Wilcoxon Test",
       "version": "0.1.6",
       "url": "https://github.com/tercen/wilcoxtest_operator"
     },
     {
-      "name": "Word Count",
       "version": "1.1.2",
       "url": "https://github.com/tercen/wordcount_operator"
     }
