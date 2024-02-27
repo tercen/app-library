@@ -9,6 +9,10 @@
       "name": "Scyan",
       "version": "0.0.5",
       "url": "https://github.com/tercen/scyan_operator"
+    },
+    {
+      "version": "0.1.6",
+      "url": "https://github.com/tercen/plot_operator"
     }
   ]
 }
