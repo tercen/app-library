@@ -67,6 +67,12 @@
   ],
   "blacklisted_documents": [
     {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/generalised_linear_model_operator",
+      "error": "fails test ...",
+      "retry": 0
+    },
+    {
       "version": "0.1.4",
       "url": "https://github.com/tercen/DESeq2_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
@@ -373,10 +379,6 @@
     {
       "version": "1.6.2",
       "url": "https://github.com/tercen/flowsom_operator"
-    },
-    {
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/generalised_linear_model_operator"
     },
     {
       "version": "0.1.4",
