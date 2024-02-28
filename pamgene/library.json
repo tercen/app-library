@@ -317,10 +317,6 @@
       "url": "https://github.com/tercen/flowsom_operator"
     },
     {
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/generalised_linear_model_operator"
-    },
-    {
       "version": "0.1.4",
       "url": "https://github.com/tercen/gmm_operator"
     },
