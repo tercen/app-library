@@ -8,6 +8,12 @@
       "retry": 0
     },
     {
+      "version": "0.2.2",
+      "url": "https://github.com/tercen/export_operator",
+      "error": "notest",
+      "retry": 0
+    },
+    {
       "version": "0.2.0",
       "url": "https://github.com/tercen/phate_operator",
       "error": "notest",
@@ -30,6 +36,7 @@
     "https://github.com/pamgene/DRC_app",
     "https://github.com/pamgene/DRC_fit_operator",
     "https://github.com/pamgene/anova2_operator",
+    "https://github.com/pamgene/barcode_operator",
     "https://github.com/pamgene/dascombat_fit_operator",
     "https://github.com/pamgene/dascombat_prediction_operator",
     "https://github.com/pamgene/globaltest_operator",
@@ -39,6 +46,7 @@
     "https://github.com/tercen/FlowJo_advanced_cluster_explorer_tracksom_template",
     "https://github.com/tercen/FlowJo_cluster_explorer_tracksom_template",
     "https://github.com/tercen/PTK_basic_template",
+    "https://github.com/tercen/STK_C1T1C2T2_gitIntegrationDemo_template",
     "https://github.com/tercen/STK_basic_template",
     "https://github.com/tercen/check_data_per_plate_app",
     "https://github.com/tercen/compare_means_operator",
@@ -64,16 +72,9 @@
     "https://github.com/tercen/std_test_workflow_template",
     "https://github.com/tercen/synthetic_data_operator",
     "https://github.com/tercen/template_app",
-    "https://github.com/tercen/thresholding_operator",
-    "https://github.com/tercen/yoruba_dataset"
+    "https://github.com/tercen/thresholding_operator"
   ],
   "blacklisted_documents": [
-    {
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/generalised_linear_model_operator",
-      "error": "fails test ...",
-      "retry": 0
-    },
     {
       "version": "0.2.3",
       "url": "https://github.com/pamgene/PTK_C1T1C2T2_template",
@@ -201,21 +202,9 @@
       "retry": 2
     },
     {
-      "version": "0.0.4",
-      "url": "https://github.com/tercen/boxplot_shiny_operator",
-      "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})",
-      "retry": 2
-    },
-    {
       "version": "0.0.5",
       "url": "https://github.com/tercen/debarcoding_cytof_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: Argument 'txt' must be a JSON string, URL or file.\nExecution halted\n})",
-      "retry": 2
-    },
-    {
-      "version": "0.1.7",
-      "url": "https://github.com/tercen/export_operator",
-      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 41, in onResponseError\n    raise TercenError(str(obj))\ntercen.http.HttpClientService.TercenError: {'statusCode': 404, 'error': 'Workflow.not_found', 'reason': 'missing'}\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/operator/main.py\", line 142, in <module>\n    workflow = tercenCtx.context.client.workflowService.get(workflowId)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 72, in get\n    self.onError(e)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 46, in onError\n    raise error\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 67, in get\n    self.onResponseError(response)\n  File \"/usr/local/lib/python3.9/site-packages/tercen/http/HttpClientService.py\", line 43, in onResponseError\n    raise TercenError('unknown : failed to decode')\ntercen.http.HttpClientService.TercenError: unknown : failed to decode\n})",
       "retry": 2
     },
     {
@@ -223,6 +212,12 @@
       "url": "https://github.com/tercen/foldchange_app",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.minus -- val != refVal -- at line 0 -- val = NaN refVal = -0.62446801830083})",
       "retry": 2
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/generalised_linear_model_operator",
+      "error": "fails test ...",
+      "retry": 0
     },
     {
       "version": "0.0.3",
@@ -575,7 +570,7 @@
       "url": "https://github.com/tercen/export_app"
     },
     {
-      "version": "0.2.1",
+      "version": "0.2.5",
       "url": "https://github.com/tercen/export_table_operator"
     },
     {
@@ -641,6 +636,10 @@
     {
       "version": "0.1.3",
       "url": "https://github.com/tercen/identity_operator"
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/image_analysis_STK_gitIntegrationDemo_template"
     },
     {
       "version": "0.3.4",
