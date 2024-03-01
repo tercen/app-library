@@ -277,7 +277,7 @@
       "url": "https://github.com/tercen/export_app"
     },
     {
-      "version": "0.2.1",
+      "version": "0.2.5",
       "url": "https://github.com/tercen/export_table_operator"
     },
     {
@@ -343,6 +343,10 @@
     {
       "version": "0.1.3",
       "url": "https://github.com/tercen/identity_operator"
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/image_analysis_STK_gitIntegrationDemo_template"
     },
     {
       "version": "0.3.4",
