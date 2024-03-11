@@ -17,6 +17,12 @@
     "base_memory": 5000000000,
     "ratio": 10
   },
+   {
+    "uri": "https://github.com/tercen/fast_tSNE_operator",
+    "version": "0.1.6",
+    "base_memory": 5000000000,
+    "ratio": 10
+  },
   {
     "uri": "https://github.com/tercen/faust_operator",
     "version": "0.0.1",
