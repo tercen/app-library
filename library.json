@@ -1185,7 +1185,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2024-02-07T09:20:02.000Z"
+      "value": "2024-02-27T12:59:15.000Z"
     },
     "urls": [
       {
@@ -1202,7 +1202,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/export_table_operator"
     },
-    "version": "0.1.6",
+    "version": "0.2.5",
     "authors": [
       "tercen"
     ],
@@ -3604,7 +3604,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2024-01-25T14:33:45.000Z"
+      "value": "2024-03-13T20:45:34.000Z"
     },
     "urls": [
       {
@@ -3620,7 +3620,7 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/read_csv_operator"
     },
-    "version": "0.2.3",
+    "version": "0.2.4",
     "authors": [
       "tercen"
     ],
