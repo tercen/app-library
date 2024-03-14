@@ -1,18 +1,6 @@
 {
   "failed_operators": [
     {
-      "name": "Box Plot",
-      "version": "0.0.4",
-      "url": "https://github.com/tercen/boxplot_shiny_operator",
-      "error": "ServiceError({statusCode: -142, error: create.operator.renv.lock.missing, reason: Failed to create operator, renv lock file is missing})"
-    },
-    {
-      "name": "Export Operator",
-      "version": "0.1.6",
-      "url": "https://github.com/tercen/export_operator",
-      "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 41, in onResponseError\n    raise TercenError(str(obj))\ntercen.http.HttpClientService.TercenError: {'statusCode': 404, 'error': 'Workflow.not_found', 'reason': 'missing'}\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/operator/main.py\", line 141, in <module>\n    workflow = tercenCtx.context.client.workflowService.get(workflowId)\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 72, in get\n    self.onError(e)\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 46, in onError\n    raise error\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 67, in get\n    self.onResponseError(response)\n  File \"/usr/local/lib/python3.9/dist-packages/tercen/http/HttpClientService.py\", line 43, in onResponseError\n    raise TercenError('unknown : failed to decode')\ntercen.http.HttpClientService.TercenError: unknown : failed to decode\n})"
-    },
-    {
       "name": "Hierarchical Clustering",
       "version": "0.1.4",
       "url": "https://github.com/tercen/hierarchical_clustering_operator",
@@ -27,6 +15,12 @@
   ],
   "notest_operators": [
     {
+      "name": "Export Report",
+      "version": "0.2.2",
+      "url": "https://github.com/tercen/export_operator",
+      "error": "notest"
+    },
+    {
       "name": "PHATE",
       "version": "0.2.0",
       "url": "https://github.com/tercen/phate_operator",
@@ -34,7 +28,7 @@
     },
     {
       "name": "Plot",
-      "version": "0.1.0",
+      "version": "0.1.6",
       "url": "https://github.com/tercen/plot_operator",
       "error": "notest"
     },
@@ -178,7 +172,7 @@
     },
     {
       "name": "Export Table",
-      "version": "0.1.6",
+      "version": "0.2.5",
       "url": "https://github.com/tercen/export_table_operator"
     },
     {
@@ -448,7 +442,7 @@
     },
     {
       "name": "CSV (multiple files)",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "url": "https://github.com/tercen/read_csv_operator"
     },
     {
@@ -624,7 +618,9 @@
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/foldchange_operator",
     "https://github.com/tercen/gating_to_reference_operator",
+    "https://github.com/tercen/gcs_import_operator",
     "https://github.com/tercen/kaplan_meier_operator",
+    "https://github.com/tercen/kumo_connector_operator",
     "https://github.com/tercen/logfoldchange_operator",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/pearson_operator",
