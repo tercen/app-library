@@ -12,7 +12,6 @@
   "no_release_documents": [
     "https://github.com/tercen/crabs_dataset",
     "https://github.com/tercen/donor21-donor22_dataset",
-    "https://github.com/tercen/lipodomics_mass_spec_dataset",
-    "https://github.com/tercen/yoruba_dataset"
+    "https://github.com/tercen/lipodomics_mass_spec_dataset"
   ]
 }
