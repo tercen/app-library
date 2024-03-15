@@ -14,7 +14,7 @@
       "retry": 0
     },
     {
-      "version": "0.1.0",
+      "version": "0.1.6",
       "url": "https://github.com/tercen/plot_operator",
       "error": "notest",
       "retry": 0
@@ -37,7 +37,7 @@
     "https://github.com/tercen/compensate_cytof_operator",
     "https://github.com/tercen/compensate_fcs_operator",
     "https://github.com/tercen/crabs_dataset",
-    "https://github.com/tercen/flow_basic_template",
+    "https://github.com/tercen/flow_core_immunophenotyping_template",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/foldchange_operator",
     "https://github.com/tercen/gating_to_reference_operator",
@@ -52,6 +52,7 @@
     "https://github.com/tercen/pca_app",
     "https://github.com/tercen/pearson_operator",
     "https://github.com/tercen/read_cel_operator",
+    "https://github.com/tercen/scyan_template",
     "https://github.com/tercen/sort_app",
     "https://github.com/tercen/std_test_workflow_template",
     "https://github.com/tercen/synthetic_data_operator",
@@ -556,7 +557,7 @@
       "url": "https://github.com/tercen/read_cellranger_operator"
     },
     {
-      "version": "0.2.3",
+      "version": "0.2.4",
       "url": "https://github.com/tercen/read_csv_operator"
     },
     {
