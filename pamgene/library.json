@@ -9,7 +9,7 @@
       "url": "https://github.com/pamgene/ETS_operator"
     },
     {
-      "version": "0.2.4",
+      "version": "0.2.6",
       "url": "https://github.com/pamgene/MTvC_app"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://github.com/pamgene/PTK_QC_presence_operator"
     },
     {
-      "version": "0.1.2",
+      "version": "0.1.4",
       "url": "https://github.com/pamgene/QC_PTK_app"
     },
     {
@@ -33,7 +33,7 @@
       "url": "https://github.com/pamgene/S100_operator"
     },
     {
-      "version": "0.0.7",
+      "version": "0.0.8",
       "url": "https://github.com/pamgene/SimpleHeatmap_app"
     },
     {
@@ -85,7 +85,7 @@
       "url": "https://github.com/pamgene/image_analysis_PTK_prewash_template"
     },
     {
-      "version": "0.2.1",
+      "version": "0.2.2",
       "url": "https://github.com/pamgene/image_analysis_STK_template"
     },
     {
@@ -149,11 +149,11 @@
       "url": "https://github.com/pamgene/roc_shiny_operator"
     },
     {
-      "version": "0.3.5",
+      "version": "0.3.6",
       "url": "https://github.com/pamgene/ttest_app"
     },
     {
-      "version": "0.2.0",
+      "version": "0.2.1",
       "url": "https://github.com/pamgene/ttest_paired_app"
     },
     {
@@ -493,7 +493,7 @@
       "url": "https://github.com/tercen/read_cellranger_operator"
     },
     {
-      "version": "0.2.3",
+      "version": "0.2.4",
       "url": "https://github.com/tercen/read_csv_operator"
     },
     {
