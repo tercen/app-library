@@ -1,17 +1,19 @@
 {
-  "failed_documents": [
-    {
-      "name": "test_dataset",
-      "version": "Instance of 'Release'",
-      "url": "https://github.com/tercen/test_dataset",
-      "error": "Failed to load dataset.json : GitHub Error: Not Found"
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [],
-  "success_documents": [],
   "no_release_documents": [
     "https://github.com/tercen/crabs_dataset",
-    "https://github.com/tercen/donor21-donor22_dataset",
     "https://github.com/tercen/lipodomics_mass_spec_dataset"
+  ],
+  "blacklisted_documents": [],
+  "success_documents": [
+    {
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/test_dataset"
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/test_tags_dataset"
+    }
   ]
 }
