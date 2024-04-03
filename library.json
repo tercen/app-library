@@ -6,7 +6,6 @@
     "rev": "",
     "description": "Differential expression analysis for RNA-seq data.",
     "name": "DESeq2",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -37,12 +36,15 @@
       "uri": "https://github.com/tercen/DESeq2_operator"
     },
     "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -52,7 +54,6 @@
     "rev": "",
     "description": "Computes the Interquartile Range, corresponding to the middle 50% of a distribution range.",
     "name": "IQR",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -81,12 +82,15 @@
       "uri": "https://github.com/tercen/IQR_operator"
     },
     "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -96,7 +100,6 @@
     "rev": "",
     "description": "Calculates the deviation of predicted values from expected values using Root-Mean-Square Deviation.",
     "name": "RMSD",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -125,12 +128,15 @@
       "uri": "https://github.com/tercen/RMSD_operator"
     },
     "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -140,7 +146,6 @@
     "rev": "",
     "description": "Calculates the sum of two values.",
     "name": "Add",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -169,12 +174,15 @@
       "uri": "https://github.com/tercen/add_operator"
     },
     "version": "1.0.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -184,7 +192,6 @@
     "rev": "",
     "description": "Tests for significant differences among group means using the Analysis Of Variance.",
     "name": "ANOVA",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -214,12 +221,15 @@
       "uri": "https://github.com/tercen/anova_operator"
     },
     "version": "1.0.7",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "tercen/anova_operator:1.0.0"
   },
@@ -230,7 +240,6 @@
     "rev": "",
     "description": "Computes the inverse hyperpolic sine (arcsinh, arsinh, or argsinh) of your data.",
     "name": "asinh",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -260,12 +269,15 @@
       "uri": "https://github.com/tercen/asinh_operator"
     },
     "version": "1.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -275,7 +287,6 @@
     "rev": "",
     "description": "Trains an autoencoder-based model",
     "name": "Autoencoder operator",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -305,12 +316,15 @@
       "uri": "https://github.com/tercen/autoencoder_operator"
     },
     "version": "0.1.0",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -320,7 +334,6 @@
     "rev": "",
     "description": "Apply one of the OpenCyto automated gating methods to your data.",
     "name": "Automated gating",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -350,12 +363,15 @@
       "uri": "https://github.com/tercen/automated_gating_operator"
     },
     "version": "0.3.10",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "tercen/automated_gating_operator:latest"
   },
@@ -366,7 +382,6 @@
     "rev": "",
     "description": "Performs a biexponential transformation of your data.",
     "name": "Biexponential",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -397,12 +412,15 @@
       "uri": "https://github.com/tercen/biexponential_operator"
     },
     "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -412,7 +430,6 @@
     "rev": "",
     "description": "Defines intervals based on values' range and bin data points.",
     "name": "Bin",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -441,12 +458,15 @@
       "uri": "https://github.com/tercen/bin_operator"
     },
     "version": "0.0.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -456,7 +476,6 @@
     "rev": "",
     "description": "Performs normalisation of RNA sequencing data.",
     "name": "Normalisation Factors",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -487,12 +506,15 @@
       "uri": "https://github.com/tercen/calcnormfactors_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -502,7 +524,6 @@
     "rev": "",
     "description": "Annotate cell populations based on a marker enrichment score computed for each cluster.",
     "name": "Cell Annotation",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -532,12 +553,15 @@
       "uri": "https://github.com/tercen/cell_annotation_operator"
     },
     "version": "0.0.1",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -547,7 +571,6 @@
     "rev": "",
     "description": "Compares the expected and observed frequencies in a contingency table using a chi-squared statistical test.",
     "name": "Chi-squared Test",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -576,12 +599,15 @@
       "uri": "https://github.com/tercen/chisquare_test_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -591,7 +617,6 @@
     "rev": "",
     "description": "Computes precision, recall and F1-score of a classification.",
     "name": "Classification Metrics",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -620,12 +645,15 @@
       "uri": "https://github.com/tercen/classification_metrics_operator"
     },
     "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -635,7 +663,6 @@
     "rev": "",
     "description": "Calculates a set of cluster validation metrics.",
     "name": "Clustering Metrics",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -664,12 +691,15 @@
       "uri": "https://github.com/tercen/clustering_metrics_operator"
     },
     "version": "0.2.1",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -679,7 +709,6 @@
     "rev": "",
     "description": "Performs fast clustering of data by using automatic search and find of density peaks. Works best with low dimentional data (Less than 5 dimentions).",
     "name": "ClusterX",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -708,12 +737,15 @@
       "uri": "https://github.com/tercen/clusterx_operator"
     },
     "version": "0.12.0",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -723,7 +755,6 @@
     "rev": "",
     "description": "Flags selected columns in the view.",
     "name": "Flag Columns",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -752,12 +783,15 @@
       "uri": "https://github.com/tercen/col_flag_operator"
     },
     "version": "0.0.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -767,7 +801,6 @@
     "rev": "",
     "description": "Merges the contents of multiple text columns into a single text string.",
     "name": "Concatenate",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -797,12 +830,15 @@
       "uri": "https://github.com/tercen/concatenate_operator"
     },
     "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -812,7 +848,6 @@
     "rev": "",
     "description": "Define a cell to have a constant value.",
     "name": "Constant",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -841,12 +876,15 @@
       "uri": "https://github.com/tercen/constant_operator"
     },
     "version": "1.0.1",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -856,7 +894,6 @@
     "rev": "",
     "description": "Counts the number of data points per cell.",
     "name": "Count",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -885,12 +922,15 @@
       "uri": "https://github.com/tercen/count_operator"
     },
     "version": "1.0.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -900,7 +940,6 @@
     "rev": "",
     "description": "Computes the Coefficient of Variation, is a standardised measure of dispersion of a probability or frequency distribution.",
     "name": "CV",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -929,12 +968,15 @@
       "uri": "https://github.com/tercen/cv_operator"
     },
     "version": "1.0.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -944,7 +986,6 @@
     "rev": "",
     "description": "Performs batch correction of flow cytometry data.",
     "name": "cyCombine",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -975,12 +1016,15 @@
       "uri": "https://github.com/tercen/cycombine_operator"
     },
     "version": "0.3.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -990,7 +1034,6 @@
     "rev": "",
     "description": "R library to normalize cytometry data using flowsom method",
     "name": "cytonorm",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1020,12 +1063,15 @@
       "uri": "https://github.com/tercen/cytonorm_operator"
     },
     "version": "1.2.0",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "lucas501/cytonorm_docker:1.1.9"
   },
@@ -1036,7 +1082,6 @@
     "rev": "",
     "description": "Debarcoding.",
     "name": "CYTOF Debarcoding",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1066,12 +1111,15 @@
       "uri": "https://github.com/tercen/debarcoding_cytof_operator"
     },
     "version": "0.0.5",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "tercen/debarcoding_cytof_operator:latest"
   },
@@ -1082,7 +1130,6 @@
     "rev": "",
     "description": "Statistical methods for differential discovery analyses in high-dimensional cytometry data.",
     "name": "diffcyt",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1113,12 +1160,15 @@
       "uri": "https://github.com/tercen/diffcyt_operator"
     },
     "version": "0.3.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "tercen/diffcyt_operator:0.3.2"
   },
@@ -1129,7 +1179,6 @@
     "rev": "",
     "description": "Downsizes or balances a dataset.",
     "name": "Downsample",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1158,12 +1207,15 @@
       "uri": "https://github.com/tercen/downsample_operator"
     },
     "version": "2.0.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1173,7 +1225,6 @@
     "rev": "",
     "description": "Exports a data table defined on the crosstab area.",
     "name": "Export Table",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1185,7 +1236,7 @@
     },
     "lastModifiedDate": {
       "kind": "Date",
-      "value": "2024-02-27T12:59:15.000Z"
+      "value": "2024-03-29T09:01:08.000Z"
     },
     "urls": [
       {
@@ -1202,13 +1253,16 @@
       "kind": "Url",
       "uri": "https://github.com/tercen/export_table_operator"
     },
-    "version": "0.2.5",
-    "authors": [
-      "tercen"
-    ],
+    "version": "0.2.6",
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1218,7 +1272,6 @@
     "rev": "",
     "description": "Runs an FFT-accelerated Interpolation-based t-SNE, an approximate and faster t-SNE method for constructing dimensionality reduction.",
     "name": "Fast t-SNE",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1248,12 +1301,15 @@
       "uri": "https://github.com/tercen/fast_tSNE_operator"
     },
     "version": "0.1.6",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1263,7 +1319,6 @@
     "rev": "",
     "description": "Full annotation using shape-constrained trees, a clustering and phenotyping algorithm for flow cytometry data.",
     "name": "FAUST",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1294,12 +1349,15 @@
       "uri": "https://github.com/tercen/faust_operator"
     },
     "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "tercen/faust_operator:0.1.2"
   },
@@ -1310,7 +1368,6 @@
     "rev": "",
     "description": "Exports data from the crosstab view to FCS Files.",
     "name": "Export FCS",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1339,12 +1396,15 @@
       "uri": "https://github.com/tercen/fcs_export_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1354,7 +1414,6 @@
     "rev": "",
     "description": "Labels text or numerical values based on a condition.",
     "name": "Flag Values",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1383,12 +1442,15 @@
       "uri": "https://github.com/tercen/flag_operator"
     },
     "version": "0.3.6",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1398,7 +1460,6 @@
     "rev": "",
     "description": "Performs quality control of flow cytometry data.",
     "name": "FlowAI",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1428,12 +1489,15 @@
       "uri": "https://github.com/tercen/flowai_operator"
     },
     "version": "0.2.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1443,7 +1507,6 @@
     "rev": "",
     "description": "Performs quality control of flow cytometry data.",
     "name": "FlowClean",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1473,12 +1536,15 @@
       "uri": "https://github.com/tercen/flowclean_operator"
     },
     "version": "0.2.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1488,7 +1554,6 @@
     "rev": "",
     "description": "Performs quality control of flow cytometry data.",
     "name": "flowCut",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1518,12 +1583,15 @@
       "uri": "https://github.com/tercen/flowcut_operator"
     },
     "version": "0.1.8",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "tercen/flowcut_operator:0.1.6"
   },
@@ -1534,7 +1602,6 @@
     "rev": "",
     "description": "Exports FlowJo results.",
     "name": "Export FlowJo",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1563,12 +1630,15 @@
       "uri": "https://github.com/tercen/flowjo_export_operator"
     },
     "version": "0.2.9",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1578,7 +1648,6 @@
     "rev": "",
     "description": "Clusters flow cytometry data points using a graph-based algorithm.",
     "name": "FlowSOM",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1608,12 +1677,15 @@
       "uri": "https://github.com/tercen/flowsom_operator"
     },
     "version": "1.6.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "tercen/flowsom_operator:1.6.0"
   },
@@ -1624,7 +1696,6 @@
     "rev": "",
     "description": "Calculates a probability of whether a data point will meet a binary criteria.",
     "name": "Logistic Regression",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1655,12 +1726,15 @@
       "uri": "https://github.com/tercen/generalised_linear_model_operator"
     },
     "version": "0.1.0",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1670,7 +1744,6 @@
     "rev": "",
     "description": "Clusters data points using a model-based method (Gaussian Mixture Model).",
     "name": "GMM",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1700,12 +1773,15 @@
       "uri": "https://github.com/tercen/gmm_operator"
     },
     "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1715,7 +1791,6 @@
     "rev": "",
     "description": "Tests whether some gene sets are significantly enriched for a given outcome using Gene Set Enrichment Analysis.",
     "name": "GSEA",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1745,12 +1820,15 @@
       "uri": "https://github.com/tercen/gsea_operator"
     },
     "version": "1.0.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1760,7 +1838,6 @@
     "rev": "",
     "description": "Orders rows and columns of a heatmap based on their similarities, using a hierarchical clustering algorithm.",
     "name": "Heatmap Clustering",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1790,12 +1867,15 @@
       "uri": "https://github.com/tercen/hclust_operator"
     },
     "version": "1.1.6",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1805,7 +1885,6 @@
     "rev": "",
     "description": "Represents data as a clustered heatmap using a web application.",
     "name": "Heatmap",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1835,12 +1914,15 @@
       "uri": "https://github.com/tercen/heatmap_dashboard_operator"
     },
     "version": "0.3.2",
-    "authors": [
-      "rdw"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "isViewOnly": false,
     "container": "tercen/heatmap_dashboard_operator:0.3.0"
@@ -1852,7 +1934,6 @@
     "rev": "",
     "description": "Bins the values over the x and y axes and computes the frequency of values in each bin.",
     "name": "Histogram",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1882,12 +1963,15 @@
       "uri": "https://github.com/tercen/histogram_operator"
     },
     "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1897,7 +1981,6 @@
     "rev": "",
     "description": "Returns the per pairing identity of the input values.",
     "name": "Identity",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1926,12 +2009,15 @@
       "uri": "https://github.com/tercen/identity_operator"
     },
     "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1941,7 +2027,6 @@
     "rev": "",
     "description": "Replaces missing data by the column mean or an arbitrary value.",
     "name": "Impute",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -1970,12 +2055,15 @@
       "uri": "https://github.com/tercen/impute_operator"
     },
     "version": "0.3.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -1985,7 +2073,6 @@
     "rev": "",
     "description": "Clusters data points using the K-means algorithm.",
     "name": "K-means",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2014,12 +2101,15 @@
       "uri": "https://github.com/tercen/kmeans_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2029,7 +2119,6 @@
     "rev": "",
     "description": "A non-parametric method for testing whether samples originate from the same distribution.",
     "name": "Kruskal-Wallis Test",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2058,12 +2147,15 @@
       "uri": "https://github.com/tercen/kruskaltest_operator"
     },
     "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2073,7 +2165,6 @@
     "rev": "",
     "description": "Computes a lagged version of a data series along columns; shifting the data back by a given number of observations.",
     "name": "Lagpad",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2102,12 +2193,15 @@
       "uri": "https://github.com/tercen/lagpad_operator"
     },
     "version": "0.1.1",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2117,7 +2211,6 @@
     "rev": "",
     "description": "Performs Levene test to assess homogeneity of variance across groups.",
     "name": "Levene Test",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2147,12 +2240,15 @@
       "uri": "https://github.com/tercen/levene_test_operator"
     },
     "version": "0.0.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "tercen/levene_test_operator:0.0.1"
   },
@@ -2163,7 +2259,6 @@
     "rev": "",
     "description": "Fits a linear regression model to your data.",
     "name": "Linear Regression",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2193,12 +2288,15 @@
       "uri": "https://github.com/tercen/lm_operator"
     },
     "version": "1.0.11",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2208,7 +2306,6 @@
     "rev": "",
     "description": "Locally Weighted Scatterplot Smoothing:  Calculates a smooth line through a timeplot or scatter plot to help you to see relationship between variables and foresee trends. Used in regression analysis.",
     "name": "LOESS",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2239,12 +2336,15 @@
       "uri": "https://github.com/tercen/loess_smoothing_operator"
     },
     "version": "0.1.0",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2254,7 +2354,6 @@
     "rev": "",
     "description": "Computes the logarithm value of your data.",
     "name": "Log",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2284,12 +2383,15 @@
       "uri": "https://github.com/tercen/log_operator"
     },
     "version": "1.1.5",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2299,7 +2401,6 @@
     "rev": "",
     "description": "Performs a channel-specific logicle data tranformation.",
     "name": "Logicle",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2330,12 +2431,15 @@
       "uri": "https://github.com/tercen/logicle_operator"
     },
     "version": "1.0.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2345,7 +2449,6 @@
     "rev": "",
     "description": "Transforms a binary outcome to a continuous variable.",
     "name": "Logit",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2375,12 +2478,15 @@
       "uri": "https://github.com/tercen/logit_operator"
     },
     "version": "0.1.6",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2390,7 +2496,6 @@
     "rev": "",
     "description": "Computes the Mean Absolute Deviation (MAD) of a set of data points, a robust measure of the variability.",
     "name": "Mean Absolute Deviation",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2419,12 +2524,15 @@
       "uri": "https://github.com/tercen/mad_operator"
     },
     "version": "0.0.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2434,7 +2542,6 @@
     "rev": "",
     "description": "Compute a standardised marker enrichment score per cluster.",
     "name": "Marker Enrichment Score",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2464,12 +2571,15 @@
       "uri": "https://github.com/tercen/marker_enrichment_operator"
     },
     "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2479,7 +2589,6 @@
     "rev": "",
     "description": "Calculates the mean value of data points in a cell.",
     "name": "Mean",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2508,12 +2617,15 @@
       "uri": "https://github.com/tercen/mean_operator"
     },
     "version": "1.3.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2523,7 +2635,6 @@
     "rev": "",
     "description": "Computes the mean and standard deviation of the data points in a cell.",
     "name": "Mean and SD",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2552,12 +2663,15 @@
       "uri": "https://github.com/tercen/mean_sd_operator"
     },
     "version": "0.1.5",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2567,7 +2681,6 @@
     "rev": "",
     "description": "Computes the median and Median Absolute Deviation (MAD) of the data points in a cell.",
     "name": "Median and MAD",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2596,12 +2709,15 @@
       "uri": "https://github.com/tercen/median_mad_operator"
     },
     "version": "0.0.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2611,7 +2727,6 @@
     "rev": "",
     "description": "Computes the median of data points in a cell.",
     "name": "Median",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2640,12 +2755,15 @@
       "uri": "https://github.com/tercen/median_operator"
     },
     "version": "1.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2655,7 +2773,6 @@
     "rev": "",
     "description": "Calculates the minimum and maximum values of each cell.",
     "name": "Min and Max",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2684,12 +2801,15 @@
       "uri": "https://github.com/tercen/min_max_operator"
     },
     "version": "0.3.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2699,7 +2819,6 @@
     "rev": "",
     "description": "Scales the data by subtracting the minimum and dividing by the range. The value returned is between 0 and 1.",
     "name": "Scale (Min-Max)",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2729,12 +2848,15 @@
       "uri": "https://github.com/tercen/minmax_scale_operator"
     },
     "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2744,7 +2866,6 @@
     "rev": "",
     "description": "Computes the difference of two values.",
     "name": "Minus",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2773,12 +2894,15 @@
       "uri": "https://github.com/tercen/minus_operator"
     },
     "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2788,7 +2912,6 @@
     "rev": "",
     "description": "Corrects for the statistical liklihood of a Type 1 error (False Positive) due to the size of genetic data.",
     "name": "Multiple Testing",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2818,12 +2941,15 @@
       "uri": "https://github.com/tercen/multiple_testing_operator"
     },
     "version": "0.1.0",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2833,7 +2959,6 @@
     "rev": "",
     "description": "Computes the product of two values.",
     "name": "Multiply",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2862,12 +2987,15 @@
       "uri": "https://github.com/tercen/multiply_operator"
     },
     "version": "1.0.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2877,7 +3005,6 @@
     "rev": "",
     "description": "Multiplies by an arbitrary constant.",
     "name": "Multiply by Constant",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2906,12 +3033,15 @@
       "uri": "https://github.com/tercen/multiplybyconstant_operator"
     },
     "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2921,7 +3051,6 @@
     "rev": "",
     "description": "Changes the sign of numerical data (i.e. multiply by -1).",
     "name": "Change Sign",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2950,12 +3079,15 @@
       "uri": "https://github.com/tercen/negative_operator"
     },
     "version": "1.0.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -2965,7 +3097,6 @@
     "rev": "",
     "description": "Fits different non-linear regression models to your data (e.g. for Dose-Response analysis).",
     "name": "Non Linear Regression",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -2995,12 +3126,15 @@
       "uri": "https://github.com/tercen/nonlinear_regression_operator"
     },
     "version": "1.4.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3010,7 +3144,6 @@
     "rev": "",
     "description": "Normalises data using various methods.",
     "name": "Normalisation",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3041,12 +3174,15 @@
       "uri": "https://github.com/tercen/normalyzer_operator"
     },
     "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "tercen/normalyzer_operator:0.1.1"
   },
@@ -3057,7 +3193,6 @@
     "rev": "",
     "description": "Orders data according to row-wise or column-wise metrics.",
     "name": "Order By",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3086,12 +3221,15 @@
       "uri": "https://github.com/tercen/orderBy_operator"
     },
     "version": "0.1.5",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3101,7 +3239,6 @@
     "rev": "",
     "description": "Computes various pairwise distance metrics between variables.",
     "name": "Pairwise Distance",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3130,12 +3267,15 @@
       "uri": "https://github.com/tercen/pairwise_distance_operator"
     },
     "version": "0.2.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3145,7 +3285,6 @@
     "rev": "",
     "description": "Runs a Principal Component Analysis to reduce the dimensionality of a dataset.",
     "name": "PCA",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3175,12 +3314,15 @@
       "uri": "https://github.com/tercen/pca_operator"
     },
     "version": "1.3.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3190,7 +3332,6 @@
     "rev": "",
     "description": "Perform quality control of flowcytometry data using PeacoQC.",
     "name": "PeacoQC",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3220,12 +3361,15 @@
       "uri": "https://github.com/tercen/peacoqc_operator"
     },
     "version": "0.3.5",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3235,7 +3379,6 @@
     "rev": "",
     "description": "Calculates the percentile value of a cell.",
     "name": "Percentile",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3264,12 +3407,15 @@
       "uri": "https://github.com/tercen/percentile_operator"
     },
     "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3279,7 +3425,6 @@
     "rev": "",
     "description": "Clusters flow cytometry data using a graph-based method.",
     "name": "PhenoGraph",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3309,12 +3454,15 @@
       "uri": "https://github.com/tercen/phenograph_operator"
     },
     "version": "2.0.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3324,7 +3472,6 @@
     "rev": "",
     "description": "Computes the product of all data points in a cell.",
     "name": "Product",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3353,12 +3500,15 @@
       "uri": "https://github.com/tercen/product_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3368,7 +3518,6 @@
     "rev": "",
     "description": "Calculates counts and relative proportions per row, column, and overall.",
     "name": "Count and Proportion",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3398,12 +3547,15 @@
       "uri": "https://github.com/tercen/proportion_operator"
     },
     "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3413,7 +3565,6 @@
     "rev": "",
     "description": "Displays a Quantile-Quantile Plot to compare distribution quantiles against one another.",
     "name": "Q-Q Plot",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3444,12 +3595,15 @@
       "uri": "https://github.com/tercen/qqplot_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3459,7 +3613,6 @@
     "rev": "",
     "description": "Ranks the incoming data by row means.",
     "name": "Rank by Row Means",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3488,12 +3641,15 @@
       "uri": "https://github.com/tercen/rank_by_row_mean_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3503,7 +3659,6 @@
     "rev": "",
     "description": "Calculates the number of times a data point will divide into a specified X.",
     "name": "Ratio",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3532,12 +3687,15 @@
       "uri": "https://github.com/tercen/ratio_operator"
     },
     "version": "2.0.1",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3547,7 +3705,6 @@
     "rev": "",
     "description": "Imports Cell Ranger output files (scRNA-seq count data).",
     "name": "Cell Ranger",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3577,12 +3734,15 @@
       "uri": "https://github.com/tercen/read_cellranger_operator"
     },
     "version": "0.2.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3592,7 +3752,6 @@
     "rev": "",
     "description": "Imports multiple CSV files in a ZIP file.",
     "name": "CSV (multiple files)",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3621,12 +3780,15 @@
       "uri": "https://github.com/tercen/read_csv_operator"
     },
     "version": "0.2.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3636,7 +3798,6 @@
     "rev": "",
     "description": "Imports a FASTA file of biological sequences.",
     "name": "FASTA",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3666,12 +3827,15 @@
       "uri": "https://github.com/tercen/read_fasta_operator"
     },
     "version": "0.1.10",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3681,7 +3845,6 @@
     "rev": "",
     "description": "Imports a Flow Cytometry Standard file (.fcs).",
     "name": "FCS",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3711,12 +3874,15 @@
       "uri": "https://github.com/tercen/read_fcs_operator"
     },
     "version": "2.3.0",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3726,7 +3892,6 @@
     "rev": "",
     "description": "Imports a Gene Matrix Transposed (GMT) file containing gene sets.",
     "name": "GMT",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3756,12 +3921,15 @@
       "uri": "https://github.com/tercen/read_gmt_operator"
     },
     "version": "1.0.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3771,7 +3939,6 @@
     "rev": "",
     "description": "Imports a PNG file.",
     "name": "PNG",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3800,12 +3967,15 @@
       "uri": "https://github.com/tercen/read_png_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3815,7 +3985,6 @@
     "rev": "",
     "description": "Imports an R-Data object (.rds).",
     "name": "RDS",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3844,12 +4013,15 @@
       "uri": "https://github.com/tercen/read_rds_operator"
     },
     "version": "0.1.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3859,7 +4031,6 @@
     "rev": "",
     "description": "Imports a Seurat object saved as an RData or RDS file.",
     "name": "Seurat",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3889,12 +4060,15 @@
       "uri": "https://github.com/tercen/read_seurat_operator"
     },
     "version": "0.0.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3904,7 +4078,6 @@
     "rev": "",
     "description": "Imports file from Excel 2007-365 (.xlsx, .xlsm).",
     "name": "Excel",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3933,12 +4106,15 @@
       "uri": "https://github.com/tercen/readxl_operator"
     },
     "version": "1.2.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3948,7 +4124,6 @@
     "rev": "",
     "description": "Compute regression coefficients for a set of covariates.",
     "name": "Regression Coefficients",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -3977,12 +4152,15 @@
       "uri": "https://github.com/tercen/regression_coefficients_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -3992,7 +4170,6 @@
     "rev": "",
     "description": "Replaces any text matched in a string with an alternative text.",
     "name": "Replace",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4022,12 +4199,15 @@
       "uri": "https://github.com/tercen/replace_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4037,7 +4217,6 @@
     "rev": "",
     "description": "Fits a Random Forest model to your data.",
     "name": "Random Forest",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4066,12 +4245,15 @@
       "uri": "https://github.com/tercen/rfsrc_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4081,7 +4263,6 @@
     "rev": "",
     "description": "Adjusts cell values (up or down) to a specified base number.",
     "name": "Round",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4111,12 +4292,15 @@
       "uri": "https://github.com/tercen/round_operator"
     },
     "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4126,7 +4310,6 @@
     "rev": "",
     "description": "Computes QC metrics for single-cell RNA sequencing data.",
     "name": "scRNAseq QC",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4157,12 +4340,15 @@
       "uri": "https://github.com/tercen/scRNAseq_QC_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4172,7 +4358,6 @@
     "rev": "",
     "description": "Identifies differentially expressed genes among single-cell RNA sequencing clusters.",
     "name": "scRNAseq Find Markers",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4203,12 +4388,15 @@
       "uri": "https://github.com/tercen/scRNAseq_findMarkers_operator"
     },
     "version": "0.1.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4218,7 +4406,6 @@
     "rev": "",
     "description": "Finds the most variable features (genes) in single-cell RNA sequencing data.",
     "name": "scRNAseq Feature Selection",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4249,12 +4436,15 @@
       "uri": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4264,7 +4454,6 @@
     "rev": "",
     "description": "Normalises single-cell RNA sequencing data.",
     "name": "scRNAseq Normalisation",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4295,12 +4484,15 @@
       "uri": "https://github.com/tercen/scRNAseq_normalize_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4310,7 +4502,6 @@
     "rev": "",
     "description": "Scales the data by subtracting the mean and dividing by the Standard Deviation.",
     "name": "Scale (Z-Score)",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4340,12 +4531,15 @@
       "uri": "https://github.com/tercen/scale_operator"
     },
     "version": "0.12.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4355,7 +4549,6 @@
     "rev": "",
     "description": "Calculates the Square Root of the variance from the Mean of a data set.",
     "name": "Standard Deviation",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4384,12 +4577,15 @@
       "uri": "https://github.com/tercen/sd_operator"
     },
     "version": "0.9.1",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4399,7 +4595,6 @@
     "rev": "",
     "description": "Separates a character column (text) into multiple columns using a regular expression or numeric locations.",
     "name": "Separate",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4429,12 +4624,15 @@
       "uri": "https://github.com/tercen/separate_operator"
     },
     "version": "0.1.1",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4444,7 +4642,6 @@
     "rev": "",
     "description": "Adds (or subtracts) a constant number from the selected range of data.",
     "name": "Shift",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4473,12 +4670,15 @@
       "uri": "https://github.com/tercen/shift_operator"
     },
     "version": "1.0.1",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4488,7 +4688,6 @@
     "rev": "",
     "description": "Computes the hyperbolic sine of your data.",
     "name": "sinh",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4518,12 +4717,15 @@
       "uri": "https://github.com/tercen/sinh_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4533,7 +4735,6 @@
     "rev": "",
     "description": "Performs SNN graph-based clustering and return group membership.",
     "name": "SNN Clustering",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4565,12 +4766,15 @@
       "uri": "https://github.com/tercen/snn_clustering_operator"
     },
     "version": "0.2.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4580,7 +4784,6 @@
     "rev": "",
     "description": "Calculates the number which, when multiplied by itself, will give the cell value.",
     "name": "Square Root",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4610,12 +4813,15 @@
       "uri": "https://github.com/tercen/sqrt_operator"
     },
     "version": "0.1.5",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4625,7 +4831,6 @@
     "rev": "",
     "description": "Calculates the reduction of value Y by value X.",
     "name": "Subtract",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4654,12 +4859,15 @@
       "uri": "https://github.com/tercen/subtract_operator"
     },
     "version": "1.0.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4669,7 +4877,6 @@
     "rev": "",
     "description": "Calculates the sum of all the values of a cell.",
     "name": "Sum",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4698,12 +4905,15 @@
       "uri": "https://github.com/tercen/sum_operator"
     },
     "version": "1.10.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4713,7 +4923,6 @@
     "rev": "",
     "description": "Tests for significant differences between the means of multiple groups.",
     "name": "t Test",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4742,12 +4951,15 @@
       "uri": "https://github.com/tercen/t_test_operator"
     },
     "version": "1.1.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "tercen/t_test_operator:latest"
   },
@@ -4758,7 +4970,6 @@
     "rev": "",
     "description": "Runs t-Distributed Stochastic Neighbor Embedding, a method for dimensionality reduction.",
     "name": "t-SNE",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4790,12 +5001,15 @@
       "uri": "https://github.com/tercen/tsne_operator"
     },
     "version": "1.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4805,7 +5019,6 @@
     "rev": "",
     "description": "Tests for significant pairwise differences among group means while controlling for Family-Wise Error Rate.",
     "name": "Tukey Test",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4835,12 +5048,15 @@
       "uri": "https://github.com/tercen/tukey_hsd_operator"
     },
     "version": "0.0.4",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "container": "tercen/tukey_hsd_operator:0.0.2"
   },
@@ -4851,7 +5067,6 @@
     "rev": "",
     "description": "Runs a Uniform Manifold Approximation and Projection, a dimensionality reduction method.",
     "name": "UMAP",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4884,12 +5099,15 @@
       "uri": "https://github.com/tercen/umap_operator"
     },
     "version": "1.2.5",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4899,7 +5117,6 @@
     "rev": "",
     "description": "Calculates an upper and lower bound value as a fraction of a given data point.",
     "name": "Upper and Lower Bounds",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4928,12 +5145,15 @@
       "uri": "https://github.com/tercen/upperandlowerbounds_operator"
     },
     "version": "0.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -4943,7 +5163,6 @@
     "rev": "",
     "description": "A web application to create volcano plots.",
     "name": "Volcano Plot",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -4972,12 +5191,15 @@
       "uri": "https://github.com/tercen/volcano_shiny_operator"
     },
     "version": "0.0.3",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": "",
     "isViewOnly": true
   },
@@ -4988,7 +5210,6 @@
     "rev": "",
     "description": "Variance stabilizing transformation for RNA-seq data.",
     "name": "VST",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -5018,12 +5239,15 @@
       "uri": "https://github.com/tercen/vst_operator"
     },
     "version": "0.1.1",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -5033,7 +5257,6 @@
     "rev": "",
     "description": "Tests for differences between paired distributions of data points.",
     "name": "Wilcoxon Test",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -5062,12 +5285,15 @@
       "uri": "https://github.com/tercen/wilcoxtest_operator"
     },
     "version": "0.1.6",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   },
   {
@@ -5077,7 +5303,6 @@
     "rev": "",
     "description": "Counts words in a document.",
     "name": "Word Count",
-    "createdBy": "",
     "acl": {
       "kind": "Acl",
       "owner": "",
@@ -5106,12 +5331,15 @@
       "uri": "https://github.com/tercen/wordcount_operator"
     },
     "version": "1.1.2",
-    "authors": [
-      "tercen"
-    ],
     "isPublic": true,
     "properties": [],
-    "longDescription": "",
+    "operatorSpec": {
+      "kind": "OperatorSpec",
+      "ontologyUri": "",
+      "ontologyVersion": "",
+      "inputSpecs": [],
+      "outputSpecs": []
+    },
     "path": ""
   }
 ]
