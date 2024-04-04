@@ -4,25 +4,25 @@
       "version": "0.2.8",
       "url": "https://github.com/pamgene/PTK_C1T1C2T2_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.2 not found in https://github.com/tercen/PCA_shiny_operator})",
-      "retry": 1
+      "retry": 2
     },
     {
       "version": "0.2.9",
       "url": "https://github.com/pamgene/PTK_CT1T2T3_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 1
+      "retry": 2
     },
     {
       "version": "0.2.7",
       "url": "https://github.com/pamgene/STK_C1T1C2T2_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 1
+      "retry": 2
     },
     {
       "version": "0.2.8",
       "url": "https://github.com/pamgene/STK_CT1T2T3_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 1
+      "retry": 2
     }
   ],
   "notest_documents": [
