@@ -1,30 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "0.2.9",
-      "url": "https://github.com/pamgene/PTK_C1T1C2T2_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "version": "0.2.10",
-      "url": "https://github.com/pamgene/PTK_CT1T2T3_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "version": "0.2.8",
-      "url": "https://github.com/pamgene/STK_C1T1C2T2_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "version": "0.2.9",
-      "url": "https://github.com/pamgene/STK_CT1T2T3_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -118,6 +93,30 @@
     "https://github.com/tercen/template_app"
   ],
   "blacklisted_documents": [
+    {
+      "version": "0.2.9",
+      "url": "https://github.com/pamgene/PTK_C1T1C2T2_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
+      "version": "0.2.10",
+      "url": "https://github.com/pamgene/PTK_CT1T2T3_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
+      "version": "0.2.8",
+      "url": "https://github.com/pamgene/STK_C1T1C2T2_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
+      "version": "0.2.9",
+      "url": "https://github.com/pamgene/STK_CT1T2T3_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
     {
       "version": "0.0.15",
       "url": "https://github.com/pamgene/UKA_MTvC_app",
@@ -333,7 +332,7 @@
       "url": "https://github.com/pamgene/ETS_operator"
     },
     {
-      "version": "0.2.6",
+      "version": "0.2.8",
       "url": "https://github.com/pamgene/MTvC_app"
     },
     {
