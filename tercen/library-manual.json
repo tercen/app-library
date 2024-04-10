@@ -1,11 +1,6 @@
 {
   "repos": [
     {
-      "name": "Plot",
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/plot_operator"
-    },
-    {
       "name": "Scyan",
       "version": "0.0.5",
       "url": "https://github.com/tercen/scyan_operator"
