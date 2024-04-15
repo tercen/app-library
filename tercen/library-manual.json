@@ -16,6 +16,10 @@
     {
       "version": "0.0.2",
       "url": "https://github.com/tercen/gating_to_reference_operator"
+    },
+    {
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/flow_core_immunophenotyping_template"
     }
   ]
 }
