@@ -1,5 +1,12 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "",
+      "url": "https://github.com/tercen/UKA_app",
+      "error": "GitHub Error: FormatException: Unexpected end of input (at character 1)\n\n^\n",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.2.2",
@@ -133,12 +140,6 @@
       "version": "0.0.3",
       "url": "https://github.com/tercen/TraCeR_without_demultiplexing_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/UKA_app",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/upstream_kinase_analysis_shiny_operator})",
       "retry": 2
     },
     {
