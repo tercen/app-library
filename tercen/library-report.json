@@ -1,9 +1,9 @@
 {
   "failed_documents": [
     {
-      "version": "",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/UKA_app",
-      "error": "GitHub Error: FormatException: Unexpected end of input (at character 1)\n\n^\n",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/upstream_kinase_analysis_shiny_operator})",
       "retry": 0
     }
   ],
