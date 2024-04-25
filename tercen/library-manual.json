@@ -6,6 +6,11 @@
       "url": "https://github.com/tercen/scyan_operator"
     },
     {
+      "name": "Scyan",
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/scyan_operator"
+    },
+    {
       "version": "0.2.2",
       "url": "https://github.com/tercen/export_operator"
     },
