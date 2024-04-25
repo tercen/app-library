@@ -4,7 +4,7 @@
       "version": "0.1.0",
       "url": "https://github.com/tercen/UKA_app",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/upstream_kinase_analysis_shiny_operator})",
-      "retry": 1
+      "retry": 2
     }
   ],
   "notest_documents": [
