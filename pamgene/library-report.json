@@ -84,7 +84,6 @@
     "https://github.com/tercen/melanoma_flow_dataset",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/pca_app",
-    "https://github.com/tercen/pearson_operator",
     "https://github.com/tercen/read_cel_operator",
     "https://github.com/tercen/sort_app",
     "https://github.com/tercen/std_test_workflow_template",
@@ -570,6 +569,10 @@
     {
       "version": "1.0.1",
       "url": "https://github.com/tercen/constant_operator"
+    },
+    {
+      "version": "1.0.0",
+      "url": "https://github.com/tercen/correlation_operator"
     },
     {
       "version": "1.0.2",
