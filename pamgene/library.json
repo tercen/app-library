@@ -249,6 +249,10 @@
       "url": "https://github.com/tercen/constant_operator"
     },
     {
+      "version": "1.0.0",
+      "url": "https://github.com/tercen/correlation_operator"
+    },
+    {
       "version": "1.0.2",
       "url": "https://github.com/tercen/count_operator"
     },
