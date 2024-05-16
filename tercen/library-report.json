@@ -33,12 +33,8 @@
     }
   ],
   "no_release_documents": [
-    "https://github.com/tercen/FlowJo_advanced_cluster_explorer_tracksom_template",
-    "https://github.com/tercen/FlowJo_cluster_explorer_tracksom_template",
     "https://github.com/tercen/PCA_shiny_operator",
     "https://github.com/tercen/PTK_basic_template",
-    "https://github.com/tercen/STK_C1T1C2T2_gitIntegrationDemo_template",
-    "https://github.com/tercen/STK_basic_template",
     "https://github.com/tercen/check_data_per_plate_app",
     "https://github.com/tercen/compare_means_operator",
     "https://github.com/tercen/compensate_cytof_operator",
@@ -47,20 +43,14 @@
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/foldchange_operator",
     "https://github.com/tercen/gating_to_reference_operator",
-    "https://github.com/tercen/image_analysis_PTK_AfterWash_template",
-    "https://github.com/tercen/image_analysis_PTK_PreWash_template",
-    "https://github.com/tercen/image_analysis_STK_template",
-    "https://github.com/tercen/image_analysis_noGridCheck_template",
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/logfoldchange_operator",
     "https://github.com/tercen/melanoma_flow_dataset",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/pca_app",
     "https://github.com/tercen/read_cel_operator",
-    "https://github.com/tercen/sort_app",
     "https://github.com/tercen/std_test_workflow_template",
     "https://github.com/tercen/synthetic_data_operator",
-    "https://github.com/tercen/template_app",
     "https://github.com/tercen/tutorial_fj_2files_dataset"
   ],
   "blacklisted_documents": [
@@ -68,42 +58,6 @@
       "version": "0.1.4",
       "url": "https://github.com/tercen/DESeq2_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
-      "retry": 2
-    },
-    {
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/DRC_app",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.Ymax -- val != refVal -- at line 0 -- val = 2.3976375312700577 refVal = 2.397637611604864})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/ETS_app",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/FlowJo_advanced_cluster_explorer_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.10.0 not found in https://github.com/tercen/hclust_operator})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.2",
-      "url": "https://github.com/tercen/FlowJo_basic_cluster_explorer_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.10.0 not found in https://github.com/tercen/hclust_operator})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.7",
-      "url": "https://github.com/tercen/FlowJo_cluster_explorer_full_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/flowsom_mst_operator})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.7",
-      "url": "https://github.com/tercen/FlowJo_cluster_explorer_quick_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.3 not found in https://github.com/tercen/flowsom_mst_operator})",
       "retry": 2
     },
     {
