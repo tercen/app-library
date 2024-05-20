@@ -116,20 +116,8 @@
     },
     {
       "version": "0.1.0",
-      "url": "https://github.com/tercen/foldchange_app",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.minus -- val != refVal -- at line 0 -- val = NaN refVal = -0.62446801830083})",
-      "retry": 2
-    },
-    {
-      "version": "0.1.0",
       "url": "https://github.com/tercen/generalised_linear_model_operator",
       "error": "fails test ...",
-      "retry": 0
-    },
-    {
-      "version": "0.2.0",
-      "url": "https://github.com/tercen/image_analysis_STK_gitIntegrationDemo_template",
-      "error": "Blacklisted blacklist : [blacklist, pamgene] found [blacklist]",
       "retry": 0
     },
     {
