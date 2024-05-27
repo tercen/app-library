@@ -89,10 +89,6 @@
       "url": "https://github.com/pamgene/image_analysis_STK_template"
     },
     {
-      "version": "0.1.1",
-      "url": "https://github.com/pamgene/log_cutoff_operator"
-    },
-    {
       "version": "0.1.0",
       "url": "https://github.com/pamgene/mean_and_cv_shiny_operator"
     },
@@ -155,6 +151,10 @@
     {
       "version": "0.2.2",
       "url": "https://github.com/pamgene/ttest_paired_app"
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/pamgene/ttest_paired_unpaired_app"
     },
     {
       "version": "0.1.1",
@@ -303,6 +303,10 @@
     {
       "version": "0.3.6",
       "url": "https://github.com/tercen/flag_operator"
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/flow_example_dataset"
     },
     {
       "version": "0.2.3",
@@ -637,7 +641,7 @@
       "url": "https://github.com/tercen/upperandlowerbounds_operator"
     },
     {
-      "version": "0.0.3",
+      "version": "0.0.6",
       "url": "https://github.com/tercen/volcano_shiny_operator"
     },
     {
