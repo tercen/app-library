@@ -133,6 +133,10 @@
       "url": "https://github.com/tercen/flag_operator"
     },
     {
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/flow_example_dataset"
+    },
+    {
       "version": "0.2.3",
       "url": "https://github.com/tercen/flowai_operator"
     },
@@ -469,7 +473,7 @@
       "url": "https://github.com/tercen/upperandlowerbounds_operator"
     },
     {
-      "version": "0.0.3",
+      "version": "0.0.6",
       "url": "https://github.com/tercen/volcano_shiny_operator"
     },
     {
