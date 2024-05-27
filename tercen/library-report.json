@@ -39,7 +39,6 @@
     "https://github.com/tercen/compare_means_operator",
     "https://github.com/tercen/compensate_cytof_operator",
     "https://github.com/tercen/compensate_fcs_operator",
-    "https://github.com/tercen/flow_example_dataset",
     "https://github.com/tercen/flow_scyan_immunophenotyping_template",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/foldchange_operator",
@@ -313,6 +312,10 @@
     {
       "version": "0.3.6",
       "url": "https://github.com/tercen/flag_operator"
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/flow_example_dataset"
     },
     {
       "version": "0.2.3",
@@ -651,7 +654,7 @@
       "url": "https://github.com/tercen/upperandlowerbounds_operator"
     },
     {
-      "version": "0.0.3",
+      "version": "0.0.6",
       "url": "https://github.com/tercen/volcano_shiny_operator"
     },
     {
