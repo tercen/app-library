@@ -67,7 +67,6 @@
     "https://github.com/tercen/compare_means_operator",
     "https://github.com/tercen/compensate_cytof_operator",
     "https://github.com/tercen/compensate_fcs_operator",
-    "https://github.com/tercen/flow_scyan_immunophenotyping_template",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/foldchange_operator",
     "https://github.com/tercen/gating_to_reference_operator",
@@ -422,7 +421,7 @@
       "url": "https://github.com/pamgene/ttest_paired_app"
     },
     {
-      "version": "0.0.2",
+      "version": "0.0.3",
       "url": "https://github.com/pamgene/ttest_paired_unpaired_app"
     },
     {
@@ -823,7 +822,7 @@
     },
     {
       "version": "0.0.1",
-      "url": "https://github.com/tercen/scRNAseq_basic_template"
+      "url": "https://github.com/tercen/scRNAseq_core_template"
     },
     {
       "version": "0.1.3",
