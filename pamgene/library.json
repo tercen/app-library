@@ -153,7 +153,7 @@
       "url": "https://github.com/pamgene/ttest_paired_app"
     },
     {
-      "version": "0.0.2",
+      "version": "0.0.3",
       "url": "https://github.com/pamgene/ttest_paired_unpaired_app"
     },
     {
@@ -554,7 +554,7 @@
     },
     {
       "version": "0.0.1",
-      "url": "https://github.com/tercen/scRNAseq_basic_template"
+      "url": "https://github.com/tercen/scRNAseq_core_template"
     },
     {
       "version": "0.1.3",
