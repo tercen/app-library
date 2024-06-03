@@ -74,6 +74,7 @@
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/logfoldchange_operator",
     "https://github.com/tercen/normalise_cytof_operator",
+    "https://github.com/tercen/pandasai_operator",
     "https://github.com/tercen/pca_app",
     "https://github.com/tercen/read_cel_operator",
     "https://github.com/tercen/std_test_workflow_template",
