@@ -161,6 +161,10 @@
       "url": "https://github.com/pamgene/two_sample_ttest_operator"
     },
     {
+      "version": "0.3.3",
+      "url": "https://github.com/pamgene/uka_shiny_operator"
+    },
+    {
       "version": "0.2.2",
       "url": "https://github.com/pamgene/vsn_operator"
     },
