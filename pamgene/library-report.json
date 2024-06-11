@@ -4,10 +4,10 @@
       "version": "0.0.17",
       "url": "https://github.com/pamgene/UKA_MTvC_app",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 0
+      "retry": 1
     },
     {
-      "version": "0.0.21",
+      "version": "0.0.23",
       "url": "https://github.com/pamgene/UKA_TGC_app",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
       "retry": 0
@@ -131,12 +131,6 @@
       "url": "https://github.com/pamgene/anova1_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
       "retry": 2
-    },
-    {
-      "version": "0.1.2",
-      "url": "https://github.com/pamgene/log_cutoff_operator",
-      "error": "Blacklisted blacklist : [blacklist, pamgene, flowjo] found [log, pamgene]",
-      "retry": 0
     },
     {
       "version": "0.1.4",
@@ -361,6 +355,10 @@
       "url": "https://github.com/pamgene/image_analysis_STK_template"
     },
     {
+      "version": "0.1.3",
+      "url": "https://github.com/pamgene/log_cutoff_operator"
+    },
+    {
       "version": "0.1.0",
       "url": "https://github.com/pamgene/mean_and_cv_shiny_operator"
     },
@@ -577,7 +575,7 @@
       "url": "https://github.com/tercen/flag_operator"
     },
     {
-      "version": "0.0.2",
+      "version": "0.0.3",
       "url": "https://github.com/tercen/flow_example_dataset"
     },
     {
@@ -825,10 +823,6 @@
       "url": "https://github.com/tercen/scRNAseq_QC_operator"
     },
     {
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/scRNAseq_core_template"
-    },
-    {
       "version": "0.1.3",
       "url": "https://github.com/tercen/scRNAseq_findMarkers_operator"
     },
@@ -839,6 +833,10 @@
     {
       "version": "0.1.2",
       "url": "https://github.com/tercen/scRNAseq_normalize_operator"
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/scRNAseq_standard_template"
     },
     {
       "version": "0.0.3",
