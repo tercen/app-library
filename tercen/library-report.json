@@ -44,6 +44,7 @@
     "https://github.com/tercen/gating_to_reference_operator",
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/logfoldchange_operator",
+    "https://github.com/tercen/manual_gating_template",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/pandasai_operator",
     "https://github.com/tercen/pca_app",
