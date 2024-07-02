@@ -25,7 +25,7 @@
       "url": "https://github.com/tercen/kumo_connector_operator"
     },
     {
-      "version": "0.3.0",
+      "version": "0.4.0",
       "url": "https://github.com/tercen/kumo_data_prepare_template"
     },
     {
@@ -37,7 +37,7 @@
       "url": "https://github.com/tercen/kumo_train_model_workflow"
     },
     {
-      "version": "0.3.6",
+      "version": "0.4.1",
       "url": "https://github.com/tercen/kumo_data_prep_operator"
     },
     {
