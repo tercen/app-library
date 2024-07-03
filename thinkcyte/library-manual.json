@@ -51,6 +51,10 @@
     {
       "version": "0.2.4",
       "url": "https://github.com/tercen/plot_operator"
+    },
+    {
+      "version": "0.2.4",
+      "url": "https://github.com/tercen/export_operator"
     }
   ]
 }
