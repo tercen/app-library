@@ -13,7 +13,7 @@
       "url": "https://github.com/tercen/kumo_model_train_operator"
     },
     {
-      "version": "0.2.0",
+      "version": "0.2.1",
       "url": "https://github.com/tercen/kumo_predict_operator"
     },
     {
@@ -29,7 +29,7 @@
       "url": "https://github.com/tercen/kumo_data_prepare_template"
     },
     {
-      "version": "0.0.3",
+      "version": "0.0.4",
       "url": "https://github.com/tercen/kumo_predict_model_workflow"
     },
     {
