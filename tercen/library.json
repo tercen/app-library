@@ -49,6 +49,10 @@
       "url": "https://github.com/tercen/classification_metrics_operator"
     },
     {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/clustered_heatmap_operator"
+    },
+    {
       "version": "0.2.1",
       "url": "https://github.com/tercen/clustering_metrics_operator"
     },
@@ -87,10 +91,6 @@
     {
       "version": "0.3.4",
       "url": "https://github.com/tercen/cycombine_operator"
-    },
-    {
-      "version": "1.2.0",
-      "url": "https://github.com/tercen/cytonorm_operator"
     },
     {
       "version": "0.3.2",
