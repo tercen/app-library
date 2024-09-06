@@ -1,19 +1,15 @@
 {
   "repos": [
     {
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/kumo_gate_info_operator"
-    },
-    {
-      "version": "0.0.3",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/kumo_experiment_read_operator"
     },
     {
-      "version": "0.3.1",
+      "version": "0.6.0",
       "url": "https://github.com/tercen/kumo_model_train_operator"
     },
     {
-      "version": "0.2.1",
+      "version": "0.3.0",
       "url": "https://github.com/tercen/kumo_predict_operator"
     },
     {
@@ -25,27 +21,27 @@
       "url": "https://github.com/tercen/kumo_connector_operator"
     },
     {
-      "version": "0.4.1",
+      "version": "0.5.0",
       "url": "https://github.com/tercen/kumo_data_prepare_template"
     },
     {
-      "version": "0.0.5",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/kumo_predict_model_workflow"
     },
     {
-      "version": "0.3.0",
+      "version": "0.4.0",
       "url": "https://github.com/tercen/kumo_train_model_workflow"
     },
     {
-      "version": "0.5.2",
+      "version": "0.7.0",
       "url": "https://github.com/tercen/kumo_data_prep_operator"
     },
     {
-      "version": "0.5.0",
+      "version": "0.6.1",
       "url": "https://github.com/tercen/kumo_umap_operator"
     },
     {
-      "version": "0.0.3",
+      "version": "0.2.0",
       "url": "https://github.com/tercen/kumo_umap_apply_operator"
     },
     {
@@ -57,7 +53,7 @@
       "url": "https://github.com/tercen/export_operator"
     },
     {
-      "version": "0.0.1",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/kumo_apply_umap_model_template"
     }
   ]
