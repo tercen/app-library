@@ -1,6 +1,10 @@
 {
   "repos": [
     {
+      "version": "0.0.8",
+      "url": "https://github.com/tercen/kumo_analysis_webapp_operator"
+    },
+    {
       "version": "0.1.0",
       "url": "https://github.com/tercen/kumo_experiment_read_operator"
     },
