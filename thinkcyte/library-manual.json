@@ -1,11 +1,7 @@
 {
   "repos": [
     {
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/kumo_gate_info_operator"
-    },
-    {
-      "version": "0.0.3",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/kumo_experiment_read_operator"
     },
     {
@@ -25,7 +21,7 @@
       "url": "https://github.com/tercen/kumo_connector_operator"
     },
     {
-      "version": "0.4.1",
+      "version": "0.5.0",
       "url": "https://github.com/tercen/kumo_data_prepare_template"
     },
     {
@@ -37,7 +33,7 @@
       "url": "https://github.com/tercen/kumo_train_model_workflow"
     },
     {
-      "version": "0.5.2",
+      "version": "0.7.0",
       "url": "https://github.com/tercen/kumo_data_prep_operator"
     },
     {
