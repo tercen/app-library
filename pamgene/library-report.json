@@ -54,6 +54,12 @@
       "url": "https://github.com/tercen/thresholding_operator",
       "error": "notest",
       "retry": 0
+    },
+    {
+      "version": "0.2.0",
+      "url": "https://github.com/tercen/workflow_runner_operator",
+      "error": "notest",
+      "retry": 0
     }
   ],
   "no_release_documents": [
@@ -89,8 +95,7 @@
     "https://github.com/tercen/read_cel_operator",
     "https://github.com/tercen/std_test_workflow_template",
     "https://github.com/tercen/synthetic_data_operator",
-    "https://github.com/tercen/tutorial_fj_2files_dataset",
-    "https://github.com/tercen/workflow_runner_operator"
+    "https://github.com/tercen/tutorial_fj_2files_dataset"
   ],
   "blacklisted_documents": [
     {
