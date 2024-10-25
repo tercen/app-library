@@ -1,7 +1,7 @@
 {
   "repos": [
     {
-      "version": "0.2.1",
+      "version": "0.2.3",
       "url": "https://github.com/tercen/kumo_analysis_webapp_operator"
     },
     {
@@ -18,7 +18,7 @@
       "url": "https://github.com/tercen/kumo_model_train_operator"
     },
     {
-      "version": "0.4.1",
+      "version": "0.5.0",
       "url": "https://github.com/tercen/kumo_predict_operator"
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://github.com/tercen/kumo_data_prepare_template"
     },
     {
-      "version": "0.1.2",
+      "version": "0.2.0",
       "url": "https://github.com/tercen/kumo_predict_model_workflow"
     },
     {
