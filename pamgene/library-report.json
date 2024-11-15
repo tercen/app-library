@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/phate_operator",
-      "error": "ClientException: Connection closed before full header was received, uri=https://api.github.com/repos/tercen/phate_operator/releases/latest",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -35,6 +28,12 @@
     {
       "version": "0.2.4",
       "url": "https://github.com/tercen/export_operator",
+      "error": "notest",
+      "retry": 0
+    },
+    {
+      "version": "0.2.0",
+      "url": "https://github.com/tercen/phate_operator",
       "error": "notest",
       "retry": 0
     },
