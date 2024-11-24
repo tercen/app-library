@@ -4,7 +4,7 @@
       "version": "0.1.0",
       "url": "https://github.com/tercen/iteos_flowjo_reported_stats_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 520500c4d7dd5778abd78a9f022abe5bb64123a3 not found in https://github.com/tercen/compare_means_operator})",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
