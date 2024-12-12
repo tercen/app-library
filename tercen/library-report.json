@@ -4,7 +4,7 @@
       "version": "1.0.0",
       "url": "https://github.com/tercen/flow_core_immunophenotyping_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.3.5 not found in https://github.com/tercen/plot_operator})",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
