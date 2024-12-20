@@ -9,11 +9,11 @@
       "url": "https://github.com/tercen/kumo_experiment_read_operator"
     },    
     {
-      "version": "0.8.5",
+      "version": "0.8.7",
       "url": "https://github.com/tercen/kumo_model_train_operator"
     },
     {
-      "version": "0.6.2",
+      "version": "0.6.3",
       "url": "https://github.com/tercen/kumo_predict_operator"
     },
     {
@@ -36,17 +36,16 @@
       "version": "0.9.2",
       "url": "https://github.com/tercen/kumo_train_model_workflow"
     },
-
     {
       "version": "0.8.4",
       "url": "https://github.com/tercen/kumo_data_prep_operator"
     },
     {
-      "version": "0.8.1",
+      "version": "0.8.3",
       "url": "https://github.com/tercen/kumo_umap_operator"
     },
     {
-      "version": "0.4.2",
+      "version": "0.4.4",
       "url": "https://github.com/tercen/kumo_umap_apply_operator"
     },
     {
