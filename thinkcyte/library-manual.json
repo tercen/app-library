@@ -29,11 +29,11 @@
       "url": "https://github.com/tercen/kumo_data_prepare_template"
     },
     {
-      "version": "0.3.2",
+      "version": "0.3.4",
       "url": "https://github.com/tercen/kumo_predict_model_workflow"
     },
     {
-      "version": "0.9.2",
+      "version": "0.9.5",
       "url": "https://github.com/tercen/kumo_train_model_workflow"
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://github.com/tercen/export_operator"
     },
     {
-      "version": "0.4.2",
+      "version": "0.4.4",
       "url": "https://github.com/tercen/kumo_apply_umap_model_template"
     }
   ]
