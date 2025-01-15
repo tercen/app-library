@@ -4,13 +4,13 @@
             "iid":"train_model",
             "name":"Kumo train model",
             "url":"https://github.com/tercen/kumo_train_model_workflow",
-            "version":"0.9.5"
+            "version":"0.10.0"
         },
         {
             "iid":"predict_model",
             "name":"Kumo predict model",
             "url":"https://github.com/tercen/kumo_predict_model_workflow",
-            "version":"0.3.4"
+            "version":"0.4.0"
         },
         {
             "iid":"apply_umap",
