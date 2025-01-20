@@ -437,6 +437,10 @@
       "url": "https://github.com/tercen/minus_operator"
     },
     {
+      "version": "1.0.0",
+      "url": "https://github.com/tercen/multiple_testing_operator"
+    },
+    {
       "version": "1.0.2",
       "url": "https://github.com/tercen/multiply_operator"
     },
