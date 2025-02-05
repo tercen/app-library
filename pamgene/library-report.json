@@ -1,16 +1,10 @@
 {
   "failed_documents": [
     {
-      "version": "2.0.0",
-      "url": "https://github.com/tercen/flow_core_immunophenotyping_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.3.5 not found in https://github.com/tercen/plot_operator})",
-      "retry": 2
-    },
-    {
       "version": "0.1.1",
       "url": "https://github.com/tercen/report_table_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
@@ -212,6 +206,12 @@
       "version": "0.0.5",
       "url": "https://github.com/tercen/debarcoding_cytof_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: Argument 'txt' must be a JSON string, URL or file.\nExecution halted\n})",
+      "retry": 2
+    },
+    {
+      "version": "2.0.0",
+      "url": "https://github.com/tercen/flow_core_immunophenotyping_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.3.5 not found in https://github.com/tercen/plot_operator})",
       "retry": 2
     },
     {
