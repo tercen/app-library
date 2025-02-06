@@ -1,6 +1,10 @@
 {
   "repos": [
     {
+      "version": "26578dd799a0e47067879cb1a06842218b55ad9e",
+      "url": "https://github.com/tercen/kumo_analysis_webapp_operator"
+    },
+    {
       "version": "0.3.23",
       "url": "https://github.com/tercen/kumo_analysis_webapp_operator"
     },
