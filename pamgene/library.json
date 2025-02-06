@@ -37,11 +37,11 @@
       "url": "https://github.com/pamgene/SimpleHeatmap_app"
     },
     {
-      "version": "0.2.0",
+      "version": "0.2.1",
       "url": "https://github.com/pamgene/UKA_FC_app"
     },
     {
-      "version": "0.4.0",
+      "version": "0.4.1",
       "url": "https://github.com/pamgene/UKA_app"
     },
     {
@@ -81,15 +81,15 @@
       "url": "https://github.com/pamgene/foldchange_app"
     },
     {
-      "version": "0.2.4",
+      "version": "0.2.5",
       "url": "https://github.com/pamgene/image_analysis_PTK_afterwash_template"
     },
     {
-      "version": "0.2.5",
+      "version": "0.2.6",
       "url": "https://github.com/pamgene/image_analysis_PTK_prewash_template"
     },
     {
-      "version": "0.2.5",
+      "version": "0.2.6",
       "url": "https://github.com/pamgene/image_analysis_STK_template"
     },
     {
@@ -173,7 +173,7 @@
       "url": "https://github.com/pamgene/two_sample_ttest_operator"
     },
     {
-      "version": "0.4.0",
+      "version": "0.4.1",
       "url": "https://github.com/pamgene/uka_shiny_operator"
     },
     {
