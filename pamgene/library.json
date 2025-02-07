@@ -233,10 +233,6 @@
       "url": "https://github.com/tercen/classification_metrics_operator"
     },
     {
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/clustered_heatmap_operator"
-    },
-    {
       "version": "0.2.1",
       "url": "https://github.com/tercen/clustering_metrics_operator"
     },
