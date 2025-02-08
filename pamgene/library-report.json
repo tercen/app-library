@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/clustered_heatmap_operator",
-      "error": "ClientException: Connection closed before full header was received, uri=https://api.github.com/repos/tercen/clustered_heatmap_operator/releases/latest",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -513,6 +506,10 @@
     {
       "version": "0.1.4",
       "url": "https://github.com/tercen/classification_metrics_operator"
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/clustered_heatmap_operator"
     },
     {
       "version": "0.2.1",
