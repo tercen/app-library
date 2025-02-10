@@ -20,7 +20,7 @@
       "retry": 0
     },
     {
-      "version": "0.0.1",
+      "version": "0.0.4",
       "url": "https://github.com/pamgene/limma_psa_operator",
       "error": "notest",
       "retry": 0
@@ -71,6 +71,7 @@
   "no_release_documents": [
     "https://github.com/pamgene/DRC_app",
     "https://github.com/pamgene/DRC_fit_operator",
+    "https://github.com/pamgene/Limma_app",
     "https://github.com/pamgene/anova2_operator",
     "https://github.com/pamgene/bn_shiny_pca_operator",
     "https://github.com/pamgene/dascombat_fit_operator",
