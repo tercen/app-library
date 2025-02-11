@@ -1,5 +1,12 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "0.0.3",
+      "url": "https://github.com/pamgene/Limma_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -20,7 +27,7 @@
       "retry": 0
     },
     {
-      "version": "0.0.4",
+      "version": "0.0.5",
       "url": "https://github.com/pamgene/limma_psa_operator",
       "error": "notest",
       "retry": 0
@@ -71,7 +78,6 @@
   "no_release_documents": [
     "https://github.com/pamgene/DRC_app",
     "https://github.com/pamgene/DRC_fit_operator",
-    "https://github.com/pamgene/Limma_app",
     "https://github.com/pamgene/anova2_operator",
     "https://github.com/pamgene/bn_shiny_pca_operator",
     "https://github.com/pamgene/dascombat_fit_operator",
@@ -96,6 +102,7 @@
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/logfoldchange_operator",
     "https://github.com/tercen/manual_gating_template",
+    "https://github.com/tercen/maxquant_proteingroup_template",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/pandasai_operator",
     "https://github.com/tercen/pca_app",
