@@ -345,10 +345,6 @@
       "url": "https://github.com/tercen/hclust_operator"
     },
     {
-      "version": "0.3.2",
-      "url": "https://github.com/tercen/heatmap_dashboard_operator"
-    },
-    {
       "version": "0.1.4",
       "url": "https://github.com/tercen/hierarchical_clustering_operator"
     },
