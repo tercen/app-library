@@ -4,79 +4,79 @@
       "version": "0.0.1",
       "url": "https://github.com/tercen/TraCeR_with_demultiplexing_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName eaad083d62c0ea62d4e4fcc8093bdc9f32e7d319 not found in https://github.com/tercen/karolinska_demultiplex_docker_operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.0.3",
       "url": "https://github.com/tercen/TraCeR_without_demultiplexing_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.3.10",
       "url": "https://github.com/tercen/automated_gating_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: A lebel containing Event IDs should be specified.\nExecution halted\n})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.0.5",
       "url": "https://github.com/tercen/debarcoding_cytof_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: Argument 'txt' must be a JSON string, URL or file.\nExecution halted\n})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "2.0.0",
       "url": "https://github.com/tercen/flow_core_immunophenotyping_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.3.5 not found in https://github.com/tercen/plot_operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.0.3",
       "url": "https://github.com/tercen/iteos_dose_response_curves_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.1.0",
       "url": "https://github.com/tercen/iteos_flowjo_reported_stats_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 520500c4d7dd5778abd78a9f022abe5bb64123a3 not found in https://github.com/tercen/compare_means_operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.1.0",
       "url": "https://github.com/tercen/iteos_multiplex_immunoassay_template",
       "error": "ServiceError({statusCode: -142, error: UNKNOWN, reason: OperatorResult -- .ci or .ri attribute is required})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.1.0",
       "url": "https://github.com/tercen/loess_smoothing_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds4.y_pred -- val != refVal -- at line 4 -- val = 1.559645497633647 refVal = 1.5596454976336473})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.3.5",
       "url": "https://github.com/tercen/peacoqc_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.1.2",
       "url": "https://github.com/tercen/regression_coefficients_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.1.1",
       "url": "https://github.com/tercen/report_table_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.1.1",
       "url": "https://github.com/tercen/vst_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
@@ -569,7 +569,7 @@
       "url": "https://github.com/tercen/shift_operator"
     },
     {
-      "version": "1.4.1",
+      "version": "1.4.2",
       "url": "https://github.com/tercen/simple_workflow_template"
     },
     {
