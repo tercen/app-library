@@ -4,7 +4,7 @@
       "version": "0.1.2",
       "url": "https://github.com/tercen/report_table_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
-      "retry": 1
+      "retry": 2
     }
   ],
   "notest_documents": [
@@ -87,6 +87,7 @@
     "https://github.com/pamgene/mediqr_scaling_app",
     "https://github.com/pamgene/non_standard_apps_template",
     "https://github.com/pamgene/pearson_operator",
+    "https://github.com/pamgene/uka_limma_operator",
     "https://github.com/tercen/PCA_shiny_operator",
     "https://github.com/tercen/check_data_per_plate_app",
     "https://github.com/tercen/compare_means_operator",
