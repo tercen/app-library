@@ -33,6 +33,10 @@
       "url": "https://github.com/tercen/kumo_data_prepare_template"
     },
     {
+      "version": "0.4.0",
+      "url": "https://github.com/tercen/kumo_predict_model_workflow"
+    },
+    {
       "version": "0.4.1",
       "url": "https://github.com/tercen/kumo_predict_model_workflow"
     },
@@ -41,7 +45,7 @@
       "url": "https://github.com/tercen/kumo_predict_model_workflow"
     },
     {
-      "version": "0.9.5",
+      "version": "0.10.0",
       "url": "https://github.com/tercen/kumo_train_model_workflow"
     },
     {
