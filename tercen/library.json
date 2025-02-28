@@ -101,6 +101,10 @@
       "url": "https://github.com/tercen/diffcyt_operator"
     },
     {
+      "version": "1.0.0",
+      "url": "https://github.com/tercen/dose_response_dataset"
+    },
+    {
       "version": "3.0.0",
       "url": "https://github.com/tercen/downsample_operator"
     },
