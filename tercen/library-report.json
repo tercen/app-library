@@ -4,7 +4,7 @@
       "version": "2.2.0",
       "url": "https://github.com/tercen/immunophenotyping_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.3.6 not found in https://github.com/tercen/plot_operator})",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
@@ -52,6 +52,7 @@
     "https://github.com/tercen/compensate_cytof_operator",
     "https://github.com/tercen/compensate_fcs_operator",
     "https://github.com/tercen/cytonorm_operator",
+    "https://github.com/tercen/dose_response_template",
     "https://github.com/tercen/flow_scyan_template",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/foldchange_operator",
@@ -252,6 +253,10 @@
     {
       "version": "0.3.2",
       "url": "https://github.com/tercen/diffcyt_operator"
+    },
+    {
+      "version": "1.0.0",
+      "url": "https://github.com/tercen/dose_response_dataset"
     },
     {
       "version": "3.0.0",
