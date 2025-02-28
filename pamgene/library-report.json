@@ -2,21 +2,15 @@
   "failed_documents": [
     {
       "version": "0.0.1",
-      "url": "https://github.com/pamgene/PTK_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.1",
       "url": "https://github.com/pamgene/STK_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 1
+      "retry": 2
     },
     {
       "version": "2.2.0",
       "url": "https://github.com/tercen/immunophenotyping_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.3.6 not found in https://github.com/tercen/plot_operator})",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
@@ -105,6 +99,7 @@
     "https://github.com/tercen/compensate_cytof_operator",
     "https://github.com/tercen/compensate_fcs_operator",
     "https://github.com/tercen/cytonorm_operator",
+    "https://github.com/tercen/dose_response_template",
     "https://github.com/tercen/flow_scyan_template",
     "https://github.com/tercen/flowsom_mst_operator",
     "https://github.com/tercen/foldchange_operator",
@@ -141,6 +136,12 @@
     {
       "version": "0.3.3",
       "url": "https://github.com/pamgene/PTK_CT1T2T3_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/pamgene/PTK_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
       "retry": 2
     },
@@ -575,6 +576,10 @@
     {
       "version": "0.3.2",
       "url": "https://github.com/tercen/diffcyt_operator"
+    },
+    {
+      "version": "1.0.0",
+      "url": "https://github.com/tercen/dose_response_dataset"
     },
     {
       "version": "3.0.0",
