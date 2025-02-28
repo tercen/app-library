@@ -28,6 +28,10 @@
     {
       "version": "0.0.5",
       "url": "https://github.com/tercen/flow_scyan_template"
+    },
+    {
+      "version": "1.0.0",
+      "url": "https://github.com/tercen/dose_response_template"
     }
   ]
 }
