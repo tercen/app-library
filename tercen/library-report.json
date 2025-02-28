@@ -4,7 +4,7 @@
       "version": "2.2.0",
       "url": "https://github.com/tercen/immunophenotyping_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.3.6 not found in https://github.com/tercen/plot_operator})",
-      "retry": 1
+      "retry": 2
     }
   ],
   "notest_documents": [
