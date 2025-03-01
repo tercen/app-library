@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "2.2.0",
-      "url": "https://github.com/tercen/immunophenotyping_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.3.6 not found in https://github.com/tercen/plot_operator})",
-      "retry": 2
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -234,6 +227,12 @@
       "url": "https://github.com/tercen/generalised_linear_model_operator",
       "error": "fails test ...",
       "retry": 0
+    },
+    {
+      "version": "2.2.0",
+      "url": "https://github.com/tercen/immunophenotyping_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.3.6 not found in https://github.com/tercen/plot_operator})",
+      "retry": 2
     },
     {
       "version": "0.0.3",
