@@ -14,7 +14,7 @@
       "retry": 0
     },
     {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "url": "https://github.com/pamgene/dotplot_operator",
       "error": "notest",
       "retry": 0
@@ -101,6 +101,7 @@
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/pandasai_operator",
     "https://github.com/tercen/read_cel_operator",
+    "https://github.com/tercen/somascan_template",
     "https://github.com/tercen/std_test_workflow_template",
     "https://github.com/tercen/synthetic_data_operator",
     "https://github.com/tercen/tutorial_fj_2files_dataset",
