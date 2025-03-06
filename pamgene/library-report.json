@@ -1,5 +1,12 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/pamgene/UKA_dotplot_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -197,18 +204,6 @@
       "version": "0.1.4",
       "url": "https://github.com/tercen/DESeq2_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/TraCeR_with_demultiplexing_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName eaad083d62c0ea62d4e4fcc8093bdc9f32e7d319 not found in https://github.com/tercen/karolinska_demultiplex_docker_operator})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/TraCeR_without_demultiplexing_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
       "retry": 2
     },
     {
