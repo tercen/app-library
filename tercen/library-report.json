@@ -69,18 +69,6 @@
   ],
   "blacklisted_documents": [
     {
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/TraCeR_with_demultiplexing_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName eaad083d62c0ea62d4e4fcc8093bdc9f32e7d319 not found in https://github.com/tercen/karolinska_demultiplex_docker_operator})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/TraCeR_without_demultiplexing_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
       "version": "0.3.10",
       "url": "https://github.com/tercen/automated_gating_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: A lebel containing Event IDs should be specified.\nExecution halted\n})",
