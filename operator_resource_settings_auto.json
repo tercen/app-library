@@ -1,5 +1,16 @@
 [
     {
+        "uri": "https://github.com/BvHeeswijk/peacoqc_operator",
+        "version": "0.1.1",
+        "base_memory": 500000000,
+        "ratio_est": 1.5298,
+        "ratio_upper": 2.8684,
+        "r2": 0.8209,
+        "typical_duration": 19.9,
+        "ratio_rounded": 3,
+        "ratio": 5
+    },
+    {
         "uri": "https://github.com/agouy/flowai_operator",
         "version": "0.1.2",
         "base_memory": 500000000,
@@ -22,14 +33,47 @@
         "ratio": 5
     },
     {
-        "uri": "https://github.com/BvHeeswijk/peacoqc_operator",
+        "uri": "https://github.com/pamgene/ETS_operator",
+        "version": "0.3.0",
+        "base_memory": 500000000,
+        "ratio_est": -12.1617,
+        "ratio_upper": -8.4099,
+        "r2": 0.1426,
+        "typical_duration": 5.5,
+        "ratio_rounded": -8.3,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/pamgene/PTK_QC_presence_operator",
         "version": "0.1.1",
         "base_memory": 500000000,
-        "ratio_est": 1.5298,
-        "ratio_upper": 2.8684,
-        "r2": 0.8209,
-        "typical_duration": 19.9,
-        "ratio_rounded": 3,
+        "ratio_est": -114.746,
+        "ratio_upper": -75.6043,
+        "r2": 0.6252,
+        "typical_duration": 7.9,
+        "ratio_rounded": -75.5,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/pamgene/PTK_QC_presence_operator",
+        "version": "0.1.2",
+        "base_memory": 500000000,
+        "ratio_est": -69.2797,
+        "ratio_upper": -57.8433,
+        "r2": 0.5766,
+        "typical_duration": 12.5,
+        "ratio_rounded": -57.7,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/pamgene/S100_operator",
+        "version": "0.2.0",
+        "base_memory": 500000000,
+        "ratio_est": -71.0078,
+        "ratio_upper": -57.261,
+        "r2": 0.2922,
+        "typical_duration": 4.6,
+        "ratio_rounded": -57.2,
         "ratio": 5
     },
     {
@@ -63,17 +107,6 @@
         "r2": 0.6041,
         "typical_duration": 2.8,
         "ratio_rounded": -5959.6,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/pamgene/ETS_operator",
-        "version": "0.3.0",
-        "base_memory": 500000000,
-        "ratio_est": -12.1617,
-        "ratio_upper": -8.4099,
-        "r2": 0.1426,
-        "typical_duration": 5.5,
-        "ratio_rounded": -8.3,
         "ratio": 5
     },
     {
@@ -220,39 +253,6 @@
         "ratio": 5
     },
     {
-        "uri": "https://github.com/pamgene/PTK_QC_presence_operator",
-        "version": "0.1.1",
-        "base_memory": 500000000,
-        "ratio_est": -114.746,
-        "ratio_upper": -75.6043,
-        "r2": 0.6252,
-        "typical_duration": 7.9,
-        "ratio_rounded": -75.5,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/pamgene/PTK_QC_presence_operator",
-        "version": "0.1.2",
-        "base_memory": 500000000,
-        "ratio_est": -69.2797,
-        "ratio_upper": -57.8433,
-        "r2": 0.5766,
-        "typical_duration": 12.5,
-        "ratio_rounded": -57.7,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/pamgene/S100_operator",
-        "version": "0.2.0",
-        "base_memory": 500000000,
-        "ratio_est": -71.0078,
-        "ratio_upper": -57.261,
-        "r2": 0.2922,
-        "typical_duration": 4.6,
-        "ratio_rounded": -57.2,
-        "ratio": 5
-    },
-    {
         "uri": "https://github.com/pamgene/uka_operator",
         "version": "0.0.1",
         "base_memory": 500000000,
@@ -304,6 +304,160 @@
         "typical_duration": 7,
         "ratio_rounded": -70.8,
         "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/DESeq2_operator",
+        "version": "0.1.1",
+        "base_memory": 500000000,
+        "ratio_est": 9.519,
+        "ratio_upper": 19.1693,
+        "r2": 0.2091,
+        "typical_duration": 25.4,
+        "ratio_rounded": 19.3,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/DESeq2_operator",
+        "version": "0.1.3",
+        "base_memory": 500000000,
+        "ratio_est": 10.143,
+        "ratio_upper": 11.8214,
+        "r2": 0.9084,
+        "typical_duration": 821.6,
+        "ratio_rounded": 11.9,
+        "ratio": 11.9
+    },
+    {
+        "uri": "https://github.com/tercen/DESeq2_two_conditions_operator",
+        "version": "0.0.5",
+        "base_memory": 500000000,
+        "ratio_est": 76.8596,
+        "ratio_upper": 86.8813,
+        "r2": 0.9666,
+        "typical_duration": 30.2,
+        "ratio_rounded": 87,
+        "ratio": 50
+    },
+    {
+        "uri": "https://github.com/tercen/DESeq2_two_conditions_operator",
+        "version": "0.0.6",
+        "base_memory": 500000000,
+        "ratio_est": 18.1607,
+        "ratio_upper": 26.8809,
+        "r2": 0.7932,
+        "typical_duration": 27.5,
+        "ratio_rounded": 27,
+        "ratio": 27
+    },
+    {
+        "uri": "https://github.com/tercen/ETS_operator",
+        "version": "0.0.2",
+        "base_memory": 500000000,
+        "ratio_est": -18.0213,
+        "ratio_upper": 13.6368,
+        "r2": 0.0711,
+        "typical_duration": 16.9,
+        "ratio_rounded": 13.7,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/ETS_operator",
+        "version": "0.1.1",
+        "base_memory": 500000000,
+        "ratio_est": -0.6512,
+        "ratio_upper": 19.3613,
+        "r2": 0.0004,
+        "typical_duration": 15.9,
+        "ratio_rounded": 19.5,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/ETS_operator",
+        "version": "0.2.0",
+        "base_memory": 500000000,
+        "ratio_est": -15605.7244,
+        "ratio_upper": 7461.3763,
+        "r2": 0.509,
+        "typical_duration": 13.4,
+        "ratio_rounded": 7461.5,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/ETS_operator",
+        "version": "0.2.1",
+        "base_memory": 500000000,
+        "ratio_est": -861.5833,
+        "ratio_upper": 368.3447,
+        "r2": 0.6327,
+        "typical_duration": 12.4,
+        "ratio_rounded": 368.4,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/Lucas_fcs",
+        "version": "0.9.0",
+        "base_memory": 500000000,
+        "ratio_est": 5.3169,
+        "ratio_upper": 6.7079,
+        "r2": 0.682,
+        "typical_duration": 13.3,
+        "ratio_rounded": 6.8,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/MEM_operator",
+        "version": "1.2.1",
+        "base_memory": 500000000,
+        "ratio_est": 2.2064,
+        "ratio_upper": 2.2836,
+        "r2": 0.9565,
+        "typical_duration": 23.9,
+        "ratio_rounded": 2.4,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/PTK_QC_presence_operator",
+        "version": "0.0.1",
+        "base_memory": 500000000,
+        "ratio_est": -160.5612,
+        "ratio_upper": -102.0557,
+        "r2": 0.7586,
+        "typical_duration": 10.5,
+        "ratio_rounded": -102,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/S100_operator",
+        "version": "0.0.2",
+        "base_memory": 500000000,
+        "ratio_est": -131.4522,
+        "ratio_upper": -80.9694,
+        "r2": 0.3724,
+        "typical_duration": 4.4,
+        "ratio_rounded": -80.9,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/S100_operator",
+        "version": "0.1.0",
+        "base_memory": 500000000,
+        "ratio_est": -3746.7875,
+        "ratio_upper": 1158.4345,
+        "r2": 0.6719,
+        "typical_duration": 9.5,
+        "ratio_rounded": 1158.5,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/SNNGraphClustering_operator",
+        "version": "0.0.2",
+        "base_memory": 500000000,
+        "ratio_est": 35.1199,
+        "ratio_upper": 62.4497,
+        "r2": 0.789,
+        "typical_duration": 18.8,
+        "ratio_rounded": 62.5,
+        "ratio": 50
     },
     {
         "uri": "https://github.com/tercen/anova_dunnett_operator",
@@ -877,50 +1031,6 @@
         "ratio": 5
     },
     {
-        "uri": "https://github.com/tercen/DESeq2_operator",
-        "version": "0.1.1",
-        "base_memory": 500000000,
-        "ratio_est": 9.519,
-        "ratio_upper": 19.1693,
-        "r2": 0.2091,
-        "typical_duration": 25.4,
-        "ratio_rounded": 19.3,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/DESeq2_operator",
-        "version": "0.1.3",
-        "base_memory": 500000000,
-        "ratio_est": 10.143,
-        "ratio_upper": 11.8214,
-        "r2": 0.9084,
-        "typical_duration": 821.6,
-        "ratio_rounded": 11.9,
-        "ratio": 11.9
-    },
-    {
-        "uri": "https://github.com/tercen/DESeq2_two_conditions_operator",
-        "version": "0.0.5",
-        "base_memory": 500000000,
-        "ratio_est": 76.8596,
-        "ratio_upper": 86.8813,
-        "r2": 0.9666,
-        "typical_duration": 30.2,
-        "ratio_rounded": 87,
-        "ratio": 50
-    },
-    {
-        "uri": "https://github.com/tercen/DESeq2_two_conditions_operator",
-        "version": "0.0.6",
-        "base_memory": 500000000,
-        "ratio_est": 18.1607,
-        "ratio_upper": 26.8809,
-        "r2": 0.7932,
-        "typical_duration": 27.5,
-        "ratio_rounded": 27,
-        "ratio": 27
-    },
-    {
         "uri": "https://github.com/tercen/diffcyt_operator",
         "version": "0.3.1",
         "base_memory": 1000000000,
@@ -984,50 +1094,6 @@
         "r2": 0.992,
         "typical_duration": 17.4,
         "ratio_rounded": 3.7,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/ETS_operator",
-        "version": "0.0.2",
-        "base_memory": 500000000,
-        "ratio_est": -18.0213,
-        "ratio_upper": 13.6368,
-        "r2": 0.0711,
-        "typical_duration": 16.9,
-        "ratio_rounded": 13.7,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/ETS_operator",
-        "version": "0.1.1",
-        "base_memory": 500000000,
-        "ratio_est": -0.6512,
-        "ratio_upper": 19.3613,
-        "r2": 0.0004,
-        "typical_duration": 15.9,
-        "ratio_rounded": 19.5,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/ETS_operator",
-        "version": "0.2.0",
-        "base_memory": 500000000,
-        "ratio_est": -15605.7244,
-        "ratio_upper": 7461.3763,
-        "r2": 0.509,
-        "typical_duration": 13.4,
-        "ratio_rounded": 7461.5,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/ETS_operator",
-        "version": "0.2.1",
-        "base_memory": 500000000,
-        "ratio_est": -861.5833,
-        "ratio_upper": 368.3447,
-        "r2": 0.6327,
-        "typical_duration": 12.4,
-        "ratio_rounded": 368.4,
         "ratio": 5
     },
     {
@@ -1634,17 +1700,6 @@
         "ratio": 5
     },
     {
-        "uri": "https://github.com/tercen/Lucas_fcs",
-        "version": "0.9.0",
-        "base_memory": 500000000,
-        "ratio_est": 5.3169,
-        "ratio_upper": 6.7079,
-        "r2": 0.682,
-        "typical_duration": 13.3,
-        "ratio_rounded": 6.8,
-        "ratio": 5
-    },
-    {
         "uri": "https://github.com/tercen/marker_enrichment_operator",
         "version": "0.0.3",
         "base_memory": 500000000,
@@ -1796,17 +1851,6 @@
         "r2": 0.9702,
         "typical_duration": 4.8,
         "ratio_rounded": 0.8,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/MEM_operator",
-        "version": "1.2.1",
-        "base_memory": 500000000,
-        "ratio_est": 2.2064,
-        "ratio_upper": 2.2836,
-        "r2": 0.9565,
-        "typical_duration": 23.9,
-        "ratio_rounded": 2.4,
         "ratio": 5
     },
     {
@@ -2426,17 +2470,6 @@
         "ratio": 5
     },
     {
-        "uri": "https://github.com/tercen/PTK_QC_presence_operator",
-        "version": "0.0.1",
-        "base_memory": 500000000,
-        "ratio_est": -160.5612,
-        "ratio_upper": -102.0557,
-        "r2": 0.7586,
-        "typical_duration": 10.5,
-        "ratio_rounded": -102,
-        "ratio": 5
-    },
-    {
         "uri": "https://github.com/tercen/qqplot_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
@@ -2768,13 +2801,13 @@
     },
     {
         "uri": "https://github.com/tercen/readxl_operator",
-        "version": "1.2.3",
+        "version": "1.2.1",
         "base_memory": 500000000,
-        "ratio_est": 62.8051,
-        "ratio_upper": 163.7136,
-        "r2": 0.2283,
-        "typical_duration": 7.9,
-        "ratio_rounded": 163.8,
+        "ratio_est": -73.5463,
+        "ratio_upper": -14.1402,
+        "r2": 0.0605,
+        "typical_duration": 6,
+        "ratio_rounded": -14,
         "ratio": 5
     },
     {
@@ -2833,25 +2866,69 @@
         "ratio": 7
     },
     {
-        "uri": "https://github.com/tercen/S100_operator",
-        "version": "0.0.2",
+        "uri": "https://github.com/tercen/scRNA_seq_marker_gene_detection",
+        "version": "0.0.1",
         "base_memory": 500000000,
-        "ratio_est": -131.4522,
-        "ratio_upper": -80.9694,
-        "r2": 0.3724,
-        "typical_duration": 4.4,
-        "ratio_rounded": -80.9,
+        "ratio_est": 0.7814,
+        "ratio_upper": 1.2131,
+        "r2": 0.6171,
+        "typical_duration": 20.8,
+        "ratio_rounded": 1.3,
         "ratio": 5
     },
     {
-        "uri": "https://github.com/tercen/S100_operator",
+        "uri": "https://github.com/tercen/scRNAseq_QC_operator",
+        "version": "0.0.2",
+        "base_memory": 500000000,
+        "ratio_est": 6.7994,
+        "ratio_upper": 7.6881,
+        "r2": 0.984,
+        "typical_duration": 23.5,
+        "ratio_rounded": 7.8,
+        "ratio": 7.8
+    },
+    {
+        "uri": "https://github.com/tercen/scRNAseq_QC_operator",
         "version": "0.1.0",
         "base_memory": 500000000,
-        "ratio_est": -3746.7875,
-        "ratio_upper": 1158.4345,
-        "r2": 0.6719,
-        "typical_duration": 9.5,
-        "ratio_rounded": 1158.5,
+        "ratio_est": 0.9693,
+        "ratio_upper": 0.9875,
+        "r2": 0.9966,
+        "typical_duration": 19.4,
+        "ratio_rounded": 1.1,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/scRNAseq_findMarkers_operator",
+        "version": "0.1.1",
+        "base_memory": 500000000,
+        "ratio_est": 5.9394,
+        "ratio_upper": 6.136,
+        "r2": 0.9932,
+        "typical_duration": 122.3,
+        "ratio_rounded": 6.2,
+        "ratio": 6.2
+    },
+    {
+        "uri": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator",
+        "version": "0.1.0",
+        "base_memory": 500000000,
+        "ratio_est": 1.1869,
+        "ratio_upper": 1.2651,
+        "r2": 0.9549,
+        "typical_duration": 10.1,
+        "ratio_rounded": 1.4,
+        "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/scRNAseq_normalize_operator",
+        "version": "0.1.0",
+        "base_memory": 500000000,
+        "ratio_est": 1.1134,
+        "ratio_upper": 1.1453,
+        "r2": 0.9889,
+        "typical_duration": 13.6,
+        "ratio_rounded": 1.2,
         "ratio": 5
     },
     {
@@ -2910,72 +2987,6 @@
         "ratio": 5
     },
     {
-        "uri": "https://github.com/tercen/scRNA_seq_marker_gene_detection",
-        "version": "0.0.1",
-        "base_memory": 500000000,
-        "ratio_est": 0.7814,
-        "ratio_upper": 1.2131,
-        "r2": 0.6171,
-        "typical_duration": 20.8,
-        "ratio_rounded": 1.3,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/scRNAseq_findMarkers_operator",
-        "version": "0.1.1",
-        "base_memory": 500000000,
-        "ratio_est": 5.9394,
-        "ratio_upper": 6.136,
-        "r2": 0.9932,
-        "typical_duration": 122.3,
-        "ratio_rounded": 6.2,
-        "ratio": 6.2
-    },
-    {
-        "uri": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator",
-        "version": "0.1.0",
-        "base_memory": 500000000,
-        "ratio_est": 1.1869,
-        "ratio_upper": 1.2651,
-        "r2": 0.9549,
-        "typical_duration": 10.1,
-        "ratio_rounded": 1.4,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/scRNAseq_normalize_operator",
-        "version": "0.1.0",
-        "base_memory": 500000000,
-        "ratio_est": 1.1134,
-        "ratio_upper": 1.1453,
-        "r2": 0.9889,
-        "typical_duration": 13.6,
-        "ratio_rounded": 1.2,
-        "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/scRNAseq_QC_operator",
-        "version": "0.0.2",
-        "base_memory": 500000000,
-        "ratio_est": 6.7994,
-        "ratio_upper": 7.6881,
-        "r2": 0.984,
-        "typical_duration": 23.5,
-        "ratio_rounded": 7.8,
-        "ratio": 7.8
-    },
-    {
-        "uri": "https://github.com/tercen/scRNAseq_QC_operator",
-        "version": "0.1.0",
-        "base_memory": 500000000,
-        "ratio_est": 0.9693,
-        "ratio_upper": 0.9875,
-        "r2": 0.9966,
-        "typical_duration": 19.4,
-        "ratio_rounded": 1.1,
-        "ratio": 5
-    },
-    {
         "uri": "https://github.com/tercen/scyan_operator",
         "version": "0.0.3",
         "base_memory": 1000000000,
@@ -3029,17 +3040,6 @@
         "typical_duration": 4.9,
         "ratio_rounded": -19.3,
         "ratio": 5
-    },
-    {
-        "uri": "https://github.com/tercen/SNNGraphClustering_operator",
-        "version": "0.0.2",
-        "base_memory": 500000000,
-        "ratio_est": 35.1199,
-        "ratio_upper": 62.4497,
-        "r2": 0.789,
-        "typical_duration": 18.8,
-        "ratio_rounded": 62.5,
-        "ratio": 50
     },
     {
         "uri": "https://github.com/tercen/sqrt_operator",
