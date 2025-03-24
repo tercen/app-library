@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/std_test_workflow_template",
-      "error": "ClientException: Connection closed before full header was received, uri=https://api.github.com/repos/tercen/std_test_workflow_template/releases/latest",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.2.4",
@@ -70,6 +63,7 @@
     "https://github.com/tercen/pandasai_operator",
     "https://github.com/tercen/read_cel_operator",
     "https://github.com/tercen/somascan_template",
+    "https://github.com/tercen/std_test_workflow_template",
     "https://github.com/tercen/synthetic_data_operator",
     "https://github.com/tercen/tcell_stim_dataset",
     "https://github.com/tercen/tutorial_fj_2files_dataset",
