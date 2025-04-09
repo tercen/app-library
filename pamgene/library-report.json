@@ -1,18 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "0.0.2",
-      "url": "https://github.com/pamgene/PTK_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.2",
-      "url": "https://github.com/pamgene/STK_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -147,6 +134,12 @@
     },
     {
       "version": "0.0.2",
+      "url": "https://github.com/pamgene/PTK_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.2",
       "url": "https://github.com/pamgene/QC_STK_LOD_app",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
       "retry": 2
@@ -160,6 +153,12 @@
     {
       "version": "0.3.3",
       "url": "https://github.com/pamgene/STK_CT1T2T3_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/pamgene/STK_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
       "retry": 2
     },
