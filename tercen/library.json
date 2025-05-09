@@ -113,6 +113,10 @@
       "url": "https://github.com/tercen/export_app"
     },
     {
+      "version": "1.0.7",
+      "url": "https://github.com/tercen/export_table_operator"
+    },
+    {
       "version": "0.1.6",
       "url": "https://github.com/tercen/fast_tSNE_operator"
     },
