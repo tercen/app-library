@@ -337,6 +337,10 @@
       "url": "https://github.com/tercen/read_cellranger_operator"
     },
     {
+      "version": "0.2.8",
+      "url": "https://github.com/tercen/read_csv_operator"
+    },
+    {
       "version": "0.1.10",
       "url": "https://github.com/tercen/read_fasta_operator"
     },
