@@ -3,8 +3,8 @@
     {
       "version": "0.2.6",
       "url": "https://github.com/tercen/read_csv_operator",
-      "error": "ServiceError({statusCode: 500, error: Task.client.unknown, reason: ClientException with SocketException: Failed host lookup: 'stage.tercen.com' (OS Error: Temporary failure in name resolution, errno = -3), uri=https://stage.tercen.com/api/v1/task})",
-      "retry": 0
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.column.type, reason: ds0.rowId -- bad type expected double found int32})",
+      "retry": 1
     }
   ],
   "notest_documents": [
