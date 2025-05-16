@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "0.2.7",
-      "url": "https://github.com/tercen/read_csv_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.column.type, reason: ds0.rowId -- bad type expected double found int32})",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.2.4",
@@ -498,6 +491,10 @@
     {
       "version": "0.2.4",
       "url": "https://github.com/tercen/read_cellranger_operator"
+    },
+    {
+      "version": "0.2.8",
+      "url": "https://github.com/tercen/read_csv_operator"
     },
     {
       "version": "0.1.10",
