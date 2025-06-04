@@ -1,1 +1,525 @@
+{
+  "repos": [
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/DESeq2_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/IQR_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/RMSD_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/add_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/anova_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/asinh_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/autoencoder_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/biexponential_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/bin_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/calcnormfactors_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/cell_annotation_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/chisquare_test_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/classification_metrics_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/clustered_heatmap_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/clustering_metrics_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/clusterx_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/col_flag_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/concatenate_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/constant_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/correlation_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/count_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/crabs_example_dataset"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/cv_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/cycombine_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/diffcyt_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/dose_response_dataset"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/downsample_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/export_app"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/export_table_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/fast_tSNE_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/faust_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/fcs_export_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/flag_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/flow_example_dataset"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/flowai_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/flowclean_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/flowcut_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/flowjo_export_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/flowsom_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/generalised_linear_model_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/gmm_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/gsea_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/hclust_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/hierarchical_clustering_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/histogram_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/identity_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/impute_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/kmeans_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/kruskaltest_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/lagpad_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/levene_test_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/lm_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/log_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/logicle_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/logit_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/mad_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/marker_enrichment_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/mean_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/mean_sd_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/median_mad_app"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/median_mad_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/median_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/min_max_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/minmax_scale_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/minus_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/multiple_testing_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/multiply_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/multiplybyconstant_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/negative_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/nonlinear_regression_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/normalyzer_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/orderBy_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/pairwise_distance_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/pca_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/percentile_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/phenograph_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/plot_median_ratio_app"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/product_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/proportion_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/qqplot_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/rank_by_row_mean_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/ratio_app"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/ratio_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/read_cellranger_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/read_csv_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/read_fasta_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/read_fcs_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/read_gmt_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/read_png_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/read_rds_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/read_seurat_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/readxl_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/replace_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/rfsrc_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/round_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/scRNAseq_QC_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/scRNAseq_findMarkers_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/scRNAseq_normalize_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/scRNAseq_standard_template"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/scale_min_max_app"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/scale_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/sd_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/separate_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/shift_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/simple_workflow_template"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/sinh_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/snn_clustering_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/sqrt_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/subtract_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/sum_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/t_test_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/tracksom_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/tsne_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/ttest_app"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/ttest_paired_app"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/tukey_hsd_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/umap_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/upperandlowerbounds_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/volcano_shiny_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/wilcoxtest_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/wordcount_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/scyan_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/export_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/plot_operator"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/simple_workflow_template"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/immunophenotyping_template"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/manual_gating_template"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/flow_scyan_template"
+    },
+    {
+      "version": "specs",
+      "url": "https://github.com/tercen/dose_response_template"
+    }
+  ]
+}
 
