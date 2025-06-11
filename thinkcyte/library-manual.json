@@ -77,11 +77,11 @@
       "url": "https://github.com/tercen/kumo_umap_manual_gating_workflow"
     },
     {
-      "version" = "0.0.5",
-      "url" = "https://github.com/tercen/kumo_train_umap_workflow"
+      "version": "0.0.5",
+      "url": "https://github.com/tercen/kumo_train_umap_workflow"
     },
     {
-      "url" = "https://github.com/tercen/gating_app_operator"
+      "url": "https://github.com/tercen/gating_app_operator"
     }
   ]
 }
