@@ -1,7 +1,7 @@
 {
   "repos": [
     {
-      "version": "0.4.1",
+      "version": "0.5.3",
       "url": "https://github.com/tercen/kumo_analysis_webapp_operator"
     },
     {
@@ -33,7 +33,7 @@
       "url": "https://github.com/tercen/kumo_data_prepare_template"
     },
     {
-      "version": "0.7.6",
+      "version": "0.8.6",
       "url": "https://github.com/tercen/kumo_data_prepare_template"
     },
     {
@@ -41,11 +41,11 @@
       "url": "https://github.com/tercen/kumo_predict_model_workflow"
     },
     {
-      "version": "0.4.2",
+      "version": "0.5.0",
       "url": "https://github.com/tercen/kumo_predict_model_workflow"
     },
     {
-      "version": "0.10.2",
+      "version": "0.11.7",
       "url": "https://github.com/tercen/kumo_train_model_workflow"
     },
     {
@@ -69,8 +69,19 @@
       "url": "https://github.com/tercen/export_operator"
     },
     {
-      "version": "0.4.6",
+      "version": "0.5.1",
       "url": "https://github.com/tercen/kumo_apply_umap_model_template"
+    },
+    {
+      "version": "0.0.8",
+      "url": "https://github.com/tercen/kumo_umap_manual_gating_workflow"
+    },
+    {
+      "version" = "0.0.5",
+      "url" = "https://github.com/tercen/kumo_train_umap_workflow"
+    },
+    {
+      "url" = "https://github.com/tercen/gating_app_operator"
     }
   ]
 }
