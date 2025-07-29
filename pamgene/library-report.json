@@ -4,7 +4,7 @@
       "version": "0.2.0",
       "url": "https://github.com/pamgene/UKA_app",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.5.4 not found in https://github.com/pamgene/uka_operator})",
-      "retry": 1
+      "retry": 2
     }
   ],
   "notest_documents": [
