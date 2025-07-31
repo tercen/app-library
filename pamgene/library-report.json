@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/dose_response_dataset",
-      "error": "ClientException: Connection closed before full header was received, uri=https://api.github.com/repos/tercen/dose_response_dataset/releases/latest",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -593,6 +586,10 @@
     {
       "version": "0.3.2",
       "url": "https://github.com/tercen/diffcyt_operator"
+    },
+    {
+      "version": "1.0.0",
+      "url": "https://github.com/tercen/dose_response_dataset"
     },
     {
       "version": "3.0.0",
