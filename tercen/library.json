@@ -93,6 +93,10 @@
       "url": "https://github.com/tercen/cv_operator"
     },
     {
+      "version": "0.3.4",
+      "url": "https://github.com/tercen/cycombine_operator"
+    },
+    {
       "version": "0.3.2",
       "url": "https://github.com/tercen/diffcyt_operator"
     },
