@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/cycombine_operator",
-      "error": "ClientException: Connection closed before full header was received, uri=https://api.github.com/repos/tercen/cycombine_operator/releases/latest",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.2.4",
@@ -255,6 +248,10 @@
     {
       "version": "1.0.2",
       "url": "https://github.com/tercen/cv_operator"
+    },
+    {
+      "version": "0.3.4",
+      "url": "https://github.com/tercen/cycombine_operator"
     },
     {
       "version": "0.3.2",
