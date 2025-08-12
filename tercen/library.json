@@ -401,6 +401,10 @@
       "url": "https://github.com/tercen/scRNAseq_standard_template"
     },
     {
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/scale_min_max_app"
+    },
+    {
       "version": "0.12.2",
       "url": "https://github.com/tercen/scale_operator"
     },
