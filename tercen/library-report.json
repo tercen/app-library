@@ -68,6 +68,7 @@
     "https://github.com/tercen/pamchip_train_dataset",
     "https://github.com/tercen/pandasai_operator",
     "https://github.com/tercen/read_cel_operator",
+    "https://github.com/tercen/scale_min_max_app",
     "https://github.com/tercen/somascan_template",
     "https://github.com/tercen/std_test_workflow_template",
     "https://github.com/tercen/synthetic_data_operator",
@@ -556,10 +557,6 @@
     {
       "version": "0.0.2",
       "url": "https://github.com/tercen/scRNAseq_standard_template"
-    },
-    {
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/scale_min_max_app"
     },
     {
       "version": "0.12.2",
