@@ -1,6 +1,10 @@
 {
   "repos": [
     {
+      "version": "0.5.7",
+      "url": "https://github.com/tercen/kumo_analysis_webapp_operator"
+    },    
+    {
       "version": "0.2.0",
       "url": "https://github.com/tercen/kumo_experiment_read_operator"
     },    
@@ -57,7 +61,7 @@
       "url": "https://github.com/tercen/kumo_umap_apply_operator"
     },
     {
-      "version": "0.3.8",
+      "version": "1.0.8",
       "url": "https://github.com/tercen/plot_operator"
     },
     {
@@ -65,15 +69,15 @@
       "url": "https://github.com/tercen/export_operator"
     },
     {
-      "version": "0.5.2",
+      "version": "0.6.1",
       "url": "https://github.com/tercen/kumo_apply_umap_model_template"
     },
     {
-      "version": "0.1.3",
+      "version": "0.2.0",
       "url": "https://github.com/tercen/kumo_umap_manual_gating_workflow"
     },
     {
-      "version": "0.0.7",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/kumo_train_umap_workflow"
     }
   ]
