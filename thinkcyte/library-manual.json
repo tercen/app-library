@@ -73,16 +73,16 @@
       "url": "https://github.com/tercen/kumo_apply_umap_model_template"
     },
     {
+      "version": "0.0.5",
+      "url": "https://github.com/tercen/gate_membership_to_label_operator"
+    },
+    {
       "version": "0.2.0",
       "url": "https://github.com/tercen/kumo_umap_manual_gating_workflow"
     },
     {
       "version": "0.1.0",
       "url": "https://github.com/tercen/kumo_train_umap_workflow"
-    },
-    {
-      "version": "0.0.5",
-      "url": "https://github.com/tercen/gate_membership_to_label_operator"
     }
   ]
 }
