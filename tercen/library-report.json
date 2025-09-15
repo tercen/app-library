@@ -1,5 +1,12 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/summary_table_operator",
+      "error": "ServiceError({statusCode: -142, error: UNKNOWN, reason: OperatorResult -- .ci or .ri attribute is required})",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.2.4",
@@ -75,7 +82,6 @@
     "https://github.com/tercen/scRNAseq_integration_operator",
     "https://github.com/tercen/somascan_template",
     "https://github.com/tercen/std_test_workflow_template",
-    "https://github.com/tercen/summary_table_operator",
     "https://github.com/tercen/synthetic_data_operator",
     "https://github.com/tercen/tcell_stim_dataset",
     "https://github.com/tercen/tutorial_fj_2files_dataset",
