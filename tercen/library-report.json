@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/summary_table_operator",
-      "error": "ServiceError({statusCode: -142, error: UNKNOWN, reason: OperatorResult -- .ci or .ri attribute is required})",
-      "retry": 2
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.2.4",
@@ -160,6 +153,12 @@
       "url": "https://github.com/tercen/simple_workflow_test_tags_template",
       "error": "Blacklisted blacklist : [blacklist, pamgene] found [pamgene]",
       "retry": 0
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/summary_table_operator",
+      "error": "ServiceError({statusCode: -142, error: UNKNOWN, reason: OperatorResult -- .ci or .ri attribute is required})",
+      "retry": 2
     },
     {
       "version": "0.1.1",
