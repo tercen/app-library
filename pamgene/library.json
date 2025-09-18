@@ -81,15 +81,15 @@
       "url": "https://github.com/pamgene/foldchange_app"
     },
     {
-      "version": "0.2.5",
+      "version": "0.2.6",
       "url": "https://github.com/pamgene/image_analysis_PTK_afterwash_template"
     },
     {
-      "version": "0.2.6",
+      "version": "0.2.7",
       "url": "https://github.com/pamgene/image_analysis_PTK_prewash_template"
     },
     {
-      "version": "0.2.6",
+      "version": "0.2.8",
       "url": "https://github.com/pamgene/image_analysis_STK_template"
     },
     {
@@ -121,7 +121,7 @@
       "url": "https://github.com/pamgene/pamsoft_grid_qt_operator"
     },
     {
-      "version": "1.2.1",
+      "version": "1.2.2",
       "url": "https://github.com/pamgene/pamsoft_grid_shiny_operator"
     },
     {
