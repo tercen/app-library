@@ -1,34 +1,34 @@
 {
-    "repos":[
-        {
-            "iid":"train_model",
-            "name":"Kumo train model",
-            "url":"https://github.com/tercen/kumo_train_model_workflow",
-            "version":"0.10.2"
-        },
-        {
-            "iid":"predict_model",
-            "name":"Kumo predict model",
-            "url":"https://github.com/tercen/kumo_predict_model_workflow",
-            "version":"0.4.1"
-        },
-        {
-            "iid":"apply_umap",
-            "name":"Kumo apply UMAP model",
-            "url":"https://github.com/tercen/kumo_apply_umap_model_template",
-            "version":"0.4.6"
-        },
-        {
-            "iid":"connector",
-            "name":"Kumo connector",
-            "url":"https://github.com/tercen/kumo_connector_template",
-            "version":"0.1.5"
-        },
-        {
-            "iid":"data_prep",
-            "name":"Kumo data prepare",
-            "url":"https://github.com/tercen/kumo_data_prepare_template",
-            "version":"0.6.7"
-        }
-    ]
+  "repos":[
+    {
+      "iid":"train_model",
+      "name":"Kumo train model",
+      "url":"https://github.com/tercen/kumo_train_model_workflow",
+      "version":"0.10.0"
+    },
+    {
+      "iid":"predict_model",
+      "name":"Kumo predict model",
+      "url":"https://github.com/tercen/kumo_predict_model_workflow",
+      "version":"0.4.0"
+    },
+    {
+      "iid":"apply_umap",
+      "name":"Kumo apply UMAP model",
+      "url":"https://github.com/tercen/kumo_apply_umap_model_template",
+      "version":"0.4.4"
+    },
+    {
+      "iid":"connector",
+      "name":"Kumo connector",
+      "url":"https://github.com/tercen/kumo_connector_template",
+      "version":"0.1.5"
+    },
+    {
+      "iid":"data_prep",
+      "name":"Kumo data prepare",
+      "url":"https://github.com/tercen/kumo_data_prepare_template",
+      "version":"0.6.5"
+    }
+  ]
 }
