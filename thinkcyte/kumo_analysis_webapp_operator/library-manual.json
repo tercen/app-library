@@ -4,19 +4,25 @@
       "iid":"train_model",
       "name":"Kumo train model",
       "url":"https://github.com/tercen/kumo_train_model_workflow",
-      "version":"0.10.0"
+      "version":"0.11.11"
+    },
+    {
+      "iid":"train_umap",
+      "name":"Kumo train model",
+      "url":"https://github.com/tercen/kumo_train_umap_workflow",
+      "version":"0.1.0"
     },
     {
       "iid":"predict_model",
       "name":"Kumo predict model",
       "url":"https://github.com/tercen/kumo_predict_model_workflow",
-      "version":"0.4.0"
+      "version":"0.5.0"
     },
     {
       "iid":"apply_umap",
       "name":"Kumo apply UMAP model",
       "url":"https://github.com/tercen/kumo_apply_umap_model_template",
-      "version":"0.4.4"
+      "version":"0.6.1"
     },
     {
       "iid":"connector",
@@ -28,7 +34,14 @@
       "iid":"data_prep",
       "name":"Kumo data prepare",
       "url":"https://github.com/tercen/kumo_data_prepare_template",
-      "version":"0.6.5"
+      "version":"0.8.8"
+    },
+    {
+      "iid":"gating",
+      "name":"Manual Gating Template",
+      "url":"https://github.com/tercen/kumo_umap_manual_gating_workflow",
+      "version":"0.2.1"
     }
+
   ]
 }
