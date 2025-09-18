@@ -1,5 +1,12 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/gate_membership_to_label_operator",
+      "error": "ServiceError({statusCode: -142, error: unknown, reason: Schema : failed to find column named CD4_gate})",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.2.4",
@@ -93,12 +100,6 @@
       "version": "0.0.5",
       "url": "https://github.com/tercen/debarcoding_cytof_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support swap limit capabilities or the cgroup is not mounted. Memory limited without swap.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: Argument 'txt' must be a JSON string, URL or file.\nExecution halted\n})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.5",
-      "url": "https://github.com/tercen/gate_membership_to_label_operator",
-      "error": "ServiceError({statusCode: -142, error: unknown, reason: Schema : failed to find column named CD4_gate})",
       "retry": 2
     },
     {
