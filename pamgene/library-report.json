@@ -4,7 +4,7 @@
       "version": "0.1.0",
       "url": "https://github.com/tercen/gate_membership_to_label_operator",
       "error": "ServiceError({statusCode: -142, error: unknown, reason: Schema : failed to find column named CD4_gate})",
-      "retry": 1
+      "retry": 2
     }
   ],
   "notest_documents": [
