@@ -49,7 +49,7 @@
   },
   {
     "uri": "https://github.com/tercen/DESeq2_operator",
-    "version": "0.1.4",
+    "version": "0.0.1",
     "base_memory": 10000000000,
     "ratio": 10
   },
