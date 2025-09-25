@@ -43,6 +43,12 @@
   },
   {
     "uri": "https://github.com/tercen/DESeq2_operator",
+    "version": "2.0.2",
+    "base_memory": 10000000000,
+    "ratio": 5
+  },
+  {
+    "uri": "https://github.com/tercen/DESeq2_operator",
     "version": "0.1.4",
     "base_memory": 10000000000,
     "ratio": 10
