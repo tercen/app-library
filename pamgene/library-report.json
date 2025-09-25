@@ -552,7 +552,7 @@
       "url": "https://github.com/tercen/classification_metrics_operator"
     },
     {
-      "version": "0.0.1",
+      "version": "1.0.2",
       "url": "https://github.com/tercen/clustered_heatmap_operator"
     },
     {
@@ -832,7 +832,7 @@
       "url": "https://github.com/tercen/read_cellranger_operator"
     },
     {
-      "version": "0.3.2",
+      "version": "1.0.1",
       "url": "https://github.com/tercen/read_csv_operator"
     },
     {
