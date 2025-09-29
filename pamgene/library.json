@@ -217,6 +217,10 @@
       "url": "https://github.com/tercen/bin_operator"
     },
     {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/biological_pathway_dataset"
+    },
+    {
       "version": "0.1.2",
       "url": "https://github.com/tercen/calcnormfactors_operator"
     },
@@ -257,7 +261,7 @@
       "url": "https://github.com/tercen/constant_operator"
     },
     {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "url": "https://github.com/tercen/correlation_operator"
     },
     {
