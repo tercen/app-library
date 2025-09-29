@@ -83,6 +83,7 @@
     "https://github.com/pamgene/uka_limma_operator",
     "https://github.com/tercen/PCA_shiny_operator",
     "https://github.com/tercen/alpods_operator",
+    "https://github.com/tercen/biological_pathway_dataset",
     "https://github.com/tercen/check_data_per_plate_app",
     "https://github.com/tercen/communication_webapp_operator",
     "https://github.com/tercen/compare_means_operator",
@@ -580,7 +581,7 @@
       "url": "https://github.com/tercen/correlation_operator"
     },
     {
-      "version": "1.0.2",
+      "version": "1.1.1",
       "url": "https://github.com/tercen/count_operator"
     },
     {
@@ -660,7 +661,7 @@
       "url": "https://github.com/tercen/gmm_operator"
     },
     {
-      "version": "1.0.3",
+      "version": "1.1.0",
       "url": "https://github.com/tercen/gsea_operator"
     },
     {
@@ -804,11 +805,11 @@
       "url": "https://github.com/tercen/plot_median_ratio_app"
     },
     {
-      "version": "0.1.2",
+      "version": "1.0.0",
       "url": "https://github.com/tercen/product_operator"
     },
     {
-      "version": "0.1.4",
+      "version": "1.0.0",
       "url": "https://github.com/tercen/proportion_operator"
     },
     {
@@ -844,7 +845,7 @@
       "url": "https://github.com/tercen/read_fcs_operator"
     },
     {
-      "version": "1.0.2",
+      "version": "1.1.0",
       "url": "https://github.com/tercen/read_gmt_operator"
     },
     {
@@ -966,10 +967,6 @@
     {
       "version": "0.1.2",
       "url": "https://github.com/tercen/upperandlowerbounds_operator"
-    },
-    {
-      "version": "0.0.6",
-      "url": "https://github.com/tercen/volcano_shiny_operator"
     },
     {
       "version": "0.1.6",
