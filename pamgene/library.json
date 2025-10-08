@@ -349,11 +349,11 @@
       "url": "https://github.com/tercen/gsea_operator"
     },
     {
-      "version": "1.1.6",
+      "version": "1.2.0",
       "url": "https://github.com/tercen/hclust_operator"
     },
     {
-      "version": "0.1.4",
+      "version": "0.2.0",
       "url": "https://github.com/tercen/hierarchical_clustering_operator"
     },
     {
@@ -469,7 +469,7 @@
       "url": "https://github.com/tercen/orderBy_operator"
     },
     {
-      "version": "0.2.3",
+      "version": "0.3.1",
       "url": "https://github.com/tercen/pairwise_distance_operator"
     },
     {
