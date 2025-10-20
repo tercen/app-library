@@ -1,23 +1,19 @@
 {
   "repos": [
     {
-      "version": "0.5.7",
+      "version": "0.5.8",
       "url": "https://github.com/tercen/kumo_analysis_webapp_operator"
     },    
     {
-      "version": "0.2.0",
+      "version": "0.3.2",
       "url": "https://github.com/tercen/kumo_experiment_read_operator"
     },    
     {
-      "version": "0.2.3",
-      "url": "https://github.com/tercen/kumo_experiment_read_operator"
-    },    
-    {
-      "version": "0.10.10",
+      "version": "0.10.18",
       "url": "https://github.com/tercen/kumo_model_train_operator"
     },
     {
-      "version": "0.7.1",
+      "version": "0.8.2",
       "url": "https://github.com/tercen/kumo_predict_operator"
     },
     {
@@ -29,31 +25,23 @@
       "url": "https://github.com/tercen/kumo_connector_operator"
     },
     {
-      "version": "0.7.1",
+      "version": "0.8.8",
       "url": "https://github.com/tercen/kumo_data_prepare_template"
-    },
-    {
-      "version": "0.8.6",
-      "url": "https://github.com/tercen/kumo_data_prepare_template"
-    },
-    {
-      "version": "0.4.1",
-      "url": "https://github.com/tercen/kumo_predict_model_workflow"
     },
     {
       "version": "0.5.0",
       "url": "https://github.com/tercen/kumo_predict_model_workflow"
     },
     {
-      "version": "0.11.9",
+      "version": "0.11.17",
       "url": "https://github.com/tercen/kumo_train_model_workflow"
     },
     {
-      "version": "0.9.5",
+      "version": "0.11.5",
       "url": "https://github.com/tercen/kumo_data_prep_operator"
     },
     {
-      "version": "0.8.6",
+      "version": "0.9.5",
       "url": "https://github.com/tercen/kumo_umap_operator"
     },
     {
@@ -61,7 +49,7 @@
       "url": "https://github.com/tercen/kumo_umap_apply_operator"
     },
     {
-      "version": "1.0.8",
+      "version": "1.0.10",
       "url": "https://github.com/tercen/plot_operator"
     },
     {
@@ -73,11 +61,11 @@
       "url": "https://github.com/tercen/kumo_apply_umap_model_template"
     },
     {
-      "version": "0.0.5",
+      "version": "0.1.0",
       "url": "https://github.com/tercen/gate_membership_to_label_operator"
     },
     {
-      "version": "0.2.0",
+      "version": "0.2.11",
       "url": "https://github.com/tercen/kumo_umap_manual_gating_workflow"
     },
     {
