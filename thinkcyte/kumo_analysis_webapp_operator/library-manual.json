@@ -4,7 +4,7 @@
       "iid":"train_model",
       "name":"Kumo train model",
       "url":"https://github.com/tercen/kumo_train_model_workflow",
-      "version":"0.11.11"
+      "version":"0.11.17"
     },
     {
       "iid":"train_umap",
@@ -34,13 +34,13 @@
       "iid":"data_prep",
       "name":"Kumo data prepare",
       "url":"https://github.com/tercen/kumo_data_prepare_template",
-      "version":"0.8.8"
+      "version":"0.8.9"
     },
     {
       "iid":"gating",
       "name":"Manual Gating Template",
       "url":"https://github.com/tercen/kumo_umap_manual_gating_workflow",
-      "version":"0.2.1"
+      "version":"0.2.11"
     }
 
   ]
