@@ -1,5 +1,18 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "0.0.3",
+      "url": "https://github.com/pamgene/UKA_dotplot_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "version": "0.1.3",
+      "url": "https://github.com/tercen/spatialcount_operator",
+      "error": "ServiceError({statusCode: -142, error: unknown, reason: Schema : failed to find column named expression})",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -14,7 +27,7 @@
       "retry": 0
     },
     {
-      "version": "0.1.2",
+      "version": "0.1.5",
       "url": "https://github.com/pamgene/dotplot_operator",
       "error": "notest",
       "retry": 0
@@ -50,7 +63,7 @@
       "retry": 0
     },
     {
-      "version": "0.1.3",
+      "version": "0.1.6",
       "url": "https://github.com/tercen/scyan_operator",
       "error": "notest",
       "retry": 0
@@ -107,6 +120,7 @@
     "https://github.com/tercen/logfoldchange_operator",
     "https://github.com/tercen/manual_gating_template",
     "https://github.com/tercen/maxquant_proteingroup_template",
+    "https://github.com/tercen/nonlinear_regression2_operator",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/pacmap_operator",
     "https://github.com/tercen/pamchip_grid_dataset",
@@ -117,7 +131,6 @@
     "https://github.com/tercen/scRNAseq_example_dataset",
     "https://github.com/tercen/scRNAseq_integration_operator",
     "https://github.com/tercen/somascan_template",
-    "https://github.com/tercen/spatialcount_operator",
     "https://github.com/tercen/std_test_workflow_template",
     "https://github.com/tercen/synthetic_data_operator",
     "https://github.com/tercen/tcell_stim_dataset",
@@ -197,12 +210,6 @@
     {
       "version": "0.0.3",
       "url": "https://github.com/pamgene/UKA_barplot_app",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.2",
-      "url": "https://github.com/pamgene/UKA_dotplot_app",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
       "retry": 2
     },
