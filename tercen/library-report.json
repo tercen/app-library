@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/impute_operator",
-      "error": "GitHub Error:  (502)",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.2.4",
@@ -382,6 +375,10 @@
     {
       "version": "0.2.0",
       "url": "https://github.com/tercen/identity_operator"
+    },
+    {
+      "version": "0.4.0",
+      "url": "https://github.com/tercen/impute_operator"
     },
     {
       "version": "0.1.2",
