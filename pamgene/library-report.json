@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "0.2.7",
-      "url": "https://github.com/pamgene/image_analysis_PTK_afterwash_template",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -227,6 +220,12 @@
       "version": "0.0.1",
       "url": "https://github.com/pamgene/anova1_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
+      "retry": 2
+    },
+    {
+      "version": "0.2.7",
+      "url": "https://github.com/pamgene/image_analysis_PTK_afterwash_template",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
       "retry": 2
     },
     {
