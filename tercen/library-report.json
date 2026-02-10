@@ -1,13 +1,12 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/clusterx_operator",
-      "error": "GitHub Error: Server Error (502)",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
+    {
+      "version": "0.12.0",
+      "url": "https://github.com/tercen/clusterx_operator",
+      "error": "notest",
+      "retry": 0
+    },
     {
       "version": "0.2.4",
       "url": "https://github.com/tercen/export_operator",
@@ -78,6 +77,7 @@
     "https://github.com/tercen/logfoldchange_operator",
     "https://github.com/tercen/manual_gating_template",
     "https://github.com/tercen/maxquant_proteingroup_template",
+    "https://github.com/tercen/mean-variance_flutter_operator",
     "https://github.com/tercen/nonlinear_regression2_operator",
     "https://github.com/tercen/normalise_cytof_operator",
     "https://github.com/tercen/pacmap_operator",
