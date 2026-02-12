@@ -14,7 +14,7 @@
       "retry": 0
     },
     {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "url": "https://github.com/tercen/ggrs_plot_operator",
       "error": "notest",
       "retry": 0
@@ -86,6 +86,7 @@
     "https://github.com/tercen/pamsoft_grid_flutter_operator",
     "https://github.com/tercen/pamsoft_grid_shiny_pg_operator",
     "https://github.com/tercen/pandasai_operator",
+    "https://github.com/tercen/plot_viewer_operator",
     "https://github.com/tercen/ps12_image_overview_flutter_operator",
     "https://github.com/tercen/ps12_image_overview_operator",
     "https://github.com/tercen/read_cel_operator",
