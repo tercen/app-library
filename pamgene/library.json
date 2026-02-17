@@ -321,6 +321,10 @@
       "url": "https://github.com/tercen/flowclean_operator"
     },
     {
+      "version": "0.2.0",
+      "url": "https://github.com/tercen/flowcut_operator"
+    },
+    {
       "version": "0.2.9",
       "url": "https://github.com/tercen/flowjo_export_operator"
     },
