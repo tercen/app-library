@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/flowcut_operator",
-      "error": "ClientException: Connection closed before full header was received, uri=https://api.github.com/repos/tercen/flowcut_operator/releases/latest",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -662,6 +655,10 @@
     {
       "version": "0.3.0",
       "url": "https://github.com/tercen/flowclean_operator"
+    },
+    {
+      "version": "0.2.0",
+      "url": "https://github.com/tercen/flowcut_operator"
     },
     {
       "version": "0.2.9",
