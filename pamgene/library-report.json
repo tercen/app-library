@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/user_management_app",
-      "error": "GitHub Error:  (502)",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -144,6 +137,7 @@
     "https://github.com/tercen/synthetic_data_operator",
     "https://github.com/tercen/tcell_stim_dataset",
     "https://github.com/tercen/tutorial_fj_2files_dataset",
+    "https://github.com/tercen/user_management_app",
     "https://github.com/tercen/user_management_operator",
     "https://github.com/tercen/volcano_flutter_operator",
     "https://github.com/tercen/webapp_template",
