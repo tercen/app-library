@@ -109,6 +109,10 @@
       "url": "https://github.com/tercen/downsample_operator"
     },
     {
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/export_app"
+    },
+    {
       "version": "1.0.9",
       "url": "https://github.com/tercen/export_table_operator"
     },
