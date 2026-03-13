@@ -76,6 +76,8 @@
     "https://github.com/tercen/immunophenotyping_webapp_operator",
     "https://github.com/tercen/iteos_immunophenotyping_template",
     "https://github.com/tercen/kaplan_meier_operator",
+    "https://github.com/tercen/knn_impute_operator",
+    "https://github.com/tercen/lda_operator",
     "https://github.com/tercen/logfoldchange_operator",
     "https://github.com/tercen/manual_gating_template",
     "https://github.com/tercen/maxquant_proteingroup_template",
