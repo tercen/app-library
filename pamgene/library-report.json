@@ -4,31 +4,31 @@
       "version": "0.0.1",
       "url": "https://github.com/tercen/dascombat_flutter_fit_operator",
       "error": "bad.operator.kind -- tercen/dascombat_flutter_fit_operator 0.0.1 -- kind \"\"",
-      "retry": 1
+      "retry": 2
     },
     {
       "version": "0.0.1",
       "url": "https://github.com/tercen/mean-variance_flutter_operator",
       "error": "bad.operator.kind -- tercen/mean-variance_flutter_operator 0.0.1 -- kind \"\"",
-      "retry": 1
+      "retry": 2
     },
     {
       "version": "0.0.1",
       "url": "https://github.com/tercen/pca_flutter_operator",
       "error": "bad.operator.kind -- tercen/pca_flutter_operator 0.0.1 -- kind \"\"",
-      "retry": 1
+      "retry": 2
     },
     {
       "version": "0.0.1",
       "url": "https://github.com/tercen/ps12_image_overview_flutter_operator",
       "error": "bad.operator.kind -- tercen/ps12_image_overview_flutter_operator 0.0.1 -- kind \"\"",
-      "retry": 1
+      "retry": 2
     },
     {
       "version": "0.0.1",
       "url": "https://github.com/tercen/volcano_flutter_operator",
       "error": "bad.operator.kind -- tercen/volcano_flutter_operator 0.0.1 -- kind \"\"",
-      "retry": 1
+      "retry": 2
     }
   ],
   "notest_documents": [
@@ -135,6 +135,7 @@
     "https://github.com/pamgene/gsea_operator",
     "https://github.com/pamgene/mediqr_scaling_app",
     "https://github.com/pamgene/non_standard_apps_template",
+    "https://github.com/pamgene/pamsoft_grid_flutter_operator",
     "https://github.com/pamgene/pearson_operator",
     "https://github.com/pamgene/uka_limma_operator",
     "https://github.com/tercen/PCA_shiny_operator",
