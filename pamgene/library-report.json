@@ -2,33 +2,21 @@
   "failed_documents": [
     {
       "version": "0.0.1",
-      "url": "https://github.com/tercen/dascombat_flutter_fit_operator",
-      "error": "bad.operator.kind -- tercen/dascombat_flutter_fit_operator 0.0.1 -- kind \"\"",
-      "retry": 2
+      "url": "https://github.com/pamgene/mean-variance_flutter_operator",
+      "error": "bad.operator.kind -- pamgene/mean-variance_flutter_operator 0.0.1 -- kind \"\"",
+      "retry": 0
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/pamgene/pamsoft_grid_flutter_operator",
+      "error": "bad.operator.kind -- pamgene/pamsoft_grid_flutter_operator 0.0.2 -- kind \"\"",
+      "retry": 0
     },
     {
       "version": "0.0.1",
-      "url": "https://github.com/tercen/mean-variance_flutter_operator",
-      "error": "bad.operator.kind -- tercen/mean-variance_flutter_operator 0.0.1 -- kind \"\"",
-      "retry": 2
-    },
-    {
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/pca_flutter_operator",
-      "error": "bad.operator.kind -- tercen/pca_flutter_operator 0.0.1 -- kind \"\"",
-      "retry": 2
-    },
-    {
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/ps12_image_overview_flutter_operator",
-      "error": "bad.operator.kind -- tercen/ps12_image_overview_flutter_operator 0.0.1 -- kind \"\"",
-      "retry": 2
-    },
-    {
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/volcano_flutter_operator",
-      "error": "bad.operator.kind -- tercen/volcano_flutter_operator 0.0.1 -- kind \"\"",
-      "retry": 2
+      "url": "https://github.com/pamgene/ps12_image_overview_flutter_operator",
+      "error": "bad.operator.kind -- pamgene/ps12_image_overview_flutter_operator 0.0.1 -- kind \"\"",
+      "retry": 0
     }
   ],
   "notest_documents": [
@@ -135,8 +123,8 @@
     "https://github.com/pamgene/gsea_operator",
     "https://github.com/pamgene/mediqr_scaling_app",
     "https://github.com/pamgene/non_standard_apps_template",
-    "https://github.com/pamgene/pamsoft_grid_flutter_operator",
     "https://github.com/pamgene/pearson_operator",
+    "https://github.com/pamgene/ps12_image_overview_operator",
     "https://github.com/pamgene/uka_limma_operator",
     "https://github.com/tercen/PCA_shiny_operator",
     "https://github.com/tercen/alpods_operator",
@@ -295,6 +283,12 @@
       "retry": 2
     },
     {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/dascombat_flutter_fit_operator",
+      "error": "bad.operator.kind -- tercen/dascombat_flutter_fit_operator 0.0.1 -- kind \"\"",
+      "retry": 2
+    },
+    {
       "version": "0.0.5",
       "url": "https://github.com/tercen/debarcoding_cytof_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: Argument 'txt' must be a JSON string, URL or file.\nExecution halted\n})",
@@ -343,9 +337,27 @@
       "retry": 2
     },
     {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/mean-variance_flutter_operator",
+      "error": "bad.operator.kind -- tercen/mean-variance_flutter_operator 0.0.1 -- kind \"\"",
+      "retry": 2
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/pca_flutter_operator",
+      "error": "bad.operator.kind -- tercen/pca_flutter_operator 0.0.1 -- kind \"\"",
+      "retry": 2
+    },
+    {
       "version": "0.3.5",
       "url": "https://github.com/tercen/peacoqc_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.137, reason: Failed to run operator, please increase memory resources.})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/ps12_image_overview_flutter_operator",
+      "error": "bad.operator.kind -- tercen/ps12_image_overview_flutter_operator 0.0.1 -- kind \"\"",
       "retry": 2
     },
     {
@@ -382,6 +394,12 @@
       "version": "0.1.5",
       "url": "https://github.com/tercen/tracksom_operator",
       "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds0.metacluster_lineage_tracking -- val != refVal -- at line 78 -- val = B refVal = A})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/volcano_flutter_operator",
+      "error": "bad.operator.kind -- tercen/volcano_flutter_operator 0.0.1 -- kind \"\"",
       "retry": 2
     },
     {
