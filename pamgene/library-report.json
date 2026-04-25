@@ -4,19 +4,19 @@
       "version": "0.0.1",
       "url": "https://github.com/pamgene/mean-variance_flutter_operator",
       "error": "bad.operator.kind -- pamgene/mean-variance_flutter_operator 0.0.1 -- kind \"\"",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.0.2",
       "url": "https://github.com/pamgene/pamsoft_grid_flutter_operator",
       "error": "bad.operator.kind -- pamgene/pamsoft_grid_flutter_operator 0.0.2 -- kind \"\"",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.0.1",
       "url": "https://github.com/pamgene/ps12_image_overview_flutter_operator",
       "error": "bad.operator.kind -- pamgene/ps12_image_overview_flutter_operator 0.0.1 -- kind \"\"",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
