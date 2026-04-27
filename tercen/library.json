@@ -25,10 +25,6 @@
       "url": "https://github.com/tercen/asinh_operator"
     },
     {
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/autoencoder_operator"
-    },
-    {
       "version": "0.2.0",
       "url": "https://github.com/tercen/biexponential_operator"
     },
@@ -43,10 +39,6 @@
     {
       "version": "0.2.0",
       "url": "https://github.com/tercen/calcnormfactors_operator"
-    },
-    {
-      "version": "0.0.1",
-      "url": "https://github.com/tercen/cell_annotation_operator"
     },
     {
       "version": "0.3.0",
@@ -71,10 +63,6 @@
     {
       "version": "0.3.0",
       "url": "https://github.com/tercen/concatenate_operator"
-    },
-    {
-      "version": "1.0.1",
-      "url": "https://github.com/tercen/constant_operator"
     },
     {
       "version": "1.2.0",
@@ -155,10 +143,6 @@
     {
       "version": "1.7.0",
       "url": "https://github.com/tercen/flowsom_operator"
-    },
-    {
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/generalised_linear_model_operator"
     },
     {
       "version": "0.3.0",
@@ -401,16 +385,8 @@
       "url": "https://github.com/tercen/scRNAseq_standard_template"
     },
     {
-      "version": "0.0.3",
-      "url": "https://github.com/tercen/scale_min_max_app"
-    },
-    {
       "version": "0.12.2",
       "url": "https://github.com/tercen/scale_operator"
-    },
-    {
-      "version": "0.9.1",
-      "url": "https://github.com/tercen/sd_operator"
     },
     {
       "version": "0.1.1",
@@ -455,10 +431,6 @@
     {
       "version": "1.2.0",
       "url": "https://github.com/tercen/tsne_operator"
-    },
-    {
-      "version": "0.1.1",
-      "url": "https://github.com/tercen/ttest_app"
     },
     {
       "version": "0.0.2",
