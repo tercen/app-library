@@ -1,5 +1,36 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/loess_smoothing_operator",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds4.y_pred -- val != refVal -- at line 4 -- val = 1.559645497633647 refVal = 1.5596454976336473})",
+      "retry": 0
+    },
+    {
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/regression_coefficients_operator",
+      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.nRelations, reason: simpleRelations.length != outputSchemas.length})",
+      "retry": 0
+    },
+    {
+      "version": "0.0.3",
+      "url": "https://github.com/tercen/scale_min_max_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/ttest_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/ttest_paired_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -28,6 +59,12 @@
     {
       "version": "0.0.1",
       "url": "https://github.com/pamgene/linear_mixed_model1_operator",
+      "error": "notest",
+      "retry": 0
+    },
+    {
+      "version": "0.12.0",
+      "url": "https://github.com/tercen/clusterx_operator",
       "error": "notest",
       "retry": 0
     },
@@ -109,15 +146,11 @@
     "https://github.com/pamgene/uka_limma_operator",
     "https://github.com/tercen/PCA_shiny_operator",
     "https://github.com/tercen/alpods_operator",
-    "https://github.com/tercen/autoencoder_operator",
-    "https://github.com/tercen/cell_annotation_operator",
     "https://github.com/tercen/check_data_per_plate_app",
-    "https://github.com/tercen/clusterx_operator",
     "https://github.com/tercen/communication_webapp_operator",
     "https://github.com/tercen/compare_means_operator",
     "https://github.com/tercen/compensate_cytof_operator",
     "https://github.com/tercen/compensate_fcs_operator",
-    "https://github.com/tercen/constant_operator",
     "https://github.com/tercen/cytonorm_operator",
     "https://github.com/tercen/demo_python_operator",
     "https://github.com/tercen/dose_response_template",
@@ -128,7 +161,6 @@
     "https://github.com/tercen/gates_plotters_operator",
     "https://github.com/tercen/gating_app_operator",
     "https://github.com/tercen/gating_to_reference_operator",
-    "https://github.com/tercen/generalised_linear_model_operator",
     "https://github.com/tercen/grpc_test_workflow_template",
     "https://github.com/tercen/hypergating_operator",
     "https://github.com/tercen/immunophenotyping_v2_webapp_operator",
@@ -138,7 +170,6 @@
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/knn_impute_operator",
     "https://github.com/tercen/lda_operator",
-    "https://github.com/tercen/loess_smoothing_operator",
     "https://github.com/tercen/log2_operator",
     "https://github.com/tercen/logfoldchange_operator",
     "https://github.com/tercen/mahalanobis_d2_operator",
@@ -157,11 +188,8 @@
     "https://github.com/tercen/plot_viewer_operator",
     "https://github.com/tercen/ps12_image_overview_operator",
     "https://github.com/tercen/read_cel_operator",
-    "https://github.com/tercen/regression_coefficients_operator",
     "https://github.com/tercen/scRNAseq_example_dataset",
     "https://github.com/tercen/scRNAseq_integration_operator",
-    "https://github.com/tercen/scale_min_max_app",
-    "https://github.com/tercen/sd_operator",
     "https://github.com/tercen/shapiro_test_operator",
     "https://github.com/tercen/skewness_kurtosis_operator",
     "https://github.com/tercen/somascan_template",
@@ -169,8 +197,6 @@
     "https://github.com/tercen/std_test_workflow_template",
     "https://github.com/tercen/synthetic_data_operator",
     "https://github.com/tercen/tcell_stim_dataset",
-    "https://github.com/tercen/ttest_app",
-    "https://github.com/tercen/ttest_paired_app",
     "https://github.com/tercen/tutorial_fj_2files_dataset",
     "https://github.com/tercen/user_management_app",
     "https://github.com/tercen/user_management_operator",
@@ -599,6 +625,10 @@
       "url": "https://github.com/tercen/asinh_operator"
     },
     {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/autoencoder_operator"
+    },
+    {
       "version": "0.2.0",
       "url": "https://github.com/tercen/biexponential_operator"
     },
@@ -613,6 +643,10 @@
     {
       "version": "0.2.0",
       "url": "https://github.com/tercen/calcnormfactors_operator"
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/tercen/cell_annotation_operator"
     },
     {
       "version": "0.3.0",
@@ -637,6 +671,10 @@
     {
       "version": "0.3.0",
       "url": "https://github.com/tercen/concatenate_operator"
+    },
+    {
+      "version": "1.0.1",
+      "url": "https://github.com/tercen/constant_operator"
     },
     {
       "version": "1.2.0",
@@ -717,6 +755,10 @@
     {
       "version": "1.7.0",
       "url": "https://github.com/tercen/flowsom_operator"
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/generalised_linear_model_operator"
     },
     {
       "version": "0.3.0",
@@ -949,6 +991,10 @@
     {
       "version": "0.12.2",
       "url": "https://github.com/tercen/scale_operator"
+    },
+    {
+      "version": "0.9.1",
+      "url": "https://github.com/tercen/sd_operator"
     },
     {
       "version": "0.1.1",
