@@ -1663,7 +1663,7 @@
         "ratio_upper": -0.1234,
         "r2": 0.4854,
         "typical_duration": 13.8,
-        "ratio_rounded": -0,
+        "ratio_rounded": 0,
         "ratio": 5
     },
     {
@@ -3392,5 +3392,11 @@
         "typical_duration": 4.5,
         "ratio_rounded": -4.6,
         "ratio": 5
+    },
+    {
+        "uri": "https://github.com/tercen/plot_operator",
+        "version": "1.0.10",
+        "base_memory": 1000000000,
+        "ratio": 6
     }
 ]
