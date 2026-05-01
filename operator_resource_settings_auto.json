@@ -3396,7 +3396,7 @@
     {
         "uri": "https://github.com/tercen/plot_operator",
         "version": "1.0.10",
-        "base_memory": 1000000000,
-        "ratio": 6
+        "base_memory": 2000000000,
+        "ratio": 7
     }
 ]
