@@ -4,19 +4,19 @@
       "version": "0.0.3",
       "url": "https://github.com/pamgene/PTK_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.2 not found in https://github.com/tercen/pca_flutter_operator})",
-      "retry": 1
+      "retry": 2
     },
     {
       "version": "0.0.3",
       "url": "https://github.com/pamgene/STK_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.2 not found in https://github.com/tercen/pca_flutter_operator})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.2.6",
       "url": "https://github.com/pamgene/UKA_app",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.5.13 not found in https://github.com/pamgene/uka_operator})",
-      "retry": 1
+      "retry": 2
     }
   ],
   "notest_documents": [
