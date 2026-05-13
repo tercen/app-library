@@ -1,5 +1,12 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "1.1.0",
+      "url": "https://github.com/tercen/export_table_operator",
+      "error": "ServiceError({statusCode: -142, error: unknown, reason: PodmanContainerException: Failed to start container: Trying to pull ghcr.io/tercen/export_table_operator:4be5a84...\nError: unable to copy from source docker://ghcr.io/tercen/export_table_operator:4be5a84: initializing source docker://ghcr.io/tercen/export_table_operator:4be5a84: reading manifest 4be5a84 in ghcr.io/tercen/export_table_operator: manifest unknown\n (exit code: 125)})",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.12.0",
@@ -350,10 +357,6 @@
     {
       "version": "0.0.2",
       "url": "https://github.com/tercen/export_app"
-    },
-    {
-      "version": "1.0.9",
-      "url": "https://github.com/tercen/export_table_operator"
     },
     {
       "version": "0.2.1",
