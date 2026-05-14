@@ -1,16 +1,10 @@
 {
   "failed_documents": [
     {
-      "version": "0.0.4",
-      "url": "https://github.com/pamgene/STK_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.2 not found in https://github.com/tercen/pca_flutter_operator})",
-      "retry": 2
-    },
-    {
       "version": "1.1.0",
       "url": "https://github.com/tercen/export_table_operator",
       "error": "ServiceError({statusCode: -142, error: unknown, reason: PodmanContainerException: Failed to start container: Trying to pull ghcr.io/tercen/export_table_operator:4be5a84...\nError: unable to copy from source docker://ghcr.io/tercen/export_table_operator:4be5a84: initializing source docker://ghcr.io/tercen/export_table_operator:4be5a84: reading manifest 4be5a84 in ghcr.io/tercen/export_table_operator: manifest unknown\n (exit code: 125)})",
-      "retry": 1
+      "retry": 2
     }
   ],
   "notest_documents": [
@@ -226,6 +220,12 @@
       "version": "0.3.3",
       "url": "https://github.com/pamgene/STK_CT1T2T3_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.4",
+      "url": "https://github.com/pamgene/STK_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.2 not found in https://github.com/tercen/pca_flutter_operator})",
       "retry": 2
     },
     {
