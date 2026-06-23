@@ -553,10 +553,6 @@
       "url": "https://github.com/tercen/scRNAseq_findVariableFeatures_operator"
     },
     {
-      "version": "0.1.2",
-      "url": "https://github.com/tercen/scRNAseq_normalize_operator"
-    },
-    {
       "version": "0.0.2",
       "url": "https://github.com/tercen/scRNAseq_standard_template"
     },
