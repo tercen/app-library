@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/scRNAseq_normalize_operator",
-      "error": "GitHub Error:  (504)",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -89,6 +82,12 @@
     {
       "version": "0.1.3",
       "url": "https://github.com/tercen/round_operator",
+      "error": "notest",
+      "retry": 0
+    },
+    {
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/scRNAseq_normalize_operator",
       "error": "notest",
       "retry": 0
     },
