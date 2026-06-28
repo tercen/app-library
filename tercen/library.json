@@ -417,10 +417,6 @@
       "url": "https://github.com/tercen/simple_workflow_template"
     },
     {
-      "version": "0.1.2",
-      "url": "https://github.com/tercen/sinh_operator"
-    },
-    {
       "version": "0.3.0",
       "url": "https://github.com/tercen/snn_clustering_operator"
     },
