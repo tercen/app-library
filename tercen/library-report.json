@@ -1,5 +1,18 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "",
+      "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator",
+      "error": "GitHub Error: Access Forbidden",
+      "retry": 0
+    },
+    {
+      "version": "",
+      "url": "https://github.com/tercen/sinh_operator",
+      "error": "GitHub Error: Access Forbidden",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.12.0",
@@ -16,12 +29,6 @@
     {
       "version": "0.2.0",
       "url": "https://github.com/tercen/ggrs_plot_operator",
-      "error": "notest",
-      "retry": 0
-    },
-    {
-      "version": "0.2.12",
-      "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator",
       "error": "notest",
       "retry": 0
     },
@@ -666,10 +673,6 @@
     {
       "version": "1.4.2",
       "url": "https://github.com/tercen/simple_workflow_template"
-    },
-    {
-      "version": "0.1.2",
-      "url": "https://github.com/tercen/sinh_operator"
     },
     {
       "version": "0.3.0",
