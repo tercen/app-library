@@ -1,18 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator",
-      "error": "GitHub Error: Access Forbidden",
-      "retry": 0
-    },
-    {
-      "version": "",
-      "url": "https://github.com/tercen/sinh_operator",
-      "error": "GitHub Error: Access Forbidden",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.12.0",
@@ -33,6 +20,12 @@
       "retry": 0
     },
     {
+      "version": "0.2.12",
+      "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator",
+      "error": "notest",
+      "retry": 0
+    },
+    {
       "version": "0.2.0",
       "url": "https://github.com/tercen/phate_operator",
       "error": "notest",
@@ -47,6 +40,12 @@
     {
       "version": "0.1.6",
       "url": "https://github.com/tercen/scyan_operator",
+      "error": "notest",
+      "retry": 0
+    },
+    {
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/sinh_operator",
       "error": "notest",
       "retry": 0
     },
