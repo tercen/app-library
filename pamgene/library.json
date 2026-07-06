@@ -177,10 +177,6 @@
       "url": "https://github.com/pamgene/vsn_operator"
     },
     {
-      "version": "0.1.0",
-      "url": "https://github.com/pamgene/zscore_scaling_operator"
-    },
-    {
       "version": "0.2.0",
       "url": "https://github.com/tercen/IQR_operator"
     },
