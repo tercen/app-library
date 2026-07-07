@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/pamgene/zscore_scaling_operator",
-      "error": "ClientException: Connection closed before full header was received, uri=https://api.github.com/repos/pamgene/zscore_scaling_operator/releases/latest",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -297,6 +290,12 @@
       "version": "0.1.1",
       "url": "https://github.com/pamgene/vsn_shiny_operator",
       "error": "Blacklisted blacklist : [blacklist, pamgene, flowjo] found [normalization, pamgene]",
+      "retry": 0
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/pamgene/zscore_scaling_operator",
+      "error": "Blacklisted blacklist : [blacklist, pamgene, flowjo] found [pamgene]",
       "retry": 0
     },
     {
