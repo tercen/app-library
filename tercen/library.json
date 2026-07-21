@@ -25,10 +25,6 @@
       "url": "https://github.com/tercen/asinh_operator"
     },
     {
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/autoencoder_operator"
-    },
-    {
       "version": "0.2.0",
       "url": "https://github.com/tercen/biexponential_operator"
     },
