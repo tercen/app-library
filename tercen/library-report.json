@@ -1,5 +1,12 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/ttest_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.12.0",
@@ -65,7 +72,6 @@
   "no_release_documents": [
     "https://github.com/tercen/PCA_shiny_operator",
     "https://github.com/tercen/alpods_operator",
-    "https://github.com/tercen/autoencoder_operator",
     "https://github.com/tercen/check_data_per_plate_app",
     "https://github.com/tercen/communication_webapp_operator",
     "https://github.com/tercen/compare_means_operator",
@@ -90,7 +96,6 @@
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/knn_impute_operator",
     "https://github.com/tercen/lda_operator",
-    "https://github.com/tercen/loess_smoothing_operator",
     "https://github.com/tercen/log2_operator",
     "https://github.com/tercen/logfoldchange_operator",
     "https://github.com/tercen/mahalanobis_d2_operator",
@@ -118,7 +123,6 @@
     "https://github.com/tercen/std_test_workflow_template",
     "https://github.com/tercen/synthetic_data_operator",
     "https://github.com/tercen/tcell_stim_dataset",
-    "https://github.com/tercen/ttest_app",
     "https://github.com/tercen/tutorial_fj_2files_dataset",
     "https://github.com/tercen/user_management_app",
     "https://github.com/tercen/user_management_operator",
@@ -271,6 +275,10 @@
     {
       "version": "1.2.0",
       "url": "https://github.com/tercen/asinh_operator"
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/autoencoder_operator"
     },
     {
       "version": "0.2.0",
@@ -447,6 +455,10 @@
     {
       "version": "1.1.0",
       "url": "https://github.com/tercen/lm_operator"
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/loess_smoothing_operator"
     },
     {
       "version": "1.1.5",
