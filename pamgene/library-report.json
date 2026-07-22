@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "0.1.0",
-      "url": "https://github.com/tercen/loess_smoothing_operator",
-      "error": "ServiceError({statusCode: -142, error: task.test.operator.bad.value, reason: At column ds4.y_pred -- val != refVal -- at line 4 -- val = 1.559645497633647 refVal = 1.5596454976336473})",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -826,6 +819,10 @@
     {
       "version": "1.1.0",
       "url": "https://github.com/tercen/lm_operator"
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/loess_smoothing_operator"
     },
     {
       "version": "1.1.5",
