@@ -377,6 +377,10 @@
       "url": "https://github.com/tercen/lm_operator"
     },
     {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/loess_smoothing_operator"
+    },
+    {
       "version": "1.1.5",
       "url": "https://github.com/tercen/log_operator"
     },
