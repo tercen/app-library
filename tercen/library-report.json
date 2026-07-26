@@ -89,6 +89,7 @@
     "https://github.com/tercen/kaplan_meier_operator",
     "https://github.com/tercen/knn_impute_operator",
     "https://github.com/tercen/lda_operator",
+    "https://github.com/tercen/limma_psa_operator",
     "https://github.com/tercen/log2_operator",
     "https://github.com/tercen/logfoldchange_operator",
     "https://github.com/tercen/mahalanobis_d2_operator",
