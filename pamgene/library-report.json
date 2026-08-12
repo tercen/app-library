@@ -4,7 +4,7 @@
       "version": "0.0.8",
       "url": "https://github.com/pamgene/pamsoft_grid_flutter_operator",
       "error": "bad.operator.kind -- pamgene/pamsoft_grid_flutter_operator 0.0.8 -- kind \"\"",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
@@ -57,7 +57,7 @@
       "retry": 0
     },
     {
-      "version": "0.2.12",
+      "version": "0.2.13",
       "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator",
       "error": "notest",
       "retry": 0
