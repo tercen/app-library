@@ -4,7 +4,7 @@
       "version": "0.0.3",
       "url": "https://github.com/tercen/ps12_image_overview_flutter_operator",
       "error": "bad.operator.kind -- tercen/ps12_image_overview_flutter_operator 0.0.3 -- kind \"\"",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
@@ -122,6 +122,7 @@
     "https://github.com/pamgene/DRC_fit_operator",
     "https://github.com/pamgene/anova2_operator",
     "https://github.com/pamgene/bn_shiny_pca_operator",
+    "https://github.com/pamgene/concordance_operator",
     "https://github.com/pamgene/dascombat_fit_operator",
     "https://github.com/pamgene/dascombat_prediction_operator",
     "https://github.com/pamgene/globaltest_operator",
