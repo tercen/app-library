@@ -321,6 +321,10 @@
       "url": "https://github.com/tercen/ps12image_rust_operator"
     },
     {
+      "version": "1.0.0",
+      "url": "https://github.com/tercen/ptk_template_dataset"
+    },
+    {
       "version": "0.2.0",
       "url": "https://github.com/tercen/qqplot_operator"
     },
