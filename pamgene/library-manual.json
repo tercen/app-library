@@ -27,6 +27,10 @@
     {
       "version": "0.2.3",
       "url": "https://github.com/pamgene/STK_CT1T2T3_template"
+    },
+    {
+      "version": "0.0.6",
+      "url": "https://github.com/pamgene/cs_uka_operator"
     }
   ]
 }
