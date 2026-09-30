@@ -1,5 +1,12 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "0.6.0",
+      "url": "https://github.com/tercen/dashboard_operator",
+      "error": "bad.operator.kind -- tercen/dashboard_operator 0.6.0 -- kind \"\"",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.12.0",
@@ -71,7 +78,7 @@
     "https://github.com/tercen/compensate_cytof_operator",
     "https://github.com/tercen/compensate_fcs_operator",
     "https://github.com/tercen/cytonorm_operator",
-    "https://github.com/tercen/dashboard_operator",
+    "https://github.com/tercen/dascombat_shiny_fit_operator",
     "https://github.com/tercen/demo_python_operator",
     "https://github.com/tercen/dose_response_template",
     "https://github.com/tercen/flow_preprocessing_template",
@@ -103,7 +110,6 @@
     "https://github.com/tercen/pacmap_operator",
     "https://github.com/tercen/pamchip_grid_dataset",
     "https://github.com/tercen/pamchip_train_dataset",
-    "https://github.com/tercen/pamsoft_grid_flutter_operator",
     "https://github.com/tercen/pamsoft_grid_shiny_pg_operator",
     "https://github.com/tercen/pandasai_operator",
     "https://github.com/tercen/pcoa_operator",
