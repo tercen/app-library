@@ -1,24 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "0.0.6",
-      "url": "https://github.com/pamgene/PTK_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.2 not found in https://github.com/tercen/pca_flutter_operator})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.6",
-      "url": "https://github.com/pamgene/STK_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.2 not found in https://github.com/tercen/pca_flutter_operator})",
-      "retry": 2
-    },
-    {
-      "version": "0.6.0",
-      "url": "https://github.com/tercen/dashboard_operator",
-      "error": "bad.operator.kind -- tercen/dashboard_operator 0.6.0 -- kind \"\"",
-      "retry": 2
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -226,6 +207,12 @@
       "retry": 2
     },
     {
+      "version": "0.0.6",
+      "url": "https://github.com/pamgene/PTK_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.2 not found in https://github.com/tercen/pca_flutter_operator})",
+      "retry": 2
+    },
+    {
       "version": "0.0.2",
       "url": "https://github.com/pamgene/QC_STK_LOD_app",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
@@ -241,6 +228,12 @@
       "version": "0.3.3",
       "url": "https://github.com/pamgene/STK_CT1T2T3_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
+      "version": "0.0.6",
+      "url": "https://github.com/pamgene/STK_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.2 not found in https://github.com/tercen/pca_flutter_operator})",
       "retry": 2
     },
     {
@@ -331,6 +324,12 @@
       "version": "0.3.10",
       "url": "https://github.com/tercen/automated_gating_operator",
       "error": "ServiceError({statusCode: -142, error: run.operator.exit.code.1, reason: Failed to run operator, exit code = 1\n--ERR--\nWARNING: Your kernel does not support memory swappiness capabilities or the cgroup is not mounted. Memory swappiness discarded.\nWarning message:\nreplacing previous import ‘flowViz::contour’ by ‘graphics::contour’ when loading ‘flowStats’ \nError: A lebel containing Event IDs should be specified.\nExecution halted\n})",
+      "retry": 2
+    },
+    {
+      "version": "0.6.0",
+      "url": "https://github.com/tercen/dashboard_operator",
+      "error": "bad.operator.kind -- tercen/dashboard_operator 0.6.0 -- kind \"\"",
       "retry": 2
     },
     {
