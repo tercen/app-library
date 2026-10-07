@@ -69,6 +69,10 @@
       "url": "https://github.com/pamgene/dascombat_shiny_fit_operator"
     },
     {
+      "version": "0.2.2",
+      "url": "https://github.com/pamgene/dotplot_operator"
+    },
+    {
       "version": "0.0.6",
       "url": "https://github.com/pamgene/export_crosstab_shiny_operator"
     },
@@ -125,7 +129,7 @@
       "url": "https://github.com/pamgene/ppi_string_shiny_operator"
     },
     {
-      "version": "1.2.2",
+      "version": "2.0.1",
       "url": "https://github.com/pamgene/ps12image_operator"
     },
     {
