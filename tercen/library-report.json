@@ -1,30 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "2.0.0",
-      "url": "https://github.com/tercen/cytonorm_operator",
-      "error": "ServiceError({statusCode: -142, error: Operator.get.not.found, reason: Not found})",
-      "retry": 0
-    },
-    {
-      "version": "0.1.2",
-      "url": "https://github.com/tercen/fraction_above_operator",
-      "error": "ServiceError({statusCode: -142, error: Operator.get.not.found, reason: Not found})",
-      "retry": 0
-    },
-    {
-      "version": "3.0.1",
-      "url": "https://github.com/tercen/read_fcs_operator",
-      "error": "ServiceError({statusCode: -142, error: Operator.get.not.found, reason: Not found})",
-      "retry": 0
-    },
-    {
-      "version": "2.0.0",
-      "url": "https://github.com/tercen/umap_operator",
-      "error": "ServiceError({statusCode: -142, error: Operator.get.not.found, reason: Not found})",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.12.0",
@@ -374,6 +349,10 @@
       "url": "https://github.com/tercen/cycombine_operator"
     },
     {
+      "version": "2.0.0",
+      "url": "https://github.com/tercen/cytonorm_operator"
+    },
+    {
       "version": "0.3.2",
       "url": "https://github.com/tercen/diffcyt_operator"
     },
@@ -432,6 +411,10 @@
     {
       "version": "2.0.0",
       "url": "https://github.com/tercen/flowsom_operator"
+    },
+    {
+      "version": "0.1.2",
+      "url": "https://github.com/tercen/fraction_above_operator"
     },
     {
       "version": "0.1.0",
@@ -634,6 +617,10 @@
       "url": "https://github.com/tercen/read_fasta_operator"
     },
     {
+      "version": "3.0.1",
+      "url": "https://github.com/tercen/read_fcs_operator"
+    },
+    {
       "version": "1.1.0",
       "url": "https://github.com/tercen/read_gmt_operator"
     },
@@ -740,6 +727,10 @@
     {
       "version": "0.0.4",
       "url": "https://github.com/tercen/tukey_hsd_operator"
+    },
+    {
+      "version": "2.0.0",
+      "url": "https://github.com/tercen/umap_operator"
     },
     {
       "version": "0.1.2",
