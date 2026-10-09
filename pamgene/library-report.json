@@ -4,19 +4,19 @@
       "version": "0.0.8",
       "url": "https://github.com/pamgene/Limma_app",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.0.6",
       "url": "https://github.com/pamgene/QC_STK_LOD_app",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 1
+      "retry": 2
     },
     {
       "version": "0.0.4",
       "url": "https://github.com/pamgene/pca_flutter_operator",
       "error": "bad.operator.kind -- pamgene/pca_flutter_operator 0.0.4 -- kind \"\"",
-      "retry": 1
+      "retry": 2
     }
   ],
   "notest_documents": [
