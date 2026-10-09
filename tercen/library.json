@@ -157,7 +157,7 @@
       "url": "https://github.com/tercen/flowjo_export_operator"
     },
     {
-      "version": "2.0.0",
+      "version": "2.1.0",
       "url": "https://github.com/tercen/flowsom_operator"
     },
     {
@@ -171,6 +171,10 @@
     {
       "version": "0.3.0",
       "url": "https://github.com/tercen/gmm_operator"
+    },
+    {
+      "version": "0.1.6",
+      "url": "https://github.com/tercen/gmm_threshold_operator"
     },
     {
       "version": "1.2.0",
@@ -423,6 +427,10 @@
     {
       "version": "0.12.2",
       "url": "https://github.com/tercen/scale_operator"
+    },
+    {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/scatter_matrix_operator"
     },
     {
       "version": "0.9.1",
