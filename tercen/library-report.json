@@ -1,5 +1,18 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "0.2.14",
+      "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator",
+      "error": "ServiceError({statusCode: 404, error: Operator.list.not.found.d833ad6c-6cda-4f02-9c0e-ef6cac345751, reason: Operator : not found})",
+      "retry": 0
+    },
+    {
+      "version": "0.4.4",
+      "url": "https://github.com/tercen/pamsoft_grid_rust_operator",
+      "error": "ServiceError({statusCode: 404, error: Operator.list.not.found.929d4d03-8fd3-4091-a3c4-65ebc8f785e5, reason: Operator : not found})",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.12.0",
@@ -16,12 +29,6 @@
     {
       "version": "0.2.0",
       "url": "https://github.com/tercen/ggrs_plot_operator",
-      "error": "notest",
-      "retry": 0
-    },
-    {
-      "version": "0.2.13",
-      "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator",
       "error": "notest",
       "retry": 0
     },
@@ -409,8 +416,12 @@
       "url": "https://github.com/tercen/flowjo_export_operator"
     },
     {
-      "version": "2.1.0",
+      "version": "2.2.1",
       "url": "https://github.com/tercen/flowsom_operator"
+    },
+    {
+      "version": "1.1.0",
+      "url": "https://github.com/tercen/flowsom_tree_operator"
     },
     {
       "version": "0.1.2",
