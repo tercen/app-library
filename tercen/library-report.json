@@ -4,13 +4,13 @@
       "version": "0.2.14",
       "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator",
       "error": "ServiceError({statusCode: 404, error: Operator.list.not.found.d833ad6c-6cda-4f02-9c0e-ef6cac345751, reason: Operator : not found})",
-      "retry": 0
+      "retry": 1
     },
     {
       "version": "0.4.4",
       "url": "https://github.com/tercen/pamsoft_grid_rust_operator",
       "error": "ServiceError({statusCode: 404, error: Operator.list.not.found.929d4d03-8fd3-4091-a3c4-65ebc8f785e5, reason: Operator : not found})",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
