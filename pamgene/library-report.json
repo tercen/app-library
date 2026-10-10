@@ -4,19 +4,25 @@
       "version": "0.0.8",
       "url": "https://github.com/pamgene/Limma_app",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 1
-    },
-    {
-      "version": "0.0.6",
-      "url": "https://github.com/pamgene/QC_STK_LOD_app",
-      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
       "retry": 2
     },
     {
-      "version": "0.0.4",
-      "url": "https://github.com/pamgene/pca_flutter_operator",
-      "error": "bad.operator.kind -- pamgene/pca_flutter_operator 0.0.4 -- kind \"\"",
-      "retry": 2
+      "version": "0.0.7",
+      "url": "https://github.com/pamgene/STK_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.5 not found in https://github.com/pamgene/cs_uka_operator})",
+      "retry": 0
+    },
+    {
+      "version": "0.2.14",
+      "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator",
+      "error": "ServiceError({statusCode: 404, error: Operator.list.not.found.d833ad6c-6cda-4f02-9c0e-ef6cac345751, reason: Operator : not found})",
+      "retry": 0
+    },
+    {
+      "version": "0.4.4",
+      "url": "https://github.com/tercen/pamsoft_grid_rust_operator",
+      "error": "ServiceError({statusCode: 404, error: Operator.list.not.found.929d4d03-8fd3-4091-a3c4-65ebc8f785e5, reason: Operator : not found})",
+      "retry": 0
     }
   ],
   "notest_documents": [
@@ -59,12 +65,6 @@
     {
       "version": "0.2.0",
       "url": "https://github.com/tercen/ggrs_plot_operator",
-      "error": "notest",
-      "retry": 0
-    },
-    {
-      "version": "0.2.13",
-      "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator",
       "error": "notest",
       "retry": 0
     },
@@ -218,6 +218,12 @@
       "retry": 2
     },
     {
+      "version": "0.0.6",
+      "url": "https://github.com/pamgene/QC_STK_LOD_app",
+      "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
+      "retry": 2
+    },
+    {
       "version": "0.3.3",
       "url": "https://github.com/pamgene/STK_C1T1C2T2_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
@@ -227,12 +233,6 @@
       "version": "0.3.3",
       "url": "https://github.com/pamgene/STK_CT1T2T3_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.6",
-      "url": "https://github.com/pamgene/STK_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.2 not found in https://github.com/tercen/pca_flutter_operator})",
       "retry": 2
     },
     {
@@ -293,6 +293,12 @@
       "version": "0.0.8",
       "url": "https://github.com/pamgene/pamsoft_grid_flutter_operator",
       "error": "bad.operator.kind -- pamgene/pamsoft_grid_flutter_operator 0.0.8 -- kind \"\"",
+      "retry": 2
+    },
+    {
+      "version": "0.0.4",
+      "url": "https://github.com/pamgene/pca_flutter_operator",
+      "error": "bad.operator.kind -- pamgene/pca_flutter_operator 0.0.4 -- kind \"\"",
       "retry": 2
     },
     {
@@ -788,8 +794,12 @@
       "url": "https://github.com/tercen/flowjo_export_operator"
     },
     {
-      "version": "2.1.0",
+      "version": "2.2.1",
       "url": "https://github.com/tercen/flowsom_operator"
+    },
+    {
+      "version": "1.1.0",
+      "url": "https://github.com/tercen/flowsom_tree_operator"
     },
     {
       "version": "0.1.2",
