@@ -1,5 +1,12 @@
 {
-  "failed_documents": [],
+  "failed_documents": [
+    {
+      "version": "0.0.7",
+      "url": "https://github.com/pamgene/PTK_template",
+      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.5 not found in https://github.com/pamgene/cs_uka_operator})",
+      "retry": 0
+    }
+  ],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -110,6 +117,8 @@
     "https://github.com/pamgene/gsea_operator",
     "https://github.com/pamgene/mediqr_scaling_app",
     "https://github.com/pamgene/non_standard_apps_template",
+    "https://github.com/pamgene/pamsoft_grid_qt_rust_operator",
+    "https://github.com/pamgene/pamsoft_grid_rust_operator",
     "https://github.com/pamgene/pearson_operator",
     "https://github.com/pamgene/ps12_image_overview_operator",
     "https://github.com/pamgene/uka_limma_operator",
@@ -190,12 +199,6 @@
       "version": "0.3.3",
       "url": "https://github.com/pamgene/PTK_CT1T2T3_template",
       "error": "ServiceError({statusCode: -142, error: operator.run.test.not.found, reason: TEST -- test not found.})",
-      "retry": 2
-    },
-    {
-      "version": "0.0.6",
-      "url": "https://github.com/pamgene/PTK_template",
-      "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.2 not found in https://github.com/tercen/pca_flutter_operator})",
       "retry": 2
     },
     {
@@ -761,7 +764,7 @@
       "url": "https://github.com/tercen/fast_tSNE_operator"
     },
     {
-      "version": "0.2.0",
+      "version": "1.0.0",
       "url": "https://github.com/tercen/faust_operator"
     },
     {
