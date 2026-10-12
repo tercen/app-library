@@ -4,7 +4,7 @@
       "version": "0.0.7",
       "url": "https://github.com/pamgene/PTK_template",
       "error": "ServiceError({statusCode: 404, error: release.not.found, reason: Release for tagName 0.0.5 not found in https://github.com/pamgene/cs_uka_operator})",
-      "retry": 0
+      "retry": 1
     }
   ],
   "notest_documents": [
@@ -117,8 +117,6 @@
     "https://github.com/pamgene/gsea_operator",
     "https://github.com/pamgene/mediqr_scaling_app",
     "https://github.com/pamgene/non_standard_apps_template",
-    "https://github.com/pamgene/pamsoft_grid_qt_rust_operator",
-    "https://github.com/pamgene/pamsoft_grid_rust_operator",
     "https://github.com/pamgene/pearson_operator",
     "https://github.com/pamgene/ps12_image_overview_operator",
     "https://github.com/pamgene/uka_limma_operator",
@@ -582,6 +580,14 @@
     {
       "version": "1.4.2",
       "url": "https://github.com/pamgene/pamsoft_grid_qt_operator"
+    },
+    {
+      "version": "0.2.15",
+      "url": "https://github.com/pamgene/pamsoft_grid_qt_rust_operator"
+    },
+    {
+      "version": "0.4.5",
+      "url": "https://github.com/pamgene/pamsoft_grid_rust_operator"
     },
     {
       "version": "1.2.2",
