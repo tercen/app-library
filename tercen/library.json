@@ -81,6 +81,10 @@
       "url": "https://github.com/tercen/correlation_operator"
     },
     {
+      "version": "0.1.0",
+      "url": "https://github.com/tercen/lin_ccc_operator"
+    },
+    {
       "version": "1.1.1",
       "url": "https://github.com/tercen/count_operator"
     },
