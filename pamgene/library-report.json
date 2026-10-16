@@ -798,7 +798,7 @@
       "url": "https://github.com/tercen/flowjo_export_operator"
     },
     {
-      "version": "2.2.1",
+      "version": "2.2.2",
       "url": "https://github.com/tercen/flowsom_operator"
     },
     {
@@ -860,6 +860,10 @@
     {
       "version": "0.1.0",
       "url": "https://github.com/tercen/levene_test_operator"
+    },
+    {
+      "version": "0.1.1",
+      "url": "https://github.com/tercen/lin_ccc_operator"
     },
     {
       "version": "1.1.0",
@@ -1110,7 +1114,7 @@
       "url": "https://github.com/tercen/tukey_hsd_operator"
     },
     {
-      "version": "2.0.0",
+      "version": "2.1.0",
       "url": "https://github.com/tercen/umap_operator"
     },
     {
