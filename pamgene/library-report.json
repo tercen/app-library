@@ -110,7 +110,6 @@
     "https://github.com/pamgene/gsea_operator",
     "https://github.com/pamgene/mediqr_scaling_app",
     "https://github.com/pamgene/non_standard_apps_template",
-    "https://github.com/pamgene/pamsoft_grid_qt_rust_operator",
     "https://github.com/pamgene/pearson_operator",
     "https://github.com/pamgene/ps12_image_overview_operator",
     "https://github.com/pamgene/uka_limma_operator",
@@ -580,6 +579,10 @@
     {
       "version": "1.4.2",
       "url": "https://github.com/pamgene/pamsoft_grid_qt_operator"
+    },
+    {
+      "version": "0.2.16",
+      "url": "https://github.com/pamgene/pamsoft_grid_qt_rust_operator"
     },
     {
       "version": "0.4.5",
