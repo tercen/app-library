@@ -1,12 +1,5 @@
 {
-  "failed_documents": [
-    {
-      "version": "",
-      "url": "https://github.com/tercen/manual_gating_template",
-      "error": "GitHub Error: FormatException: Unexpected end of input (at character 1)\n\n^\n",
-      "retry": 0
-    }
-  ],
+  "failed_documents": [],
   "notest_documents": [
     {
       "version": "0.0.2",
@@ -152,6 +145,7 @@
     "https://github.com/tercen/logfoldchange_operator",
     "https://github.com/tercen/mahalanobis_d2_operator",
     "https://github.com/tercen/manova_operator",
+    "https://github.com/tercen/manual_gating_template",
     "https://github.com/tercen/maxquant_proteingroup_template",
     "https://github.com/tercen/nonlinear_regression2_operator",
     "https://github.com/tercen/normalise_cytof_operator",
